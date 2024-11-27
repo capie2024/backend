@@ -4,7 +4,6 @@ const dotenv = require("dotenv");
 const bcrypt = require("bcrypt");
 const { PrismaClient } = require('@prisma/client'); // 資料庫
 const prisma = new PrismaClient(); // 建立 Prisma Client
-const z = require('zod');
 const cors = require('cors');
 
 const app = express();
@@ -15,30 +14,9 @@ app.use(express.json());
 dotenv.config();
 const SECRET_KEY = process.env.SECRET_KEY;
 
-const registerSchema = z.object({
-    email: z.string().email('請輸入有效的 email 地址'),
-    password: z.string().min(6,'密碼至少需要6個字元'),
-})
-
-//驗證註冊中間件
-const validateRegister = (req, res, next) => {
-    try {
-        registerSchema.parse(req.body)
-        next()
-        } catch (error) {
-        const formattedErrors = error.errors.map((err) => ({
-            field: err.path.join('.'),
-            message: err.message,
-        }))
-        res.status(400).json({
-            errors: '驗證錯誤',
-            details: formattedErrors,
-        })
-        }
-    }
 
 // 註冊
-    app.post("/register", validateRegister, async (req, res) => {
+    app.post("/register", async (req, res) => {
         const { email, password, username = "User" } = req.body;
     
         try {
