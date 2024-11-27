@@ -38,29 +38,35 @@ const validateRegister = (req, res, next) => {
     }
 
 // 註冊
-app.post('/register', validateRegister, async (req, res) => {
-    try {
-        const { username, email, password } = req.body
-        const hashedPassword = await bcrypt.hash(password, 10) // 密碼加密處理
-
+    app.post("/register", validateRegister, async (req, res) => {
+        const { email, password, username = "User" } = req.body;
+    
+        try {
+        const existingUser = await prisma.users_test.findUnique({
+            where: { email },
+        });
+    
+        if (existingUser) {
+            // Email 已存在，返回 409 狀態碼和訊息
+            return res.status(409).json({ message: "Email 已被註冊過" });
+        }
+    
+        const hashedPassword = await bcrypt.hash(password, 10);
         await prisma.users_test.create({
             data: {
-                username,
-                email,
-                password: hashedPassword
-            }
-        })
-
-        res.status(201).json({ message: '註冊成功' })
-    } catch(err) {
-        console.error('註冊失敗，錯誤訊息:', err);
-        if(err.code === 'P2002') {
-            return res.status(409).json({ message: '使用者已存在' })
+            email,
+            password: hashedPassword,
+            username,
+            },
+        });
+    
+        // 成功註冊，返回 200 狀態碼
+        res.status(200).json({ message: "註冊成功" });
+        } catch (error) {
+        console.error("後端錯誤：", error); // 錯誤日誌
+        res.status(500).json({ message: "伺服器錯誤" }); // 返回伺服器錯誤訊息
         }
-
-        res.status(500).json({ message: '伺服器錯誤' })
-    }
-})
+    });
 
 const authenticateToken = (req, res, next) => {
     const authHeader = req.headers['authorization']
