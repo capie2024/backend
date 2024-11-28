@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "Woo/SE19-001",
+    "title": "始まりのうーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "Woo_SE19_001",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/A4MsbwHVIVUt9DOdSU1WsmquFDNs5w2V_KD1FWmAZDc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwMS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-002",
+    "title": "終わりの始まり うーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2) このカードを【レスト】する］ あなたのアンコールステップの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "Woo_SE19_002",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iCB8oLZ5Fe9XYTEAPBqiXRvaLD5MuzDbgZTU5o9RqTI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwMi5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-003",
+    "title": "Otawamure うーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "Woo_SE19_003",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rLupy0v7Epey98ZQ3bDvyK6bkyYr2J3qzQUEAIIMzCY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwMy5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-004",
+    "title": "三矢の教え うーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 他のあなたの《謎》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラでないなら、そのターン中、このカードのパワーを－2000。（公開したカードは元に戻す）",
+    "scraper": "Woo_SE19_004",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PP3nZp_2VLtuNjP5jOGAGJONd-WGsVpmkGFGIUI9kx8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwNC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-005",
+    "title": "終焉の１クリック うーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+    "scraper": "Woo_SE19_005",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "ネット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DzSMWb-0-7prJPsSSeLKYJY_Kmhj-kC2ELDxqAifSvw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwNS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-006",
+    "title": "一人前の男の証 うーさー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。\n【起】［このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚ストック置場に置く。",
+    "scraper": "Woo_SE19_006",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hum5pEzzvKU2XuqrQTyKOOQ84kDm1SjYSPUX3kT80pM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwNi5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-007",
+    "title": "真っ白に燃え尽きたうーさー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードをストック置場に置く。（公開したカードは元に戻す）",
+    "scraper": "Woo_SE19_007",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "血"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NItT87H4GeXMf41a1OcG0x4zUD8dHm1KgzTUp2fFNuk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwNy5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-008",
+    "title": "氷の島のうーさー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「クリスマス中止のお知らせ」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "Woo_SE19_008",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "氷"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "Woo/SE19-016"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aK0kXfa6sQoC6p1TO2nCenj-Ge1AQxZaWhWPldOPupI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwOC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-009",
+    "title": "４月２日のうーさー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "Woo_SE19_009",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lUcA_XcEUCM1SY6aqOng86vXxUmVHoSmiG3blh0qpLE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAwOS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-010",
+    "title": "御内裏様 うーさー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "Woo_SE19_010",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "人形"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/V-tQ3Es_5mAdJ99SbQuz9rubfWIya8xb0mmtyZOGWRk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxMC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-011",
+    "title": "ウーサー・プリンシパル・キング・オブ・ダークネス",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《謎》のキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「皇帝陛下 うーさー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "Woo_SE19_011",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "Woo/SE19-013"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qlakgKcPgdw2q1FklQfxzrnOPIPRjHduAQL52yjKyDQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxMS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-012",
+    "title": "召喚されし勇者 うーさー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 9000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。",
+    "scraper": "Woo_SE19_012",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "へたれ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6fg-krAuSg4GGvjsdnMWvHCsLNSJTbl15FQe1CIgoTc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxMi5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-013",
+    "title": "皇帝陛下 うーさー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "Woo_SE19_013",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "Woo/SE19-011"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6eIm4T21l1wFvML6xX03gSZGyvcpv60tsSB0bLUzn10/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxMy5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-014",
+    "title": "世界を滅ぼしたい うーさー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋12000し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手にＸダメージを与えてよい。Ｘはこのカードのソウルに等しい。』（ダメージキャンセルは発生する）",
+    "scraper": "Woo_SE19_014",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "覚醒"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xp8-aZxq1v7eyUcxTT5bArqQo3q5fHXqnj_JlUOHFoY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxNC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-015",
+    "title": "三娘の礼",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《謎》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。このカードをクロック置場に置く。",
+    "scraper": "Woo_SE19_015",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Wv4CWp9GONLHmbMFBCTEIdL_32Wmo1MghYvvP7L34Ms/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxNS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-016",
+    "title": "クリスマス中止のお知らせ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "Woo_SE19_016",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "Woo/SE19-008"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UrhbfcNF0l4CzNuQuucHjRRWDpQ_YShWjDT5xdjz7V4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxNi5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-017",
+    "title": "あなたは神を信じますか？",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "Woo_SE19_017",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VhuxA1__tAa4MYKjlsMZDDD0Skcwf9RMBHlRgAJq12k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxNy5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-018",
+    "title": "第一部・完",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "Woo_SE19_018",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xOiQs9TLZW57aSu5vScNkZcO5xGHzy-98Thd-8Ekckk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5XzAxOC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J01",
+    "title": "取り調べ うーさー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "WR",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたは相手に手札のクライマックスの枚数を聞く。相手の答えた枚数が嘘だと思ったなら、あなたはコストを払ってよい。そうしたら、相手の手札を公開し、それが嘘だったなら、あなたは相手の山札の上から1枚を、レベル置場に置く。\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J01",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "警察"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oSEpGqBm_UGO8OZ_QUo8VD8sNbBxRrwCfRWdpKFZ-x8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owMS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J02",
+    "title": "旅に出ます うーさー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 10000,
+    "rare": "WR",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは旅に出る。相手が探しに来たなら、すぐに戻る。そうでないなら、しばらくして戻ってくる。（お買い物やお手洗いに行ってきてもよい）\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J02",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "手紙"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-kRlph0oWZNYdqXYG92X90G0mY6PhOejFEj4sF8B2P0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owMi5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J03",
+    "title": "渾身の土下座 うーさー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "WR",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたの受けたダメージがキャンセルされなかった時、あなたが相手にお願いして相手が認めたなら、かわりにそのダメージをキャンセルし、ゲームの終わりに、あなたは相手の肩を揉む。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J03",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "土下座"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/txxhxsF-jM8Ta_8eBJ8WmmPM-afPl2uURBqCgsLA1Uk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owMy5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J04",
+    "title": "お買いもの うーさー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "WR",
+    "side": "s",
+    "say": "-",
+    "effect": "【起】［(2) お店で1パック購入する］ あなたはそのパックの中のキャラを1枚選び、舞台の好きな枠に置く。\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J04",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/54NGoGDiaRvkUGI77pb1n0GUu7P_G6DJU_sgtOGA0VY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owNC5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J05",
+    "title": "ホワイトデーの贈り物 うーさー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 14,
+    "color": "yellow",
+    "soul": 4,
+    "attack": 20000,
+    "rare": "WR",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードの正面のキャラのソウルを－1。\n【自】 このカードがプレイ以外の方法で舞台に置かれた時、このカードを思い出にする。\n【自】［手札を5枚控え室に置く］ このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを相手のレベル置場に置く。\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J05",
+    "productName": "【スペシャルセット】うーさーのその日暮らし",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "愛"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oTLrB5KQ1DCl1X3-rSpg-_p6nZjyHbeAtOs2ppgxUTU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owNS5wbmc.png"
+  },
+  {
+    "id": "Woo/SE19-J06",
+    "title": "すべては夢の中 うーさー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのレベルが4になる時、あなたの思い出置場に「すべては夢の中 うーさー」がなく、前列の中央の枠にこのカードがいるなら、かわりにこのゲームを終了し、このカードを思い出にして新たにゲームを始める。\n<font color=\"crimson\">※このカードは公式・公認大会では使用できません。</font>",
+    "scraper": "Woo_SE19_J06",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "Woo",
+    "feature": [
+      "謎",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T06:04:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HXliVzFkunmk2llc5M-pf2cOFd6r7lj5BaJmbgOYXNc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1dvb19TRTE5X0owNi5wbmc.png"
+  }
+]

@@ -1,0 +1,7504 @@
+[
+  {
+    "id": "KMN/W51-001",
+    "title": "なんでも気になる サーバル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "FR",
+    "side": "w",
+    "say": "うみゃー！みゃみゃみゃみゃみゃみゃ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×1000に等しい。\n【自】【CXコンボ】 記憶 ［(2) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。あなたの前列の中央の枠のキャラがアタックした時、クライマックス置場に「元の姿へ……」があり、あなたの思い出置場の《フレンズ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "scraper": "KMN_W51_001",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-001SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-034",
+      "KMN/W51-011"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ghds8ElTLOFaGfNK_Zml_7GmgDJ5Y-4h6C2GZPeWuEM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-001SP",
+    "title": "なんでも気になる サーバル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×1000に等しい。\n【自】【CXコンボ】 記憶 ［(2) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。あなたの前列の中央の枠のキャラがアタックした時、クライマックス置場に「元の姿へ……」があり、あなたの思い出置場の《フレンズ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "scraper": "KMN_W51_001SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-001"
+    ],
+    "relation": [
+      "KMN/W51-034",
+      "KMN/W51-011"
+    ],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UkZyV-phOLF5KJiIZrHxzM6ropXLY4FOEEMGyeK1E_A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAxU1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-002",
+    "title": "アイデアいっぱい かばんちゃん",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "FR",
+    "side": "w",
+    "say": "なんの動物かわからないんですが、かばんです",
+    "effect": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置き、その山札をシャッフルする。\n【起】［手札を1枚控え室に置く］ あなたはこのカードの下のマーカーを1枚手札に戻す。",
+    "scraper": "KMN_W51_002",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-002SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gE76aQ5-9reRSwvU3RVrzSOEDVDw1_uz8px80JUWpvs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-002SP",
+    "title": "アイデアいっぱい かばんちゃん",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置き、その山札をシャッフルする。\n【起】［手札を1枚控え室に置く］ あなたはこのカードの下のマーカーを1枚手札に戻す。",
+    "scraper": "KMN_W51_002SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-002"
+    ],
+    "relation": [],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jW4emff4KuhZToeJvDIA0DlDXpNS1kR6SqXrC18k5fE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAyU1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-003",
+    "title": "“ガイド”ハ マカセテ ラッキービースト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "FR",
+    "side": "w",
+    "say": "ソレジャア「ガイド」ヲ開始スルヨ",
+    "effect": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+    "scraper": "KMN_W51_003",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-003SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_EwnGEJLACzs_KMbGTdGefxOOv2X3eVsHsLH36x9wOI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-003SP",
+    "title": "“ガイド”ハ マカセテ ラッキービースト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+    "scraper": "KMN_W51_003SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-003"
+    ],
+    "relation": [],
+    "price": {
+      "number": 3480,
+      "string": "3480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Md9ly-XHbkJDAiZOOHy3OUSQrlUKxizkZ8wFmrI5Zs8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDAzU1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-004",
+    "title": "セルリアンハンター キンシコウ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "FR",
+    "side": "w",
+    "say": "セルリアンは、ハンターに任せてくださいね",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+    "scraper": "KMN_W51_004",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-004SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-018"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/isAQjwHgXmqmQz2fmxfZ1-PGlwrF4DunNWgnsncAXVA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-004SP",
+    "title": "セルリアンハンター キンシコウ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+    "scraper": "KMN_W51_004SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-004"
+    ],
+    "relation": [
+      "KMN/W51-018"
+    ],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ldIHMiHDUl-2BMkn3uKdL7Pq4-fjdGZId1Dc6HtWKW4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA0U1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-005",
+    "title": "おめでとうの会 かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "w",
+    "say": "ナワバリはまだ決まってないですが、これから探そうと思います",
+    "effect": "【永】 記憶 思い出置場にこのカードがあるなら、すべてのプレイヤーはそれぞれの相手のキャラの【自】の効果による1以下のダメージを受けない。\n【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、あなたのレベルが2以下なら、このカードを思い出にする。",
+    "scraper": "KMN_W51_005",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-4jolQnHMlPclfAjmrpefsrth8XT1VKGhAEgYq_Pu7k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-006",
+    "title": "うー！がおー！ サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "RR",
+    "side": "w",
+    "say": "うー！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラか「紙ヒコーキ」なら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+    "scraper": "KMN_W51_006",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-006R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-033"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HkgSmXgwjRthfw1EMY2WYIy83QcuKpvfb4C0e0g1kxQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-006R",
+    "title": "うー！がおー！ サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "がおー！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラか「紙ヒコーキ」なら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+    "scraper": "KMN_W51_006R",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-006"
+    ],
+    "relation": [
+      "KMN/W51-033"
+    ],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/osyrEKF76ET4YbwYqQff1AycbkOH-fuKpVMYWdW8KZE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA2Ui5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-007",
+    "title": "マイペース フェネック",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "まぁまぁ、気軽に行こーよー",
+    "effect": "【永】 あなたのターン中、他のあなたの「いつも全力 アライグマ」すべてに、パワーを＋2000。\n【自】 絆／「いつも全力 アライグマ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いつも全力 アライグマ」を1枚選び、手札に戻す）",
+    "scraper": "KMN_W51_007",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-007X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-040",
+      "KMN/W51-040X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kf-SFN398b107M8BAnlDHMIpKyAbCKW9JGLH5sP_t4M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-007X",
+    "title": "マイペース フェネック",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのターン中、他のあなたの「いつも全力 アライグマ」すべてに、パワーを＋2000。\n【自】 絆／「いつも全力 アライグマ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いつも全力 アライグマ」を1枚選び、手札に戻す）",
+    "scraper": "KMN_W51_007X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-007"
+    ],
+    "relation": [
+      "KMN/W51-040",
+      "KMN/W51-040X"
+    ],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wkiJZq_fPQ-h3vaHQxx9XTYQPr3s3VWcMJeHM1M3scA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA3WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-008",
+    "title": "ドジっ娘健在 サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "w",
+    "say": "かばんちゃん「サーバルちゃん!?」",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "scraper": "KMN_W51_008",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BTd3r2r9MOSFoUwWlOVBDuc09N6DSsD7YbLpnxhJqFA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-009",
+    "title": "フレンズとこんにちは サーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "それに派手だったねぇ～",
+    "effect": "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】［このカードを控え室に置く］ 他のあなたのカード名に「サーバル」か「かばん」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "scraper": "KMN_W51_009",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UstSGcqHeQBOHkMdl-GnAS_UHGGJtGFLnQA58xfDxYY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDA5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-010",
+    "title": "さばくツアー中 かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "ラッキービースト「スナネコノ体ハ……」",
+    "effect": "【永】 他のあなたの、《フレンズ》か《メカ》のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フレンズ》か《メカ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_010",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CSa0_BjdmH4b3vBRfvtt7ldqzzOsbvpuDEzFCPJ4ovo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDEwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-011",
+    "title": "ガイドマップ発見！ かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「紙ヒコーキ」を1枚選び、手札に戻す。\n【自】 絆／「なんでも気になる サーバル」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「なんでも気になる サーバル」を1枚選び、手札に戻す）",
+    "scraper": "KMN_W51_011",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-001",
+      "KMN/W51-001SP",
+      "KMN/W51-033"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OxtIJD2SVQ-AuLHBHe7uyuU59m0dRHT_GXNAkCSMK_s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDExLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-012",
+    "title": "お手伝い サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\n【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_012",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7HqSWDILmxeod9saQr7H3pR3ksRsMPgDGPVGh320uxU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDEyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-013",
+    "title": "大口勝負 カバ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "わたしに大口勝負を挑むなんて、良い度胸してますわね！",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《フレンズ》のキャラなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×1000に等しい。",
+    "scraper": "KMN_W51_013",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Og5sFE00hIU74H6SyywVGWEbfqHCwbyLT5OKO2PlPMg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDEzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-014",
+    "title": "興味津々？ スナネコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "ラッキービースト「熱シヤスク冷メヤスイト言ワレテイルヨ」",
+    "effect": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「興味津々？ スナネコ」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "KMN_W51_014",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/le8B2R68c_tXPAntn1bj1-6oPp_uw6P6FprOVyiCbIo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-015",
+    "title": "救出作戦 サーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】［(3) 手札の、「紙ヒコーキ」と「かまどの火」を1枚ずつ控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚まで選び、【レスト】し、自分の控え室のカード名に「かばん」を含むキャラを1枚まで選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+    "scraper": "KMN_W51_015",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-033",
+      "KMN/W51-055"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oZzbGyT36x8qI_c34ix6_SzbadEwTlxclF1QMuhB-SY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-016",
+    "title": "やる気いっぱい サーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "w",
+    "say": "よーし！いっくよー!!",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×500に等しい。\n【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_016",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DCcLjibfXQep2tfe1pzBadU81tLCXiUp-xMIKkOispk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-017",
+    "title": "じゃぱり図書館へ かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "w",
+    "say": "ぐねぐねしてるね……",
+    "effect": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「まだ見ぬ先へ」があるなら、あなたは自分の山札を上から2枚まで見て、レベル1以上のカードを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+    "scraper": "KMN_W51_017",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-035"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-GfArfiQ-Ox6IN7A1C6y3tkZ4Yghehoui7DM596Zdlc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-018",
+    "title": "セルリアンハンター ヒグマ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "U",
+    "side": "w",
+    "say": "もう一回りでかいのも倒したことあるぞ",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「セルリアンハンター リカオン」を1枚までと「セルリアンハンター キンシコウ」を1枚まで選び、このカードの下にマーカーとして好きな順番で裏向きに置く。\n【自】【CXコンボ】 あなたのクライマックス置場に「ハンターの一撃」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_018",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-004",
+      "KMN/W51-004SP",
+      "KMN/W51-025",
+      "KMN/W51-036"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ec5bYBXeF-HX1r0GwEJkcQrPqLJesrepiAZoOFxN-jU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-019",
+    "title": "ヒジョウジタイ ラッキービースト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "U",
+    "side": "w",
+    "say": "オ客様ノ安全ヲ守ルノガ、パークガイドロボットノ僕ノ務メデス",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+    "scraper": "KMN_W51_019",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "メカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZBFdcvdHfomxlPny9Kte4Nur_ct4OwI8lA0B6Fl6y2Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDE5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-020",
+    "title": "食べちゃうぞー！ サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "うー、がおー！",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、ソウルを＋1。\n【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「旅立ちの日に」があるなら、あなたは自分の山札を上から4枚まで見て、《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_020",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-037"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DowUuy1Pkj8uOrq5t_2iMUuERsLn40BrUKJ_T5cdSeg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDIwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-021",
+    "title": "運転中 サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "かばん「大丈夫？サーバルちゃん……」",
+    "effect": "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+    "scraper": "KMN_W51_021",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MQTE70V-3Apg6_aWVAfEqijzz-7bTojshPIYo1r5MVE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDIxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-022",
+    "title": "外の空気の匂いがわかる ツチノコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "おまえの鼻は飾りかー！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "KMN_W51_022",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HYdgJhDkrIzGjVa2LJn0ZTi42yOkOi19lxppUnueIL4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDIyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-023",
+    "title": "フリーズ ラッキービースト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "w",
+    "say": "マ、ママママ、マカセ、マママ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
+    "scraper": "KMN_W51_023",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Js8TQxBg-PTM9h23KxaKtFc6MaksGSka2m6fQGY-cmM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDIzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-024",
+    "title": "突然の涙 サーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "早起きしたからかな？",
+    "effect": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "KMN_W51_024",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CQyhkl6JiqxT81cQH35L3h5sujTeQ8nhs28s4CZGILk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-025",
+    "title": "セルリアンハンター リカオン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "終わらないですよ、これ",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラが2枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "KMN_W51_025",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-018"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/l7wyJ_rq9YE15JQ8_fGAvNkVyZE-d1_PLX5botlGaAQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-026",
+    "title": "うー！がおー！ フェネック",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "w",
+    "say": "がおー",
+    "effect": "-",
+    "scraper": "KMN_W51_026",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-048"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Z5jaQubwnuNNKjF8yqUufimU_s2tOY78gXtP8cO9nQo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-027",
+    "title": "活躍？ サーバル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "みゃみゃみゃみゃみゃみゃみゃみゃみゃ！",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《フレンズ》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "KMN_W51_027",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UmqJSzmxI1SLdGhDxtln2XHrqqQ0oalr6XTLCCeyYaI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-028",
+    "title": "追跡開始！ フェネック",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "C",
+    "side": "w",
+    "say": "はーいよー",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラすべてに、パワーを＋1000。\n【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フレンズ》のキャラの枚数×500に等しい。",
+    "scraper": "KMN_W51_028",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y2pLTt58NP_jqaw_ap_k9vhWQtNUVJ_kOcYSxf3o7yQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-029",
+    "title": "今までのこと かばんちゃん",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "ありがとう……元気で",
+    "effect": "【永】 記憶 あなたの思い出置場の、《フレンズ》か《メカ》のキャラが2枚以上なら、このカードのパワーを＋3000し、ソウルを＋1。",
+    "scraper": "KMN_W51_029",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UaIYZAE8xQGn3V9DpsCaFXBa_xezyQ3aCbY1vdgu-Bk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDI5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-030",
+    "title": "未確認生物 ツチノコ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "C",
+    "side": "w",
+    "say": "あいつ、絶滅していなかったのか",
+    "effect": "【永】 このカードは相手の効果に選ばれない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開し、そのターン中、このカードのソウルを＋Ｘ。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_030",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BaBc1SptwfcWpIhQHvsrSbC1jW49DBofnR9Zy8AGepc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDMwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-031",
+    "title": "耳がいいよ サーバル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "ぴくぴく…!?",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 アンコール ［手札の《フレンズ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_031",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mGxphWQEYxmb5RUbzzroUQ6IHLG96fDkz99XQX1PlFc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDMxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-032",
+    "title": "じゃぱりまん",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "ボス！二つもらうね！",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_032",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZnB1zCzkf5FafeagBtE-roFlf-_Fx2-b81waXrtmAeQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDMyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-033",
+    "title": "紙ヒコーキ",
+    "type": "イベント",
+    "level": 3,
+    "cost": 3,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "かばんちゃんはこんなにすっごい技を持ってるんだもん！",
+    "effect": "【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。",
+    "scraper": "KMN_W51_033",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-006",
+      "KMN/W51-006R",
+      "KMN/W51-011",
+      "KMN/W51-015"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nHotnYIr_O4NDkmmH9RvFblGNbCeX8HOXimj8TjzMD4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDMzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-034",
+    "title": "元の姿へ……",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KMN_W51_034",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-001",
+      "KMN/W51-001SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/unVrg9I4CymlwzKjDBIWG6quqX-3WElfWUiWR0NatKU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-035",
+    "title": "まだ見ぬ先へ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "ラッキーさん、島が見えてきたよ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "KMN_W51_035",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-017"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/puns3sxv-h_1kxcVsC6j6wGEMoaLmf3kiccI6lxVgRg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-036",
+    "title": "ハンターの一撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "うおおおおおおおおおおお！！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KMN_W51_036",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-018"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ilqv7HayDXcpfUM66Tu-JuMfJ106GfwP_IEPtDggRAw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-037",
+    "title": "旅立ちの日に",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "KMN_W51_037",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-020"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Nx3DAxrENzL1HOTdxmLaEtaruYFnWukRnM-9nCZryV8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-038",
+    "title": "遊びの天才 コツメカワウソ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "FR",
+    "side": "w",
+    "say": "わーい！たーのしーぃ！",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラなら、あなたは他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フレンズ》のキャラの枚数×1000に等しい。（公開したカードは元に戻す）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_038",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-038SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QwBAi186jEVCPVFDsT-YLKdhQYQH-Yn_ffvNAUbhgw8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-038SP",
+    "title": "遊びの天才 コツメカワウソ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラなら、あなたは他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フレンズ》のキャラの枚数×1000に等しい。（公開したカードは元に戻す）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_038SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-038"
+    ],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_U34mBCJHuMvKO1AB6eLeqUvVDoaVOBC1kTH42uBfG4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM4U1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-039",
+    "title": "ジャングル人生 エリマキキツネザル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "FR",
+    "side": "w",
+    "say": "ジャングルぐらしも楽じゃないよ！",
+    "effect": "【永】 他のあなたの後列の《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "KMN_W51_039",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-039SSP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_Qsi8JglcE4MWk5FL5MV7CRrUagRQc6a38XwqKnHMJ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-039SSP",
+    "title": "ジャングル人生 エリマキキツネザル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SSP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの後列の《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "KMN_W51_039SSP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-039"
+    ],
+    "relation": [],
+    "price": {
+      "number": 3480,
+      "string": "3480円",
+      "date": "2024-11-28T05:44:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hpqFKppIF-v7zMFHuQYWm_Fbp5b2N9VFfatVSPmwLC0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDM5U1NQLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-040",
+    "title": "いつも全力 アライグマ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "RR",
+    "side": "w",
+    "say": "アライさんにお任せなのだ！",
+    "effect": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「捕獲完了？」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置いてよい。』\n【自】［手札を1枚控え室に置く］ あなたの「虫眼鏡 かばんちゃん」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。",
+    "scraper": "KMN_W51_040",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-040X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-042",
+      "KMN/W51-057",
+      "KMN/W51-007",
+      "KMN/W51-007X"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Rbfzow-tKPxCAq4gagRqHV5MEgt8VQ69xCw6aV_rJuc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-040X",
+    "title": "いつも全力 アライグマ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「捕獲完了？」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置いてよい。』\n【自】［手札を1枚控え室に置く］ あなたの「虫眼鏡 かばんちゃん」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。",
+    "scraper": "KMN_W51_040X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-040"
+    ],
+    "relation": [
+      "KMN/W51-042",
+      "KMN/W51-057",
+      "KMN/W51-007",
+      "KMN/W51-007X"
+    ],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DzxUTX0oNwTHGloWH9sbOHNptKA8GlzOejWbemNaR1Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQwWC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-041",
+    "title": "この島の長 アフリカオオコノハズク＆ワシミミズク",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "w",
+    "say": "「驚かれなかったのです」「ここで、大体、みんな感動するのです……」",
+    "effect": "【永】 あなたのクロック置場に「虫眼鏡 かばんちゃん」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル以下のレベルの《フレンズ》のキャラを1枚まで選び、舞台の好きな枠に置く。\n【自】【CXコンボ】 あなたのクライマックス置場に「野生部分の解放」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《フレンズ》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_041",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-041R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-042",
+      "KMN/W51-058"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x2B8QSt5qSdg43KecNFGimuDNWDE_Ynm0t7AJLqqxFw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-041R",
+    "title": "この島の長 アフリカオオコノハズク＆ワシミミズク",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "「驚かれなかったのです」「ここで、大体、みんな感動するのです……」",
+    "effect": "【永】 あなたのクロック置場に「虫眼鏡 かばんちゃん」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル以下のレベルの《フレンズ》のキャラを1枚まで選び、舞台の好きな枠に置く。\n【自】【CXコンボ】 あなたのクライマックス置場に「野生部分の解放」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《フレンズ》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_041R",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-041"
+    ],
+    "relation": [
+      "KMN/W51-042",
+      "KMN/W51-058"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fj8uX7_r6X869JxD_lKSumAhhUAWP-CTUk53NSwSIhw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQxUi5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-042",
+    "title": "虫眼鏡 かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "これで、やってみようかと",
+    "effect": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「かまどの火」を1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "KMN_W51_042",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-055",
+      "KMN/W51-040",
+      "KMN/W51-040X",
+      "KMN/W51-041",
+      "KMN/W51-041R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wn_xFuT_gNHd3PJi5UmYr2IPvgSGvnCWK7CSQDmC6q8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-043",
+    "title": "枝をかじかじ アメリカビーバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "そういえば前の木のお礼、まだだっけ……",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラすべてに、パワーを＋500。\n【自】［(2)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_043",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pdaB6OCr26MPM1IrLRWHRYZEKDaU-J_Tw6BrTaLiCHc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-044",
+    "title": "うー！がおー！ アライグマ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "がおー！なのだ！",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置いてよい。』",
+    "scraper": "KMN_W51_044",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NevOeo0H0QngiR7G-Hb9ksILKrHRdhF-3BZt8pYn0KU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-045",
+    "title": "見守る ジャガー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "おお……",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《フレンズ》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "KMN_W51_045",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/axd6C5c3W0lWQc8Itzk_94G0Wi6zbQ74-3u4rtInU7Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-046",
+    "title": "ロッジのオーナー アリツカゲラ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "w",
+    "say": "ロッジの朝ごはんに追加したいです",
+    "effect": "【永】 応援 このカードの前のあなたの《フレンズ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の緑のキャラを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_046",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OTuERpA9kUQiNIXtCLhckdNqk-VpI7HagKSzohE5PbY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-047",
+    "title": "ホラー作家 タイリクオオカミ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "w",
+    "say": "……",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×500に等しい。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「フレンズ総攻撃」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラなら、あなたは相手に5ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_047",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-059"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Gc1RMBstKGpQDhADNdJlJ-Z5NQW20JXzOBt9VDQfdZ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-048",
+    "title": "ノンビリしてられない アライグマ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "じゃないのだ！",
+    "effect": "【永】 他のあなたの「うー！がおー！ フェネック」すべてに、パワーを＋1000。\n【永】 他のあなたの、黄かカード名に「アライグマ」を含むキャラすべてに、パワーを＋500。",
+    "scraper": "KMN_W51_048",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-026"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BWZdAeMfi--xc6YGCXnZLbZmFQyxExpgiluKOdCJsHQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-049",
+    "title": "博士の助手 ワシミミズク",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "我々、音を立てずに飛ぶなど朝飯前なのです",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "scraper": "KMN_W51_049",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GEbWRDxOpJ3SVbzCimZOkV1ExaMcXygqPXaMwAS2ENU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDQ5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-050",
+    "title": "迷探偵 アミメキリン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "ああっ……",
+    "effect": "【永】 他のあなたの「嘘か真か タイリクオオカミ」すべてに、パワーを＋2000。",
+    "scraper": "KMN_W51_050",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "探偵"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-051"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uKEmVS5-HCis4TnW7rr3nPiAWPQFmG0uyMVk5vIFCCE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDUwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-051",
+    "title": "嘘か真か タイリクオオカミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "セルリアンの中には高速で移動するものがいるらしいよ",
+    "effect": "-",
+    "scraper": "KMN_W51_051",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-050"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oam1FtYBXTVTHogK4jgguzyAMtprsD7IvHj3fB1VVPw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDUxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-052",
+    "title": "博士 アフリカオオコノハズク",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "ここまでたどり着いた子は初めてです。これは期待できるです",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、相手は0以下か1以上を選ぶ。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の選んだレベルのカードでないなら、あなたは相手のキャラを1枚選び、手札に戻してよい。（クライマックスのレベルは0として扱う）",
+    "scraper": "KMN_W51_052",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rQZ_thGObI7z2yyvk5Jj4A6G6LSY3AolecA-93xVwvI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDUyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-053",
+    "title": "すぐ行動派 オグロプレーリードッグ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "二十個くらい作ったんだけど",
+    "effect": "【永】 このカードの正面のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+    "scraper": "KMN_W51_053",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PXohwytf1i1UDGfS-4a_znlR1xBef6iwtwyk08FZAFA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDUzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-054",
+    "title": "お手伝い かばんちゃん",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "おー！",
+    "effect": "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "KMN_W51_054",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/O3yv-ECnsoJzx8y_sxzrAVUmOCN0Sbpe44-3kiVrPrE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-055",
+    "title": "かまどの火",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_055",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-015",
+      "KMN/W51-042"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UifwAWRB04gaO5j9W1Rm0HRzCvMipx7AFR98LxwdlGk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-056",
+    "title": "力をあわせてどっこいしょ",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "「「「んんっ、んんんん」」」",
+    "effect": "あなたの《フレンズ》のキャラが3枚以上なら、あなたは自分のクロック置場の《フレンズ》のキャラを1枚選び、手札に戻す。このカードを思い出にする。",
+    "scraper": "KMN_W51_056",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jNd8cL2HolJ3--3zuWVXt51H-FZ4S8Z63fAymjGKU28/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-057",
+    "title": "捕獲完了？",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "ぐぬぬ……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "KMN_W51_057",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-040",
+      "KMN/W51-040X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/M75hKOQVnWgc_8-xECYy2ZbsN17dSSgRfNvOUQxgUso/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-058",
+    "title": "野生部分の解放",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "我々、やることはやるですよ。この島の長なので",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "KMN_W51_058",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-041",
+      "KMN/W51-041R"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/09TZ3jm8-YQANVECvYbBvrDbUCuI2qDx0By9mCypG9Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-059",
+    "title": "フレンズ総攻撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "現実の方がホラー、だ、け、ど、も",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KMN_W51_059",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-047"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a_PYpMofPHSqZgnPfR2vSJHnMpGTmN3vgCZavLvrt_Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDU5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-060",
+    "title": "実は奥ゆかしい？ ハシビロコウ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 11000,
+    "rare": "FR",
+    "side": "w",
+    "say": "わたし、つい…じっと見ちゃうんだよね…",
+    "effect": "【永】 このカードは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。\n【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_060",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-060SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/L3MIDrzwS7YsGIvVpc_zVEN8JlLQH1P_iDWGrmEQUj0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-060SP",
+    "title": "実は奥ゆかしい？ ハシビロコウ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 11000,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 このカードは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。\n【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_060SP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-060"
+    ],
+    "relation": [],
+    "price": {
+      "number": 2480,
+      "string": "2480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/agOfdEC1MbpZWHZxdLfjhhEmpL1gV1VcKI7PqvqZetI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYwU1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-061",
+    "title": "じゃぱりまんの歌 かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "RR",
+    "side": "w",
+    "say": "はしら～で食べる～じゃぱりまんが～♪",
+    "effect": "【自】 あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "KMN_W51_061",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-061R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XoZ9IEqsjtaI-goTTNJaX5sOTW5AEsJAzg7xPb2LOv4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-061R",
+    "title": "じゃぱりまんの歌 かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "はしら～で食べる～じゃぱりまんが～♪",
+    "effect": "【自】 あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "KMN_W51_061R",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-061"
+    ],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2XyQ54htOD3UGfabhuS0miZQVLpR2YAGrmVNC_nHcNg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYxUi5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-062",
+    "title": "脅威の歌声？ トキ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "w",
+    "say": "～♪゛～♪゛",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「雲の上の山頂まで」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の後列のレベル1以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。（ダメージキャンセルは発生する）\n【自】 アンコール ［手札の《フレンズ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_062",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-062X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-081"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HvTtDuiXiaREvDTbWazqVq1UIvmsfXcOlTjHJCYEQGI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-062X",
+    "title": "脅威の歌声？ トキ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。\n【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「雲の上の山頂まで」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の後列のレベル1以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。（ダメージキャンセルは発生する）\n【自】 アンコール ［手札の《フレンズ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_062X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-062"
+    ],
+    "relation": [
+      "KMN/W51-081"
+    ],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tcG2SnwYKMUTvfkXExg3hfyzYwXDBfRj4-wYxcYEYDU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYyWC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-063",
+    "title": "カフェの店員 アルパカ・スリ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "わぁぁぁぁあ！　いらっしゃーい！",
+    "effect": "【自】 他のあなたの《フレンズ》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お茶》を与える。\n【起】［このカードを【レスト】する］ あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "KMN_W51_063",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "お茶"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lyILYtjEPpbI8q0nvCySpTAFgoYc4l_PyN-Sz1UTWm8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDYzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-064",
+    "title": "百獣の王 ライオン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "ほう……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードが「本気の勝負」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。（トリガーチェックででた「本気の勝負」の<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果でこのカードが舞台に置かれた時も使える）",
+    "scraper": "KMN_W51_064",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-064R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-080"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9p6zt-saIgdifqx3hMl57aANMPwiAmD30FGZzqplMU4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-064R",
+    "title": "百獣の王 ライオン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "ほう……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードが「本気の勝負」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。（トリガーチェックででた「本気の勝負」の<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果でこのカードが舞台に置かれた時も使える）",
+    "scraper": "KMN_W51_064R",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-064"
+    ],
+    "relation": [
+      "KMN/W51-080"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WY2nmX9rHOwYoPeCZzmcI8O6FmYYW-QYoNzEoybeHXM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY0Ui5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-065",
+    "title": "森の王 ヘラジカ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "さて、そんな良いタイミングで我々に仲間が加わったぞ",
+    "effect": "【永】 あなたの《フレンズ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KMN_W51_065",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xMgwy4ws70mOsVxWsWg5GJnpMVAO-JUy1Qs647Qr0Lc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-066",
+    "title": "ポカーン アフリカタテガミヤマアラシ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_066",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/t-aH8Z4XzcBmnMmQghRuZJshQxabmSQ3lNznwAp_Sbc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-067",
+    "title": "鉄壁の守り オオアルマジロ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "フッ！",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《フレンズ》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+    "scraper": "KMN_W51_067",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qqcn-H3JBpOCt7yubXDMV1WkZJxYN9HpiMkLp76SJjE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-068",
+    "title": "大将戦 ヘラジカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "U",
+    "side": "w",
+    "say": "始めて平原でお前を見た時から……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を公開する。あなたのこの効果で公開したカードのレベルが相手のこの効果で公開したカードのレベルより高いなら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。相手の方が高いなら、このカードをストック置場に置く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）\n【自】【CXコンボ】 あなたのクライマックス置場に「いざ、勝負だ！」が置かれた時、前列にこのカードがいて、他のあなたの《フレンズ》のキャラがいるなら、あなたは自分の控え室のコスト0以下の《フレンズ》のキャラを1枚選び、舞台の好きな枠に置いてよい。",
+    "scraper": "KMN_W51_068",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-082"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ahVGWKcKxozYqBdfrABLasHix7ZAmcDZmNteUm46s7E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-069",
+    "title": "見張り役 ツキノワグマ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "scraper": "KMN_W51_069",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AS7mk7aJamVkg2jSjKdj5z_XKqwJ-xK2OvfybH_j_p0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDY5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-070",
+    "title": "カフェでゆっくり かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "ふぁぁぁ……",
+    "effect": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「目印づくり」を1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "KMN_W51_070",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-078"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Hy6KdTJJh_R9nIz9X10uspbUkEWJC2nDAZL1XFNTmzQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDcwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-071",
+    "title": "お茶をどうぞ アルパカ・スリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "はいっ、どーぞ～！はいっ、どーぞ～！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の「仲間を探して トキ」を1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "KMN_W51_071",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "お茶"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-076"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TwYEr_LeBLsiiKFEj9_FMz1ocAupVVWSrKopzCYEWXo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDcxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-072",
+    "title": "合戦開始 アラビアオリックス",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "おお！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_072",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Xi3bBr2aSJ9OUPcQ3czHdfnoSa3kh4Qx1mOS1rOopWw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDcyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-073",
+    "title": "鉄壁の守り シロサイ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "えい！",
+    "effect": "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "scraper": "KMN_W51_073",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PeUFz9e5J07cSDOmBVB2tjX5oVkdFrKFUZPasW-TYqw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDczLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-074",
+    "title": "大将戦 ライオン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を公開する。あなたのこの効果で公開したカードのレベルが相手のこの効果で公開したカードのレベルより高いなら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。相手の方が高いなら、このカードを【レスト】する。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_074",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UMHrZjP4ZoJk8SNLdEQS1fOcaePQ_21BLcgGcdUyWyM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-075",
+    "title": "合戦開始 オーロックス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "行くぜェ！",
+    "effect": "【自】 他のあなたの《フレンズ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KMN_W51_075",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pCt425Ge7-v7AvxUd67BJ5vfGas-CqUQuVFlTk72Uh8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-076",
+    "title": "仲間を探して トキ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "……",
+    "effect": "-",
+    "scraper": "KMN_W51_076",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-071"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_az-X3ds7DgUWfX4TKPMD041qZBohmrw92eS16GFyWE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-077",
+    "title": "忍者でござる パンサーカメレオン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "w",
+    "say": "見るでござる！",
+    "effect": "【永】 このカードは相手の効果に選ばれない。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "KMN_W51_077",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "忍"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Hu2FXi3-u0wW4pwR_yCLLAqk7Lt92cvabrYKXutdJrU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-078",
+    "title": "目印づくり",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "今からいうところを一緒に抜いてもらってもいいですか？",
+    "effect": "【カウンター】 あなたは自分の控え室の、《フレンズ》か《メカ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KMN_W51_078",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-070"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kPt6Lp86Pirj5rI2puVJAT16tmwMAZ3V1TUZeIn2xAk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-079",
+    "title": "ジャパリバス",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "「「はぁ…はぁ…」」",
+    "effect": "あなたは自分の手札の「ジャパリバス」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの、《フレンズ》か《メカ》のキャラすべてに、パワーを＋1000。",
+    "scraper": "KMN_W51_079",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ibn8Mi7jGsaPgvcX7MzD3dLn_jVtgM02kRaxSc5NWRI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDc5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-080",
+    "title": "本気の勝負",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "……！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果を行う。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+    "scraper": "KMN_W51_080",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "standby",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-064",
+      "KMN/W51-064R"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/obI0F5cI192cUBQcDNEMPehkgKWFceF4e3ndRvYjpOM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDgwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-081",
+    "title": "雲の上の山頂まで",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KMN_W51_081",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-062",
+      "KMN/W51-062X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ul12YtVBEBuWTUlk2oEED14Fe14AD472ElC6ijFsR1U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDgxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-082",
+    "title": "いざ、勝負だ！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "――！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KMN_W51_082",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-068"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h2c6o9i6QlFO9iPk1lywrdXoK65D__LD0xVhxEcN3kg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDgyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-083",
+    "title": "あそぶの大好き！イロワケイルカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "FR",
+    "side": "w",
+    "say": "あそんでくれるヒト、大ぼしゅう！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×500に等しい。\n【自】 共鳴 ［手札の「あそぶの大好き！イロワケイルカ」を1枚公開する］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。",
+    "scraper": "KMN_W51_083",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-083SSP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-083SSP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2b-CIEC2yAKjEYjmQE5bs24w2eYVggtUOqCYxPr1vlU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDgzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-083SSP",
+    "title": "あそぶの大好き！イロワケイルカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SSP",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×500に等しい。\n【自】 共鳴 ［手札の「あそぶの大好き！イロワケイルカ」を1枚公開する］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。",
+    "scraper": "KMN_W51_083SSP",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-083"
+    ],
+    "relation": [
+      "KMN/W51-083"
+    ],
+    "price": {
+      "number": 2480,
+      "string": "2480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/k-hSCgo7szeVlvCTcCei9TqleaE_NxAAKI4e41YBMOo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDgzU1NQLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-084",
+    "title": "ゲーム大好き キタキツネ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "RR",
+    "side": "w",
+    "say": "動いてる……やった!!",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】【CXコンボ】［手札の「雪そりで猛ダッシュ」を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+    "scraper": "KMN_W51_084",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "雪"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-084X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-109"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8AUHvUVbs1l-nsxvXGi237FseSW-Kk35Ohz8d2wNAcw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-084X",
+    "title": "ゲーム大好き キタキツネ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\n【自】【CXコンボ】［手札の「雪そりで猛ダッシュ」を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+    "scraper": "KMN_W51_084X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "雪"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-084"
+    ],
+    "relation": [
+      "KMN/W51-109"
+    ],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/16nbUGtVZKCU1Z7ZYLCAI0qrbnInKXdeZm31uXJMRfo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg0WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-085",
+    "title": "“PPP”ロイヤルペンギン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "w",
+    "say": "キラキラ～",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の青のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「アイドルオーラ」があり、他のあなたの、「“PPP”ジェンツーペンギン」と「“PPP”フンボルトペンギン」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラか「“PPP”プラチナチケット」なら、あなたは自分の、「“PPP”コウテイペンギン」を1枚までと「“PPP”イワトビペンギン」を1枚まで選び、【スタンド】する。（公開したカードは元に戻す）",
+    "scraper": "KMN_W51_085",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-085X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-086",
+      "KMN/W51-086X",
+      "KMN/W51-087",
+      "KMN/W51-087X",
+      "KMN/W51-088",
+      "KMN/W51-088X",
+      "KMN/W51-089",
+      "KMN/W51-089X",
+      "KMN/W51-106",
+      "KMN/W51-108",
+      "KMN/W51-090"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2efaReFz1xqwgqzSPzVcSAVZLmoi21nm0UwmQg_LsoQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-085X",
+    "title": "“PPP”ロイヤルペンギン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の青のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「アイドルオーラ」があり、他のあなたの、「“PPP”ジェンツーペンギン」と「“PPP”フンボルトペンギン」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラか「“PPP”プラチナチケット」なら、あなたは自分の、「“PPP”コウテイペンギン」を1枚までと「“PPP”イワトビペンギン」を1枚まで選び、【スタンド】する。（公開したカードは元に戻す）",
+    "scraper": "KMN_W51_085X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-085"
+    ],
+    "relation": [
+      "KMN/W51-086",
+      "KMN/W51-086X",
+      "KMN/W51-087",
+      "KMN/W51-087X",
+      "KMN/W51-088",
+      "KMN/W51-088X",
+      "KMN/W51-089",
+      "KMN/W51-089X",
+      "KMN/W51-106",
+      "KMN/W51-108",
+      "KMN/W51-090"
+    ],
+    "price": {
+      "number": 1780,
+      "string": "1780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ygp3PORWTJdwENoEze2o-hJicMShpTFRoWhl34UJCjs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg1WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-086",
+    "title": "“PPP”フンボルトペンギン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "ふるる～……え、もう出番ですか？",
+    "effect": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_086",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-086X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X",
+      "KMN/W51-089",
+      "KMN/W51-089X"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Qsa1HnEvi9kxrzKJ4shd37b4XjpGgWu0hhiyiGtZ1wQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-086X",
+    "title": "“PPP”フンボルトペンギン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_086X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-086"
+    ],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X",
+      "KMN/W51-089",
+      "KMN/W51-089X"
+    ],
+    "price": {
+      "number": 1780,
+      "string": "1780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JPJ8XGagHTZyMt_8cllHMKqkC4SREtsUVoZDLPoMQGs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg2WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-087",
+    "title": "“PPP”ジェンツーペンギン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "w",
+    "say": "一生懸命頑張ります！",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+    "scraper": "KMN_W51_087",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-087X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X",
+      "KMN/W51-089",
+      "KMN/W51-089X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bC3M_KmwOd__k7-nuLyJmiidXJaFByrBOtYo49uMyL0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-087X",
+    "title": "“PPP”ジェンツーペンギン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+    "scraper": "KMN_W51_087X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-087"
+    ],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X",
+      "KMN/W51-089",
+      "KMN/W51-089X"
+    ],
+    "price": {
+      "number": 1780,
+      "string": "1780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/M3WazlbreXPlLsWGek7v6aGW08L1HGEmqH6ObeABM6Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg3WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-088",
+    "title": "“PPP”イワトビペンギン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "R",
+    "side": "w",
+    "say": "よぉーし、ロックに行くぜぇえ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "scraper": "KMN_W51_088",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-088X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WjNOuM2YDnkHYs5FV6nZvAmBjLnvODfnQXNkPe7KsbY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-088X",
+    "title": "“PPP”イワトビペンギン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "scraper": "KMN_W51_088X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-088"
+    ],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 1780,
+      "string": "1780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TEcNWikCm1GVMCk073Idn_S-yDZ0PQQt8jNtRcL4fPE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg4WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-089",
+    "title": "“PPP”コウテイペンギン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "みんな、落ち着いていこう",
+    "effect": "【永】 あなたの、「“PPP”ジェンツーペンギン」と「“PPP”フンボルトペンギン」がいるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KMN_W51_089",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-089X"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-086",
+      "KMN/W51-086X",
+      "KMN/W51-087",
+      "KMN/W51-087X",
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/46piFeNZkIEs9c0LjU7UiHY6Sqzim7cch8Dx7MjPd9E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-089X",
+    "title": "“PPP”コウテイペンギン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "XR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたの、「“PPP”ジェンツーペンギン」と「“PPP”フンボルトペンギン」がいるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KMN_W51_089X",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-089"
+    ],
+    "relation": [
+      "KMN/W51-086",
+      "KMN/W51-086X",
+      "KMN/W51-087",
+      "KMN/W51-087X",
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 1780,
+      "string": "1780円",
+      "date": "2024-11-28T05:44:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Eni_V57JorFh4b5d2Qzvr1fyNAPbDMofVjgPcwbXDcI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDg5WC5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-090",
+    "title": "アイドル大好き マーゲイ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "w",
+    "say": "い、いい……",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う）\n【自】 絆／「“PPP”ロイヤルペンギン」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“PPP”ロイヤルペンギン」を1枚選び、手札に戻す）",
+    "scraper": "KMN_W51_090",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "マネージャー"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TtCPDtew810UrDpYtCtz3uJIZGNQGp2RNGG5rwBe2qk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDkwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-091",
+    "title": "温泉管理人 ギンギツネ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "はぁ、なんとか……",
+    "effect": "【自】［このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "KMN_W51_091",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "雪"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/k99PXRMJ2MeBMR8LuujuwOBGmSju6sLTjnv7-ev3_yU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDkxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-092",
+    "title": "木登り上手 かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "U",
+    "side": "w",
+    "say": "ふぅー",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“PPP”プラチナチケット」を1枚選び、手札に戻す。\n【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+    "scraper": "KMN_W51_092",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-106"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/utms4Cocg2JDCwPXueOyPgiHJ55mMQWwXJyXY_uADXA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDkyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-093",
+    "title": "天性の勢い イワビー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "KMN_W51_093",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WIGqQEYyvunR437vxhWniUBnc31sAMLbS_SGPvnwk3k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDkzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-094",
+    "title": "新たなリーダー観？ コウテイ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大空ドリーマー」があり、他のあなたの青のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_094",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-110"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fdZ9ysDyweCyXqlOvOjHpVNkM7mxyr-uGjdpjaxpEcA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-095",
+    "title": "正統派アイドル ジェーン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《フレンズ》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "KMN_W51_095",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/No-lSLEkedXLPQTbYWHqj4YErWSM9ANz5S97kyhajQQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-096",
+    "title": "ちょっと休憩 ジェーン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "歌声もとっても素敵です",
+    "effect": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の青のキャラを1枚選び、手札に戻す。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+    "scraper": "KMN_W51_096",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/n9kVmbpISagKpbmiveJgct0aGobxCiAqaI9W9W01Rs4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-097",
+    "title": "ちょっと休憩 イワビー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "もういっちょう練習するかー！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "KMN_W51_097",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Q8Dx3UHuf_D7cJ05KkZ1GQcMuGTah7lbHD9tAxh_8Ic/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-098",
+    "title": "みんなを鼓舞する プリンセス",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "だめだめ、全然だめ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フレンズ》のキャラの枚数×500に等しい。",
+    "scraper": "KMN_W51_098",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nF0TGpm2NKJKP2FeDBj--UzEq3RMtriCCK4qG6OYAhU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-099",
+    "title": "引っ込み思案 キタキツネ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "違うよぉ、磁場を感じるんだよぉ",
+    "effect": "-",
+    "scraper": "KMN_W51_099",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "雪"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-105"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8rfMmCRCpQFEioajr_XY3Y6-GgGoIiiC_ZSJkHulHrI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMDk5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-100",
+    "title": "ちょっと休憩 コウテイ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "w",
+    "say": "プリンセスはすごいな、振り付けも完璧だし",
+    "effect": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+    "scraper": "KMN_W51_100",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-UvDybFu1-G1dCbgIPiQUBjcJGZOyxWY2o_78bwAER4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTAwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-101",
+    "title": "癒しの天然キャラ フルル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【永】 経験 あなたのレベル置場の《フレンズ》のキャラ1枚につき、このカードのパワーを＋2000。",
+    "scraper": "KMN_W51_101",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lBKH2HJXqyQ6srs7s2WGJ4NwFlVB623NPZUGMAO5MZU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTAxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-102",
+    "title": "“PPP”を引っ張る プリンセス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "かばんちゃん「プリンセスさん」サーバル「出番だよ！」",
+    "effect": "【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《フレンズ》のキャラが4枚以上なら、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置いてよい。",
+    "scraper": "KMN_W51_102",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Hi0WpFI9DBMOpVyMaB7e0ACYR_oOjpo4C1yFc5oSwW0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTAyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-103",
+    "title": "ちょっと休憩 フルル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "……",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが青なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "KMN_W51_103",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YnGL_VTA1du-EyeOSugChyWkQmdXKZL96EyzH2JxW5A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTAzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-104",
+    "title": "影にびっくり かばんちゃん",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "食べないでくださーい！",
+    "effect": "【永】 あなたの、《フレンズ》か《メカ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+    "scraper": "KMN_W51_104",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kTHN1aAPQLP64mFV-VzfLnDNUU9G2SPBJ--tPquOrXc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-105",
+    "title": "しっかり者 ギンギツネ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "またわけのわからないことを……",
+    "effect": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「引っ込み思案 キタキツネ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+    "scraper": "KMN_W51_105",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "雪"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-099"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IjzRBGu84RwYhkGpLzvYp1tPqpBswTITxwUzwx57mtM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-106",
+    "title": "“PPP”プラチナチケット",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "サーバル「ふっふーん、博士たちにもらったんだ」",
+    "effect": "【カウンター】 あなたは自分の、《フレンズ》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+    "scraper": "KMN_W51_106",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X",
+      "KMN/W51-092"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IdwOTyGSxNzJl8JdNQv47yU0X3cIt4eJruhcqEZTTwc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-107",
+    "title": "セルリアン（弱）",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "かばん「フレンズさん、ですか？」",
+    "effect": "あなたは相手のコスト1以下の《フレンズ》のキャラを1枚選び、山札の下に置く。",
+    "scraper": "KMN_W51_107",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wqOcFaKEv2KC9h1JjdmzkRJLMe4GUvLma9Ssz-5WImY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-108",
+    "title": "アイドルオーラ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "キラキラキラーン",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "KMN_W51_108",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-085",
+      "KMN/W51-085X"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kemHDGgx7Nf0iBkJyBLyti8T62-GaL32PxXb2HtQ9ac/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-109",
+    "title": "雪そりで猛ダッシュ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "任せて……、ゲームで鍛えてるから……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "KMN_W51_109",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-084",
+      "KMN/W51-084X"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4zqNAsbvMEPQVammESrZ_tOeAeRnTkZ6Bxlw2y1NbjU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTA5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-110",
+    "title": "大空ドリーマー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "KMN_W51_110",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-094"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:44:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/It7JnvMtnRRVS5VxZegIhl6grJwLAGFM5Onj1oRuQfE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTEwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-111",
+    "title": "いい湯だね サーバル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "PR",
+    "side": "w",
+    "say": "おんせんさいこ～",
+    "effect": "【永】 応援 このカードの前のあなたの《フレンズ》のキャラすべてに、パワーを＋500し、ソウルを＋1。",
+    "scraper": "KMN_W51_111",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MN_Kn1Ss220p-x-vxynTsnw5NGq-4pDKQkwV5FLWmWY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTExLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-112",
+    "title": "カフェでゆっくり フェネック",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "いいねー",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "KMN_W51_112",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/R3-JbEH7HDvKDGv8eWNZa09bdSlMj6Dmxpz1Q59BsOg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTEyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-113",
+    "title": "カフェでゆっくり アライグマ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "カフェって……",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_113",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QHIQ7VZvflCvoDPSGvVAIibfSkmXkl8UN_nkUK94UTo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTEzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-114",
+    "title": "お化けの正体？ タイリクオオカミ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "PR",
+    "side": "w",
+    "say": "ああっ",
+    "effect": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+    "scraper": "KMN_W51_114",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/o-sGwtLcrPT1FVoUIBqtge-9gj_R3gXMwGbojgDyjRs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTE0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-115",
+    "title": "本気の一撃 ライオン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "PR",
+    "side": "w",
+    "say": "タッ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのレベルの合計×1500に等しい。（クライマックスのレベルは0として扱う）",
+    "scraper": "KMN_W51_115",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4fv7_l1yIm0tWEoH3NfhxLTXGVxhQK6C8TtihWzpcwQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTE1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-116",
+    "title": "おめでとうの会 ロイヤルペンギン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "かばん何の動物かわかっておめでとうの会をするわよ！",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_116",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UQAKVku9bVTCshifDyTxxp7rc3LuwqcmNCHQ3WbtsyE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfMTE2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P01",
+    "title": "ようこそ！ジャパリパークへ！",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "PR",
+    "side": "w",
+    "say": "-",
+    "effect": "-",
+    "scraper": "KMN_W51_P01",
+    "productName": "けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2uL0duPwmAUwLxGHoYkH-ERdfEi7zJT9HooN211Vkhg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDAxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P02",
+    "title": "はじめての料理 サーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。",
+    "scraper": "KMN_W51_P02",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N4ixUb1uZTtyn6A2GveYfRIDdKYuH6Ub3uebiUKiJOk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDAyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P03",
+    "title": "今日はいろいろあったね かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "PR",
+    "side": "w",
+    "say": "（ふぁ……）",
+    "effect": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "scraper": "KMN_W51_P03",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-P03S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G0KWmRPdNdnhPMmFKC3CLonsZTAEyEmDhUh54P0P8AE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDAzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P03S",
+    "title": "今日はいろいろあったね かばんちゃん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "PR",
+    "side": "w",
+    "say": "（ふぁ……）",
+    "effect": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "scraper": "KMN_W51_P03S",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-P03"
+    ],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VVeNxwnb4pKP7-iBjN904oi1U6bRxQr2c5oFxgFoG-E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDAzUy5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-P04",
+    "title": "しろくろフレンズ！イロワケイルカ＆エリマキキツネザル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "KMN_W51_P04",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EXeqDXSpYk9920XebtMUGliF4SPiW7EOZFrojQU5hDE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDA0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P05",
+    "title": "謎がいっぱい ツチノコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "scraper": "KMN_W51_P05",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-P05S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EEBDRA1OPT2ubmb6r_EGbhn05ffJ7QCjFqwUnZMFORs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDA1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-P05S",
+    "title": "謎がいっぱい ツチノコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "scraper": "KMN_W51_P05S",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-P05"
+    ],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:44:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7cqk8amq2okvgEY0LqGCCNIAD_n8IFNoEDzmKlxcFY0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfUDA1Uy5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-T01",
+    "title": "手をさしのべるサーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "w",
+    "say": "平気平気！フレンズによって得意なこと違うから！",
+    "effect": "【永】 他のあなたの「はじめてのさばんなちほー かばんちゃん」すべてに、パワーを＋1000。\n【自】 絆／「はじめてのさばんなちほー かばんちゃん」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はじめてのさばんなちほー かばんちゃん」を1枚選び、手札に戻す）",
+    "scraper": "KMN_W51_T01",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-T07"
+    ],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cWBYVkX45OfT3vTW-GXjo8xLL4bTB_9rBNr1zHgOvLo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDAxLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T02",
+    "title": "“ハジメマシテ”ラッキービースト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "TD",
+    "side": "w",
+    "say": "ハジメマシテ、僕ハラッキービーストダヨ、ヨロシクネ",
+    "effect": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+    "scraper": "KMN_W51_T02",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G61Y8ahfLarAYljshtnCEuIl1eD2dJgV06pzRKtyz4w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDAyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T03",
+    "title": "気配を探って サーバル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "w",
+    "say": "あれ？隠れちゃった……",
+    "effect": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "scraper": "KMN_W51_T03",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4NNBTI0FywndxJnj-tHGPavrN6mRBosG5KSL8ube74Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDAzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T04",
+    "title": "イシ発見！かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "TD",
+    "side": "w",
+    "say": "サーバルさん！セルリアンの後ろに！",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "KMN_W51_T04",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/svxsPB2aEWuqNfiPJB74GjI0b8OI21ELamwMz3k19Aw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T05",
+    "title": "パークの危機？フェネック",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "TD",
+    "side": "w",
+    "say": "はいよー",
+    "effect": "【自】 他のあなたの《フレンズ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KMN_W51_T05",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NrunpNMqbAupsYSshTdzEVnKLHTltqh5iPWWLHSl4gE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T06",
+    "title": "さばんなのサーバル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "w",
+    "say": "ここはジャパリパークだよ！わたしはサーバル！",
+    "effect": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「出会いの日に」があるなら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KMN_W51_T06",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-T10",
+      "KMN/W51-T10S"
+    ],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mXjLTH8SCOZi6TpDu-pmDOLHwlmIJMqfNH9DkrpjOE0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T07",
+    "title": "はじめてのさばんなちほー かばんちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "w",
+    "say": "わぁ……",
+    "effect": "-",
+    "scraper": "KMN_W51_T07",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-T01"
+    ],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/q3wkUd1QQBEwNgD-ziSimWSPFzANfQOmKwHsA7Wa0c4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T08",
+    "title": "優しいお姉さん カバ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "TD",
+    "side": "w",
+    "say": "気にすることないですわ",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KMN_W51_T08",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qvy5nlFop-Xz-o__IL8ve9pmrMsfNMSBQ8KuV8-Ihc8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T09",
+    "title": "狩りごっこ大好き サーバル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "w",
+    "say": "狩りごっこだね！負けないんだからっ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《フレンズ》のキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの《フレンズ》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+    "scraper": "KMN_W51_T09",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-T09S",
+      "KMN/W51-T09SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cPhDuUnsWASHH1hK8PgroalKNmBbbcvwNZkKpQj_Wg8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T09S",
+    "title": "狩りごっこ大好き サーバル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "w",
+    "say": "狩りごっこだね！負けないんだからっ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《フレンズ》のキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの《フレンズ》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+    "scraper": "KMN_W51_T09S",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-T09SP"
+    ],
+    "lowVer": [
+      "KMN/W51-T09"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FfNgEXPr6jajCGv7av9u2M7iQzjdM1U91IUnHHn_rO4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA5Uy5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-T09SP",
+    "title": "狩りごっこ大好き サーバル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "w",
+    "say": "狩りごっこだね！負けないんだからっ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《フレンズ》のキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの《フレンズ》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+    "scraper": "KMN_W51_T09SP",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-T09",
+      "KMN/W51-T09S"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/37seD-ne35Gz3G55a8OdEVB-aCTQmK61SQvDoLbsuok/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDA5U1AucG5n.png"
+  },
+  {
+    "id": "KMN/W51-T10",
+    "title": "出会いの日に",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KMN_W51_T10",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-T10S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KMN/W51-T06"
+    ],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YpbxvhByz0LE3EqhAwt9jTAu9uD-zWkQdmwNsiobkX4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDEwLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T10S",
+    "title": "出会いの日に",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SR",
+    "side": "w",
+    "say": "……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KMN_W51_T10S",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-T10"
+    ],
+    "relation": [
+      "KMN/W51-T06"
+    ],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bF0HyzFp6_MC0IZzlA4EfHSOJoAGWgRslZIupHoIb3s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDEwUy5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-T11",
+    "title": "お手玉上手 コツメカワウソ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "w",
+    "say": "たのしいでしょー？",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "KMN_W51_T11",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x-H2FM9H0AQJrQSdHBnXQBTnXg6pqgH84fHTS__uSY0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDExLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T12",
+    "title": "見覚えあるよ ジャガー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "w",
+    "say": "あ……、これと似たの向こう岸で見たことあるけど……",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《フレンズ》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
+    "scraper": "KMN_W51_T12",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y-V11SVnb-xPVMwHS7EcQehfM5oT_2Q1XaRLtTqF_ww/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDEyLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T13",
+    "title": "パークの危機！アライグマ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "TD",
+    "side": "w",
+    "say": "いっこくも早く捕獲するのだ……！",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+    "scraper": "KMN_W51_T13",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KMN/W51-T13R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6cQ5gKsJ9-zqoNZASr0Gagfby34OdvoH_Dax2BiMwlQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDEzLnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T13R",
+    "title": "パークの危機！アライグマ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "いっこくも早く捕獲するのだ……！",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+    "scraper": "KMN_W51_T13R",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-T13"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zkxwq0ZWAqCk5Rop7JpR4Xsb_n3Bshl3Hhx12yL7cys/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDEzUi5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-T14",
+    "title": "命名“かばん”ちゃん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "TD",
+    "side": "w",
+    "say": "はい！ありがとうございます",
+    "effect": "-",
+    "scraper": "KMN_W51_T14",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qOT1ZrzC8uzjAjhQQ6x2_OJEIzQSf8BnkIuQs6uuUm8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE0LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T15",
+    "title": "楽しいこと大好き コツメカワウソ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "w",
+    "say": "今日はいいすべり日和だねぇ！",
+    "effect": "【自】 他のあなたの《フレンズ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "KMN_W51_T15",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-BjwrAU24OYfYx6lr7KzGovs1CwAAZnwHTG6-T7ExzI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE1LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T16",
+    "title": "みんなを乗せて ジャガー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "w",
+    "say": "平気平気！まっかせて！",
+    "effect": "【永】 他のあなたの《フレンズ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+    "scraper": "KMN_W51_T16",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B1rhvyusz0K2M1-WVl2FcpvM-O-ID__1cmcULVQjvGw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE2LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T17",
+    "title": "フレンズとこんにちは かばんちゃん",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "TD",
+    "side": "w",
+    "say": "さらに大きいフレンズさんだったね",
+    "effect": "【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KMN_W51_T17",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KMN/W51-T17R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uMZXqOGKsgTzBYt18c7XzomCRH9Znto4FhP1AmdZgqE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE3LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T17R",
+    "title": "フレンズとこんにちは かばんちゃん",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "さらに大きいフレンズさんだったね",
+    "effect": "【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KMN_W51_T17R",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "フレンズ",
+      "帽子"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KMN/W51-T17"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/su8V3Hn1SK7NqEYNNv_isUqF1Vvcyu4i4ZMFIiBbuxU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE3Ui5wbmc.png"
+  },
+  {
+    "id": "KMN/W51-T18",
+    "title": "狩りごっこ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "わーい!!",
+    "effect": "【カウンター】 あなたは自分の、《フレンズ》か《メカ》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+    "scraper": "KMN_W51_T18",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tzOn5K-Diz1hlV9CT9EJJvLl_kJk3bV4hdcJukO1dW4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE4LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T19",
+    "title": "再会の約束",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "今度会った時は、サーバルちゃんって呼んでね！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "KMN_W51_T19",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VDCjsccy6oRNE2UUgJwU_InkqrOTNnAUd_MIVijlKZ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDE5LnBuZw.png"
+  },
+  {
+    "id": "KMN/W51-T20",
+    "title": "だっ、食べないでぐだざーい!!",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "はっ、はっ……",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "KMN_W51_T20",
+    "productName": "[TD+]けものフレンズ",
+    "seriesCode": "KMN",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8Pnl1WgGIiv6spuIal-KL2RDAQNMXNJ-vmGf_dzIPgY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tNTl9XNTFfVDIwLnBuZw.png"
+  }
+]

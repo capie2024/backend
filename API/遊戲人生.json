@@ -1,0 +1,7512 @@
+[
+  {
+    "id": "NGL/S58-001",
+    "title": "『　』 空＆白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "RR",
+    "side": "s",
+    "say": "空「万に一つも負けはない。言ったろ？」",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下のカード名に「空」か「白」を含むキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+    "scraper": "NGL_S58_001",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-001S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R",
+      "NGL/S58-086",
+      "NGL/S58-086S"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4Cwr6Vzt7q6xYPbC4gOBOsAUUrl2Nb8pOdZBAxom-vM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-001S",
+    "title": "『　』 空＆白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "SR",
+    "side": "s",
+    "say": "白「……“チェック・メイト”」",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下のカード名に「空」か「白」を含むキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+    "scraper": "NGL_S58_001S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-001"
+    ],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R",
+      "NGL/S58-086",
+      "NGL/S58-086S"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Pn6kTt20HVIoxuLDRVV8d5m9g7VoS804AgC4fzdNIlM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAxUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-002",
+    "title": "『　』の勝利条件 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "RR",
+    "side": "s",
+    "say": "まずは、世界制覇――",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「超健全空間」があるなら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_002",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-002S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-021",
+      "NGL/S58-021R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OtM-OHLGjDh0536f8ik5hcyMhPcxhit4pTJzTlfGIxM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-002S",
+    "title": "『　』の勝利条件 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SR",
+    "side": "s",
+    "say": "目標は打倒神様ってことで",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「超健全空間」があるなら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_002S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-002"
+    ],
+    "relation": [
+      "NGL/S58-021",
+      "NGL/S58-021R"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DQqjMI504Bhwb3IRzVK_pVr-ijeniZyAfRZHgpABle8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAyUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-003",
+    "title": "人類種全権代理者 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "こと電子ゲームなら、チートでもツールアシストでも好きに使え",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「打倒唯一神」があるなら、あなたは自分のストックの下から1枚を、控え室に置いてよい。そのカードのレベルが3以上なら、相手に2ダメージを与える。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_003",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-003SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-019",
+      "NGL/S58-019R"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zE1KTNBZkxaYduEl1qbA6dV8U8MVugMsff40pLJvdzA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-003SP",
+    "title": "人類種全権代理者 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「打倒唯一神」があるなら、あなたは自分のストックの下から1枚を、控え室に置いてよい。そのカードのレベルが3以上なら、相手に2ダメージを与える。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_003SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-003"
+    ],
+    "relation": [
+      "NGL/S58-019",
+      "NGL/S58-019R"
+    ],
+    "price": {
+      "number": 5980,
+      "string": "5980円",
+      "date": "2024-11-28T04:59:48.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B-AOtPRKxbwdycafPPJqxB-8zc6wU_c3qZqQklwCak0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDAzU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-004",
+    "title": "生まれ直した世界 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "s",
+    "say": "俺の些細な願いを……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_004",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-004S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8n6bYkwRxDvmpn1zA8or-IRjmznMbmR1Bkhx3l_5nJk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-004S",
+    "title": "生まれ直した世界 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "s",
+    "say": "盟約に誓って――",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_004S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-004"
+    ],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8f6TYiLYH7YAvki7ZmLK8q3eTFCJq5pNt6p9-YHfct4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA0Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-005",
+    "title": "目にしたイカサマ 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "あんなイカサマ、チートにも程があるだろ。",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+    "scraper": "NGL_S58_005",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/30fsr5Kq7yRqqJnMOCiZeaE1giclBr-tkYj7ytrIqMQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-006",
+    "title": "存在を奪い合うゲーム 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "白「……もっとはやく……もっと……」",
+    "effect": "【永】 他のあなたの「にぃとの再会 白」すべてに、ソウルを＋1。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラかイベントなら手札に加える。（そうでないなら元に戻す）\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "NGL_S58_006",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-091"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/f-_5nJRm73bWLSsSRI12eLoaAefTPk9Ez7IGeodEgTk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-007",
+    "title": "コールドリーディング 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "s",
+    "say": "おたくらのゲームを全て暴いた俺の記憶を消すチャンスだぞ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】【CXコンボ】 あなたのクライマックス置場に「チェック・メイト」が置かれた時、前列にこのカードがいるなら、あなたは自分の前列のキャラを1枚選び、そのターン中、次の2つの能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』『【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラすべてを、控え室に置く。』",
+    "scraper": "NGL_S58_007",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-020"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nxJ_eXtHsZO1uqppHQdBSGAE62dxuxxXrV9bNUAXBJg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-008",
+    "title": "初めの一手 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "率直に行こう――。この図書館をくれ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の宣言したレベルのカードなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。（クライマックスのレベルは0として扱う）",
+    "scraper": "NGL_S58_008",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PwM3R709lJ3e220UsN65b4BKIGtv_sDVuqQ8XX0TBUo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-009",
+    "title": "国王選定戦の勝者 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "…なんか、随分時間かかった気がするな",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。（公開したカードは元に戻す）",
+    "scraper": "NGL_S58_009",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/re3tscpulwhAwvw9zxv6-8Lyp2pks0eRkzPM1_U8Qfk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDA5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-010",
+    "title": "幼い頃の空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "s",
+    "say": "白「自分より7つ年上の少年……」",
+    "effect": "【永】 応援 このカードの前のあなたの《ゲーム》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】 あなたのクライマックス置場に「二人の約束」が置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』",
+    "scraper": "NGL_S58_010",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-100"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EnKqdqxmJxBS_YeIGz7wKpMqrzvucHVf_U7jDLv2WBg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDEwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-011",
+    "title": "宣戦布告 空",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "s",
+    "say": "今、この瞬間、我がエルキアは、全世界の国に対して宣戦布告するッ！",
+    "effect": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+    "scraper": "NGL_S58_011",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8d1_DXm8pVLISqfWfkqQtFV1u8qqswb2_FXrtd9EYuM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDExLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-012",
+    "title": "コミュニケーションエラー 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "しぃぃぃぃぃろぉぉぉぉぉ",
+    "effect": "【永】 他のあなたの「人格崩壊 白」がいないなら、このカードはアタックできない。\n【自】［手札の《ゲーム》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「人格崩壊 白」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 他のあなたの「人格崩壊 白」が舞台から控え室に置かれた時、このカードを控え室に置く。",
+    "scraper": "NGL_S58_012",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-092"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/S-iNGibZJiVS5CLEDLDyh5D00ORr7rJNEkB8SnPERz0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDEyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-013",
+    "title": "ゲームの種明かし 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "s",
+    "say": "自分たちがゲームマスターになり行うテレビゲームならチート放題、やり放題",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。",
+    "scraper": "NGL_S58_013",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/88MSuTZCaEVN3RKc4WghBIdVsV4hU19hy7cQQv6Ows8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDEzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-014",
+    "title": "盤上の世界の創世者 テト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "彼らは来るよ――ボクの袂まで",
+    "effect": "【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "NGL_S58_014",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "唯一神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GYhWKf2xjjH-XqBylBmwll75sapEQqwoj2chAv1C2PA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-015",
+    "title": "異議あり！ 空",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "異議あり！　ありありでーす！",
+    "effect": "【自】［(1) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－1。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "NGL_S58_015",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HMLU1ihNgIc5sSnB6VXzCycX0Pllx1FLq86UiD5zLQE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-016",
+    "title": "記憶の共有 空",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "当然だ。お前だって人類だろうが",
+    "effect": "【永】 記憶 あなたの思い出置場に「似たもの同士」があるなら、このカードのパワーを＋5000し、ソウルを＋1。",
+    "scraper": "NGL_S58_016",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-046"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BbCOOLpOvFiOaB5j6dw0I5bJIuAupYmejk7xJ0dMsTw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-017",
+    "title": "ジャンケン",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "ただし……俺は、パーしか出さない",
+    "effect": "あなたと相手はゲームをする。【リプレイ】 ゲームをするあなたはパーを出すと宣言し、相手と1回ジャンケンする。あなたがパーで勝ったなら、あなたは4枚まで引く。あなたがパーであいこか、グーかチョキで勝ったなら、あなたは2枚まで引く。あなたが負けたか、グーかチョキであいこなら、このカードをクロック置場に置く。 （あなたはパー以外を出してもよい）",
+    "scraper": "NGL_S58_017",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cYAJL2QUEfFLRuJrqC1ou0sItYSoQil_lx5YbeADl8s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-018",
+    "title": "『　』に敗北はない",
+    "type": "イベント",
+    "level": 3,
+    "cost": 5,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "そろそろ教育してやる。てめぇの弱さを――。",
+    "effect": "【カウンター】 あなたの、カード名に「空」を含むキャラと「白」を含むキャラが別々に1枚ずついるなら、あなたは自分のカード名に「ステ」を含むキャラを1枚選び、控え室に置く。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "NGL_S58_018",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YiUFnu5DP2u_0OBb6ADQNoYN5aiW-xgviPKd0vRmXk0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-019",
+    "title": "打倒唯一神",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "空＆白「テトを打ちのめす」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_019",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-019R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-003",
+      "NGL/S58-003SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EJurke5SBhWTKuoKp6i2CjhUClepB8zk9Ck8cDrxKUQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-019R",
+    "title": "打倒唯一神",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "空「ああ、それが？」白「……どうか、した？」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_019R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-019"
+    ],
+    "relation": [
+      "NGL/S58-003",
+      "NGL/S58-003SP"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fvOpRRUrimUhdwWWU6aTxS_7edadi_cq-k4BWiD-Ct8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDE5Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-020",
+    "title": "チェック・メイト",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "人類種の全て――『種のコマ』を賭けよう",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_020",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-007"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Uf24gEgwgOpRU5H7HBWZ2zURIOB1QF8t2J8Dh49BLuw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-021",
+    "title": "超健全空間",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "空「これが全年齢対象なのは確定的に明らか！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/shot.gif\">：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "scraper": "NGL_S58_021",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "shot",
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-021R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-002",
+      "NGL/S58-002S",
+      "NGL/S58-087"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CNksteQPrfW4ZtxhM6i7tpTKLLsW1WIalq5OH0clyZk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-021R",
+    "title": "超健全空間",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "空「まさに健全！　適度にエロく！　だがやらしくはない！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/shot.gif\">：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "scraper": "NGL_S58_021R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "shot",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-021"
+    ],
+    "relation": [
+      "NGL/S58-002",
+      "NGL/S58-002S",
+      "NGL/S58-087"
+    ],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uot9sPcSnzAJimbCi26v18IUSUSLjGIzBwP3oJ-vt14/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIxUi5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-022",
+    "title": "フィール・ニルヴァレン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "s",
+    "say": "クラミーのために頑張るのです～",
+    "effect": "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "NGL_S58_022",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-022SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EGm8uRz0BqxE1EsGoa8b-xsA_c3oW5FlCNLrKBNN0RU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-022SP",
+    "title": "フィール・ニルヴァレン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "NGL_S58_022SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-022"
+    ],
+    "relation": [],
+    "price": {
+      "number": 6980,
+      "string": "6980円",
+      "date": "2024-11-28T04:59:48.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sEHd_l4LcmrSe-n234xZgWPWnV77WtBQzqzeLa4VJEI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIyU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-023",
+    "title": "ギャップ萌え いづな",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "RR",
+    "side": "s",
+    "say": "今度こそ負けねえぞ、ですっ！！",
+    "effect": "【永】 あなたの《ゲーム》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "NGL_S58_023",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-023SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G7l3vuSLMvZsu5KVSsHd848-WLuMauaImJEUkZ9UIVg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-023SP",
+    "title": "ギャップ萌え いづな",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたの《ゲーム》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "NGL_S58_023SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-023"
+    ],
+    "relation": [],
+    "price": {
+      "number": 14800,
+      "string": "14800円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9pMBM3_gYf5m9e8VW6xjyKZ2nuE8HLCPGcbcDFy2WqU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDIzU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-024",
+    "title": "クラミー・ツェル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "いくら考えても手は変わらないわよ？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「遠き約束の日」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+    "scraper": "NGL_S58_024",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-024SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-047",
+      "NGL/S58-047R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0GnWBTGlpf_0Z6K-bLIHcVSgYpnU6_hq7gWd7V_UX8U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-024SP",
+    "title": "クラミー・ツェル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「遠き約束の日」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+    "scraper": "NGL_S58_024SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-024"
+    ],
+    "relation": [
+      "NGL/S58-047",
+      "NGL/S58-047R"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mqHgTHcyPU8MLg6wAsqtasRb6oRuKBfaLu7Ia7yv2zU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI0U1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-025",
+    "title": "天真爛漫 いづな",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "驚いただけだろ、です",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から3枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_025",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oB0Ea8Lw73mbIvCFoMlPJBtcflBaK1xHNE6SgF0sybA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-026",
+    "title": "ムキになるクラミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "赤ん坊のころから知ってるからっていつまでも子ども扱いしないでくれる！？",
+    "effect": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－3000。（公開したカードは元に戻す）",
+    "scraper": "NGL_S58_026",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-026S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oYpmGSw23163tTt3t-m6o9LkdYZAQG1F05Cvfs6zrYk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-026S",
+    "title": "ムキになるクラミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "SR",
+    "side": "s",
+    "say": "空「クラミーのおっぱい偽装してる魔法、あれは幻惑？　それとも変質させてる？」",
+    "effect": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－3000。（公開したカードは元に戻す）",
+    "scraper": "NGL_S58_026S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-026"
+    ],
+    "relation": [],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_ub4SlnO6aqStQydZO_fkh1UnlnXrbLeKI1hHOCLWS0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI2Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-027",
+    "title": "初瀬 いの",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "s",
+    "say": "…お待ちしておりました",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】 あなたが『加速』を使った時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "NGL_S58_027",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wdwknF75rdRX7jc35wb-2Jjw5XnVKR5oHSvR0SLNRG0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-028",
+    "title": "クールキャラ クラミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "な、泣いてないわっ！　泣いたことすらないわっ！",
+    "effect": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「最後の駒」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+    "scraper": "NGL_S58_028",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-048",
+      "NGL/S58-032"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yiQ8ZylSLcIXnFz3U16f_MXOmfaQN5SN7SfUrfAAZ9M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-029",
+    "title": "東部連合在エルキア大使 いづな",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "なに気安くさわってやがる、です",
+    "effect": "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』",
+    "scraper": "NGL_S58_029",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-029S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KaUUDEjPc4isOmwQNg6sW1QnfMuYI8S0u7gaLqC8WTI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-029S",
+    "title": "東部連合在エルキア大使 いづな",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SR",
+    "side": "s",
+    "say": "じいじよりうめぇ、です。もっとやれ、です。",
+    "effect": "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』",
+    "scraper": "NGL_S58_029S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-029"
+    ],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8D-OCSTFsdZK4Q7rzqYwGB8v2aWD85CXLjkOuh6z6As/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDI5Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-030",
+    "title": "大切な存在 フィール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "クラミーは目を離すと、すぐこっそり泣いてるからぁ、側にいたいのですよぉ",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「遠き約束の日」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
+    "scraper": "NGL_S58_030",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-030S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-047",
+      "NGL/S58-047R",
+      "NGL/S58-044"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ja28TuqrUaCRLjcX0j1Zk16e4IluUMNq285G7c3hlyY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDMwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-030S",
+    "title": "大切な存在 フィール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SR",
+    "side": "s",
+    "say": "やっぱり裸の付き合いで偽装は失礼だと思うのですよぉ",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「遠き約束の日」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
+    "scraper": "NGL_S58_030S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-030"
+    ],
+    "relation": [
+      "NGL/S58-047",
+      "NGL/S58-047R",
+      "NGL/S58-044"
+    ],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5yRmC0E-PVW35b-xtbjTG5u3i4PgxZwClBWlPux6Kb8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDMwUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-031",
+    "title": "我慢の限界 クラミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "なめてないもん！　本気だったんだもぉん！",
+    "effect": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\n【自】［(2)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_031",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xMZDmsquWrR0uR9z1i9eSANk5kJ7P6h7C_lPx5bc6Gk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDMxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-032",
+    "title": "過去の遺恨 フィール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "はぁい、許したのですよ～",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 絆／「クールキャラ クラミー」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「クールキャラ クラミー」を1枚選び、手札に戻す）",
+    "scraper": "NGL_S58_032",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-028"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hH_P3p7zPjZw8EbLp6CkaeLhHKY-rlVoG7oPmw-a1VY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDMyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-033",
+    "title": "獣人種全権代理者 巫女",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "ようよう楽しそうやねぇあてもよせてもらおか？",
+    "effect": "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、このカードがいた枠に置く。",
+    "scraper": "NGL_S58_033",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2Pw95MsNVNiaxVc3ge-v86qASWKvbCoiNHCpDedrksY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDMzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-034",
+    "title": "獣人種の幼女 いづな",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "いの「――お待たせ致しました。東部連合・在エルキア大使――初瀬いづな、でございます」",
+    "effect": "【自】 あなたが『加速』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下ならストック置場の上か下に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。",
+    "scraper": "NGL_S58_034",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2CMhtPaYFfo4D3BeNSFXw5SlJ7T0coJoqzzbtYUfKN8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-035",
+    "title": "水浴び クラミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "……まずは服かしらね",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「似たもの同士」を1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_035",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-046"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AO4S6gR84os-2ctTDQAIqCgcgQT0iBlIt44wjWFP5Qs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-036",
+    "title": "物理限界をも超える力 いづな",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "――おもしれぇ、ですッ！！",
+    "effect": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「血壊」があり、あなたの手札が5枚以下なら、あなたは自分の山札を上から3枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_036",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-050"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FXcr04f24lnhks3wTXsWQWV_bc5xsaAzaXgCuyMBzY4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-037",
+    "title": "お風呂嫌い いづな",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "風呂は嫌ぇ、です",
+    "effect": "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「イヤイヤお風呂タイム」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』その後、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "NGL_S58_037",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-049"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ez_y1kLgp8oAXYT7ob9065UbtiMvdIbnti7CjooZ6Bg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-038",
+    "title": "勝利への執念 いづな",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "U",
+    "side": "s",
+    "say": "空「これが本命のチートってわけか――！」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "NGL_S58_038",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8nmrdaAoVr-CP4u_iLBVKOKG9jWSXgLBZoUkzE6oVfI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-039",
+    "title": "怒涛の猛攻 いづな",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "s",
+    "say": "いわれるまでもねえ、です",
+    "effect": "【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "scraper": "NGL_S58_039",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_ZXFzSXdl7LHHHQqggj5Yf78YZQpXqYYCUCdxovv4DM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDM5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-040",
+    "title": "人類の可能性 フィール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "当然なのですよ～",
+    "effect": "-",
+    "scraper": "NGL_S58_040",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-045"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dz8gg8sMKjXzaceXIVGNw3aEv5zLiQV69QK7k36ZDg4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-041",
+    "title": "卓越した魔法の使い手 フィール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "s",
+    "say": "（なし）",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "NGL_S58_041",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2uXhWQZPAG5FVeDsZnyQKwz59lbepyp6osQcUEWVqBE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-042",
+    "title": "記憶の共有 クラミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "s",
+    "say": "人類の可能性、……信じるわよ",
+    "effect": "【永】 記憶 あなたの思い出置場に「似たもの同士」があるなら、このカードのパワーを＋1000し、ソウルを＋1。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "NGL_S58_042",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-046"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/haEvlrXiciwgMmH-h0YxF9kKbbW-XFkAQbHIbAZa-Ig/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-043",
+    "title": "森精種の協力者 フィール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "s",
+    "say": "クラミー「とっとと出ていったら？　森精種の協力者さん」（森精種ルビ：エルフ）",
+    "effect": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたのカード名に「クラミー」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+    "scraper": "NGL_S58_043",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8u-5fXK9tqRO6mqjZXPbWzhekzjIoxlaGvghWKGBVmg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-044",
+    "title": "幼い頃のクラミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "s",
+    "say": "フィール「一緒に食べましょ♪」",
+    "effect": "【永】 他のあなたの後列の「大切な存在 フィール」1枚につき、このカードのパワーを＋2000。",
+    "scraper": "NGL_S58_044",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-030",
+      "NGL/S58-030S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6nPUMXuJ_BEUGcL3Pko7yWr6PAWo9lQXIZbOXrNwPm0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-045",
+    "title": "人類の可能性 クラミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 6000,
+    "rare": "C",
+    "side": "s",
+    "say": "手伝ってくれる？",
+    "effect": "【永】 あなたの《ゲーム》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 このカードの下にマーカーがあるなら、他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「人類の可能性 フィール」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+    "scraper": "NGL_S58_045",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-040"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LmQaAEDCSBSQ9B_GoavuTJc23WVqGxaAH6bCsLmDf0U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-046",
+    "title": "似たもの同士",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "うわーーーーん",
+    "effect": "あなたは自分の山札を上から2枚まで見て、《ゲーム》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\nこのカードを思い出にする。",
+    "scraper": "NGL_S58_046",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-016",
+      "NGL/S58-035",
+      "NGL/S58-042"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kOV5xLAoAoc7uXtD2VN1msuY0QfkaGeN4HrONMFrmg4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-047",
+    "title": "遠き約束の日",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "クラミー「フィー……もう私に優しくしないで私みたいな奴隷なんかを友達扱いしてたら……」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の緑のキャラを2枚まで選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+    "scraper": "NGL_S58_047",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [
+      "NGL/S58-047R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-024",
+      "NGL/S58-024SP",
+      "NGL/S58-030",
+      "NGL/S58-030S"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gNRqL-vvEhzZAocRlUCxST_3Ww5sKh6QsV6RvjHbEPg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-047R",
+    "title": "遠き約束の日",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "フィール「大事な人を失うような愚かな行動に私が走らないよう、いつも側で見張っていて欲しいのですよぉ」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の緑のキャラを2枚まで選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+    "scraper": "NGL_S58_047R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-047"
+    ],
+    "relation": [
+      "NGL/S58-024",
+      "NGL/S58-024SP",
+      "NGL/S58-030",
+      "NGL/S58-030S"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kTFdI-FrNmlh6ttzlZYvKQj5MczG08oozH6t2a5S-xE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ3Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-048",
+    "title": "最後の駒",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "ジブリール「これで、クラミーとマスターは、互いの全てを知り尽くした、信頼に値する相手になった――」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "NGL_S58_048",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-028"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tB-8yEli2joL_TFTyU-q_SPpoLtfq3RZolD9hlEjnjQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-049",
+    "title": "イヤイヤお風呂タイム",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "白「ちょー同意……でも、いま、は……却下」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "NGL_S58_049",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-037"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IeT_KkY_ysgZp9kCU1VpB8spPS5kKG2GOI6vXlEiXFM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDQ5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-050",
+    "title": "血壊",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "（なし）",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "NGL_S58_050",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-036"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r7rgJVVUvMOSoau9-OzdYI4crZN_utIMP68v4IuWHEo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-051",
+    "title": "思いを継ぐもの ステフ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "お爺様は人類種の可能性を信じていたんですの（人類種ルビ：イマニティ）",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【CXコンボ】 記憶 ［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「巻き添え担当」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与え、そのターン中、このカードのパワーを＋3000。Ｘはあなたの思い出置場の「愚王と呼ばれた男」の枚数に等しい。（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_051",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-051SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-075",
+      "NGL/S58-076",
+      "NGL/S58-076R"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F6InTCWSlAH0EdJ_RTolDrNOt2TlaijQdTLPHS-21NE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-051SP",
+    "title": "思いを継ぐもの ステフ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\n【自】【CXコンボ】 記憶 ［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「巻き添え担当」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与え、そのターン中、このカードのパワーを＋3000。Ｘはあなたの思い出置場の「愚王と呼ばれた男」の枚数に等しい。（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_051SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-051"
+    ],
+    "relation": [
+      "NGL/S58-075",
+      "NGL/S58-076",
+      "NGL/S58-076R"
+    ],
+    "price": {
+      "number": 17800,
+      "string": "17800円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RQNoJOFUDGQz-BPHb36jAjpBSsLOAeSeUZ6Yq2ypfRA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUxU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-052",
+    "title": "『　』の従属者 ジブリール",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "それでこそ我らを統べるべきお方……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_052",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-052SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hJSJpxcKNnpNzMUD91QqZTu4brmaWZK5CdHnSKnMrYM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-052SP",
+    "title": "『　』の従属者 ジブリール",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "NGL_S58_052SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-052"
+    ],
+    "relation": [],
+    "price": {
+      "number": 29800,
+      "string": "29800円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a5pKajAyEOpMVqjNYjTAJikYr5sH_S00DKXEXbXvBXY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUyU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-053",
+    "title": "苦労する常識人 ステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "私と勝負なさい！",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "NGL_S58_053",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-053S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NMCYGPeq3W86JJ4lnCaqAp-h-cKWzSjUJxbi7UOdw5Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-053S",
+    "title": "苦労する常識人 ステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SR",
+    "side": "s",
+    "say": "いったい何がしたいんですのよぉっ！",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "NGL_S58_053S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-053"
+    ],
+    "relation": [],
+    "price": {
+      "number": 3480,
+      "string": "3480円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HTWtvUNomv_HbyiT9cWEfzrIJktdBSKCdqoZT4NUuks/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDUzUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-054",
+    "title": "知識を尊ぶ種族 ジブリール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "未知ほど崇高なものがありますでしょうかっ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。\n【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_054",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-054S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4iMJqgV5Y9rrL_ISjqEEaWskOLWr-vOeVrXwJ33dGZQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-054S",
+    "title": "知識を尊ぶ種族 ジブリール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SR",
+    "side": "s",
+    "say": "おほん、裸の付き合いとは古くは戦乱時代、武器を仕込めず――",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。\n【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_054S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-054"
+    ],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4aZFH8DkFedo_M5Kw4pYZXTD1vtuB8Pkmdgati5EUGc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU0Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-055",
+    "title": "たった一つのゲーム ジブリール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "s",
+    "say": "いい加減ほこりっぽい場所はいやですね",
+    "effect": "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「天翼種の実力」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのパワーに等しい。\n【自】［手札を1枚クロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_055",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-078",
+      "NGL/S58-078R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nqhenBONtU1-EFSgMY3gXTccF0YLB4qar1dYcfIOns4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-056",
+    "title": "実力者の矜持 ジブリール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "s",
+    "say": "ごきげんよう、犬っころ",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「“死”そのもの」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ゲーム》のキャラを1枚選び、【スタンド】する。",
+    "scraper": "NGL_S58_056",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-056S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-079"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2uLiCGKMe1iYXJ3lOejkxd373mMDn9ae9r90STdeWfg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-056S",
+    "title": "実力者の矜持 ジブリール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SR",
+    "side": "s",
+    "say": "せっかくです、楽しみましょう。",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「“死”そのもの」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ゲーム》のキャラを1枚選び、【スタンド】する。",
+    "scraper": "NGL_S58_056S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-056"
+    ],
+    "relation": [
+      "NGL/S58-079"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r2af2xyWlh0HdqEKiDTGMbBYYK-687UfHaR6Muznwlc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU2Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-057",
+    "title": "先王からの贈り物 ステフ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "R",
+    "side": "s",
+    "say": "渡したいものが、ありますわ",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「人類への信頼の全て」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「希望の鍵」を1枚まで選び、手札に戻す。",
+    "scraper": "NGL_S58_057",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-074",
+      "NGL/S58-077"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1YzsodyMQYiZfjHpNx3cIzFO9hWK-OOtcGhwi-vgibw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-058",
+    "title": "エルキアの内政担当 ステフ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "s",
+    "say": "最後に先ほどの方々を引き入れれば無血で全勢力の取り込みが完成しましたのに",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "NGL_S58_058",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LnWQERd0BFR5MYvExjdpb2aeVRcHNXTnggQlAiKvw7s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-059",
+    "title": "ゲームの正体 ジブリール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "s",
+    "say": "空「記憶を消しても負けたって結果は残る」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "NGL_S58_059",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VfyQN30IY35aQb3wlYrOheN1OmBWkYhd0BpxK9--UHM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDU5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-060",
+    "title": "ぴこーん！ ステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "イカサマなしの対等な勝負に持ちこめるということですのね！",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【自】［手札の《ゲーム》のキャラを1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが<img src=\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\"><img src=\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\">なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_060",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0LQIJAwTKlUhrxwQyaJY3O2I6UT_w9NCBXBv4BKvaC4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDYwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-061",
+    "title": "先王の孫娘 ステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "私はお爺様が間違っていなかったと証明したかった",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「愚王と呼ばれた男」を1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_061",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-075"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m8KKANXhHeQnCiCLdewrrjP_7B0r7s2a6td7QODcySw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDYxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-062",
+    "title": "元十八翼議会 ジブリール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "s",
+    "say": "これでも私はかつて、十八翼議会――アヴァント・ヘイム政府の一翼、それなりに影響力はございますので",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "NGL_S58_062",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/18lXjJkuPZjzWJfPnCA5UlTT2Vwgct4JI8MphXE7E6I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDYyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-063",
+    "title": "ルンルン気分 ステフ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "いいんですのよーー！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "NGL_S58_063",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/W2939JX1B9LCnOx9UjEaX-iq9aT011SFUD15t82ysAE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDYzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-064",
+    "title": "あふれる自信 ジブリール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "U",
+    "side": "s",
+    "say": "どうせ無理でございますが、なんなりと、ご所望ください",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札の《ゲーム》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "NGL_S58_064",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4YkWhl_2L6io61vMHK14lKvhR2Ny9aGUV7OJrs0maEk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-065",
+    "title": "破裂したステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "s",
+    "say": "……死にましたわ",
+    "effect": "【自】 あなたか相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+    "scraper": "NGL_S58_065",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/huM9gNoqjH4pMEdSZFslDJ43mmpvLC6pFpyjhiMLzSg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-066",
+    "title": "愛が止まらない ステフ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "なんて素敵なわ・た・く・し♥",
+    "effect": "【永】 他のあなたの「存在感のないステフ」すべてに、パワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「存在感のないステフ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_066",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-069"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nAscfXlbHbeI0j4IGrufslwspGl6WNfa_6EGRh1-EJ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-067",
+    "title": "興味津々 ジブリール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "ケータイ！？　デンパ！？もしや先ほどの薄い板と関係がっ！？",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "NGL_S58_067",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eaHJ0RJHqQ-JPGNVLsbyO802gbs-CTNbkcBwHkEzCaI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-068",
+    "title": "お風呂タイム ジブリール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "そんなぁ！湯気だらけで生殺しでございますよおおぉぉ！",
+    "effect": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下の《ゲーム》のキャラを1枚選び、舞台の好きな枠に置き、ターンの終わりに、そのキャラを思い出にする。",
+    "scraper": "NGL_S58_068",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y500sDEP7rfnNCTqpkyPOrPdBMWJ7uwbITM-pGahjMs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-069",
+    "title": "存在感のないステフ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "ここで会ったが百年目！",
+    "effect": "-",
+    "scraper": "NGL_S58_069",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-066"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6S1zmY0I3c-3VBrI3ePv71WoU_ZXuPFLOBUT9OStpkc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDY5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-070",
+    "title": "図書館の天翼種 ジブリール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "空＆白「台無し……」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋50。",
+    "scraper": "NGL_S58_070",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4kdmn8rk2UbRuKN4CpExGEnnhH7LvkISjzHNON2wvkM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDcwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-071",
+    "title": "忠誠と献身 ジブリール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "空「数千年にわたって収集したお前の知識、役立ててもらうぞ！」",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ゲーム》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "NGL_S58_071",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rNYQQ5bvgmH7oZjdCXugssR_Q1WK2yOtvan6z4t68gA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDcxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-072",
+    "title": "敗者の姿 ステフ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "C",
+    "side": "s",
+    "say": "……どういう、ことですの？",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。",
+    "scraper": "NGL_S58_072",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Lj70vkvf2uq09sLUVdULUJlPkL6v8O0KlE7OmMfxnNA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDcyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-073",
+    "title": "具象化しりとり",
+    "type": "イベント",
+    "level": 2,
+    "cost": 3,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "s",
+    "say": "無力な人の身ですから、死なない程度で、楽しませてくださいませ",
+    "effect": "あなたの思い出置場に「具象化しりとり」がないなら、このカードを思い出にする。\n【自】 記憶 クライマックスフェイズの始めに、思い出置場にこのカードがあるなら、あなたと相手はゲームをする。\n【自】 記憶 相手のターンの終わりに、思い出置場にこのカードがあるなら、このカードを控え室に置く。\n【リプレイ】 ゲームをするターンプレイヤーは0か1か2か3を宣言する。あなたか相手の、そのレベルのキャラがいるなら、あなたと相手の、そのレベルのキャラすべてを、控え室に置く。そうでないなら、すべてのプレイヤーは自分の控え室のそのレベルのキャラを1枚選び、舞台の好きな枠に置く。",
+    "scraper": "NGL_S58_073",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-106"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cNYaDvMqivXGAtqBqoZ4n35ScaHdX5dWtsm8RlqDoIc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDczLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-074",
+    "title": "希望の鍵",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "お爺様……これ何の鍵ですの……？",
+    "effect": "このカードは、あなたのカード名に「空」か「白」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）",
+    "scraper": "NGL_S58_074",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R",
+      "NGL/S58-057"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-TifAN2QGFzuFUECKAScqIL6w96RDooAkNwYNM9UGng/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-075",
+    "title": "愚王と呼ばれた男",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "我が孫よ。最弱ゆえに知恵を持って強者と渡り合う。それこそが人類の希望なのぢゃ～なのじゃ～",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。このカードを思い出にする。\n【永】 記憶 あなたのターン中、思い出置場にこのカードがあるなら、あなたの《ゲーム》のキャラすべてに、パワーを＋500。",
+    "scraper": "NGL_S58_075",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-051",
+      "NGL/S58-051SP",
+      "NGL/S58-061"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rSbXkTLYsygmymDt6C7EWRQbCxMr1d9sY7A2x-20Fco/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-076",
+    "title": "巻き添え担当",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "ふぁあああっ！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果を行う。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+    "scraper": "NGL_S58_076",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "standby",
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-076R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-051",
+      "NGL/S58-051SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1e0Hrz-DsF8tlmAkcEHHJB2_BlUtZZFdhFooaBoHAzg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-076R",
+    "title": "巻き添え担当",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "いやああああああああ！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果を行う。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+    "scraper": "NGL_S58_076R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "standby",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-076"
+    ],
+    "relation": [
+      "NGL/S58-051",
+      "NGL/S58-051SP"
+    ],
+    "price": {
+      "number": 2480,
+      "string": "2480円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DTaJnu3KgjDknkFJ5Cx06rCpsVMyz76qgLMl45e55-A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc2Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-077",
+    "title": "人類への信頼の全て",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "お爺様……お爺様……",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "NGL_S58_077",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-057"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gzNLazkuhsMfhM4rq0fstaE71ZqxQtyQUL-FqbaI8S4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-078",
+    "title": "天翼種の実力",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "――なるほど、人類種にしておくのがもったいない程でございます",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_078",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [
+      "NGL/S58-078R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-055"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3e05GHKbsalEjZYKhrKjBZBi1A443kTWOy7u3WerPjI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-078R",
+    "title": "天翼種の実力",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "最後は自ら仕掛けた――音のない世界と灼熱の大地によって、あなたは負け――私が勝利したのです",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_078R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-078"
+    ],
+    "relation": [
+      "NGL/S58-055"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OjTJiuyMEIGgcUG9w4ycYXB3x_MmhTBpXDHWmgC1toM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc4Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-079",
+    "title": "“死”そのもの",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "ジブリール「チートの限りを尽くし、気の済むまで恥の上塗りを重ねてくださいませ」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">の効果を行う。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/standby.gif\">：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）",
+    "scraper": "NGL_S58_079",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "standby",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-056",
+      "NGL/S58-056S"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Vl0NvMqysf-9EpvCS0pRub__TTeOu5f5mLTONITYYPo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDc5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-080",
+    "title": "人類種全権代理者 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "RR",
+    "side": "s",
+    "say": "そんなもので勝てるほど……、『　』はアマくない……（『　』ルビ：くうはく）",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_080",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-080SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/12nLX8E9q8usVHu-I9Pondpd6Rt4Mrw_s2Z0Qyxi3V4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-080SP",
+    "title": "人類種全権代理者 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_080SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-080"
+    ],
+    "relation": [],
+    "price": {
+      "number": 19800,
+      "string": "19800円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dtlS26HRQb5Q-l1COLpfDO67YXaIxuBxbIUFujD6eps/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgwU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-081",
+    "title": "二人で一人 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "s",
+    "say": "にぃ……あのあと、いづなたんに話した……",
+    "effect": "【自】【CXコンボ】 あなたのクライマックス置場に「ようこそ、ゲーマー」が置かれた時、前列にこのカードがいるなら、あなたは1枚まで引き、そのターン中、このカードのパワーを＋6000。\n【自】［(1) 手札の《ゲーム》のキャラを2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "scraper": "NGL_S58_081",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-081SSP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-098",
+      "NGL/S58-098R"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yZSip06Z-R7z9_8HNCCwQkXH3o9z42n72xxw4ViARzw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-081SSP",
+    "title": "二人で一人 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SSP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】【CXコンボ】 あなたのクライマックス置場に「ようこそ、ゲーマー」が置かれた時、前列にこのカードがいるなら、あなたは1枚まで引き、そのターン中、このカードのパワーを＋6000。\n【自】［(1) 手札の《ゲーム》のキャラを2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+    "scraper": "NGL_S58_081SSP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-081"
+    ],
+    "relation": [
+      "NGL/S58-098",
+      "NGL/S58-098R"
+    ],
+    "price": {
+      "number": 39800,
+      "string": "39800円",
+      "date": "2024-11-28T04:59:48.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B9QoMQrXOsJ1m7iKiNe5SIB2iLQVDwFMM2eoXYvDSuo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgxU1NQLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-082",
+    "title": "知略の申し子 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "空「……白」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "scraper": "NGL_S58_082",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-082S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RRUkCGPBZwTgqgEpZ-Npt9DllPlq16liHYdEcOOwfqI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-082S",
+    "title": "知略の申し子 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SR",
+    "side": "s",
+    "say": "……ジブリール……あとで、おしおき……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "scraper": "NGL_S58_082S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-082"
+    ],
+    "relation": [],
+    "price": {
+      "number": 2480,
+      "string": "2480円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6k1QDqp-A9NW8O_YNpoqRO9em83RETCzu63d1Nlo7Cg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgyUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-083",
+    "title": "二人にしか分からない道 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "……にぃ、すごい、よ……こんなの誰にも分からない……",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「石に込めた想い」があり、他のあなたの《ゲーム》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、ストック置場の上か下に置き、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_083",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-083S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-099"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yNwum7NbBTMe5kn0HBTSEKPu8mq5t7ohA-MTTNlK4KQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-083S",
+    "title": "二人にしか分からない道 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "SR",
+    "side": "s",
+    "say": "……にぃと、しろ、以外……は、ね",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「石に込めた想い」があり、他のあなたの《ゲーム》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、ストック置場の上か下に置き、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_083S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-083"
+    ],
+    "relation": [
+      "NGL/S58-099"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/u-VF2zzjrMF9t6lgxHa1rhmLJtc27BdFx1QJsLNgbrs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDgzUy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-084",
+    "title": "十の盟約 テト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "勝ち逃げはさせない。次は僕が勝つ――",
+    "effect": "【自】［(1) 手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、カード名に「空」を含むキャラとカード名に「白」を含むキャラを1枚ずつ選び、手札に戻す。",
+    "scraper": "NGL_S58_084",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "唯一神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-084SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Crb64f7hTNJuOo7BM5tuLHFJm_NlUe3YQEF6b0TW4to/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-084SP",
+    "title": "十の盟約 テト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［(1) 手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、カード名に「空」を含むキャラとカード名に「白」を含むキャラを1枚ずつ選び、手札に戻す。",
+    "scraper": "NGL_S58_084SP",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "唯一神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-084"
+    ],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/C3lb09wiNO5U7rCU1aKTLaw2Du-gWm0PJs-XZfsOIZM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg0U1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-085",
+    "title": "幼き軍神 白",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "s",
+    "say": "……全軍、赤き女王勢に、協力……（女王ルビ：クイーン）",
+    "effect": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_085",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NLXiVCb5DIXiRpe5Q5oRUkJsG0liV7KIIp7aG9PQA4U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-086",
+    "title": "生まれ直した世界 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "R",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのクロック置場に「『　』 空＆白」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、自分のストックの上から2枚までを、手札に戻し、自分の手札を同じ枚数選び、ストック置場に好きな順番で置く。\n【自】 相手が【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_086",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-086S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-001",
+      "NGL/S58-001S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/coL867vjhsdepXIIqY7B_u5Q9B54QYtVz9HS1OcnMmM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-086S",
+    "title": "生まれ直した世界 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SR",
+    "side": "s",
+    "say": "……やはりステフか……",
+    "effect": "【永】 あなたのクロック置場に「『　』 空＆白」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、自分のストックの上から2枚までを、手札に戻し、自分の手札を同じ枚数選び、ストック置場に好きな順番で置く。\n【自】 相手が【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_086S",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-086"
+    ],
+    "relation": [
+      "NGL/S58-001",
+      "NGL/S58-001S"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KF_kjCBbOw8wGurFXoyO7iVDcrf1xNUvkqk9i7yoP0s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg2Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-087",
+    "title": "消失の訪れ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "……にぃ、オメガ、ぐっじょぶ。",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【自】【CXコンボ】 あなたのクライマックス置場に「超健全空間」が置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "NGL_S58_087",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-021",
+      "NGL/S58-021R"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LJQ3ankMPy5-6klS8jbzZk3MCzc9NujlDXomtFSoMiI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-088",
+    "title": "一人の朝 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "U",
+    "side": "s",
+    "say": "にぃ……にぃ……、でててきてぇ……しろ、ひとりに、しないでぇ……",
+    "effect": "【永】 他のあなたのカード名に「空」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "NGL_S58_088",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AAMN2O6gxCwLhXr3EDcBXgTwkfTDnzMIuti69aBGwrI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-089",
+    "title": "突然の奇襲 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "……きた、ない……",
+    "effect": "【自】［(1) 手札を1枚クロック置場に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "NGL_S58_089",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/llz8XCihg4F7SyY1xHRo8Y_MIDKBanr_j7C1Sd-IxZ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDg5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-090",
+    "title": "あれれぇ？ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "おっかしいぞぉ？",
+    "effect": "【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場の下に置く。",
+    "scraper": "NGL_S58_090",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JTpGyiHA05xGfGwwtAPlXdLike9sHVGe4-4JmXEooVw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDkwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-091",
+    "title": "にぃとの再会 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "（なし）",
+    "effect": "-",
+    "scraper": "NGL_S58_091",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-006"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Sqr22Yk8v75tl0IHZJOtYX3Cim5g3-V_aRBM9kzD0a0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDkxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-092",
+    "title": "人格崩壊 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "……にぃ……どこぉ……",
+    "effect": "【永】 他のあなたの「コミュニケーションエラー 空」がいないなら、このカードはアタックできない。\n【自】［手札の《ゲーム》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「コミュニケーションエラー 空」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 他のあなたの「コミュニケーションエラー 空」が舞台から控え室に置かれた時、このカードを控え室に置く。",
+    "scraper": "NGL_S58_092",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-012"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4ukSUUKLGRMwzOlzmJwAEV81Gbu2wto4Jh133-DUfoc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDkyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-093",
+    "title": "つまらない勝負 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "C",
+    "side": "s",
+    "say": "……しゅぴー",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】［(1) 手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置き、このカードを【レスト】する。",
+    "scraper": "NGL_S58_093",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/t5o0RBiVVab1rGYMUDlPFX1usQ6x0ME4-2NItYngjAg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDkzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-094",
+    "title": "幼い頃の白",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "C",
+    "side": "s",
+    "say": "……ほん、と……からっぽ……",
+    "effect": "【永】 他のあなたの前列の「幼い頃の白」1枚につき、このカードのパワーを＋2000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「二人の約束」があるなら、あなたは1枚まで引き、自分の山札の上から1枚までを、ストック置場に置く。",
+    "scraper": "NGL_S58_094",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-100"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZFFcfAKwHvjbXwSiLu7QU6jttM3YTnYrzRTcy9mpeEw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-095",
+    "title": "めろめろ 白",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "C",
+    "side": "s",
+    "say": "……ジブリール……すき……■（■：ハート）",
+    "effect": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×1000に等しい。\n【自】 アンコール ［手札の《ゲーム》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "NGL_S58_095",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5ol03semvf4TpRBNXvNiU0_4nDz9mvorxgA1aPJBOh8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-096",
+    "title": "生まれながらの天才",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "……にぃ――おぼえた",
+    "effect": "このカードは、あなたのカード名に「白」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を上から6枚まで見て、カードを1枚まで選び、ストック置場の上か下に置き、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_096",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:53.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nNKw9obSxDYibDKdFv2rh1dJ5KgwihU6ecp4KGJEqYA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-097",
+    "title": "思考の加速",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "空「頼むぞ白。初手で決められなかった以上、ここからはアドリブだ」",
+    "effect": "あなたは自分の【スタンド】している《ゲーム》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_097",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FLSnTRKAy2pDQg4RmpasdVJyiAG2z7PkwnW_yoWWqgg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-098",
+    "title": "ようこそ、ゲーマー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "空「獅子に素手で挑むのは、獅子に任せるよ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "NGL_S58_098",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [
+      "NGL/S58-098R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-081",
+      "NGL/S58-081SSP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YuN4b82Z-z2BM4SIu9Awb4MSC2bxAH5knkligxzmNnk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-098R",
+    "title": "ようこそ、ゲーマー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "『控えめに言って――“最高”じゃね？』",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "NGL_S58_098R",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-098"
+    ],
+    "relation": [
+      "NGL/S58-081",
+      "NGL/S58-081SSP"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_Jo7IiQjY_3zPNZbM2QD3eQnea4icbb5IXSNWV-cXMs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk4Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-099",
+    "title": "石に込めた想い",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "そして、壱……しろ、個人の全、て……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_099",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-083",
+      "NGL/S58-083S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wmHYEjvykTfjaSsCIvCn0PZE8Dpj7_avNQMW1D-zr1g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMDk5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-100",
+    "title": "二人の約束",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "白「……うん。約束通りどこへでも……」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "NGL_S58_100",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "RG/W10-104"
+    ],
+    "relation": [
+      "NGL/S58-010",
+      "NGL/S58-094"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zVIy3iSLX2rGf7gDQok8VyDLzxQ8KdfamJhoUqmemb4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTAwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-101",
+    "title": "異世界からの来訪者 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "s",
+    "say": "『神様』に挑むんだ。正気でやれるか。",
+    "effect": "【自】 このカードがアタックした時、他のあなたの《ゲーム》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "NGL_S58_101",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zs_x5vRDdRdzQzT-wVcusQ7JMw3ufbuEvu7ifbtWoZQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTAxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-102",
+    "title": "人類種のために クラミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 9000,
+    "rare": "PR",
+    "side": "s",
+    "say": "私達にスパイをやれっていうんでしょ？",
+    "effect": "【永】 舞台のこのカードのレベルを－2。\n【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_102",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_FlILAw_vpEQVvB6bAVcHmTzY1p2XrjcNxRXqwuN_8U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTAyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-103",
+    "title": "ニルヴァレン家の当主 フィール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "s",
+    "say": "気軽にフィーって呼んでほしいのですよ～",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_103",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "森精種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nrN9yL37635cJJPKcteqZsAJUsVBW4x5RHCdXsGOcNQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTAzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-104",
+    "title": "間違った言葉遣い いづな",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "PR",
+    "side": "s",
+    "say": "はやく、続けろや、です",
+    "effect": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+    "scraper": "NGL_S58_104",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "獣人種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/q0TFOHapon9C_FbxJtzcsyuLZUWV4_l9X5o17H1RYZw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTA0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-105",
+    "title": "エルキア国の屋台骨 ステフ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "PR",
+    "side": "s",
+    "say": "この国もうダメかもしれませんわね",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "NGL_S58_105",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Q-ulWSnnGgPqUjGbkUzzqlFoK3N-qe_NyombTJ3Pgac/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTA1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-106",
+    "title": "マスターへの敬愛 ジブリール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "s",
+    "say": "マスター以外の人類種にはこれっぽっちも興味はございませんので（人類種ルビ：イマニティ）",
+    "effect": "【永】 記憶 あなたの思い出置場に「具象化しりとり」があるなら、このカードのレベルを＋2し、パワーを＋8000。\n【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+    "scraper": "NGL_S58_106",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-073"
+    ],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/flH1E-C8zEdSKg7vUN3yQIwRxMqjYpJQn9cZBPk8b60/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTA2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-107",
+    "title": "異世界からの来訪者 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "にぃは、言った……常にゲームを始める前に勝っている……",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+    "scraper": "NGL_S58_107",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mh36rFB3zgXiRrtsPxsXsvcgLd0mePN79m1wKW-lDXo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTA3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-108",
+    "title": "ゲームの神 テト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "s",
+    "say": "どうやら君たちを呼んだのは間違いじゃなかったようだね",
+    "effect": "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_108",
+    "productName": "ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "唯一神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RvTSF0DJ9NIqPUyaP_Mu8NS_FC-WPMiF49QJbQEBFVw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfMTA4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-P01",
+    "title": "仲良しお風呂タイム 白＆ステフ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "PR",
+    "side": "s",
+    "say": "ステフ「ちょ！　シロー、そんなに動かれては洗えませんの！」",
+    "effect": "【永】他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカード名に「空」か「白」を含むキャラを1枚選び、手札に戻す。",
+    "scraper": "NGL_S58_P01",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T01",
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yfSnfpbkYORutJ9ZM-QDr6OBZFPLC7-_rcDDSFnYBGc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfUDAxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-P02",
+    "title": "精霊水配合シャンプー ジブリール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "PR",
+    "side": "s",
+    "say": "ふんわりしっとりと、上質な仕上がりになること請け合いでございます",
+    "effect": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《ゲーム》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。\n【自】このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "NGL_S58_P02",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "天翼種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xS9GCiYuOoK_WYv3cFpkkn4iK7BbQL8geJJj4zGAU2c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfUDAyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-P03",
+    "title": "ゲーマー仲間 白＆いづな",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "いづな「くすぐってぇ、です。」",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_P03",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3AeQYNYNK_M83RARHdLFRZEoitiImYogb8BwicNIxg4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfUDAzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-P04",
+    "title": "魅惑のしっぽ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "いづなたんのしっぽ、あらうの、わくわくだから……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードがアタックした時、あなたは他の自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×500に等しい。",
+    "scraper": "NGL_S58_P04",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-P04S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lDYEmeoYlgrDa_aQ1C9NlPnq9DUEFMkyTDDt6Shfgbs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfUDA0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-P04S",
+    "title": "魅惑のしっぽ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "いづなたんのしっぽ、あらうの、わくわくだから……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードがアタックした時、あなたは他の自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×500に等しい。",
+    "scraper": "NGL_S58_P04S",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-P04"
+    ],
+    "relation": [],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gezRvJ0W8lkrKGnsN-xuT32I_8ssXEo1P-jtH0J70Rs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfUDA0Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-T01",
+    "title": "空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ああ、やっぱこの格好が一番落ち着く",
+    "effect": "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+    "scraper": "NGL_S58_T01",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-001",
+      "NGL/S58-001S",
+      "NGL/S58-018",
+      "NGL/S58-074",
+      "NGL/S58-084",
+      "NGL/S58-084SP",
+      "NGL/S58-088",
+      "NGL/S58-P01"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hnKJx7QprMSyCsedU4JVicajbvPVwM51b3j_q4uFpps/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDAxLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T02",
+    "title": "詐術 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "s",
+    "say": "その願いの内容は？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台の好きな枠に置く。（そうでないなら元に戻す）",
+    "scraper": "NGL_S58_T02",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pi5HfflH1CT_94D8qb7pMqhZUlQgevwNP5clyJkwGMw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDAyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T03",
+    "title": "『　』の片割れ 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "その65万分の1が今だったんだろ",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_T03",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-T03R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KudPLjY2cSlIMvxpTIkmE5BorBnprD-9mNf05t2yFqk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDAzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T03R",
+    "title": "『　』の片割れ 空",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "俺らに勝てるやつがいるか、見せてもらおーじゃねえか",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_T03R",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T03"
+    ],
+    "relation": [],
+    "price": {
+      "number": 2980,
+      "string": "2980円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/E_9N8LJLfNkyWIemJ1sfr2ghrX15POaMAHBhVQoPJHo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDAzUi5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-T04",
+    "title": "戦闘指揮 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "s",
+    "say": "騎兵2番隊！　ポーンがあけた活路を無駄にするな！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ゲーム》のキャラの枚数×1000に等しい。",
+    "scraper": "NGL_S58_T04",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HKfGk8aZmGggZgxzKMe3mh2HBl4R-dhSxx0-gqEtNGM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T05",
+    "title": "天才ゲーマー兄妹 空",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "俺ら兄妹だから、これは別に――",
+    "effect": "-",
+    "scraper": "NGL_S58_T05",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T11"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MmfrkjR6d2eC55ph_gS2ARBPtcmwgxPWG29V3ldzaRE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T06",
+    "title": "挑発する挑戦者 空",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "もうちょい笑った方が可愛いよ",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "NGL_S58_T06",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KQQnq0DiglgWU9aYf1AdQgZMEHpNjhZ5j1S6c7k7-E8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T07",
+    "title": "スパイ一掃 空",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "TD",
+    "side": "s",
+    "say": "では行くぞ",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "NGL_S58_T07",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_qeEvEiESgjZMFSIHtZwBnKtCIa4bE_c3rdM9ebd9wI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T08",
+    "title": "国王 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "TD",
+    "side": "s",
+    "say": "とりあえず、これで数ターン様子見ってところか",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+    "scraper": "NGL_S58_T08",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-T08S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/b3rRwx2ssqOUVXV35svbNFaHuJ4PMfgo2FTO1eKHyDM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T08S",
+    "title": "国王 空",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SR",
+    "side": "s",
+    "say": "待たせたな！　人類種同胞諸君！",
+    "effect": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+    "scraper": "NGL_S58_T08S",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T08"
+    ],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XuONee14rACr-8xHzjde32OgowXFrKTUNCXobqz45zw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA4Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-T09",
+    "title": "盟約の力",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "ステフ「違う！　違いますわー！」",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "NGL_S58_T09",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:54.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mFHJVVOtIP1YnmaWYHpwKFP44cqOUN3gK6otTlM_YgA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDA5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T10",
+    "title": "ディスボードへようこそ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "空＆白「超クソゲー」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_T10",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/q5ltC1kdiQntsOQQUdv1_8pBo-QPtuS6CToPNjWxA_Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDEwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T11",
+    "title": "天才ゲーマー兄妹 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "s",
+    "say": "……うぇぇ、にぃにフラれたぁ……",
+    "effect": "【永】 あなたのターン中、他のあなたの「天才ゲーマー兄妹 空」すべてに、パワーを＋2000。\n【自】 絆／「天才ゲーマー兄妹 空」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「天才ゲーマー兄妹 空」を1枚選び、手札に戻す）",
+    "scraper": "NGL_S58_T11",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T05"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rTLnCpGXCdot1WifqGOD5OKb81TkiPdqqbXAM8tvIAA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDExLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T12",
+    "title": "異議あり！ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "……にぃ、が王様なったら……、ハーレム、作れる",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《ゲーム》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。",
+    "scraper": "NGL_S58_T12",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MYw5myRI3_YeOvSmfHLGCh4w_DMbPoXbsTuACteai38/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDEyLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T13",
+    "title": "『　』の片割れ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "……盟約に誓って",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_T13",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-T13SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lPNfY0_wkRo9DPBziUK_RJNrnhFC4X3AP693n7pVNRM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDEzLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T13SP",
+    "title": "『　』の片割れ 白",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SP",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+    "scraper": "NGL_S58_T13SP",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T13"
+    ],
+    "relation": [],
+    "price": {
+      "number": 14800,
+      "string": "14800円",
+      "date": "2024-11-28T04:59:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9gEQ1dKDEVzVtfla8l_EAfFyHEsFDyumvFZqKRRmmnQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDEzU1AucG5n.png"
+  },
+  {
+    "id": "NGL/S58-T14",
+    "title": "白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "TD",
+    "side": "s",
+    "say": "……それ、チート",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×500に等しい。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「戴冠式」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "NGL_S58_T14",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "NGL/S58-T14R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T20",
+      "NGL/S58-T20R",
+      "NGL/S58-001",
+      "NGL/S58-001S",
+      "NGL/S58-018",
+      "NGL/S58-074",
+      "NGL/S58-084",
+      "NGL/S58-084SP",
+      "NGL/S58-096",
+      "NGL/S58-P01"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GVywik-Kp0S5iPX-_aozWMi0uKLaJOZf2hqxvDJRcfg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE0LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T14R",
+    "title": "白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "……にぃ、ずる",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×500に等しい。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「戴冠式」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラなら手札に加える。（そうでないなら元に戻す）",
+    "scraper": "NGL_S58_T14R",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T14"
+    ],
+    "relation": [
+      "NGL/S58-T20",
+      "NGL/S58-T20R",
+      "NGL/S58-001",
+      "NGL/S58-001S",
+      "NGL/S58-018",
+      "NGL/S58-074",
+      "NGL/S58-084",
+      "NGL/S58-084SP",
+      "NGL/S58-096",
+      "NGL/S58-P01"
+    ],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Benxvn-fRpEJt_S5CGkft9HdbvsXgQmKv3ml6O-q4IY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE0Ui5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-T15",
+    "title": "コミュニケーションエラー 白",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "TD",
+    "side": "s",
+    "say": "にぃ！",
+    "effect": "【永】 このカードの正面のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+    "scraper": "NGL_S58_T15",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QYXNsfQ1UFyfAoL9-EpWI7pUGzE5--ph8ANNWiefRy0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE1LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T16",
+    "title": "異世界への招待 テト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "この世の全てが単純なゲームで決まる。――人の命も、国境線さえも！",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "NGL_S58_T16",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "唯一神"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/P3-rm9IdVIMSs-H-S4UWQ5lvLVnAkhi7Y287IOTPcDE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE2LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T17",
+    "title": "不健全への誘い 白",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "s",
+    "say": "……にぃ……、童貞卒業、おめ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×1000に等しい。",
+    "scraper": "NGL_S58_T17",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0ZrcrLZ_93b2iYxw5FdhSzAwqFw7jRtBc2C3QqhNvSY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE3LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T18",
+    "title": "国王 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "TD",
+    "side": "s",
+    "say": "……チェスなんて……ただの、マルバツゲーム",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×1000に等しい。\n【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "NGL_S58_T18",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-T18S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h0IccFNLkVobKoJpQTr39FTjwBxJv58H0jgcewJ39ew/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE4LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T18S",
+    "title": "国王 白",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "SR",
+    "side": "s",
+    "say": "……二人で……『　』。大、丈夫",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×1000に等しい。\n【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "NGL_S58_T18S",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "ゲーム",
+      "人類種"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T18"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/izKXTuGOYhSx-O_LnMIlMTEl050_mSHXMzws2FD_AtM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE4Uy5wbmc.png"
+  },
+  {
+    "id": "NGL/S58-T19",
+    "title": "反撃の一手",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "空「別に戦わなくたって……勝てる！」",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "NGL_S58_T19",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0ctk0yMV9inBkJDjVxb8pad4lEq9bbpYXFNNT96WeA4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDE5LnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T20",
+    "title": "戴冠式",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "空「生き残るための力を！　強者が手にしたからだ！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_T20",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [
+      "NGL/S58-T20R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T04:59:55.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/inkEcyo-zomFFCw48PvLzAANQVM9wDTH4RRK9LA3yaA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDIwLnBuZw.png"
+  },
+  {
+    "id": "NGL/S58-T20R",
+    "title": "戴冠式",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "RRR",
+    "side": "s",
+    "say": "空「我ら二人は弱者として生き、弱者らしく戦い、そして弱者らしく強者を屠ることをここに宣言する！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "NGL_S58_T20R",
+    "productName": "[TD+]ノーゲーム・ノーライフ",
+    "seriesCode": "NGL",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "NGL/S58-T20"
+    ],
+    "relation": [
+      "NGL/S58-T14",
+      "NGL/S58-T14R"
+    ],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T04:59:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jNksD-VHSW9yYhc7iMp4z6aE2pspNOwV5NP8ruf4LUs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL05HTF9TNThfVDIwUi5wbmc.png"
+  }
+]
