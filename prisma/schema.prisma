@@ -30,11 +30,3 @@ model deck_list {
   deck_description String    @db.VarChar(255)
   build_time       DateTime? @default(now()) @db.DateTime(0)
 }
-
-model users_test {
-  id          Int     @unique(map: "id_UNIQUE") @default(autoincrement())
-  username    String? @db.VarChar(50)
-  email       String  @unique @db.VarChar(100)
-  password    String  @db.VarChar(255)
-  google_auth Int?    @db.TinyInt
-}
