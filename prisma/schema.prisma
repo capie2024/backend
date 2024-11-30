@@ -15,10 +15,85 @@ model add_article {
 }
 
 model users_test {
-  id       Int     @unique(map: "id_UNIQUE") @default(autoincrement())
-  username String? @db.VarChar(50)
-  email    String  @unique @db.VarChar(100)
-  password String  @db.VarChar(255)
+  id               Int                @unique(map: "id_UNIQUE") @default(autoincrement())
+  username         String?            @db.VarChar(50)
+  email            String             @unique @db.VarChar(100)
+  password         String             @db.VarChar(255)
+  google_auth      Int?               @db.TinyInt
+  comment_reaction comment_reaction[]
+}
+
+model comment_area {
+  id                  Int                @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  username            String             @db.VarChar(45)
+  created_at          DateTime           @db.Timestamp(0)
+  content             String             @db.Text
+  like_count          Int                @default(0)
+  profile_picture_url String             @db.VarChar(255)
+  accountId           Int?
+  account_page        account_page?      @relation(fields: [accountId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_account_id")
+  comment_reaction    comment_reaction[]
+
+  @@index([accountId], map: "fk_account_id")
+}
+
+model deck_list {
+  deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
+  user_email       String    @db.VarChar(45)
+  deck_name        String    @db.VarChar(45)
+  deck             String    @db.VarChar(255)
+  deck_cover       String    @db.VarChar(255)
+  deck_description String    @db.VarChar(255)
+  build_time       DateTime? @default(now()) @db.DateTime(0)
+}
+
+model user_auths {
+  id              Int                  @id @default(autoincrement())
+  user_id         Int?
+  auth_type       user_auths_auth_type
+  auth_provide    String?              @db.VarChar(45)
+  auth_provide_id String?              @db.VarChar(100)
+  auth_email      String               @unique(map: "auth_email_UNIQUE") @db.VarChar(45)
+  password_hash   String?              @db.VarChar(255)
+  created_at      DateTime?            @default(now()) @db.Timestamp(0)
+  last_login      DateTime?            @db.Timestamp(0)
+  users           users?               @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_users_id")
+
+  @@index([user_id], map: "fk_users_id_idx")
+}
+
+model users {
+  id         Int          @id @default(autoincrement())
+  email      String       @unique(map: "email_UNIQUE") @db.VarChar(45)
+  username   String?      @default("User") @db.VarChar(45)
+  created_at DateTime?    @default(now()) @db.Timestamp(0)
+  updated_at DateTime?    @default(now()) @db.Timestamp(0)
+  user_auths user_auths[]
+}
+
+model account_page {
+  id                  Int            @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  username            String         @unique @db.VarChar(45)
+  profile_picture_url String         @db.VarChar(255)
+  comment_area        comment_area[]
+}
+
+model comment_reaction {
+  id           Int          @unique(map: "id_UNIQUE")
+  user_id      Int          @default(autoincrement())
+  message_id   Int
+  liked        Int?         @default(0) @db.TinyInt
+  bad_liked    Int?         @db.TinyInt
+  comment_area comment_area @relation(fields: [message_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "message_id")
+  users_test   users_test   @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "user_id")
+
+  @@id([user_id, id, message_id])
+  @@index([message_id], map: "message_id")
+}
+
+enum user_auths_auth_type {
+  local
+  oauth
 }
 
 model deck_list {
