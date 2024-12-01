@@ -5,8 +5,10 @@ const port = 3000;
 const cors = require('cors');
 // const mysql = require('mysql2')
 const login  = require('./src/routes/login');
-const deckMakeRoutes = require('./src/routes/deck-make');
 const authRouter = require('./src/routes/auth');
+const deckMake = require('./src/routes/deck-make');
+const cardSeries = require('./src/routes/card-series');
+
 
 app.use(cors());
 
@@ -47,7 +49,8 @@ router.post('/signup', (req, res) => {
 });
 
 app.use('/api', router);
-app.use('/api', deckMakeRoutes);
+app.use('/api', deckMake);
+app.use('/api', cardSeries);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);

@@ -38,6 +38,7 @@ model comment_area {
 }
 
 model deck_list {
+  id               Int       @id @unique(map: "id_UNIQUE") @default(autoincrement())
   deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
   user_email       String    @db.VarChar(45)
   deck_name        String    @db.VarChar(45)
@@ -94,14 +95,4 @@ model comment_reaction {
 enum user_auths_auth_type {
   local
   oauth
-}
-
-model deck_list {
-  deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
-  user_email       String    @db.VarChar(45)
-  deck_name        String    @db.VarChar(45)
-  deck             String    @db.VarChar(255)
-  deck_cover       String    @db.VarChar(255)
-  deck_description String    @db.VarChar(255)
-  build_time       DateTime? @default(now()) @db.DateTime(0)
 }
