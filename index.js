@@ -13,6 +13,7 @@ const base64 = require("./src/routes/Base64")
 const dailyCard = require('./src/routes/daily-card');
 
 
+const userRouter = require('./src/routes/user-profile');
 
 app.use(cors());
 
@@ -21,7 +22,8 @@ app.use(express.json());
 
 app.use('/api', login);
 app.use('/auth', authRouter);
-// app.use(require('./src/routes/google-auth'));
+app.use(require('./src/routes/google-auth'));
+app.use(userRouter);
 
 // const db = mysql.createPool({
 //   host: "dev-testdb.ctcm8i88mnas.ap-northeast-1.rds.amazonaws.com",
