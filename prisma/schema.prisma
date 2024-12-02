@@ -27,22 +27,9 @@ model users_test {
   google_auth Int?    @db.TinyInt
 }
 
-model comment_area {
-  id                     Int                      @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  username               String                   @db.VarChar(45)
-  created_at             DateTime                 @db.Timestamp(0)
-  content                String                   @db.Text
-  like_count             Int                      @default(0)
-  profile_picture_url    String                   @db.VarChar(255)
-  accountId              Int?
-  account_page           account_page?            @relation(fields: [accountId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_account_id")
-  user_comment_reactions user_comment_reactions[]
-
-  @@index([accountId], map: "fk_account_id")
-}
-
 model deck_list {
   id               Int       @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  user_id          Int?
   deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
   user_email       String    @db.VarChar(45)
   deck_name        String    @db.VarChar(45)
@@ -50,7 +37,11 @@ model deck_list {
   deck_cover       String    @db.VarChar(255)
   deck_description String    @db.VarChar(255)
   build_time       DateTime? @default(now()) @db.Timestamp(0)
+<<<<<<< HEAD
   users            users     @relation(fields: [user_id], references: [id], onUpdate: Restrict, map: "fk_user_id")
+=======
+  users            users?    @relation(fields: [user_id], references: [id], onDelete: Restrict, onUpdate: Restrict, map: "fk_user_id")
+>>>>>>> 964d0bb (can get google picture)
 
   @@index([user_id], map: "fk_user_id_idx")
 }
@@ -82,25 +73,70 @@ model users {
   user_auths  user_auths[]
 }
 
-model account_page {
-  id                     Int                      @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  username               String                   @unique @db.VarChar(45)
-  profile_picture_url    String                   @db.VarChar(255)
-  comment_area           comment_area[]
-  user_comment_reactions user_comment_reactions[]
+model account {
+  id                Int                 @id @default(autoincrement())
+  username          String              @db.VarChar(45)
+  email             String              @db.VarChar(45)
+  profile_picture   String              @db.VarChar(255)
+  comment_likes     comment_likes[]
+  comment_reactions comment_reactions[]
+  comments          comments[]
+  posts             posts[]
 }
 
-model user_comment_reactions {
-  id           Int          @unique(map: "id_UNIQUE") @default(autoincrement())
-  user_id      Int
-  message_id   Int
-  liked        Boolean
-  bad_liked    Boolean
-  comment_area comment_area @relation(fields: [message_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "message_id")
-  account_page account_page @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "user_id")
+model comment_likes {
+  id         Int       @id @default(autoincrement())
+  comment_id Int
+  user_id    Int
+  created_at DateTime? @db.Timestamp(0)
+  comments   comments  @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comment_likes_comment_id")
+  account    account   @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comment_likes_user_id")
 
-  @@id([user_id, message_id])
-  @@index([message_id], map: "message_id")
+  @@index([comment_id], map: "fk_comment_likes_comment_id")
+  @@index([user_id], map: "fk_comment_likes_user_id")
+}
+
+model comment_reactions {
+  id         Int       @id @default(autoincrement())
+  comment_id Int
+  user_id    Int
+  liked      Boolean   @default(false)
+  disliked   Boolean   @default(false)
+  created_at DateTime? @db.Timestamp(0)
+  comments   comments  @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comment_reactions_comment_id")
+  account    account   @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comment_reactions_user_id")
+
+  @@index([comment_id], map: "fk_comment_reactions_comment_id")
+  @@index([user_id], map: "fk_comment_reactions_user_id")
+}
+
+model comments {
+  id                Int                 @id @default(autoincrement())
+  post_id           Int
+  user_id           Int
+  message           String              @db.Text
+  like_count        Int
+  created_at        DateTime            @db.Timestamp(0)
+  comment_likes     comment_likes[]
+  comment_reactions comment_reactions[]
+  posts             posts               @relation(fields: [post_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comments_post_id")
+  account           account             @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comments_user_id")
+
+  @@index([post_id], map: "fk_comments_post_id")
+  @@index([user_id], map: "fk_comments_user_id")
+}
+
+model posts {
+  id          Int        @id @default(autoincrement())
+  user_id     Int
+  article_num Int
+  title       String     @db.VarChar(255)
+  content     String     @db.Text
+  created_at  DateTime   @db.Timestamp(0)
+  comments    comments[]
+  account     account    @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_posts_user_id")
+
+  @@index([user_id], map: "fk_posts_user_id")
 }
 
 enum user_auths_auth_type {
