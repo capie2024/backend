@@ -18,7 +18,7 @@ app.use(express.json());
 
 app.use('/api', login);
 app.use('/auth', authRouter);
-app.use(require('./src/routes/google-auth'));
+// app.use(require('./src/routes/google-auth'));
 
 // const db = mysql.createPool({
 //   host: "dev-testdb.ctcm8i88mnas.ap-northeast-1.rds.amazonaws.com",
