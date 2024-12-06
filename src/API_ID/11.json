@@ -1,0 +1,6421 @@
+[
+  {
+    "id": "PT/W07-001",
+    "title": "決意の江漣",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RR",
+    "side": "w",
+    "say": "……私の命は……あなたを守るためだけに、ある……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 アンコールステップの始めに、あなたのクライマックス置場に「風の記憶」があるなら、あなたはこのカードを手札に戻してよい。",
+    "scraper": "PT_W07_001",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-001S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-024",
+      "PT/W07-T09"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qYRr6apXFwNbaOQWDGXWWGKVr8GqE-Q_ZUGXQXkP5HU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDEucG5n.png"
+  },
+  {
+    "id": "PT/W07-001S",
+    "title": "決意の江漣",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 アンコールステップの始めに、あなたのクライマックス置場に「風の記憶」があるなら、あなたはこのカードを手札に戻してよい。",
+    "scraper": "PT_W07_001S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-001"
+    ],
+    "relation": [
+      "PT/W07-024",
+      "PT/W07-T09"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0RMRWN6v4zkZb0eSOliWTs1q9nNLurdCRS4IxU05ggg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDFTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-002",
+    "title": "ファントムの助手キャル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RR",
+    "side": "w",
+    "say": "ここにある服ぜんぶ、同じくらい欲しいんだもん",
+    "effect": "【永】 他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500し、ソウルを＋1。\n【自】［(1)］  あなたのクライマックス置場に「報酬」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "PT_W07_002",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-002R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-025"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/f4ZgYlWy8uQQDzzU2dR9gVY6MJiF8_h9g9YVU-6rl0w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDIucG5n.png"
+  },
+  {
+    "id": "PT/W07-002R",
+    "title": "ファントムの助手キャル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500し、ソウルを＋1。\n【自】［(1)］  あなたのクライマックス置場に「報酬」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "PT_W07_002R",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-002"
+    ],
+    "relation": [
+      "PT/W07-025"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Izhma28pMCgIAmn-qSPgFiZTdscayFHq76eDHJu1_jc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDJSLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-003",
+    "title": "デート中のアイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "w",
+    "say": "お待たせ",
+    "effect": "【起】［(1) このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。\n【起】［このカードをクロック置場に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_003",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hUrvD9v50YQjgLnSY3eBeorsFbzQFZgwzTVWI9BuhIE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDMucG5n.png"
+  },
+  {
+    "id": "PT/W07-004",
+    "title": "ツヴァイの教官アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "ほら、早くする。時間には限りがあるんだからね",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+    "scraper": "PT_W07_004",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N7-achf-UDYyS2N5TbYveJiZauSJ3AIHQC2dmLRA_fU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDQucG5n.png"
+  },
+  {
+    "id": "PT/W07-005",
+    "title": "湯上りキャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "……ねえ、玲二……家族とか、いる？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+    "scraper": "PT_W07_005",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-005S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j5l-yO0q-tWqZfrwQKuqzXnGeV15wVVkR8IT467-cEg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDUucG5n.png"
+  },
+  {
+    "id": "PT/W07-005S",
+    "title": "湯上りキャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+    "scraper": "PT_W07_005S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-005"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a7k3KWCM-Z_chii3YJ6tFhACd_CcBYzpdzy_qquAvxc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDVTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-006",
+    "title": "羊の中の狼アイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "羊の皮を被っても、狼の嗅覚は忘れない",
+    "effect": "【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのソウルを＋1。",
+    "scraper": "PT_W07_006",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-008"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lF9pI5EDWTO-RE98XQSsrGNFraFSNR22Jbkq4tN9djo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDYucG5n.png"
+  },
+  {
+    "id": "PT/W07-007",
+    "title": "一心同体のパートナー キャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "w",
+    "say": "あなたとあたしはこれからパートナーよ！",
+    "effect": "【永】 あなたのターン中、他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "PT_W07_007",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BxiTCPsHlqp3PmSdmRYkcFGOgKj299whu0-OztKI0Zk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDcucG5n.png"
+  },
+  {
+    "id": "PT/W07-008",
+    "title": "生きた証 江漣",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "あなたは、キャルと戦うべきじゃない",
+    "effect": "【自】 チェンジ ［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「羊の中の狼アイン」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_008",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-006"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BGe5rVt3QT0Qj5WuAgzvFTV7Ful5SzwmD583nR03rdg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDgucG5n.png"
+  },
+  {
+    "id": "PT/W07-009",
+    "title": "キャル・ディヴェンス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "U",
+    "side": "w",
+    "say": "あたし、きっと役に立つよ！",
+    "effect": "-",
+    "scraper": "PT_W07_009",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/riwgWuz2Wh4TDZ_YtlsS6zZoirN1k3ofy-JcSuG6SAk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMDkucG5n.png"
+  },
+  {
+    "id": "PT/W07-010",
+    "title": "自らの意志エレン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "U",
+    "side": "w",
+    "say": "私はエレン……そう望まれ、そう生きる……",
+    "effect": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「笑顔」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "PT_W07_010",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-023",
+      "PT/W07-023SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7WWHtvNxuqVZM_QuyTjZdCi4KoKG1XB7qyP1q6oMHRg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTAucG5n.png"
+  },
+  {
+    "id": "PT/W07-011",
+    "title": "虹を見る 江漣＆玲二",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "U",
+    "side": "w",
+    "say": "江漣「……気づかないところだったわ」玲二「当たり前の景色だからな。案外、そういうもんだよ」",
+    "effect": "【永】 このカードの正面のキャラのソウルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+    "scraper": "PT_W07_011",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oud7ehNU5OfLVOxUYbantiTneFXtNlEKGBQruvIU1iI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTEucG5n.png"
+  },
+  {
+    "id": "PT/W07-012",
+    "title": "はらぺこキャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "あたし、昔から夢だったんだよね～",
+    "effect": "【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+    "scraper": "PT_W07_012",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2qmrFFRqP1sflaThXlf2NQujvwMIqB9y8lBh4gy3JGk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTIucG5n.png"
+  },
+  {
+    "id": "PT/W07-013",
+    "title": "玲二の妹 江漣",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "行ってらっしゃい、兄さん",
+    "effect": "-",
+    "scraper": "PT_W07_013",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EPq8uGuGT9V_wWzcan23rcCedg5x9t50aAQ9Bu9bv1Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTMucG5n.png"
+  },
+  {
+    "id": "PT/W07-014",
+    "title": "おめかしキャル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "離れたくないの！ずっとレイジのそばにいたい！",
+    "effect": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「練習中のキャル」を1枚選び、このカードがいた枠に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "PT_W07_014",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-018",
+      "PT/W07-T07"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MEe4xg0qqoO3dQaTfxbPdyboRtsAp-xv3E32KuEx_A8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTQucG5n.png"
+  },
+  {
+    "id": "PT/W07-015",
+    "title": "曖昧な記憶エレン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "そう。それが、あなたがあなたである証……",
+    "effect": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+    "scraper": "PT_W07_015",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7kJDnxKcuwF_VKZdXhcmQa4peeCsElQJ4vPO3f6o1AQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTUucG5n.png"
+  },
+  {
+    "id": "PT/W07-016",
+    "title": "水着のアイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "どう……？",
+    "effect": "【自】 他のあなたのキャラとバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_016",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Z4SWQgzO1Stn2duuPA9J7z2cieQc2pnfpKC9_hjnolo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTYucG5n.png"
+  },
+  {
+    "id": "PT/W07-017",
+    "title": "セーラー服の江漣",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "バァンッ！",
+    "effect": "-",
+    "scraper": "PT_W07_017",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1Igl3JAtk6LsxBDG2kxvUbZnpkDDHlVFSFfvGmVDISk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTcucG5n.png"
+  },
+  {
+    "id": "PT/W07-018",
+    "title": "練習中のキャル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "俺に用か？　どうなんだ？　俺に用か？",
+    "effect": "【自】 このカードが控え室から舞台に置かれた時、あなたは相手の後列のコスト0以下のキャラを1枚選び、手札に戻してよい。",
+    "scraper": "PT_W07_018",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-014",
+      "PT/W07-T04"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xKZTu34sIwQ3gZlr0CJ0HN1N0hpSoWf5LZmbVBeMRiQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTgucG5n.png"
+  },
+  {
+    "id": "PT/W07-019",
+    "title": "約束",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "だって、玲二が！　玲二が！",
+    "effect": "あなたは自分のカード名に「キャル」を含むキャラを1枚選び、手札に戻す。そうしたら、あなたは自分の山札を見てカード名に「ドライ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "PT_W07_019",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UfFGeSzYQmR8bV6lRDgqxOsJ4KOgGs8FTV1yLspuxzE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMTkucG5n.png"
+  },
+  {
+    "id": "PT/W07-020",
+    "title": "コルト＝パイソン",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "アイン「ここが照門、ここが照星。照門の谷間から照星を見るようにして狙うの」",
+    "effect": "このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "PT_W07_020",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VqnG3jIBFl_JQYtu2F6ueGVX3l3CfiAO08GO39_0TeQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjAucG5n.png"
+  },
+  {
+    "id": "PT/W07-021",
+    "title": "告悔",
+    "type": "イベント",
+    "level": 3,
+    "cost": 3,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "……神様に、直接……いつかは、会えるはずだから……",
+    "effect": "あなたは自分の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。このカードを思い出にする。",
+    "scraper": "PT_W07_021",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AZImCMGv0wXzc66JEVIC7-Sy2fWaamU3G4_rxPphHx0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjEucG5n.png"
+  },
+  {
+    "id": "PT/W07-022",
+    "title": "訓練",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "アイン「持ち方は……こう。トリガーには指を掛けないで」",
+    "effect": "【カウンター】　あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_022",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZUHR9FX7S-ePOb4OoAx0Pvo21KTKSzpzOGJQqnzANB0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjIucG5n.png"
+  },
+  {
+    "id": "PT/W07-023",
+    "title": "笑顔",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "……この空に、見覚えがある……何度も夢に、見たことがある……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "PT_W07_023",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-023SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-010"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/L93Pru3epyQGnWmc_XreAX_UqedNCoPBV2MSOBjJnjE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjMucG5n.png"
+  },
+  {
+    "id": "PT/W07-023SP",
+    "title": "笑顔",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "PT_W07_023SP",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-023"
+    ],
+    "relation": [
+      "PT/W07-010"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r3PHqifMQtpEbBDnVWgDQ_JEIz9MItgPVWY2BorpfyY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjNTUC5wbmc.png"
+  },
+  {
+    "id": "PT/W07-024",
+    "title": "風の記憶",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "眩しいくらい明るくて……それで、風が吹いてる。すごく強い風が",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_024",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-001",
+      "PT/W07-001S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BeJ-bs_i5Cw5J6LDmQQFpLZX1op1L2FC1Qa3XeO0V3A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjQucG5n.png"
+  },
+  {
+    "id": "PT/W07-025",
+    "title": "報酬",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "……大事にするね。ずっと……！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_025",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-002",
+      "PT/W07-002R"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/T5AgJZfZg14IjPvhD60BKOVoqH2T9DVza1KUUuVAak4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjUucG5n.png"
+  },
+  {
+    "id": "PT/W07-026",
+    "title": "陰謀家クロウディア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "w",
+    "say": "本当の君が……過去が……ここにある",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたの舞台の「二番目の男ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムを継ぎし者”ツヴァイ」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "PT_W07_026",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-026R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-027",
+      "PT/W07-042",
+      "PT/W07-110"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/U8-fpYbIAb1XM0NxvTXV_CXwjP4xuyjONJZ9y3MPMms/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjYucG5n.png"
+  },
+  {
+    "id": "PT/W07-026R",
+    "title": "陰謀家クロウディア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたの舞台の「二番目の男ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムを継ぎし者”ツヴァイ」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "PT_W07_026R",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-026"
+    ],
+    "relation": [
+      "PT/W07-027",
+      "PT/W07-042",
+      "PT/W07-110"
+    ],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nUa585w4wjvK2QnCqrcgtTNNQFGaHQrz9KeVavs5AKQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjZSLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-027",
+    "title": "二番目の男ツヴァイ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "RR",
+    "side": "w",
+    "say": "アイン「あなたは二番目の男、ツヴァイ」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "PT_W07_027",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-026",
+      "PT/W07-026R"
+    ],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7FSP30Rlw6n4TiJemaG4vIQb45PdalqRVQ2oQa2pomg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjcucG5n.png"
+  },
+  {
+    "id": "PT/W07-028",
+    "title": "野心家クロウディア",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "w",
+    "say": "私欲のままに組織を惑わした裏切り者を……この私が処分いたしました",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+    "scraper": "PT_W07_028",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uEIXauMrrsxOcnHRH9p3TAXoxY0IBSh__g7rIMuZjUM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjgucG5n.png"
+  },
+  {
+    "id": "PT/W07-029",
+    "title": "レイモンド・マグワイア",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "w",
+    "say": "破壊と創造、この国の全てが変わる、我々の時代、インフェルノの時代に",
+    "effect": "【永】 他のあなたのカード名に「ツヴァイ」を含むキャラすべてのカード名は、「ファントム」としても扱う。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［あなたの舞台の「“ファントムを継ぎし者”ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムの力”ツヴァイ」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "PT_W07_029",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-042",
+      "PT/W07-043",
+      "PT/W07-110"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/b5kcG3hZO_7jDwqBuMazXdg_S2DitBvL8wfLmPcmNAQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMjkucG5n.png"
+  },
+  {
+    "id": "PT/W07-030",
+    "title": "リズィ・ガーランド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "R",
+    "side": "w",
+    "say": "おら、蛇野郎！　撃ってきやがれ！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「仁義」があるなら、あなたは自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+    "scraper": "PT_W07_030",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-030S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-050"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/awZICLSipGnSyORsP_qqE0JoVDdaDXsIz1D0FmkYYWk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzAucG5n.png"
+  },
+  {
+    "id": "PT/W07-030S",
+    "title": "リズィ・ガーランド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「仁義」があるなら、あなたは自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+    "scraper": "PT_W07_030S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-030"
+    ],
+    "relation": [
+      "PT/W07-050"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OuOqhZtlptWOVgGuAav85_tHLUSC7wgKygFXBaps-uU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzBTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-031",
+    "title": "“インフェルノのファントム”ツヴァイ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "R",
+    "side": "w",
+    "say": "マグワイヤ「今、この瞬間から、君は、インフェルノのファントムだ」",
+    "effect": "【永】 このカードの正面のキャラのソウルを－1。\n【自】［(3)］ このカードとバトル中のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。\n【自】 アンコール ［手札のクライマックスを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_031",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8EhjF6eNowvGFdTfqekrFlVyCgGgzC0sbWAvC5iMyII/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzEucG5n.png"
+  },
+  {
+    "id": "PT/W07-032",
+    "title": "サポート役リズィ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "w",
+    "say": "忠告くらいさせなよ。趣味なんだからさ",
+    "effect": "【永】 他のあなたの《暗黒街》のキャラすべてに、パワーを＋500。\n【起】［(2)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2500。",
+    "scraper": "PT_W07_032",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5IpyXG2DdNZ5TsmPGGGZpTp71BdGmEcHuIr4sN9b0Ok/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzIucG5n.png"
+  },
+  {
+    "id": "PT/W07-033",
+    "title": "裏切り者クロウディア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "時間にルーズな男は……嫌われるわよ。玲二",
+    "effect": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《暗黒街》のキャラすべてに、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。』",
+    "scraper": "PT_W07_033",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/inSQkgkKxqOLo46wHzUl-wh4Mv4c_Ld2WBbiwsMgGsI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzMucG5n.png"
+  },
+  {
+    "id": "PT/W07-034",
+    "title": "食えない女クロウディア",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "w",
+    "say": "では、すべて私の予定通りに進めさせていただきます",
+    "effect": "【永】 他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(1) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ファントムの主クロウディア」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_034",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-036"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yRc3ZAppvcNWD1thQ8o6h-xFYMyfvpGiWR7TqpCJS2o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzQucG5n.png"
+  },
+  {
+    "id": "PT/W07-035",
+    "title": "譲れねぇ仁義リズィ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 2,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "w",
+    "say": "……裏切り者も、カタギに手を出す野郎も、アタシは絶対に許さない",
+    "effect": "-",
+    "scraper": "PT_W07_035",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HyCUSfFqhSBTp8S3OS8jB1feIaFHrwcidkc9iKufdCg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzUucG5n.png"
+  },
+  {
+    "id": "PT/W07-036",
+    "title": "ファントムの主クロウディア",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "w",
+    "say": "……あなたはステキよ…",
+    "effect": "【自】［(4)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを＋6。",
+    "scraper": "PT_W07_036",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-034"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1SEdawAEiKCGqETEmpPedrsp04TNXINTD9J8FNUIBFU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzYucG5n.png"
+  },
+  {
+    "id": "PT/W07-037",
+    "title": "インフェルノの女幹部クロウディア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "ファントムの力は、絶対なの",
+    "effect": "【起】［(1)］ あなたは自分の《暗黒街》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "PT_W07_037",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cKmLW6y4Z5s3XKqVH2HXdl65xHWvN9i3i1W-MgMFH-A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzcucG5n.png"
+  },
+  {
+    "id": "PT/W07-038",
+    "title": "女狐と飼い犬 クロウ＆ツヴァイ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "クロウディア「あなたが必要なのよ。玲二……　私だけの、ファントム……」",
+    "effect": "【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "PT_W07_038",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/w93C3-PCDkr_YZj-GF6QDlVBPs7tSr94qNz931OSOlU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzgucG5n.png"
+  },
+  {
+    "id": "PT/W07-039",
+    "title": "女狐クロウディア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "このスピードで駆け抜けたときだけ、見える景色があったのよ",
+    "effect": "-",
+    "scraper": "PT_W07_039",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KNWRaKpaeV_tVmbjmS19rIbilHRltuxwYzkk5nGK0jI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wMzkucG5n.png"
+  },
+  {
+    "id": "PT/W07-040",
+    "title": "クロウディア・マッキェネン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "力さえあればどんな夢だって見られる世界よ",
+    "effect": "【自】［あなたの舞台のキャラを1枚控え室に置く］ あなたのクライマックス置場に「過去」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《暗黒街》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+    "scraper": "PT_W07_040",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-048",
+      "PT/W07-048SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HW0kayoRvmMEn7fl-B9m8d0IQHlTRlTRsG0TKdO7SV0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDAucG5n.png"
+  },
+  {
+    "id": "PT/W07-041",
+    "title": "ブラディーズの頭目ワイズメル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "ほォ……燃えてるじゃねぇか",
+    "effect": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "PT_W07_041",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zjKO3jJNfw68veI2ZdZ9Quib2n5_i4yfkyPS7QZKx1s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDEucG5n.png"
+  },
+  {
+    "id": "PT/W07-042",
+    "title": "“ファントムを継ぎし者”ツヴァイ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "マグワイヤ「以前のファントムにも舌を巻いたが、あの少年は輪をかけて優秀だな」",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「ファントム＝アソシネート」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。\n【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ファントムの力”ツヴァイ」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_042",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-043",
+      "PT/W07-049",
+      "PT/W07-026",
+      "PT/W07-026R",
+      "PT/W07-029"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Skf-i7mMi4GH4EMlX0sIustmT5a60CfopIaHN17_xRY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDIucG5n.png"
+  },
+  {
+    "id": "PT/W07-043",
+    "title": "“ファントムの力”ツヴァイ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "w",
+    "say": "殺しの報酬は見積もってはやる。話は明日だ",
+    "effect": "-",
+    "scraper": "PT_W07_043",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-029",
+      "PT/W07-042"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DDx7zesQcmKhzgLbtpbyA6uCSlqFdhDE5svUn50LrR0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDMucG5n.png"
+  },
+  {
+    "id": "PT/W07-044",
+    "title": "暗殺",
+    "type": "イベント",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "了解……フェイズ２、開始",
+    "effect": "このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。\n相手のキャラすべてに、そのターン中、パワーを－1500。",
+    "scraper": "PT_W07_044",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FORt5JOv8zwnD1VSTiftMpEFTmw4tJyfK3psIY4pf6E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDQucG5n.png"
+  },
+  {
+    "id": "PT/W07-045",
+    "title": "500万ドル",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "あなたは自分のキャラを1枚選び、クロック置場に置く。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋3500。",
+    "scraper": "PT_W07_045",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KwQRM39ttzYdRKFmVY4fBH6XT5Gu0xSCZoqV9HLHAaU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDUucG5n.png"
+  },
+  {
+    "id": "PT/W07-046",
+    "title": "ベレッタM92FS",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "玲二「薬室に１発、弾倉に１５発。ここにいる全員を殺して釣りがくる計算だ」",
+    "effect": "あなたは相手のキャラを1枚選び、そのターン中、パワーを－3000。",
+    "scraper": "PT_W07_046",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/R4jltRU1ObpAxLH7Pcyr0C45mEb_utkN_9j14DVh9iE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDYucG5n.png"
+  },
+  {
+    "id": "PT/W07-047",
+    "title": "フェラーリF40",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "どこまでも行けそうな気がするでしょ。世界の覇者にでもなった感じがしない？",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚まで選び、そのターン中、パワーを＋3000。このカードをクロック置場に置く。",
+    "scraper": "PT_W07_047",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/t3KmmsvoOtiyqA2wpr1ZgfBOT-z_FrClI06WYKme8Po/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDcucG5n.png"
+  },
+  {
+    "id": "PT/W07-048",
+    "title": "過去",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "これは、ほんの始まり……そうよね……ロメロ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_048",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [
+      "PT/W07-048SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-040"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6LMY9aUkxKDi9uCKIHkTBCME9-cRa6MvuowKFYfc6-w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDgucG5n.png"
+  },
+  {
+    "id": "PT/W07-048SP",
+    "title": "過去",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_048SP",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-048"
+    ],
+    "relation": [
+      "PT/W07-040"
+    ],
+    "price": {
+      "number": 7980,
+      "string": "7980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1gIod4-7u2cfIYlM6tePJXneTFOF5vDzru53VPETt6k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDhTUC5wbmc.png"
+  },
+  {
+    "id": "PT/W07-049",
+    "title": "ファントム＝アソシネート",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "インフェルノの……ファントムだ",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_049",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-042"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/88SGdH8c7VhXGhhKhs8m2wWV84JupsGLwNmVCtpwZqw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNDkucG5n.png"
+  },
+  {
+    "id": "PT/W07-050",
+    "title": "仁義",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "クロウディア「……最後まで、ごめんね」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/stock.gif\">：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "PT_W07_050",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "stock"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-030",
+      "PT/W07-030S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/syaWzn5JJ2OBGexz85RGtSnnxv9YLja45zbfTXHEFak/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTAucG5n.png"
+  },
+  {
+    "id": "PT/W07-051",
+    "title": "狂気に満ちたドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "w",
+    "say": "曲が終わったら、撃ちな",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ファントム」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "PT_W07_051",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-051R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wYai_J7lVN8q4ktaDJe8dVRAnqjKTPy7qeFpupN63xA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTEucG5n.png"
+  },
+  {
+    "id": "PT/W07-051R",
+    "title": "狂気に満ちたドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ファントム」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "PT_W07_051R",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-051"
+    ],
+    "relation": [],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/06M3GzlEqyWevsJh38YU7L-2Ui5EdrvY2powzJwS1NM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTFSLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-052",
+    "title": "最大の恐怖アイン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 5500,
+    "rare": "RR",
+    "side": "w",
+    "say": "死は全ての終わり。その後に何を付け足そうと、意味はない",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「名前」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "PT_W07_052",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-075"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_RlAQsMnUxxiNmS_RY9cFSoEtGKeoL28QuyKK9hH3Cg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTIucG5n.png"
+  },
+  {
+    "id": "PT/W07-053",
+    "title": "江漣＆ドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "w",
+    "say": "アイン……ツヴァイ……ドライ……。説明は要らないだろ？",
+    "effect": "【永】 このカードはサイドアタックできない。\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "PT_W07_053",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-053S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/caK3voEang86uuG7FNJmXswFpNWB5HOUA3r_6Izr42k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTMucG5n.png"
+  },
+  {
+    "id": "PT/W07-053S",
+    "title": "江漣＆ドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 このカードはサイドアタックできない。\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "PT_W07_053S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-053"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/M10NvzOXnVKaw-nKE_eE3bMJjEQS4qvFCY_jzcA-ba0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTNTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-054",
+    "title": "最大の信頼アイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "w",
+    "say": "クロウディア「彼女の存在は、抵抗する組織には最大の恐怖を与えるわ」",
+    "effect": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最強の暗殺者ファントム”アイン」を1枚選び、このカードがいた枠に置く。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "PT_W07_054",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-061",
+      "PT/W07-113"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LHSNdmrcPOG9rvcbAb81n-SNhTnIgctVUxLx7C0uBaw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTQucG5n.png"
+  },
+  {
+    "id": "PT/W07-055",
+    "title": "“第三のファントム”ドライ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "R",
+    "side": "w",
+    "say": "なんで撃てなくなっちまったのさ…………アンタ",
+    "effect": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“無敵のファントム”ドライ」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_055",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-056",
+      "PT/W07-056S"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eFALara75EO15CGpG5en7xkjdERwTN08t_9h1VZiB78/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTUucG5n.png"
+  },
+  {
+    "id": "PT/W07-056",
+    "title": "“無敵のファントム”ドライ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "あたしは無敵のファントムだ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(4) このカードを思い出にする］ アタックしているこのカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「決着」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）",
+    "scraper": "PT_W07_056",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-056S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-074",
+      "PT/W07-T16",
+      "PT/W07-055"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vlx4iBmHOABu1ErJWFn-XPDUyhof6brPwzKjgsrf1mY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTYucG5n.png"
+  },
+  {
+    "id": "PT/W07-056S",
+    "title": "“無敵のファントム”ドライ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(4) このカードを思い出にする］ アタックしているこのカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「決着」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）",
+    "scraper": "PT_W07_056S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-056"
+    ],
+    "relation": [
+      "PT/W07-074",
+      "PT/W07-T16",
+      "PT/W07-055"
+    ],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/02FX3hw7a0AO1MONLgnmhk6RHZgjs5BVBYUj0fwzHlI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTZTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-057",
+    "title": "完璧な素材アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "サイス「らしくないな、アイン。痛みなど精神力で克服したまえ」",
+    "effect": "【起】［あなたの《武器》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "PT_W07_057",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DukEbY7nxNn2LxoyqP_L6MEH8RtugghsBmZxpvPcYUc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTcucG5n.png"
+  },
+  {
+    "id": "PT/W07-058",
+    "title": "メイド服のアイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "お帰りなさいませ、ご主人様",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "PT_W07_058",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "メイド"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OdUf8P-Vax5Hbo70xPRje40C44QJwHI9El1tql4cLsI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTgucG5n.png"
+  },
+  {
+    "id": "PT/W07-059",
+    "title": "玲二を狙うドライ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "……次はあんたの番だよ、玲二……",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［(1) このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "PT_W07_059",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/brGyUDAz99-W6qnk2W9KgcYU8DGTNw2Sj8HzA6CyYBw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNTkucG5n.png"
+  },
+  {
+    "id": "PT/W07-060",
+    "title": "華麗なるガンプレイ ドライ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "サイス「彼女なら１０秒でやれるということです」",
+    "effect": "【自】［(3)］ このカードがアタックした時、クライマックス置場に「憤怒」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_060",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-073",
+      "PT/W07-073SP",
+      "PT/W07-T17"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rUGlc6VFYGnXEQQHMsXKbJtMEEcV41NsSQE42nOB_IE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjAucG5n.png"
+  },
+  {
+    "id": "PT/W07-061",
+    "title": "“最強の暗殺者ファントム”アイン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "U",
+    "side": "w",
+    "say": "そのうちあなたも何も感じなくなる。この生き方に耐える方法は、他にないから",
+    "effect": "【永】 このカードのバトル中、このカードとバトル中のキャラが『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つなら、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_061",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-054"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F5fp1S00V_DkrfWPObFdQMyyKT8YcGvAs2844EciSEs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjEucG5n.png"
+  },
+  {
+    "id": "PT/W07-062",
+    "title": "“最高傑作”アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "私たちは機能しさえすれば良い。余計な事を考えてはダメ",
+    "effect": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［このカードをクロック置場に置く］ あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+    "scraper": "PT_W07_062",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9jgboOHZrcdkiW9X4xU-Ze7AGM2dAWF460uUkO8ENbA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjIucG5n.png"
+  },
+  {
+    "id": "PT/W07-063",
+    "title": "一番目の女アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "私は一番目の女、アイン",
+    "effect": "【永】 他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "PT_W07_063",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qEhKvuPnKGqIPOe2jHbph04qmvczP4Qwf5Darg2BdJE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjMucG5n.png"
+  },
+  {
+    "id": "PT/W07-064",
+    "title": "新たなファントム ドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "……日本のヤクザなんて知ったこっちゃないね",
+    "effect": "-",
+    "scraper": "PT_W07_064",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SO0urXX5Jj2Fu7NPcJPmNZsX0CxKpu2zekNk5dsmcIg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjQucG5n.png"
+  },
+  {
+    "id": "PT/W07-065",
+    "title": "暴走するドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "……恩？　どういう意味だっけ？",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。",
+    "scraper": "PT_W07_065",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SoNFeT4LxdwXbE1-_UDii2LAYEi2MtwwM6-zN4GnPPo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjUucG5n.png"
+  },
+  {
+    "id": "PT/W07-066",
+    "title": "“亡霊”アイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "……私たちは、どこにも存在できない亡霊……誰でもない、ファントム……",
+    "effect": "-",
+    "scraper": "PT_W07_066",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Bl_3pZo3rZB-m30ChCZY-BHXbNoJLMzHRFLPi2APT1Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjYucG5n.png"
+  },
+  {
+    "id": "PT/W07-067",
+    "title": "純粋な憎悪ドライ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "玲二「……生きて、いたのか……？」",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。",
+    "scraper": "PT_W07_067",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6gaGa81AnF8OOoxCNfVJ_YRaq8p97HbcZFQfIiOI0Lw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjcucG5n.png"
+  },
+  {
+    "id": "PT/W07-068",
+    "title": "江漣VSドライ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "w",
+    "say": "ドライ「……初めまして、アイン。……それとも、元ファントムと呼んだほうがいいかい……？」",
+    "effect": "-",
+    "scraper": "PT_W07_068",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ljdRZ8aIu9t6-dwf739p0Hb7qstu4Owy-6bnLVdzm5U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjgucG5n.png"
+  },
+  {
+    "id": "PT/W07-069",
+    "title": "祈るドライ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "あたしが奪う。あたしが壊す。……その逆は、もう二度と御免だ……",
+    "effect": "あなたは自分のキャラを1枚選び、クロック置場に置く。そうしたら、あなたは自分の控え室の《時計》のキャラを2枚まで選び、手札に戻す。",
+    "scraper": "PT_W07_069",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/spHw8xKwW2u9GnY5LLt3AipHLvgExCszWu7U0LNwawk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNjkucG5n.png"
+  },
+  {
+    "id": "PT/W07-070",
+    "title": "偵察",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "玲二「僕らなら怪しまれることはない…」",
+    "effect": "このカードは、あなたの赤のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分の控え室のキャラを1枚まで選び、手札に戻す。\nあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』",
+    "scraper": "PT_W07_070",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/42ij0gcmxtGmYK6dSZ6WBSJWZjJ8MCjhV_-QamokapU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzAucG5n.png"
+  },
+  {
+    "id": "PT/W07-071",
+    "title": "狙撃",
+    "type": "イベント",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "サイス「……久々の狙撃任務だ。まぁ、お前なら容易だろうが」",
+    "effect": "相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "PT_W07_071",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2rWo-46hRK6Y_ejyKcYcJAzbNm7XV5WcwreUYKCW6qg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzEucG5n.png"
+  },
+  {
+    "id": "PT/W07-072",
+    "title": "S&W M5906",
+    "type": "イベント",
+    "level": 2,
+    "cost": 3,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "あなたは相手の前列のレベル2以下のキャラを2枚まで選び、控え室に置く。",
+    "scraper": "PT_W07_072",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qbS09Wp4P9JlcdASLLL0BFj6mYXLkEPvv8aKGBdS6gk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzIucG5n.png"
+  },
+  {
+    "id": "PT/W07-073",
+    "title": "憤怒",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "あたしに勝てたら……きっと世界中が、あんたにひれ伏すよ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "PT_W07_073",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [
+      "PT/W07-073SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-060",
+      "PT/W07-T14"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VlCPvK8e0qZPSjmlVWmL0w9s1dweKcUvjxeR6qE0EYk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzMucG5n.png"
+  },
+  {
+    "id": "PT/W07-073SP",
+    "title": "憤怒",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "PT_W07_073SP",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-073",
+      "PT/W07-T17"
+    ],
+    "relation": [
+      "PT/W07-060",
+      "PT/W07-T14"
+    ],
+    "price": {
+      "number": 9980,
+      "string": "9980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NGBopdLHKqalqgMg9-E2pCIattOESYce5E-0P99m7F4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzNTUC5wbmc.png"
+  },
+  {
+    "id": "PT/W07-074",
+    "title": "決着",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "ドライ「あんたと逢えて、良かった……それだけで、もう充分、嬉しかった……」",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_074",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-056",
+      "PT/W07-056S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RkE2PFUtDJhZnNzk7Cag7GGOK6toW-1nwoC38dhpjWU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzQucG5n.png"
+  },
+  {
+    "id": "PT/W07-075",
+    "title": "名前",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "玲二「……アイン……今、キミを守れるのは……僕だけだ……」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "PT_W07_075",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-052",
+      "PT/W07-113"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1QI8mnf6J-o0I0-1TTyYZ8KAWZSqk8sa45aJqC3pctk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzUucG5n.png"
+  },
+  {
+    "id": "PT/W07-076",
+    "title": "玲二＆エレン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RR",
+    "side": "w",
+    "say": "エレン「人殺しの居場所なんて、ここ以外、どこにもあるわけない」",
+    "effect": "【永】 他のあなたのカード名に「アイン」を含むキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "PT_W07_076",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-076S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-087"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cqR8LyGDgApPYekC2XnCvYNnkS7-Z7dYk0IVulFW7Dw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzYucG5n.png"
+  },
+  {
+    "id": "PT/W07-076S",
+    "title": "玲二＆エレン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたのカード名に「アイン」を含むキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "PT_W07_076S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-076"
+    ],
+    "relation": [
+      "PT/W07-087"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Vd_GjcMY0fHNI4Z5SXxPTzlCthAIJYMw6F4kqGBaW7I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzZTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-077",
+    "title": "“誰でもないファントム”アイン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "w",
+    "say": "クロウディア「彼女こそまさしく、最強の暗殺者よ」",
+    "effect": "【永】 あなたの控え室の「“誰でもないファントム”アイン」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "PT_W07_077",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "仮面"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "PT/W07-077R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-077R"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5nU2Z-RYPyjpAiQKf10GqDRoJjdGdIGgkmmHIr0pzuU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzcucG5n.png"
+  },
+  {
+    "id": "PT/W07-077R",
+    "title": "“誰でもないファントム”アイン",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 あなたの控え室の「“誰でもないファントム”アイン」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "PT_W07_077R",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "仮面"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-077"
+    ],
+    "relation": [
+      "PT/W07-077"
+    ],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6wV4ITeOn8pxs-F5qQ0YR-DNhC_ymktjkwppMVxZAiI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzdSLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-078",
+    "title": "告白する美緒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "藤枝です……藤枝、美緒といいます",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 チェンジ ［(3) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「藤枝 美緒」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_078",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "愛"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "PT/W07-078S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-093"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JfIpO_YpJoTPgpWBo7tdJul8pRHJZUKtps4IPMh0GIg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzgucG5n.png"
+  },
+  {
+    "id": "PT/W07-078S",
+    "title": "告白する美緒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 チェンジ ［(3) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「藤枝 美緒」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "PT_W07_078S",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "愛"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-078"
+    ],
+    "relation": [
+      "PT/W07-093"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-7PdCk5YynY7fLDfvnj52v9-DXx4SBz234O9dcVNNPs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzhTLnBuZw.png"
+  },
+  {
+    "id": "PT/W07-079",
+    "title": "ツァーレンシュヴェスタン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "w",
+    "say": "サイス「……恐怖もなく、慈悲もなく、ただ忠実な猟犬の如く……死を運ぶオート・マタ……」",
+    "effect": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
+    "scraper": "PT_W07_079",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "仮面"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EAO5U3TWX_XiFoO3XEkMeCxc1ExXaSa0pvd3qKEBkf4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wNzkucG5n.png"
+  },
+  {
+    "id": "PT/W07-080",
+    "title": "サイス＝マスター",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "誰もが私の演出で踊るのだ。私の舞台で！　私のカンバスで！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】［(1) このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "scraper": "PT_W07_080",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "メガネ",
+      "マスター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ttz7VYfm1e1eclkxKhms1KkALbyO4qb9qYmYtPrnfUQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODAucG5n.png"
+  },
+  {
+    "id": "PT/W07-081",
+    "title": "生き残る才能ツヴァイ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "この手で人を殺し、この手で物を食べる……どっちも同じことなんだ。そうやって僕は生きてる……",
+    "effect": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「長い夢」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_081",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-098"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/v5ZVez_pB4GSh8VbSZxsuHbzmaatUvkoz1bRrYiOWsY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODEucG5n.png"
+  },
+  {
+    "id": "PT/W07-082",
+    "title": "過去を消された少年 玲二",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "w",
+    "say": "君には……新しい名前をあげるよ",
+    "effect": "【永】 他のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋500。\n【起】［あなたの舞台のカード名に「アイン」を含むキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「エレン」か「江漣」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "PT_W07_082",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TQ_zArJMZcuiPQZzEAJEGif4VHZUNwNf9ywch86Qfyw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODIucG5n.png"
+  },
+  {
+    "id": "PT/W07-083",
+    "title": "梧桐の右腕 志賀",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "どこへなりともお供させていただきます",
+    "effect": "【永】 相手のターン中、他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋1000。",
+    "scraper": "PT_W07_083",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jst54jDVqQne0dPdLo8BbZiGJv2YMY3k6ANGEVYkTaA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODMucG5n.png"
+  },
+  {
+    "id": "PT/W07-084",
+    "title": "調教師サイス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "w",
+    "say": "さあ、幕引きだ！",
+    "effect": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《仮面》のキャラすべてに、パワーを＋1000。\n【起】［このカードをクロック置場に置く］ あなたは自分の山札を見て《仮面》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "PT_W07_084",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "メガネ",
+      "マスター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fq4qdGmfpes2Vu3ft7fHSrvei1goDhGGTWSLpo8E7WQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODQucG5n.png"
+  },
+  {
+    "id": "PT/W07-085",
+    "title": "梧桐の姫君 美緒",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "……解ります……解らないはずありません……彼のことを、本気で想ったことがあるなら",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「届かない場所」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋5000。ターンの終わりに、そのキャラを控え室に置く。",
+    "scraper": "PT_W07_085",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "愛"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-100",
+      "PT/W07-100SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3IuA_rvi3fa3_c_SLAwt91UX4d6Lsp7lSuKtcs7_JfE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODUucG5n.png"
+  },
+  {
+    "id": "PT/W07-086",
+    "title": "道具であることアイン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "U",
+    "side": "w",
+    "say": "……わたしはアイン。今も、昔も、ただのアイン……",
+    "effect": "【自】 あなたのクライマックス置場に「終幕」が置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+    "scraper": "PT_W07_086",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "人形"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-099",
+      "PT/W07-087"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nsuvaSSs-TkvetvKGb143Bi0VgT2Wetvw7ytHRo5f9s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODYucG5n.png"
+  },
+  {
+    "id": "PT/W07-087",
+    "title": "ヘルムート・フォン・ギュゼッペ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "……お前はまだ、私の期待に応えられるかな、アイン……",
+    "effect": "【起】［このカードを【レスト】する］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［あなたの舞台の「玲二＆エレン」を1枚クロック置場に置く］ あなたは自分の手札の「道具であることアイン」を1枚まで選び、舞台の好きな枠に置く。",
+    "scraper": "PT_W07_087",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "メガネ",
+      "マスター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-076",
+      "PT/W07-076S",
+      "PT/W07-086"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r92gfsHMY2fJ2-6q-ceMf0R8_Jfhl_9dWcRC3G11H1w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODcucG5n.png"
+  },
+  {
+    "id": "PT/W07-088",
+    "title": "昇り龍 梧桐",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "駆け上がるぜ、俺は",
+    "effect": "【永】 他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、レベルを＋1。",
+    "scraper": "PT_W07_088",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "竜"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vZNhhoN5fSWomvrg5PyNrduqnXmhbhURYCVDhNOFTk8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODgucG5n.png"
+  },
+  {
+    "id": "PT/W07-089",
+    "title": "玲二＆早苗",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "早苗「くらえっ！！」",
+    "effect": "-",
+    "scraper": "PT_W07_089",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bxurBsLnTRBbEd_CVEowqNm5pDXmyKO5pAA_d1uteLQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wODkucG5n.png"
+  },
+  {
+    "id": "PT/W07-090",
+    "title": "自分の意思 玲二",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "……探そう、二人で。そのために俺は、必ず、君の元に戻る",
+    "effect": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_090",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IN3wvEkM2a-ixrKT9zGunB5TcRXvsD7sufs_O7sZu-8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTAucG5n.png"
+  },
+  {
+    "id": "PT/W07-091",
+    "title": "志賀 透",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "志賀は、兄貴の背中を守るだけです……",
+    "effect": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "PT_W07_091",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nW9ZptAqYuKqJNpjrjcDsS0PHc0sNyoL3lyREqLmBgk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTEucG5n.png"
+  },
+  {
+    "id": "PT/W07-092",
+    "title": "洗脳と催眠サイス",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "……ようこそ、私の舞台へ……",
+    "effect": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "PT_W07_092",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "メガネ",
+      "マスター"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cPwmWfRpdOW5Mo-mvv7NA3yA7bZehleYRbeUgWWw8pE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTIucG5n.png"
+  },
+  {
+    "id": "PT/W07-093",
+    "title": "藤枝 美緒",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "かわいいですね",
+    "effect": "-",
+    "scraper": "PT_W07_093",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "愛"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-078",
+      "PT/W07-078S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gryIdnokpzS0klXb-Q7a8qnA7MayC5dEUOCBu0LkVYA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTMucG5n.png"
+  },
+  {
+    "id": "PT/W07-094",
+    "title": "亡霊",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "そんな希望にすがり、許しを得ようだなんて…",
+    "effect": "あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加える。残りのカードを山札の上に好きな順番で置く。",
+    "scraper": "PT_W07_094",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-FAs8EppnQDHM9QBhEoI7dnM0VznBHKnNlIudA86DbE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTQucG5n.png"
+  },
+  {
+    "id": "PT/W07-095",
+    "title": "生きる理由",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "……昨日までは恐怖なんて感じなかったのに……",
+    "effect": "あなたは自分の【スタンド】しているキャラを1枚選び、クロック置場に置く。そうしたら、あなたは2枚まで引く。",
+    "scraper": "PT_W07_095",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6Xt_-jimSkQXWci-e5luInSLMM5VO33kB_rVAzAmKZ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTUucG5n.png"
+  },
+  {
+    "id": "PT/W07-096",
+    "title": "44オートマグ",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "サイス「知っての通り機構の危うい銃だ。可能な限り連射は避けろ」",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』\nあなたは相手のバトル中のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+    "scraper": "PT_W07_096",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:50.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jp2MSwQFCK-2JsEA05z-durcUyhoqcwRqoEnFpuRNiw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTYucG5n.png"
+  },
+  {
+    "id": "PT/W07-097",
+    "title": "連続ミッション",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "祈りも、贖罪も、ありはしないわ。死は全ての終わり",
+    "effect": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
+    "scraper": "PT_W07_097",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a7HlhnAQHy4IBvCH35ynv8bQPz4tsqAeWafx-nlCj40/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTcucG5n.png"
+  },
+  {
+    "id": "PT/W07-098",
+    "title": "長い夢",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "アイン「……でも、長い夢になるわよ」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "PT_W07_098",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-081"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sO-7HsG-x2g47MY-FNTvOvd4TiUh6hmE3wwPBD75Rzo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTgucG5n.png"
+  },
+  {
+    "id": "PT/W07-099",
+    "title": "終幕",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "玲二「サァァァァィス！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "PT_W07_099",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-086"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BsP40DMOXy_mBBZY0M_4Ct60gjtLbatatYpKKtayqHA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18wOTkucG5n.png"
+  },
+  {
+    "id": "PT/W07-100",
+    "title": "届かない場所",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "私、ずっと待ってます。――だから、さよなら、じゃないです。いってらっしゃい、です",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_100",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [
+      "PT/W07-100SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-085"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:51.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Z6a52N2lb1EsLAF0Xl_R3tQfeco0uHVkw4_yhKmuEE4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDAucG5n.png"
+  },
+  {
+    "id": "PT/W07-100SP",
+    "title": "届かない場所",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_100SP",
+    "productName": "Phantom -requiem for the phantom-",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "PT/W07-100"
+    ],
+    "relation": [
+      "PT/W07-085"
+    ],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T05:36:49.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JLXRL93swpIrTf-3Hc54cLsc2WlLS6L6lWy9PTL_U8k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDBTUC5wbmc.png"
+  },
+  {
+    "id": "PT/W07-101",
+    "title": "平和な生活 江漣＆玲二",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "w",
+    "say": "江漣「しっかりエスコートしてね」",
+    "effect": "【自】 このカードがアタックした時、他のあなたのキャラが2枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+    "scraper": "PT_W07_101",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SWEnDa9Oo3Pt9qFiPBjw3rWKYVTbEwCWoT7AnHsTVMI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDEucG5n.png"
+  },
+  {
+    "id": "PT/W07-102",
+    "title": "掃除するキャル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "ちょっと待っててね。ここ片付いたらご飯にするから",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+    "scraper": "PT_W07_102",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "メイド",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/33nq_-ARD00fRz3hrb2N_2DmHTpwqxY_PWD9JVJauAc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDIucG5n.png"
+  },
+  {
+    "id": "PT/W07-103",
+    "title": "“操り人形”アイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "w",
+    "say": "今この瞬間を生き残る……それだけ、殺し屋は過ぎたことも先のことも、何もない",
+    "effect": "-",
+    "scraper": "PT_W07_103",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "人形"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XbwVRe2bcPyzHbF88SGXI5VH7zdy-fhnQH5cu91ixLU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDMucG5n.png"
+  },
+  {
+    "id": "PT/W07-104",
+    "title": "パートナー アイン＆ツヴァイ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "アイン「アタックは私が。バックアップをお願い」ツヴァイ「了解」",
+    "effect": "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
+    "scraper": "PT_W07_104",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qPVUgTHjl9dgr1GDbW4n1AeW6oRA1-mb01ITmokwYDk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDQucG5n.png"
+  },
+  {
+    "id": "PT/W07-105",
+    "title": "二頭の猟犬",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "アイン「あなたは私……私は、あなた……」",
+    "effect": "【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+    "scraper": "PT_W07_105",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TnMts-5SEqL1Abz6NvfV4VPiL55UygVdrjGsviO6v6U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDUucG5n.png"
+  },
+  {
+    "id": "PT/W07-106",
+    "title": "水遊びをする江漣",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "PR",
+    "side": "w",
+    "say": "まぁいいじゃない兄さん、たまには",
+    "effect": "【永】他のあなたのカード名に「玲二」を含むキャラがいるなら、このカードのパワーを+2000。",
+    "scraper": "PT_W07_106",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pYOQpbv-zMVki4pY7RqGQ6qrGrglhCtQMqw36xD54M4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDYucG5n.png"
+  },
+  {
+    "id": "PT/W07-107",
+    "title": "水遊びする美緒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "子供みたいにはしゃいじゃいました。 恥ずかしい…",
+    "effect": "【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを+1000。",
+    "scraper": "PT_W07_107",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "愛",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/U-McT0jY5bqHwIXLtFeKz3GVRE2XzDyCKlHqZ1LGSMI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDcucG5n.png"
+  },
+  {
+    "id": "PT/W07-108",
+    "title": "観測手 キャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "あたしに見せて！　玲二がそいつを撃つところを！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "PT_W07_108",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BRm6mS6usb6Ia0eyFJDU_xOCraqvS-OoC2waiI3y7qk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDgucG5n.png"
+  },
+  {
+    "id": "PT/W07-109",
+    "title": "元ファントム 江漣",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "PR",
+    "side": "w",
+    "say": "兄さんどうしたの、こんなところで？",
+    "effect": "【永】 相手の控え室のクライマックスが5枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの《武器》のキャラすべてに、パワーを＋1500。\n【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "PT_W07_109",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G-vxm3raVZttaRrNp1cKiwgh2LUA7yH0TNZhpUC7PxQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMDkucG5n.png"
+  },
+  {
+    "id": "PT/W07-110",
+    "title": "“ファントムを継ぎし者”ツヴァイ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "PR",
+    "side": "w",
+    "say": "マグワイヤ「襲名を認めよう。今日より君は頂点に立って、その名を轟かすのだ。」",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《武器》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+    "scraper": "PT_W07_110",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "暗黒街"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-026",
+      "PT/W07-026R",
+      "PT/W07-029"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xHlr3-Pgg-4fzyUORpHH03x3mQLSpUtf-wfdSOGMLTk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMTAucG5n.png"
+  },
+  {
+    "id": "PT/W07-111",
+    "title": "ファントムの主 クロウディア",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 9000,
+    "rare": "PR",
+    "side": "w",
+    "say": "私はすべてを手に入れる",
+    "effect": "【自】［あなたの舞台のレベル0以下のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）",
+    "scraper": "PT_W07_111",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "暗黒街"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iuC0Efe9IHLV8qtLW7PlplYzb9dXEzxFM-gkgb3F8Hk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMTEucG5n.png"
+  },
+  {
+    "id": "PT/W07-112",
+    "title": "ファントムの実験作 ドライ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "w",
+    "say": "いいじゃないの、たまには、さ",
+    "effect": "【永】 このカードはサイドアタックできない。",
+    "scraper": "PT_W07_112",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lq7aU2sD-Fb0DS6W9aYh5SYQT4rtE4cM1xoyK5DKm9o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMTIucG5n.png"
+  },
+  {
+    "id": "PT/W07-113",
+    "title": "“最強の暗殺者ファントム”アイン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 9000,
+    "rare": "PR",
+    "side": "w",
+    "say": "……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「名前」があるなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "PT_W07_113",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-075",
+      "PT/W07-054"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qhbTzTor62OEpR_axSc7SZ0_rfC5Emk3JwGyJrW-6Og/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMTMucG5n.png"
+  },
+  {
+    "id": "PT/W07-114",
+    "title": "人を殺す才能 玲二",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "……やめてくれ、キャル",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のカード名に「ファントム」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "PT_W07_114",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Prlqu9QE7772OIi-e-2MC1omVuLc6dJYZNWPLXQCXrs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN18xMTQucG5n.png"
+  },
+  {
+    "id": "PT/W07-T01",
+    "title": "はらぺこキャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "こうやって目の前にハンバーガーの山を作って、お腹いーっぱい食べるの！",
+    "effect": "【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+    "scraper": "PT_W07_T01",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TJnzAZxmy5ecEHCyAaXvmkXx524nFYjOwyT81GPXz9E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDEucG5n.png"
+  },
+  {
+    "id": "PT/W07-T02",
+    "title": "玲二の妹 江漣",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "w",
+    "say": "行ってらっしゃい、兄さん",
+    "effect": "-",
+    "scraper": "PT_W07_T02",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_AmZIJR3nrvbZth_Thy6MpzxOSWZUaC-qyMMwx1wIHY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDIucG5n.png"
+  },
+  {
+    "id": "PT/W07-T03",
+    "title": "キャル・ディヴェンス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "w",
+    "say": "あたし、きっと役に立つよ！",
+    "effect": "-",
+    "scraper": "PT_W07_T03",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3kZR3G77pRVKpa9Q-oFpfwAn4H9n8ORSndz-icxOZjM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDMucG5n.png"
+  },
+  {
+    "id": "PT/W07-T04",
+    "title": "おめかしキャル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "TD",
+    "side": "w",
+    "say": "こんな軽くてサラサラの服、初めて！",
+    "effect": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「練習中のキャル」を1枚選び、このカードがいた枠に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "PT_W07_T04",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-018",
+      "PT/W07-T07"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YouEIdWp-A5IaZRv6iEDQRNlN5oCyT_num8okGyF8gg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDQucG5n.png"
+  },
+  {
+    "id": "PT/W07-T05",
+    "title": "水着のアイン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "w",
+    "say": "どう……？",
+    "effect": "【自】 他のあなたのキャラとバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_T05",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wgkLdRwbHzrcwSzMXc1Yo7ulUn2ORCxIel7lmC7B4os/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDUucG5n.png"
+  },
+  {
+    "id": "PT/W07-T06",
+    "title": "セーラー服の江漣",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "w",
+    "say": "……私の命は……あなたを守るためだけに、ある……",
+    "effect": "-",
+    "scraper": "PT_W07_T06",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CMR0o7Z_ByvHMaj9R5JiNBux0ZApOjjZHH00ageofs8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDYucG5n.png"
+  },
+  {
+    "id": "PT/W07-T07",
+    "title": "練習中のキャル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "w",
+    "say": "玲二「その、デニーロだか何だかだ。やってみろ」",
+    "effect": "【自】 このカードが控え室から舞台に置かれた時、あなたは相手の後列のコスト0以下のキャラを1枚選び、手札に戻してよい。",
+    "scraper": "PT_W07_T07",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-014",
+      "PT/W07-T04"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8UKuegV7-MDeY3Lij5mX3te5ogZcjtsOrqriOuCmG_o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDcucG5n.png"
+  },
+  {
+    "id": "PT/W07-T08",
+    "title": "訓練",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "アイン「持ち方は……こう。 トリガーには指を掛けないで」",
+    "effect": "あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "PT_W07_T08",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8sXkA6m_l5uQLMVsol2wdCkfrB7LGMR-VTZQZD2Rs_E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDgucG5n.png"
+  },
+  {
+    "id": "PT/W07-T09",
+    "title": "風の記憶",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "眩しいくらい明るくて……それで、風が吹いてる。すごく強い風が",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_T09",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-001",
+      "PT/W07-001S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yanI9QgZDhs4wtxdj-YYe30p7-8GiXwp1K4i9Unpqb0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMDkucG5n.png"
+  },
+  {
+    "id": "PT/W07-T10",
+    "title": "“最高傑作”アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "w",
+    "say": "私たちは機能しさえすれば良い余計な事を考えてはダメ",
+    "effect": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［このカードをクロック置場に置く］ あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+    "scraper": "PT_W07_T10",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HJ9cFJ4AOlEX_jdcSigscroHfIrPnQXEFeDMx_2Kt5Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTAucG5n.png"
+  },
+  {
+    "id": "PT/W07-T11",
+    "title": "一番目の女アイン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "私は一番目の女、アイン",
+    "effect": "【永】 他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "PT_W07_T11",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5045Z7Z68EYN3tEToyE6l-a6trCXZEWuI0NMZfsb5KA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTEucG5n.png"
+  },
+  {
+    "id": "PT/W07-T12",
+    "title": "新たなファントム ドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "w",
+    "say": "……日本のヤクザなんて知ったこっちゃないね",
+    "effect": "-",
+    "scraper": "PT_W07_T12",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eZcAUMnpAMJv4OzVASwu08obZwxvqAtc6Hn_l0SAXmE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTIucG5n.png"
+  },
+  {
+    "id": "PT/W07-T13",
+    "title": "暴走するドライ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "TD",
+    "side": "w",
+    "say": "……恩？　どういう意味だっけ？",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。",
+    "scraper": "PT_W07_T13",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fMIblGqzojY5JYU3YV0hiDTgK4KeVDrQ4-2M8dDbcCE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTMucG5n.png"
+  },
+  {
+    "id": "PT/W07-T14",
+    "title": "華麗なるガンプレイ ドライ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "w",
+    "say": "サイス「彼女なら１０秒でやれるということです」",
+    "effect": "【自】［(3)］ このカードがアタックした時、クライマックス置場に「憤怒」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "PT_W07_T14",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-073",
+      "PT/W07-073SP",
+      "PT/W07-T17"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BA-aC7fpqg9r0Vqga8etqj54QF8_asw9gDKNIF7vA2w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTQucG5n.png"
+  },
+  {
+    "id": "PT/W07-T15",
+    "title": "江漣VSドライ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "TD",
+    "side": "w",
+    "say": "ドライ「……初めまして、アイン。……それとも、元ファントムと呼んだほうがいいかい……？」",
+    "effect": "-",
+    "scraper": "PT_W07_T15",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "武器",
+      "時計"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0-255gYDMDAiV_TruJGq47iaHkL4H5ZdW6s1LTANKNM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTUucG5n.png"
+  },
+  {
+    "id": "PT/W07-T16",
+    "title": "決着",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "ドライ「あんたと逢えて、良かった……それだけで、もう充分、嬉しかった……」",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "PT_W07_T16",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-056",
+      "PT/W07-056S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_HLoeNpFVo8SljdIRPHmqysqrdtmwT7PkPEQHF32trY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTYucG5n.png"
+  },
+  {
+    "id": "PT/W07-T17",
+    "title": "憤怒",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "あたしに勝てたら……きっと世界中が、あんたにひれ伏すよ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "PT_W07_T17",
+    "productName": "2009年度トライアルデッキ【W】",
+    "seriesCode": "PT",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [
+      "PT/W07-073SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "PT/W07-060",
+      "PT/W07-T14"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:52.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3x1qCRrXMyxa-_dp8suOqjMNZBIKjhMI8Kc6L4QaL_o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1BUX1cwN19UMTcucG5n.png"
+  }
+]
