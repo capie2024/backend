@@ -5,7 +5,7 @@ const router = express.Router();
 router.get("/font", (req, res) => {
   try {
     // 載入字型的 Base64 資料
-    const base64msyh = require("./fontBase64.js");
+    const base64msyh = require("../font/fontBase64.js");
 
     // 確保返回的是 Base64 資料
     if (!base64msyh || typeof base64msyh !== "string") {
