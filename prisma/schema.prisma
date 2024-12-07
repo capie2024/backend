@@ -10,7 +10,7 @@ datasource db {
 model add_article {
   id         Int       @id @unique(map: "id_UNIQUE") @default(autoincrement())
   user_id    Int?
-  article_id String    @unique(map: "article_id_UNIQUE") @db.VarChar(5)
+  post_code  String    @unique(map: "article_id_UNIQUE") @db.VarChar(5)
   title      String    @db.VarChar(10)
   content    String?   @db.VarChar(45)
   created_at DateTime? @default(now()) @db.Timestamp(0)
@@ -29,7 +29,7 @@ model users_test {
 
 model deck_list {
   id               Int       @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  user_id          Int?
+  user_id          Int
   deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
   user_email       String    @db.VarChar(45)
   deck_name        String    @db.VarChar(45)
@@ -38,10 +38,14 @@ model deck_list {
   deck_description String    @db.VarChar(255)
   build_time       DateTime? @default(now()) @db.Timestamp(0)
 <<<<<<< HEAD
+<<<<<<< HEAD
   users            users     @relation(fields: [user_id], references: [id], onUpdate: Restrict, map: "fk_user_id")
 =======
   users            users?    @relation(fields: [user_id], references: [id], onDelete: Restrict, onUpdate: Restrict, map: "fk_user_id")
 >>>>>>> 964d0bb (can get google picture)
+=======
+  users            users     @relation(fields: [user_id], references: [id], onUpdate: Restrict, map: "fk_user_id")
+>>>>>>> 3e481c7 (user profile main feature)
 
   @@index([user_id], map: "fk_user_id_idx")
 }
@@ -112,29 +116,26 @@ model comment_reactions {
 
 model comments {
   id                Int                 @id @default(autoincrement())
-  post_id           Int
+  post_id           String              @db.VarChar(5)
   user_id           Int
   message           String              @db.Text
   like_count        Int
   created_at        DateTime            @db.Timestamp(0)
   comment_likes     comment_likes[]
   comment_reactions comment_reactions[]
-  posts             posts               @relation(fields: [post_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comments_post_id")
   account           account             @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_comments_user_id")
 
-  @@index([post_id], map: "fk_comments_post_id")
   @@index([user_id], map: "fk_comments_user_id")
 }
 
 model posts {
-  id          Int        @id @default(autoincrement())
-  user_id     Int
-  article_num Int
-  title       String     @db.VarChar(255)
-  content     String     @db.Text
-  created_at  DateTime   @db.Timestamp(0)
-  comments    comments[]
-  account     account    @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_posts_user_id")
+  id         Int      @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  user_id    Int
+  title      String   @db.VarChar(255)
+  content    String   @db.Text
+  created_at DateTime @db.Timestamp(0)
+  deck_id    String   @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
+  account    account  @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_posts_user_id")
 
   @@index([user_id], map: "fk_posts_user_id")
 }
