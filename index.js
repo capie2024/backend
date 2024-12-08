@@ -8,6 +8,7 @@ const login  = require('./src/routes/login');
 const authRouter = require('./src/routes/auth');
 const deckMake = require('./src/routes/deck-make');
 const cardSeries = require('./src/routes/card-series');
+const dailyCard = require('./src/routes/daily-card');
 
 
 app.use(cors());
@@ -17,7 +18,7 @@ app.use(express.json());
 
 app.use('/api', login);
 app.use('/auth', authRouter);
-app.use(require('./src/routes/google-auth'));
+// app.use(require('./src/routes/google-auth'));
 
 // const db = mysql.createPool({
 //   host: "dev-testdb.ctcm8i88mnas.ap-northeast-1.rds.amazonaws.com",
@@ -51,6 +52,7 @@ router.post('/signup', (req, res) => {
 app.use('/api', router);
 app.use('/api', deckMake);
 app.use('/api', cardSeries);
+app.use('/api', dailyCard);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
