@@ -11,25 +11,30 @@ const prisma = new PrismaClient();
 router.post("/add-deck", async (req, res) => {
   try {
     const { userToken, deckData } = req.body;
+    
     const userData = jwt.decode(userToken);
     const deckId = await checkDeckId();
+    // console.log(userData.user_id + "|" + deckId + "|" + userData.email + "|" + deckData.deckName + "|" + deckData.deck + "|" + deckData.deckCover + "|" + deckData.deckDescription);
+    console.log(deckData.deckCover.length);
+    
     const addDeckData = await prisma.deck_list.create({
       data: {
+        user_id: parseInt(userData.user_id),
         deck_id: deckId,
         user_email: userData.email,
         deck_name: deckData.deckName,
-        deck: JSON.stringify(deckData.deck),
+        deck: deckData.deck,
         deck_cover: deckData.deckCover,
         deck_description: deckData.deckDescription,
       },
-    });
+    });    
 
     if (addDeckData) {
       res.status(200).json({ message: "已存入資料庫" });
-    } else {
-      res.status(400).json({ message: "存入失敗，請再試一次" });
     }
   } catch (error) {
+    console.log(error);
+    
     res.status(500).json({ message: "伺服器錯誤" });
   }
 });

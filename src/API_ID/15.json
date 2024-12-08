@@ -1,0 +1,2481 @@
+[
+  {
+    "id": "MH/WE03-002",
+    "title": "マシロ・ブラン・ド・ヴィントブルーム",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "そなたも見てみよ。雪じゃぞ、雪っ",
+    "effect": "【永】 他のあなたのカード名に「アリカ」を含むキャラすべてに、パワーを＋500。\n【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "MH_WE03_002",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "王族",
+      "マスター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-005",
+      "MH/WE03-015"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MRZTlguydS5Qk_rcfg5OAuKsJlzqwgn1BoWr3hg6yGA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDAyLnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-005",
+    "title": "アリカ・ユメミヤ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "マシロちゃんは、私が絶対に守ってみせる！",
+    "effect": "【永】 あなたのターン中、あなたのレベル置場に「マシロ・ブラン・ド・ヴィントブルーム」があるなら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「空を舞う乙女」があるなら、あなたは他の自分のキャラを1枚選び、手札に戻してよい。",
+    "scraper": "MH_WE03_005",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-002",
+      "MH/WE03-018"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GsB91g-duwf7GOylft8UIlEAfealAYAbA96FcI9f9PU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDA1LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-006",
+    "title": "アリカ＆マシロ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "そなたがいてくれれば、わらわも安心じゃ…",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "MH_WE03_006",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "マスター"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/E7IF00hMM91pvxSF2hJHi_lmQn7fxaRLS1-CWm3j7Mg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDA2LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-008",
+    "title": "元気っ子 命",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "なんだ、お前も一人なのか",
+    "effect": "【起】［手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋2500。",
+    "scraper": "MH_WE03_008",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BEu45VvJ-3rzqhJqkeGRHYs6_P6dwemlm26BDVTSelM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDA4LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-010",
+    "title": "舞衣＆アリカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "w",
+    "say": "舞衣「行くわよ！アリカちゃん」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台のいずれかの枠に置く。（そうでないなら元に戻す）",
+    "scraper": "MH_WE03_010",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jFRsTxZvyXXNX-QMc7NoGFFREjQwCyU1jnDlZJ-C7Ho/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDEwLnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-011",
+    "title": "決意の舞衣",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "R",
+    "side": "w",
+    "say": "戦うのに信念とか、覚悟とか、そんなの…！",
+    "effect": "【永】 このカードの下にマーカーがあるなら、このカードのレベルを＋1し、パワーを＋2000。\n【自】 このカードが舞台から控え室に置かれた時、あなたのクライマックス置場に「封印された鬼神」があるなら、あなたはこのカードをこのカードがいた枠に【レスト】して置き、自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+    "scraper": "MH_WE03_011",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "ウェイトレス"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-019"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/T--qpuEB8k6mFh6M9EC1ao71TRTsNERJKEBJ7kFF4I4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDExLnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-012",
+    "title": "ミドリ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "貴様らごときに、我らを止められるか…？",
+    "effect": "【自】［(1)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "MH_WE03_012",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "武器",
+      "病気"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3FRloKEDDuaFsSxyExAoE8g8Bf050mIDsyHAWS5fZIQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDEyLnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-014",
+    "title": "アリカ＆ニナ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "ニナ「あんたも、ちゃんとやりなさいよ」",
+    "effect": "【永】 他のあなたの《宝石》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "MH_WE03_014",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HU4aV96P6DLn4imRmOLUovOXeiLUmZJu10f5x0-FR-Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE0LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-015",
+    "title": "ナツキ＆シズル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "シズル「うちが、ナツキを守ります」",
+    "effect": "【永】 あなたのレベル置場に「マシロ・ブラン・ド・ヴィントブルーム」があるなら、他のあなたの《エレメント》のキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "MH_WE03_015",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-002"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xq47syUyANWqe7D-iP7Tag8IBypevThhE_v8DZTa9Bw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE1LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-016",
+    "title": "ニナ＆エルスティン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "エルスティン「久しぶりに二人きりだから、甘えちゃおうかな」",
+    "effect": "-",
+    "scraper": "MH_WE03_016",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NK811mUeav7mS8u_S-Q7o5_yZqNKnp_qbMOM2vwQyiw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE2LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-017",
+    "title": "ニナ・ウォン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "あなたが蒼天の青玉の継承者だとしても",
+    "effect": "【永】 あなたのレベル置場の《エレメント》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "MH_WE03_017",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fyQtmaGn_p4LblJg8ZeTwi-C54uphkPcL4kyx-OksS0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE3LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-018",
+    "title": "空を舞う乙女",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "MH_WE03_018",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-005"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YznEmwtdkRR8XjEBAE8mKHMplKHzJ5MYUAQ_aqCa46M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE4LnBuZw.png"
+  },
+  {
+    "id": "MH/WE03-019",
+    "title": "封印された鬼神",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "私は、ただ…大切な人を守りたい…",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "MH_WE03_019",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "MH",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE03-011"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:41.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y-YA2A7iV3KauQXst-dTEBCIVczBEV6GmDQK6bzL37Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDNfMDE5LnBuZw.png"
+  },
+  {
+    "id": "MH/WE05-02",
+    "title": "真白＆二三",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "w",
+    "say": "二三「お疲れになりましたか？」",
+    "effect": "【永】 他のあなたの《エレメント》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《エレメント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "MH_WE05_02",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "メイド"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/79cldq6cYrVPug3CETdEZJcL8B7IHJ9LIVi_8iKZjig/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMDIucG5n.png"
+  },
+  {
+    "id": "MH/WE05-04",
+    "title": "“蒼天と海神”アリカ＆ニナ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "アリカ「ニナちゃん、いっくよ～っ！」",
+    "effect": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+    "scraper": "MH_WE05_04",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XG8_FTd-XGQWoffORmecfoOTaLBuiu5r9XL0gjAeVfA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMDQucG5n.png"
+  },
+  {
+    "id": "MH/WE05-06",
+    "title": "アリッサ＆深優",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "アリッサも、深優が大好き",
+    "effect": "-",
+    "scraper": "MH_WE05_06",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "音楽",
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5x8Ox_kzZzE3hEkB28GFZ4YlImkuQl1xJiaVIB56cQ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMDYucG5n.png"
+  },
+  {
+    "id": "MH/WE05-08",
+    "title": "雪之＆遥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "雪之「遥ちゃん…」",
+    "effect": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《生徒会》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "MH_WE05_08",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "生徒会",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rdDjEsy8yYlv4FeZL1EmJ0qh89vtBAZswPLoCG3DOG4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMDgucG5n.png"
+  },
+  {
+    "id": "MH/WE05-09",
+    "title": "舞衣＆なつき＆命",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "あたしも、毎日楽しいよ",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「HiMEの力」があるなら、そのターン中、このカードのパワーを＋3000。",
+    "scraper": "MH_WE05_09",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE05-15"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5xHgANamnl8H34dnEm5OP7j4qxXfDd_nggvUveXzTfE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMDkucG5n.png"
+  },
+  {
+    "id": "MH/WE05-12",
+    "title": "結城 奈緒",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "ふふ、こっちこっち",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋2500。",
+    "scraper": "MH_WE05_12",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "保健室"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OvcP75FfLt4rKjQmR4Q7E4ds3UoLCEnUvdVdAW7Djz8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTIucG5n.png"
+  },
+  {
+    "id": "MH/WE05-13",
+    "title": "ハルカ＆アリカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "ハルカ「アリカちゃん、オトメに必要なものは？」アリカ「はい！力と技と、根性です！」",
+    "effect": "【永】 他のあなたの《エレメント》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "MH_WE05_13",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "宝石"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3mr0iGIpSg9JhCWaWW0v8ljoySZb9bylOqlz3QyZ_VE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTMucG5n.png"
+  },
+  {
+    "id": "MH/WE05-14",
+    "title": "美袋 命",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "C",
+    "side": "w",
+    "say": "これは命のだぞ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、相手は1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたは自分の山札の上からＸ枚までを、ストック置場に置く。Ｘは相手の宣言した数×2に等しい。（そうでないなら元に戻す）",
+    "scraper": "MH_WE05_14",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/g-wsbsBGUyQJFyv44JEu-Fii-_6bpwEcGO3ed763ckQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTQucG5n.png"
+  },
+  {
+    "id": "MH/WE05-15",
+    "title": "HiMEの力",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "MH_WE05_15",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE05-09"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Hy18VCgcnYVZmoojYI0cAp8oumML4YuLH2dIOtzsKTQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTUucG5n.png"
+  },
+  {
+    "id": "MH/WE05-17",
+    "title": "杉浦 碧",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "ただいまお伺いいたしまー…ああっ！",
+    "effect": "【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メカ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "MH_WE05_17",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "先生"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/D-GPZZ4doecIWD7Tipt9xF1tM-XO0QpRT_VZgZ9X2R4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTcucG5n.png"
+  },
+  {
+    "id": "MH/WE05-19",
+    "title": "鴇羽 舞衣",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "いらっしゃいませー！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "MH_WE05_19",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "ウェイトレス"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y4zP4s5k-mMOqn-Q1Eo-kkV44SKX90IMYbrUpO-mkV4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMTkucG5n.png"
+  },
+  {
+    "id": "MH/WE05-20",
+    "title": "水着の舞衣＆命",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "舞衣「もー、まだ食べるんじゃないわよ」",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "MH_WE05_20",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WVvEjvTD_PAYEPIavCXrYrv700FYTklNmD9zwK7psgM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMjAucG5n.png"
+  },
+  {
+    "id": "MH/WE05-21",
+    "title": "玖我 なつき",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "R",
+    "side": "w",
+    "say": "警察など、何も出来ないさ。この学園の裏に蠢く力の前にはな……",
+    "effect": "【永】 他のあなたの「藤乃 静留」がいないなら、このカードはアタックできない。\n【自】 このカードがアタックした時、あなたの《エレメント》のキャラすべてに、そのターン中、パワーを＋500。",
+    "scraper": "MH_WE05_21",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "バイク"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE05-23"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/c7RrnqYXyFjFfibkw5egnxWQqj8NRKjMblh_ZcgBI3U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMjEucG5n.png"
+  },
+  {
+    "id": "MH/WE05-23",
+    "title": "藤乃 静留",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "w",
+    "say": "ええのよ。他ならぬなつきの頼みやからね……",
+    "effect": "【永】 他のあなたの「玖我 なつき」がいないなら、このカードはアタックできない。\n【永】 相手のターン中、このカードのパワーを＋1500。",
+    "scraper": "MH_WE05_23",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "生徒会"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "MH/WE05-21"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZQzixdpuiCil2abAqgjbtWNDBm5NWUtDsXSjtTU3gmU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMjMucG5n.png"
+  },
+  {
+    "id": "MH/WE05-24",
+    "title": "水着のなつき",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "余計なお世話だ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+    "scraper": "MH_WE05_24",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "MH",
+    "feature": [
+      "エレメント",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wuJlY6ZfmKQlIzWbhlwmrZAc1IRiGbVklpSabr8cUOI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL01IX1dFMDVfMjQucG5n.png"
+  },
+  {
+    "id": "SK/WE03-001",
+    "title": "秋葉＆妹子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "w",
+    "say": "誰も見たことないもの見て、誰も知らなかったことを知らなきゃいけないの！",
+    "effect": "-",
+    "scraper": "SK_WE03_001",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G77nPIXDBQUOWsN7ZE6Ow1N6efuyX0-nknz3OXHLDbw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDAxLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-003",
+    "title": "獅子堂 秋葉",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "R",
+    "side": "w",
+    "say": "これで、最後だからね！",
+    "effect": "【起】［(6)］ あなたは相手の前列のレベル3以下のキャラすべてを、手札に戻す。",
+    "scraper": "SK_WE03_003",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Xw6S6Zz8TWQjTygdpKGFaP7g4yOSp5A298M5ZBaPV00/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDAzLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-004",
+    "title": "宇宙をかける少女 秋葉",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "ほのか「一緒にきて、宇宙をかける少女…」",
+    "effect": "【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "SK_WE03_004",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8tZgC3-glMHfgKUaPatwu94NHvBxfiDflN2Qd9rtS0A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDA0LnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-007",
+    "title": "いつき＆ほのか",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "ほのか「ICPは邪魔…」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは緑以外の自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "SK_WE03_007",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "SK",
+    "feature": [
+      "警察",
+      "超能力"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Wjx85gY1Kk7ogrJ6jfU5gzkiY-1gnGLszxtnPvnUTCM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDA3LnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-009",
+    "title": "神凪 いつき",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "そこのあなた！止まりなさい！",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のクロック置場のキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+    "scraper": "SK_WE03_009",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "警察"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/55k8zIX6pfG8RwxzHX6GDyZNVWPWxK8fGCKPyRTWK28/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDA5LnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-013",
+    "title": "河合 ほのか",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "キングには、クイーンが必要…",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「秋葉」を含むキャラを1枚選び、手札に戻す。",
+    "scraper": "SK_WE03_013",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "超能力"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/o3eH43cTZPqz5bWgf3l7uelkfX14s0M6YXoXRvvV1ZI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDEzLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-020",
+    "title": "“クイーン”秋葉",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "PR",
+    "side": "w",
+    "say": "そんなの知らないわよ。何よ。クイーンだキングだって",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《メカ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "SK_WE03_020",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wMf1sQupgIdC-hgBY3QfnKTIU5XDnnvKJjQVyIl6jNI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDIwLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-021",
+    "title": "Qテクター秋葉",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "PR",
+    "side": "w",
+    "say": "えへへ、やったね！",
+    "effect": "【起】[あなたの、《警察》のキャラと《超能力》のキャラを1枚ずつ【レスト】する] そのターン中、このカードのパワーを+2500。",
+    "scraper": "SK_WE03_021",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EKxHpWCSbIwCvpZ4f04EBfZiBrJgCacMm3yrZDN_0cA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDIxLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-022",
+    "title": "秋葉と愉快な仲間たち",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "PR",
+    "side": "w",
+    "say": "宇宙は少女のともだちさっ",
+    "effect": "【永】あなたのターン中、他のあなたの《コロニー》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "SK_WE03_022",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CSm5POSL7nyt7Xe5_9EAXB6WKSR98Q23AJLrVR7f1b8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDIyLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-023",
+    "title": "“怪奇課”いつき",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "PR",
+    "side": "w",
+    "say": "連れて行きなさい！　あのコロニーに",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《コロニー》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "SK_WE03_023",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "警察"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZOOVCipmPtUBbJc45-kV3lJBMtFqD8FhFHBNdxxP2Xc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDIzLnBuZw.png"
+  },
+  {
+    "id": "SK/WE03-024",
+    "title": "“守護者”ほのか",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "PR",
+    "side": "w",
+    "say": "私がクイーンを守る…",
+    "effect": "【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋500。",
+    "scraper": "SK_WE03_024",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "超能力"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:36:38.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Gts0nc6S6apWCoVDR4Y-vejvjLtZP7ZXlqj3HKbK7C0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDNfMDI0LnBuZw.png"
+  },
+  {
+    "id": "SK/WE05-01",
+    "title": "最後の希望 秋葉",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "w",
+    "say": "秋葉「行かせて――レオパルドの所に！」",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「黄金銃」があるなら、あなたは自分の《コロニー》のキャラを1枚選び、そのターン中、パワーを＋2500。\n【自】 絆／「ブレインコロニー レオパルド」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ブレインコロニー レオパルド」を1枚選び、手札に戻す）",
+    "scraper": "SK_WE05_01",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-03",
+      "SK/WE05-07"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/caRHo9TM_qrmzEoH735HmnHimzAuEXTry3gshiC_KpE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMDEucG5n.png"
+  },
+  {
+    "id": "SK/WE05-03",
+    "title": "ブレインコロニー レオパルド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "R",
+    "side": "w",
+    "say": "おお、この芳醇なアールグレイの香り……",
+    "effect": "【永】 あなたのレベル置場に「最後の希望 秋葉」があるなら、このカードのパワーを＋1500。",
+    "scraper": "SK_WE05_03",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-01"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:43.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XphMXM6kSTDBg8EUeuPs9cpeZ5Q7YiVpYAiMdOWuVvg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMDMucG5n.png"
+  },
+  {
+    "id": "SK/WE05-05",
+    "title": "願いを受け継ぐ者 秋葉",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "秋葉「探しに来てくれたんだ、レオパルド」",
+    "effect": "【永】 あなたのレベル置場の《コロニー》のキャラ1枚につき、このカードのパワーを＋2000。",
+    "scraper": "SK_WE05_05",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FX4oHjTjIqht3_vfJfXV6zuP-M1-m_jD46LDF4liulM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMDUucG5n.png"
+  },
+  {
+    "id": "SK/WE05-07",
+    "title": "黄金銃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "ナミ――！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "SK_WE05_07",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-01"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B6PcZ8E2aPHz7fjFZAVkwMX8_VANVQ4sElbXjc1zssY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMDcucG5n.png"
+  },
+  {
+    "id": "SK/WE05-10",
+    "title": "ミンタオ＆ブーゲンビリア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "ミンタオ「いくわよ、ブー！」",
+    "effect": "【起】［このカードを【レスト】する］ あなたは自分の「ミンタオ＆ブーゲンビリア」を1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "SK_WE05_10",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "警察"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IRYTtH_yBqqyZ86ltbELKQtwytKOqg9C6h1HDIe5oFY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMTAucG5n.png"
+  },
+  {
+    "id": "SK/WE05-11",
+    "title": "いつき＆ウル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "ウル「我々を舐めるなよ。スパイシー」",
+    "effect": "-",
+    "scraper": "SK_WE05_11",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rA_KrIaEQ_ZXGCovJznXHq-MEuI4XuB5AyNqAwtAAKQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMTEucG5n.png"
+  },
+  {
+    "id": "SK/WE05-16",
+    "title": "不思議少女ほのか",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "…なして？",
+    "effect": "【起】［(1) あなたの《コロニー》のキャラを2枚【レスト】する］ あなたは自分の控え室の、《コロニー》か《メカ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "SK_WE05_16",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "超能力"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Sr0reIa4Z0r_N8NrnlNaMkIt7IsJN7_o-BkRq_noN-c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMTYucG5n.png"
+  },
+  {
+    "id": "SK/WE05-18",
+    "title": "獅子堂 妹子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "秋葉お嬢様ー♪",
+    "effect": "【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《コロニー》のキャラを1枚選び、手札に戻す。",
+    "scraper": "SK_WE05_18",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tRaS5ncVS7SuMC6gEHfMyxaZo3gChoO6Kq8mQ0DavwA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMTgucG5n.png"
+  },
+  {
+    "id": "SK/WE05-22",
+    "title": "獅子堂財団総帥 風音",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "……アブソリュート・ブレイクスルー・コントロールを発動します！",
+    "effect": "【永】 相手のターン中、他のあなたの、《コロニー》か《超能力》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［(2)］』を与える。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "scraper": "SK_WE05_22",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/K4Ix-VsRIjqPWnV5iL2FhZNbrxQ2vyt5VBOLIKTQDTc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjIucG5n.png"
+  },
+  {
+    "id": "SK/WE05-25",
+    "title": "獅子堂 ナミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "なんなのよ……これ",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+    "scraper": "SK_WE05_25",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7GzyZE7Ndp6jmHCS3giOAFbeCbcRfCQXrhlS-XprEqc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjUucG5n.png"
+  },
+  {
+    "id": "SK/WE05-26",
+    "title": "獅子堂 神楽",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "C",
+    "side": "w",
+    "say": "物わかりの悪い子には、体に教えるしかないか――",
+    "effect": "【自】 このカードがアタックした時、相手は0か1か2を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。（そうでないなら元に戻す）",
+    "scraper": "SK_WE05_26",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "超能力"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XqSn2_C6Ji5DsAqU87ydUtJiIPRcUGOVSouY639JdWw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjYucG5n.png"
+  },
+  {
+    "id": "SK/WE05-27",
+    "title": "小川で遊ぼう！",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "いつき「サイズが合いませんか？怪奇課の標準装備なんですけど」秋葉「ううん、ピッタリ」",
+    "effect": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+    "scraper": "SK_WE05_27",
+    "productName": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+    "seriesCode": "SK",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DC/WC01-E18"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:46.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CAIeKZT8s7D9Oy3XrDrWynOAe_dNfWuJo8RGKYgOeV0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjcucG5n.png"
+  },
+  {
+    "id": "SK/WE05-28",
+    "title": "奪われた者達",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "ほのか「私達は、ネルヴァルに多くの物を奪われた。 取り戻したい気持ちは同じ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "SK_WE05_28",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HbfaiR88TbFEfbCE0X9IibTrpnORMtkochKpK2Um6tc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjgucG5n.png"
+  },
+  {
+    "id": "SK/WE05-29",
+    "title": "Qテクターほのか",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "w",
+    "say": "私達はこの瞬間のために生まれてきた――戦いを終わらせるために",
+    "effect": "【永】 他のあなたの《コロニー》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "SK_WE05_29",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "超能力"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bYc17px3TypuRuYv6dOhJ-lMug9NE0agwklCgmAMzMA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMjkucG5n.png"
+  },
+  {
+    "id": "SK/WE05-30",
+    "title": "Qテクターいつき",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "あなた達を守るのも私の任務……",
+    "effect": "【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場の《コロニー》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "SK_WE05_30",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "警察"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4ESNr_kD63ycZSVggCqvaO6_Xwgo0ocMkFlDxfT_c34/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMzAucG5n.png"
+  },
+  {
+    "id": "SK/WE05-31",
+    "title": "最後の切り札 秋葉",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "PR",
+    "side": "w",
+    "say": "イモちゃん……あたし、頑張ってみるね……みんなと一緒に",
+    "effect": "【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一緒の気持ち 秋葉＆妹子」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "SK_WE05_31",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-32"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0bEorwqxITJO4f3OPKBcWMGQcJfq9pGjPnb_lR06t3g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMzEucG5n.png"
+  },
+  {
+    "id": "SK/WE05-32",
+    "title": "一緒の気持ち 秋葉＆妹子",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "PR",
+    "side": "w",
+    "say": "秋葉「――行こう、イモちゃん！」妹子「はいっ！」",
+    "effect": "【永】 あなたのターン中、他のあなたの《コロニー》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「宇宙をかける少女」があるなら、あなたは相手の控え室のカードを3枚まで選び、山札に戻す。その後、その山札をシャッフルし、このカードを思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「一緒の気持ち 秋葉＆妹子」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "SK_WE05_32",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "コロニー",
+      "メカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-33",
+      "SK/WE05-31"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ItGY13T478npb74fIVWSUvgNsbpVoOZf3aIad2b3jzs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMzIucG5n.png"
+  },
+  {
+    "id": "SK/WE05-33",
+    "title": "宇宙をかける少女",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "秋葉「綺麗だね、イモちゃん……」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "SK_WE05_33",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "SK",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "SK/WE05-32"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:36:44.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AdPcFFdIuywDU38W6nnfbn80wNQZxdXhskHWo80ey2s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1NLX1dFMDVfMzMucG5n.png"
+  }
+]
