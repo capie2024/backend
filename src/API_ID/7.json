@@ -1,0 +1,6244 @@
+[
+  {
+    "id": "GG/S23-001",
+    "title": "追悼するリジット",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "RR",
+    "side": "s",
+    "say": "……",
+    "effect": "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「新たなる盟主」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト1以下のキャラを1枚選び、ストック置場に置く。",
+    "scraper": "GG_S23_001",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ",
+      "鍵"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-024"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2nP4m5nL4K2UFFqpS_5PIcFqrFYGJcvqMgMsqhN8hq0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDEucG5n.png"
+  },
+  {
+    "id": "GG/S23-002",
+    "title": "サルベージ屋 べローズ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "よう、エイミー",
+    "effect": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。\n【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "GG_S23_002",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-j37xLj8IREAxFLXJqoMwm7CbhgUaKO4Usv2NcqtnHA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDIucG5n.png"
+  },
+  {
+    "id": "GG/S23-003",
+    "title": "船団代表補佐 リジット",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "私なら大丈夫よ",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「天の梯子」を1枚選び、手札に戻す。",
+    "scraper": "GG_S23_003",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-003S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-022"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5UtvQayQspQ256R9POZfyWd2ZmlZ76DLQQgT4RF3sDg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDMucG5n.png"
+  },
+  {
+    "id": "GG/S23-003S",
+    "title": "船団代表補佐 リジット",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「天の梯子」を1枚選び、手札に戻す。",
+    "scraper": "GG_S23_003S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-003"
+    ],
+    "relation": [
+      "GG/S23-022"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/U-UdFQaAGdMpzFYFhEf1OvZBiNrONrXYQhnfXwgUmQ8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDNTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-004",
+    "title": "驚きの目 べローズ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "……！",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《パイロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_004",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Lpt-2x4iEVDi3JKGrlDC1BozXEiBD4o0bdkjTYHWuxc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDQucG5n.png"
+  },
+  {
+    "id": "GG/S23-005",
+    "title": "水着のリジット",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "べローズ「…大胆だな、水着」リジット「えっ、そう？」",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "GG_S23_005",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-008"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ar7WA6qmOLcujNDOW_B73g1OtFjmPe0tkdeUEIWbUdI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDUucG5n.png"
+  },
+  {
+    "id": "GG/S23-006",
+    "title": "助言するべローズ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "まずはその軍人みたいな考えからやめてみたらどうだい？",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「魚を釣ってきた者には真水を与えよ」があるなら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+    "scraper": "GG_S23_006",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-023"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FFPsI3zIiIhjhOzwht4_EQbWGyr6vcs-y7Lt9HVSaFA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDYucG5n.png"
+  },
+  {
+    "id": "GG/S23-007",
+    "title": "謝肉祭 べローズ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "R",
+    "side": "s",
+    "say": "クジライカなんかに出会ったら度胆ぬかすよ？",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "GG_S23_007",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-011"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OdYLv-Y1R6GcXU8436yPe3rfXNY04tHfRfimg65Akuo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDcucG5n.png"
+  },
+  {
+    "id": "GG/S23-008",
+    "title": "船団長 フェアロック",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "ううむ……",
+    "effect": "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「問いかけるリジット」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 絆／「水着のリジット」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のリジット」を1枚選び、手札に戻す）",
+    "scraper": "GG_S23_008",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "遺言",
+      "鍵"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-005",
+      "GG/S23-020"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tzBjNUumnNflzT8qqemCdvGndkpuGGKxumv67h-MSXI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDgucG5n.png"
+  },
+  {
+    "id": "GG/S23-009",
+    "title": "困惑の瞳 べローズ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "さあ…？",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の黄のキャラを1枚選び、手札に戻す。",
+    "scraper": "GG_S23_009",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Zk4q0JYXI0qEmbKJTHWAHFYkodS2Nmg-VRHjzyHtIG4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMDkucG5n.png"
+  },
+  {
+    "id": "GG/S23-010",
+    "title": "焼き肉パーティー ピニオン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "まだ電気戻ってねーのか",
+    "effect": "【起】［(1) 他のあなたの《メカ》のキャラを1枚【レスト】する］ あなたのキャラすべてに、そのターン中、パワーを＋1000し、《肉》を与える。",
+    "scraper": "GG_S23_010",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "科学",
+      "オペレーター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ad9iNBcfOD_Pjdlnhxz-zr5CEaRDYJpf26Bp8lyt87E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTAucG5n.png"
+  },
+  {
+    "id": "GG/S23-011",
+    "title": "一つの頼み べローズ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "U",
+    "side": "s",
+    "say": "ちょっと頼みがあるんだが",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのコスト×500に等しい。\n【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「謝肉祭 べローズ」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "GG_S23_011",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-007"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RF5n0Ln555BctKTbwIynwBTUiyprZLlGEKGuMdiHpHM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTEucG5n.png"
+  },
+  {
+    "id": "GG/S23-012",
+    "title": "振り切れたピニオン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "s",
+    "say": "やっぱこいつら無理だわ！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「夢に見た宝島」があるなら、あなたは自分の山札を上から2枚まで見て、レベル2以上のキャラを2枚まで選んで相手に見せ、手札に加える。その後、残りのカードを控え室に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "GG_S23_012",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "科学",
+      "オペレーター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-025"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SaUMtId5oz2d4J4NDCWku-HvR8zKwP0n8xvStdVPEa0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTIucG5n.png"
+  },
+  {
+    "id": "GG/S23-013",
+    "title": "お調子者 ピニオン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "どこ触ってもウンともスンとも…",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "GG_S23_013",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "科学",
+      "オペレーター"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-032"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IsIjtUSNwZNKoYUIyHdKgBMZvZROsOEg74cwNwPfuqw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTMucG5n.png"
+  },
+  {
+    "id": "GG/S23-014",
+    "title": "仕事中 ジョー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "違う、左だ、そこ左！",
+    "effect": "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "GG_S23_014",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "オペレーター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1RGl_oO6JmzBmRy2f7j608xmrSF1_jsHOv6MEUGqsJk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTQucG5n.png"
+  },
+  {
+    "id": "GG/S23-015",
+    "title": "霧の海を見つめるマイタ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "あいつら祟るって言うしな",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "GG_S23_015",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DFTwlkrKaz4SKs3PQxGMg8VeG6JE4wV8mBkxZXcVkLk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTUucG5n.png"
+  },
+  {
+    "id": "GG/S23-016",
+    "title": "失意のべローズ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "ただの夢だって言ったじゃないか…",
+    "effect": "-",
+    "scraper": "GG_S23_016",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/p41XNBiFXN8kzz6ycmQ8FB_C1mzglNobv17_KQPAEmU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTYucG5n.png"
+  },
+  {
+    "id": "GG/S23-017",
+    "title": "兄の記憶 ピニオン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "兄貴、それくらいで十分だろ？",
+    "effect": "-",
+    "scraper": "GG_S23_017",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "科学",
+      "オペレーター"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/v0twx4LXKcuEV1nipF4qCSmsac95XuwGNstSbI0v0NQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTcucG5n.png"
+  },
+  {
+    "id": "GG/S23-018",
+    "title": "盟主 リジット",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "s",
+    "say": "私には、この船に集った全ての同胞を守る義務がある",
+    "effect": "【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_018",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aqCL0y0LjXK60SGCal0ZC07VoYkjxhGy8i7wLjFXEoQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTgucG5n.png"
+  },
+  {
+    "id": "GG/S23-019",
+    "title": "医師 オルダム",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "s",
+    "say": "もしかして、君がレド君かな？",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "GG_S23_019",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "医者"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XMqZ9OLs8gpEMgrvODsD0fHDxNt1HFmrPtahHNXnpJ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMTkucG5n.png"
+  },
+  {
+    "id": "GG/S23-020",
+    "title": "問いかけるリジット",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "s",
+    "say": "あの少年の印象を聞きたいの",
+    "effect": "-",
+    "scraper": "GG_S23_020",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-008"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Br0mbgipqqgAbTXenXlVCtVtk9GrbKidYKl-BseqELs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjAucG5n.png"
+  },
+  {
+    "id": "GG/S23-021",
+    "title": "サルベージ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "あなたは自分の山札を上から3枚まで見て、黄のカードを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+    "scraper": "GG_S23_021",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/45Mur5hc2YUVGZqsIiDU2Wv4biwULiwvx7uiyksJJRI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjEucG5n.png"
+  },
+  {
+    "id": "GG/S23-022",
+    "title": "天の梯子",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【カウンター】 あなたは自分の黄のキャラを1枚選び、そのターン中、パワーを＋3500。",
+    "scraper": "GG_S23_022",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-003",
+      "GG/S23-003S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/R2E0EmddqW5ZNJ7BzSXcaLxerqOXsX4gN5FFXSHV2kQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjIucG5n.png"
+  },
+  {
+    "id": "GG/S23-023",
+    "title": "魚を釣ってきた者には真水を与えよ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "みんなでものを持ち寄らなければ、生きてはいけないからね",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "GG_S23_023",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-006"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iQ24Vzi3h7AbABnmAlUIvFZox0XGs_nucvtm31irZgk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjMucG5n.png"
+  },
+  {
+    "id": "GG/S23-024",
+    "title": "新たなる盟主",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "GG_S23_024",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-001"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nd-Fdw-PcJnMM4WBVXTYUKbvM_wc-l0nN61yG-1enxI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjQucG5n.png"
+  },
+  {
+    "id": "GG/S23-025",
+    "title": "夢に見た宝島",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "逃げられる奴は逃げるに越したこたぁねぇよ。…なあそうだろ、兄貴",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "GG_S23_025",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-012"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YAOfz0MsVm3F3fzJtR1gKOCe5zX48Hqw9CI10qpgZNk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjUucG5n.png"
+  },
+  {
+    "id": "GG/S23-026",
+    "title": "独自の判断 チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "s",
+    "say": "故に貴官は当機と共に、人類の尊厳をかけて、戦わねばならない",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロック置場の緑のカードを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+    "scraper": "GG_S23_026",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OkhyGRxerpyDlzqBL522TIibCh1DqMmdfmWXzZgNJro/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjYucG5n.png"
+  },
+  {
+    "id": "GG/S23-027",
+    "title": "マシンキャリバー チェインバー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "その命に最大の成果を期待する",
+    "effect": "【永】 他のあなたの《軍隊》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードが手札からか『チェンジ』で、舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。\n【起】［(1)］ そのターン中、このカードのパワーを＋2500。ターンの終わりに、このカードを思い出にする。",
+    "scraper": "GG_S23_027",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "GG/S23-027SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-031",
+      "GG/S23-031R",
+      "GG/S23-033"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NvnqN8fAsikFz7lnXoXZNA8aX1f7KTjR_w3zTYFrXrI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjcucG5n.png"
+  },
+  {
+    "id": "GG/S23-027SP",
+    "title": "マシンキャリバー チェインバー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《軍隊》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードが手札からか『チェンジ』で、舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。\n【起】［(1)］ そのターン中、このカードのパワーを＋2500。ターンの終わりに、このカードを思い出にする。",
+    "scraper": "GG_S23_027SP",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-027"
+    ],
+    "relation": [
+      "GG/S23-031",
+      "GG/S23-031R",
+      "GG/S23-033"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GJWgo2o9lqlaJeYFIbnclNOBh4hMp3FkIgfTjG-Xgqk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjdTUC5wbmc.png"
+  },
+  {
+    "id": "GG/S23-028",
+    "title": "交戦態勢 ストライカー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "レド少尉、貴官の抵抗は無意味である",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "GG_S23_028",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uQg-XgUUgifgEcDWCMDT1u7DD_Sq_-AU9EsHAVUPAZw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjgucG5n.png"
+  },
+  {
+    "id": "GG/S23-029",
+    "title": "漁に出るチェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "これより、海洋生物の捕獲任務を遂行する",
+    "effect": "【自】［(2)］ あなたのクライマックス置場に「デフレクタービーム」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、相手のキャラすべてに、そのターン中、パワーを－1000。",
+    "scraper": "GG_S23_029",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-048"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xpDleYaeKWIE1hSYqOGb1T5nWHFMBR7Ruwr_ZMLsmiM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMjkucG5n.png"
+  },
+  {
+    "id": "GG/S23-030",
+    "title": "荷運び中 チェインバー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "了解",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、相手のバトル中のキャラのレベルが3以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "GG_S23_030",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uruwfRLdD6IExpboLO5p0QuqxqyOgd79QBP3a8nGeAA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzAucG5n.png"
+  },
+  {
+    "id": "GG/S23-031",
+    "title": "ブリキの大将 チェインバー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "当機は、パイロット支援を目的とした人工知能である",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マシンキャリバー チェインバー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "GG_S23_031",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "GG/S23-031R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-027",
+      "GG/S23-027SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RMjvoNsilexEBuk5hBaqOPB6pTGFgZEvMKYzMNetWLE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzEucG5n.png"
+  },
+  {
+    "id": "GG/S23-031R",
+    "title": "ブリキの大将 チェインバー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マシンキャリバー チェインバー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "GG_S23_031R",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-031"
+    ],
+    "relation": [
+      "GG/S23-027",
+      "GG/S23-027SP"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/H-_ajwG5forINFto6VIYGL47DGD1le0Mg7gOn5Pn5B8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzFSLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-032",
+    "title": "波乗り ラケージ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "R",
+    "side": "s",
+    "say": "アモーレ！！",
+    "effect": "【自】 あなたのクライマックス置場に「波乗りロブスター」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て緑のキャラか、「お調子者 ピニオン」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_032",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "海賊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-013",
+      "GG/S23-050"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7WOiL7vBnPri8IP0D9YqKzY5_lyWx4SISFQfty2ITYg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzIucG5n.png"
+  },
+  {
+    "id": "GG/S23-033",
+    "title": "舞い降りるレド＆チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "s",
+    "say": "チェインバー「対話を要求する」",
+    "effect": "【自】 絆／「マシンキャリバー チェインバー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マシンキャリバー チェインバー」を1枚選び、手札に戻す）",
+    "scraper": "GG_S23_033",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-027",
+      "GG/S23-027SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6J4YXlTNeYvEjXCKCUBivMCGpo4zz4GbdtsmVN3md2g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzMucG5n.png"
+  },
+  {
+    "id": "GG/S23-034",
+    "title": "真水集め チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "べローズ「よーし、そのままー」",
+    "effect": "【永】 他のあなたの《軍隊》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_034",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/09wh3w6pcaIL-1gUbyBt6NtWuaIr_l52ubXc4ge8bTk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzQucG5n.png"
+  },
+  {
+    "id": "GG/S23-035",
+    "title": "ラケージユンボロ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがサイドアタックした時、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。",
+    "scraper": "GG_S23_035",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eHn7erjWEwjfjte4D5iDPHY6eZd9_tAXKav9djnaOTc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzUucG5n.png"
+  },
+  {
+    "id": "GG/S23-036",
+    "title": "応答するチェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "エイミー「じゃあ、あれより強い？」チェインバー「超、強い」",
+    "effect": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "GG_S23_036",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-036S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8g7GW-hvl1Ph-4rqusB4jtvOb3TcErIBb8Vh-vSzU8I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzYucG5n.png"
+  },
+  {
+    "id": "GG/S23-036S",
+    "title": "応答するチェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "GG_S23_036S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-036"
+    ],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-Tzj3oo8mcLawez7l99nx7EKW8We0_0WDSV55BBqChI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzZTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-037",
+    "title": "凪の日 チェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "s",
+    "say": "ピニオン「…お前、黒いな」",
+    "effect": "【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "GG_S23_037",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ytE9KnEI6rmKOTvfp4aNzPNb6AtKWoeilcVb0RlbE9A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzcucG5n.png"
+  },
+  {
+    "id": "GG/S23-038",
+    "title": "クジライカ討伐 チェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "U",
+    "side": "s",
+    "say": "単独任務の遂行を進言する",
+    "effect": "【永】 他のあなたの緑のキャラ1枚につき、このカードのパワーを＋500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "GG_S23_038",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-038S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SgVmdymobBDF_M5YzRpdpGp7El1oBS59Kzak8dUIV_0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzgucG5n.png"
+  },
+  {
+    "id": "GG/S23-038S",
+    "title": "クジライカ討伐 チェインバー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの緑のキャラ1枚につき、このカードのパワーを＋500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "GG_S23_038S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-038"
+    ],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zI456MecFBlz6VepxbJpI6ULxnkojh9FzXJbEvba8h8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzhTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-039",
+    "title": "戦闘中 チェインバー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "レド「離すな！」",
+    "effect": "【自】［あなたのクロック置場の《パイロット》のキャラを1枚手札に戻す］ このカードがアタックした時、クライマックス置場に「くたばれ、ブリキ野郎！」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500し、アンコールステップの始めに、このカードをクロック置場に置く。",
+    "scraper": "GG_S23_039",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-049"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B0YrZ2Duk5fxyVpFKSsdMys62xBXzUXXtFfnwzWubtk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wMzkucG5n.png"
+  },
+  {
+    "id": "GG/S23-040",
+    "title": "大海賊 ラケージ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "ここまでナメた真似をして下さるなんてね",
+    "effect": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_040",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "海賊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Zs322-Q7cSJkZSFtSWcOk7KlR-bQ4PfI9JM8lLTCRWk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDAucG5n.png"
+  },
+  {
+    "id": "GG/S23-041",
+    "title": "ラケージの側近 パリヌリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "おまたせしましたー！",
+    "effect": "【永】 前列の右の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_041",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "オペレーター",
+      "海賊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ePrDHLhkebQpCUVkfZsGoh5OTuJTVnYms1NudJdJeQg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDEucG5n.png"
+  },
+  {
+    "id": "GG/S23-042",
+    "title": "ラケージの側近 パラエム",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "が～んほ～！",
+    "effect": "【永】 前列の左の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_042",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "オペレーター",
+      "海賊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a0KTzaOzbGZRU4a5Y8N8m4BtxiTNwgOniyb-42zjlZU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDIucG5n.png"
+  },
+  {
+    "id": "GG/S23-043",
+    "title": "グラビティ・ウェイバー チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "捕獲開始",
+    "effect": "-",
+    "scraper": "GG_S23_043",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KTxojyrbcXtsuQ3zjzMMPbXafR3sjIouQjYVQcsX1t8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDMucG5n.png"
+  },
+  {
+    "id": "GG/S23-044",
+    "title": "反逆 ラケージ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "あーら、はしたなくってごめんあそばせッ！",
+    "effect": "-",
+    "scraper": "GG_S23_044",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "海賊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XK5PNkqqGuqBay0lYk_SOKQQF3IHENxsEG3_PN5KNPA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDQucG5n.png"
+  },
+  {
+    "id": "GG/S23-045",
+    "title": "神を名乗るストライカー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "C",
+    "side": "s",
+    "say": "私は人類支援啓蒙レギュレーションシステム。すなわち、神と呼ばれる存在である",
+    "effect": "【自】［あなたの舞台のレベル0以下のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+    "scraper": "GG_S23_045",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "神"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SHcqOoL6_BUzWxw4soToJ6Gk5_cgzw1NhaYkSVHuwlc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDUucG5n.png"
+  },
+  {
+    "id": "GG/S23-046",
+    "title": "鉄板チェインバー",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "この状況の必然性を問う。この状況の……",
+    "effect": "あなたは自分の山札を上から3枚まで見て、緑のカードを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "GG_S23_046",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WXAjgpjWCoOYpJtnyuHlBOsDViXp6wbQ8s4AuGbP41U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDYucG5n.png"
+  },
+  {
+    "id": "GG/S23-047",
+    "title": "マキシマイズ ニューロプラスパワード",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "構わない、俺を喰え！",
+    "effect": "あなたは自分の《軍隊》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
+    "scraper": "GG_S23_047",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/X6NVZ_1vR2sq_hHf2ifWpTkjLE7wjNxX0RtsfG9icPk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDcucG5n.png"
+  },
+  {
+    "id": "GG/S23-048",
+    "title": "デフレクタービーム",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "デフレクタービーム スタンバイ",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "GG_S23_048",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-029"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/R9ks2JkuZ2560emhPTtSClUTwz_KuzbvbOlTAgPyxi8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDgucG5n.png"
+  },
+  {
+    "id": "GG/S23-049",
+    "title": "くたばれ、ブリキ野郎！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "貴官の最後通告に返信する。…くたばれ、ブリキ野郎！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "GG_S23_049",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-039"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BEbg4vyCPNAb7EO0pLV04AToKaESY9DR2auXRxwrmSM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNDkucG5n.png"
+  },
+  {
+    "id": "GG/S23-050",
+    "title": "波乗りロブスター",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "GG_S23_050",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-032"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/izZRV83F3P6_ON61Jz0jHRxx8ydQZ7Mp257OaBs4lMM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTAucG5n.png"
+  },
+  {
+    "id": "GG/S23-051",
+    "title": "メッセンジャー エイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RR",
+    "side": "s",
+    "say": "ねえ、ちょっと歩きながら話さない？",
+    "effect": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "GG_S23_051",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-051R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xC1SFITVaGEgK8n8EJE3A9YEDk0j877k2KVs-bR6BCY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTEucG5n.png"
+  },
+  {
+    "id": "GG/S23-051R",
+    "title": "メッセンジャー エイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "GG_S23_051R",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-051"
+    ],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/78V55Qku3Uoo_ghOK0jrWv_BjnzXEsdqnyGTProNtSg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTFSLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-052",
+    "title": "気付いた想い エイミー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "私はあなたの側にいたい！！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+    "scraper": "GG_S23_052",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "GG/S23-052SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-056",
+      "GG/S23-058"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dihl0i7Ibdjhii2_JiU6vFbCnzWuHAMMcCSqRZb7FSc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTIucG5n.png"
+  },
+  {
+    "id": "GG/S23-052SP",
+    "title": "気付いた想い エイミー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+    "scraper": "GG_S23_052SP",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-052"
+    ],
+    "relation": [
+      "GG/S23-056",
+      "GG/S23-058"
+    ],
+    "price": {
+      "number": 9980,
+      "string": "9980円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gNoawpzoxVPbnz3kUTYKLjVnKjxe9m_xTQigtqGqBYs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTJTUC5wbmc.png"
+  },
+  {
+    "id": "GG/S23-053",
+    "title": "明るい笑顔 エイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "じゃあ、朝になったらまた来るね！",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《手紙》のキャラを1枚選び、手札に戻す。",
+    "scraper": "GG_S23_053",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-053R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AGyoVrG-AsOEtk2DMtFIxRDB2ncY-ounIKqgUA9ORGM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTMucG5n.png"
+  },
+  {
+    "id": "GG/S23-053R",
+    "title": "明るい笑顔 エイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《手紙》のキャラを1枚選び、手札に戻す。",
+    "scraper": "GG_S23_053R",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-053"
+    ],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OihG03Bd1g8Y-BQyiPsuRB5zPzpmuJjFsc0exxdLMPA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTNSLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-054",
+    "title": "驚きの出会い エイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "レド……",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「友愛の儀式」があるなら、あなたは自分の控え室の、《パイロット》か《手紙》のキャラを1枚まで選び、手札に戻し、相手は自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "GG_S23_054",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-054S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-074",
+      "GG/S23-T08"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YQKCXIsZQQmlFgel8-y8TghQhjm8Uw3OEqkgBndMe-o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTQucG5n.png"
+  },
+  {
+    "id": "GG/S23-054S",
+    "title": "驚きの出会い エイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「友愛の儀式」があるなら、あなたは自分の控え室の、《パイロット》か《手紙》のキャラを1枚まで選び、手札に戻し、相手は自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "GG_S23_054S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-054"
+    ],
+    "relation": [
+      "GG/S23-074",
+      "GG/S23-T08"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-5dS4LoVISIema6TL7aU0y1Xgz-XxPWDJA6VSQCKJ7E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTRTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-055",
+    "title": "興味津々 エイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "s",
+    "say": "それ何？何か作ってるの？",
+    "effect": "【起】［手札の《手紙》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが《手紙》のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（公開したカードは元に戻す）",
+    "scraper": "GG_S23_055",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ib0qxSyupswoPBjmAk0lVfSluQwUAg7SFGz5dWZidto/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTUucG5n.png"
+  },
+  {
+    "id": "GG/S23-056",
+    "title": "船上での生活 エイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "そっか、そういえば宇宙にはお金がないんだっけ",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】［このカードを控え室に置く］ あなたのクライマックス置場に「だから帰ってきて！」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「気付いた想い エイミー」を1枚まで選び、このカードがいた枠に置く。",
+    "scraper": "GG_S23_056",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-052",
+      "GG/S23-052SP",
+      "GG/S23-075"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AclcYgV1nv_GlyTi-meFhPbvl3ArgFv2xQU4sMPgXrg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTYucG5n.png"
+  },
+  {
+    "id": "GG/S23-057",
+    "title": "踊り子 エイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "R",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《手紙》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_057",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "GG/S23-057S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9YIEoVoP2H_XC_7wrNAweIvazexEyy2WR2sS3Ml1a8s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTcucG5n.png"
+  },
+  {
+    "id": "GG/S23-057S",
+    "title": "踊り子 エイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《手紙》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_057S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-057"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9lQU7jm8BgT9xjqmP6kQPo_JAndHgu6iH7nfCIw4VuM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTdTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-058",
+    "title": "宇宙への憧れ ベベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "s",
+    "say": "だって、空からきた人かもしれないし",
+    "effect": "【自】 絆／「気付いた想い エイミー」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「気付いた想い エイミー」を1枚選び、手札に戻す）",
+    "scraper": "GG_S23_058",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "本",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-052",
+      "GG/S23-052SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zcgccoN7_cq0VetPYiwI3uywKbfB0RDABm-5c4THPV4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTgucG5n.png"
+  },
+  {
+    "id": "GG/S23-059",
+    "title": "駆け寄るエイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "すごいすごいすごーい！",
+    "effect": "【起】［あなたの《手紙》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "GG_S23_059",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-1BVc46kjNWOB7gVv5TISUpu_oOmEoTnzCGv-C1uDis/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNTkucG5n.png"
+  },
+  {
+    "id": "GG/S23-060",
+    "title": "感心するエイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "あんた、言葉がどんどんうまくなるね",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "GG_S23_060",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m8MkVaDsH22iuuxcyv_M3acFret1SI4yrCRdBzhTuwg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjAucG5n.png"
+  },
+  {
+    "id": "GG/S23-061",
+    "title": "微笑む エイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "レド！おはよう！",
+    "effect": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「翠星のガルガンティア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_061",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-061S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-073"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_ZcxOvwNNeAo7hl67_LXIZiVp5djmbWaR-XmSSx2eho/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjEucG5n.png"
+  },
+  {
+    "id": "GG/S23-061S",
+    "title": "微笑む エイミー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「翠星のガルガンティア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_061S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-061"
+    ],
+    "relation": [
+      "GG/S23-073"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-o7xUWSbE9PnSNPe5UGOzigYTYYKsRSr3riNuHPtHoQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjFTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-062",
+    "title": "茶化すメルティ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "イケメン発見！",
+    "effect": "【自】［あなたの【スタンド】しているキャラを2枚【レスト】する］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードは次のあなたのスタンドフェイズに【スタンド】しない。",
+    "scraper": "GG_S23_062",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zOpoHqqv6oIqW-LsnJoXL85Di59XFSxPDZupnJTiNmc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjIucG5n.png"
+  },
+  {
+    "id": "GG/S23-063",
+    "title": "のんびり サーヤ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "男の子に人質にされたんでしょう？　年は？　顔は？",
+    "effect": "【起】［あなたの《手紙》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_063",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jJjz6jdtxJYVNwzBKkxYD_udKAx1f5F-zBMEUlYykkI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjMucG5n.png"
+  },
+  {
+    "id": "GG/S23-064",
+    "title": "喜ぶエイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "エイミー「すごい綺麗だね！」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "GG_S23_064",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nuRUfC78QZ6qVZf5Z75QQyCQ5ERtNUbhlh4BrRXpI-M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjQucG5n.png"
+  },
+  {
+    "id": "GG/S23-065",
+    "title": "エイミーのお供 グレイス",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "キ？",
+    "effect": "【自】［このカードを控え室に置く］ 他のあなたの《手紙》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "GG_S23_065",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dsWWZ18gXv1yDzdATEBVhCxEWPKuAhGSmJDi6mjRxmM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjUucG5n.png"
+  },
+  {
+    "id": "GG/S23-066",
+    "title": "いたずらっ子 メルティ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "はーやくー！",
+    "effect": "【永】 相手のストックが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_066",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/b69ijsC3WQ46trLonld3nXIJtqUOQ83VAjnkbgZUmZs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjYucG5n.png"
+  },
+  {
+    "id": "GG/S23-067",
+    "title": "水着のサーヤ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "私気にしなーい。ぽっちゃりの方が好きって男の子多いし",
+    "effect": "-",
+    "scraper": "GG_S23_067",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MN21POeegKkUwB8VnJ-aRSGNp4lXzjDQs4AbDM5XirI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjcucG5n.png"
+  },
+  {
+    "id": "GG/S23-068",
+    "title": "おっとり娘 サーヤ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "あ、そこ！なんかいい感じ！",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［(1)］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
+    "scraper": "GG_S23_068",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Gj2GJlsDybr4s9JqKSdn7msNGB4mt9071yDDp-xtL1Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjgucG5n.png"
+  },
+  {
+    "id": "GG/S23-069",
+    "title": "水着のメルティ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "甘いなぁキミは。そこ勘違いすると、痛い目見るよ？",
+    "effect": "-",
+    "scraper": "GG_S23_069",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4T14YekmCsmYpfLfAlLWFPqE2ujvDjBbpnbHVGcfVzU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNjkucG5n.png"
+  },
+  {
+    "id": "GG/S23-070",
+    "title": "水着のエイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "やったぁー！いっちばーん！",
+    "effect": "-",
+    "scraper": "GG_S23_070",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5TjnYPf4UphM-O_tMNnCMbJ-4mICnIOMssM0HcxcqdE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzAucG5n.png"
+  },
+  {
+    "id": "GG/S23-071",
+    "title": "干物",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "レド「どうしろと！？」",
+    "effect": "【カウンター】 あなたは自分の、《手紙》のキャラと《パイロット》のキャラを1枚ずつ別々に選び、そのターン中、パワーを＋2000。",
+    "scraper": "GG_S23_071",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kH8LENZQQueIuBquIVbb4bQs_-O9kfHp04q28m3chnU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzEucG5n.png"
+  },
+  {
+    "id": "GG/S23-072",
+    "title": "逃走！",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "レド「人質をとれば、とりあえず攻撃はしてこない」",
+    "effect": "あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "GG_S23_072",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GEJJoouCS5m1tCJOm4HjzZPAPiHfOt6ucVMqGRkaq5Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzIucG5n.png"
+  },
+  {
+    "id": "GG/S23-073",
+    "title": "翠星のガルガンティア",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "GG_S23_073",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-061",
+      "GG/S23-061S"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bEsvS69G55gqPpY4y-Yb6uwHiQSUjEt4CxmkeH3AEeI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzMucG5n.png"
+  },
+  {
+    "id": "GG/S23-074",
+    "title": "友愛の儀式",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "チェインバー「水生生物の死骸である」レド「死骸！？」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "GG_S23_074",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-054",
+      "GG/S23-054S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xdP0IziIEmBD2dsPGXJw7-J8F6y29KtrkB7r888RGbM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzQucG5n.png"
+  },
+  {
+    "id": "GG/S23-075",
+    "title": "だから帰ってきて！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "あなたと離れてやっと分かった！どんなに辛くても、私はあなたの側にいたい！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "GG_S23_075",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-056"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tVJq98451gBuwjTMUbtGZIMVo7dEC-IPX7cEVB2gIiQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzUucG5n.png"
+  },
+  {
+    "id": "GG/S23-076",
+    "title": "宇宙から来た少年 レド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RR",
+    "side": "s",
+    "say": "最後の恐怖を感じたのはいつだろう？",
+    "effect": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+    "scraper": "GG_S23_076",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-076R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KM3lBwOoIpjR4BbZbvjS9RCLL1kaD0rsX-804a2TYKA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzYucG5n.png"
+  },
+  {
+    "id": "GG/S23-076R",
+    "title": "宇宙から来た少年 レド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+    "scraper": "GG_S23_076R",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-076"
+    ],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WvlitiRD4bZOvOaW3qG07mKPaYOuO9_YX6ckRHAMo78/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzZSLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-077",
+    "title": "人類銀河同盟との訣別 レド",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "俺は、中佐と戦えるか？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「最後の支援啓発」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+    "scraper": "GG_S23_077",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "GG/S23-077SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-098"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_SlNeRmi62NzedhRj3BjaTfrokGMWJWxWFnbnIs04oc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzcucG5n.png"
+  },
+  {
+    "id": "GG/S23-077SP",
+    "title": "人類銀河同盟との訣別 レド",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「最後の支援啓発」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+    "scraper": "GG_S23_077SP",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-077"
+    ],
+    "relation": [
+      "GG/S23-098"
+    ],
+    "price": {
+      "number": 3480,
+      "string": "3480円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iOvy2qIrNP_4k5cU3m-LcQwMazR-0s9itPAbYzOFDVk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzdTUC5wbmc.png"
+  },
+  {
+    "id": "GG/S23-078",
+    "title": "大空の下 レド＆チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "s",
+    "say": "アル… アリグ…アリガトウ",
+    "effect": "【永】 他のあなたの前列の中央の枠の《パイロット》のキャラに、レベルを＋1し、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "GG_S23_078",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/H1UZcYldKbKaARYr9asNqSgrxRNAbTp0jlRUzCuGyH0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzgucG5n.png"
+  },
+  {
+    "id": "GG/S23-078SP",
+    "title": "大空の下 レド&チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの前列の中央の枠の《パイロット》のキャラに、レベルを＋1し、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "GG_S23_078SP",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hMnCbrFb7oIP4c7YWwuLcGY2s5xCv38GVSI76t33zAk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzhTUC5wbmc.png"
+  },
+  {
+    "id": "GG/S23-079",
+    "title": "精神統一 レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "s",
+    "say": "ホシケレバ、ヤル",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+    "scraper": "GG_S23_079",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-079S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aHCBTbhn7LA-b9iNvd7jROhxM8qetRN8VMTXC2mWSfM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzkucG5n.png"
+  },
+  {
+    "id": "GG/S23-079S",
+    "title": "精神統一 レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+    "scraper": "GG_S23_079S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-079"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ktg6zPq1wt6zdjYdodQLFzhbHdU8Hg9QM_DZNhn5FjU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wNzlTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-080",
+    "title": "見知らぬ土地 レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "s",
+    "say": "協力関係を探るのが得策だと思う",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《軍隊》のキャラを1枚選び、【レスト】する。",
+    "scraper": "GG_S23_080",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "GG/S23-080S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F92SVrjUUI2W77IgTd-pyR9t-tFB98WHOSxC8iKhzrU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODAucG5n.png"
+  },
+  {
+    "id": "GG/S23-080S",
+    "title": "見知らぬ土地 レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《軍隊》のキャラを1枚選び、【レスト】する。",
+    "scraper": "GG_S23_080S",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "GG/S23-080"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:56:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4PsBrPDOREaIMCaStH9I5rFmxLD7ez_YCLze9EdHPq0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODBTLnBuZw.png"
+  },
+  {
+    "id": "GG/S23-081",
+    "title": "愛機との別れ レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "R",
+    "side": "s",
+    "say": "チェインバー……",
+    "effect": "【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《軍隊》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+    "scraper": "GG_S23_081",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a69zZ0g2K0hayjO9dYf3z0dPrgsOzSuxGhnVggo_zjU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODEucG5n.png"
+  },
+  {
+    "id": "GG/S23-082",
+    "title": "信念の崩壊 レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "R",
+    "side": "s",
+    "say": "やめろおおおおおお！！",
+    "effect": "【永】 このカードはサイドアタックできない。\n【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋1500。",
+    "scraper": "GG_S23_082",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-084"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EcYz0ZONT9tGb4_vMjf-zHO80Fg9PzxggxOizbNQVoE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODIucG5n.png"
+  },
+  {
+    "id": "GG/S23-083",
+    "title": "船上での生活 レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "オキューリョー、ツカイカタ、ワカラナイ",
+    "effect": "【永】 他のあなたの《軍隊》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードがアタックした時、クライマックス置場に「宇宙から来た少年」があるなら、あなたは自分の山札を見て《軍隊》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_083",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-100",
+      "GG/S23-T13"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/H76Nvcv-sr7VFm8yBMgUN8uVjuw-4D6iUArrjVkEzzM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODMucG5n.png"
+  },
+  {
+    "id": "GG/S23-084",
+    "title": "果たすべき務め チェインバー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "レド「あいつを倒そうチェインバー。それが俺たちの務めだ」チェインバー「全面的に同意する」",
+    "effect": "【自】 このカードがアタックした時、他のあなたのカード名に「レド」を含むキャラすべてに、そのターン中、レベルを＋1。\n【自】 絆／「信念の崩壊 レド」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「信念の崩壊 レド」を1枚選び、手札に戻す）",
+    "scraper": "GG_S23_084",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-082"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7bYO7VJWpVHtspFJ3bHUM5zSVBROriureezNt3z1IrI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODQucG5n.png"
+  },
+  {
+    "id": "GG/S23-085",
+    "title": "ヒディアーズ幼生体",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードがアタックした時、あなたは他の自分の《改造》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "GG_S23_085",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "改造"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8YKoxzwdjYISXJVec0z8gAZ6gYH--y0mZNwIirfLuoQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODUucG5n.png"
+  },
+  {
+    "id": "GG/S23-086",
+    "title": "上官 クーゲル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "人類銀河同盟に栄光あれ。…達者でな",
+    "effect": "【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋500。",
+    "scraper": "GG_S23_086",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AL7jnubr2ebdo20-bPZrl1mf3h5xsBR6LlIH3S4Vufk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODYucG5n.png"
+  },
+  {
+    "id": "GG/S23-087",
+    "title": "クジライカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《改造》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+    "scraper": "GG_S23_087",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "改造"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NL3i0N5cK7TFgLHVtwVc8pC-n0FNIb34ckq9zhIQ7mw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODcucG5n.png"
+  },
+  {
+    "id": "GG/S23-088",
+    "title": "強い眼差し レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "U",
+    "side": "s",
+    "say": "戦えと、強いるのか。機械のお前が、人間の俺に",
+    "effect": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "GG_S23_088",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6GNqpqCd8IyGQH8dxASpE8rWjsBA8Ir0qanb9MkvUIg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODgucG5n.png"
+  },
+  {
+    "id": "GG/S23-089",
+    "title": "冒険家 レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "いずれ研究が進めば、コミュニケーションも可能になるかもしれない",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "GG_S23_089",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TgkFhHBfzIQSY1k-3LTnGt1liPn2fiQ-vu7TS7S5Oxk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wODkucG5n.png"
+  },
+  {
+    "id": "GG/S23-090",
+    "title": "試行錯誤の笑顔 レド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "美味しそうな顔…どうすれば？",
+    "effect": "-",
+    "scraper": "GG_S23_090",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/grHUA_L_O4pXclgAffKCGRL_QsG7yUV2E6sIZjzJtfA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTAucG5n.png"
+  },
+  {
+    "id": "GG/S23-091",
+    "title": "操縦席のレド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "s",
+    "say": "こいつら何者だ？",
+    "effect": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを思い出にする。（公開したカードは元に戻す）",
+    "scraper": "GG_S23_091",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sXSEwY7xm3Xe3iHeOVGlpPWaOVvGXGE78CcSOReiNrw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTEucG5n.png"
+  },
+  {
+    "id": "GG/S23-092",
+    "title": "思案するレド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "s",
+    "say": "今はこれが最善だ",
+    "effect": "【自】［(2)］ あなたのクライマックス置場に「海賊迎撃」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。",
+    "scraper": "GG_S23_092",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-099",
+      "GG/S23-T14"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MXwkY_TpnnaZxRyWsrguQYC0quAlqPYxiWtChXpIA_o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTIucG5n.png"
+  },
+  {
+    "id": "GG/S23-093",
+    "title": "偽りの再会 クーゲル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "レド、この星に新たな秩序をもたらすことは我々の使命だ",
+    "effect": "-",
+    "scraper": "GG_S23_093",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iE2G8G6-FbsvO3ucpMLqlwj6MEpfkRAi2TpLhu0uXZY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTMucG5n.png"
+  },
+  {
+    "id": "GG/S23-094",
+    "title": "進化の過程 ヒディアーズ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたの《改造》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《改造》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_094",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "改造"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9mMSQ473qeJXKQ2c9GtuLMTd4RuFlXHbc7rOfDXWdMM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTQucG5n.png"
+  },
+  {
+    "id": "GG/S23-095",
+    "title": "ヒディアーズ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《改造》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+    "scraper": "GG_S23_095",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "改造"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YmfVp6RiAgmz-dww3rpJ7ONonKMkyk21gjWnnIPku3w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTUucG5n.png"
+  },
+  {
+    "id": "GG/S23-096",
+    "title": "隠された真実",
+    "type": "イベント",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "国際法に反する、非人道的な人体実験の数々が明らかになりました",
+    "effect": "あなたは自分の山札を見て《パイロット》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_096",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tIyCBTj5aV8f4diU0FkLqbQ9l_OehpUN4IXVkbqdDw4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTYucG5n.png"
+  },
+  {
+    "id": "GG/S23-097",
+    "title": "レドの笛",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "あなたは自分のレベル0以下のキャラを1枚選び、クロック置場に置く。そうしたら、あなたは2枚まで引く。",
+    "scraper": "GG_S23_097",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sUpKoWdoSrVWTkaN4sktYkjsCHGRGhq9yENMER-Hlt8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTcucG5n.png"
+  },
+  {
+    "id": "GG/S23-098",
+    "title": "最後の支援啓発",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "私はパイロット支援啓発システム。あなたがより多くの成果を獲得することで、存在意義を達成する",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "GG_S23_098",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-077",
+      "GG/S23-077SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3hZ1PLR6V4wVAmXsIUNx-Ex2yU3ckp34T-FHPOqzfBs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTgucG5n.png"
+  },
+  {
+    "id": "GG/S23-099",
+    "title": "海賊迎撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "発進",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "GG_S23_099",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-092",
+      "GG/S23-T11"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9eYOiDp1o1sXqO1Vi1oXybRlZU_VpH8zM1IdmkxoFxw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18wOTkucG5n.png"
+  },
+  {
+    "id": "GG/S23-100",
+    "title": "宇宙から来た少年",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "レド「チェインバー！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "GG_S23_100",
+    "productName": "翠星のガルガンティア",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-083"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SEJMO7MVtngGfDobphOJ1vYabwdiTgIGrWlAcnQ9Plc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDAucG5n.png"
+  },
+  {
+    "id": "GG/S23-101",
+    "title": "漂流者 レド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ただの精神統一の手段にすぎない",
+    "effect": "【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1500。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "GG_S23_101",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6CsyBDYTHyy34NrtWmId2q_W3DZm9xcLc_j2diwbIYY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDEucG5n.png"
+  },
+  {
+    "id": "GG/S23-102",
+    "title": "感動の味 レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "こ、これは…！",
+    "effect": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+    "scraper": "GG_S23_102",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hRrb9AnQQULhF0VP5iBc-LCsIWmLv9fVCdMPNoocPUM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDIucG5n.png"
+  },
+  {
+    "id": "GG/S23-103",
+    "title": "好奇心旺盛 エイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "なんか、今にも動き出しそうだね！",
+    "effect": "【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。",
+    "scraper": "GG_S23_103",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Trs8FN5bGye-lwq1ot3wvjRLmweDU5VKbl-8CSpq70A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDMucG5n.png"
+  },
+  {
+    "id": "GG/S23-104",
+    "title": "レド&チェインバー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "レド「地球…ここが！？」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "GG_S23_104",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uziODd4FqBxID0G1kgZklB3FC3A6R0e6aENuiFvsDa0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDQucG5n.png"
+  },
+  {
+    "id": "GG/S23-105",
+    "title": "姉御肌 ベローズ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "あたしはべローズ。あんたと話がしたくてね",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "GG_S23_105",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xQiTORezXRp2J8Jp-_Ufa7QQ_PU_AV64oTl_aDAchH0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDUucG5n.png"
+  },
+  {
+    "id": "GG/S23-106",
+    "title": "ぷちベローズ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "この展開、ついていけないんだけど…",
+    "effect": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "GG_S23_106",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DEWAQc9kGba57ETsM3bL3q2GdVZlGEV06AsRRYhTB9c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDYucG5n.png"
+  },
+  {
+    "id": "GG/S23-107",
+    "title": "ぷちチェインバー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "PR",
+    "side": "s",
+    "say": "等身約70％縮小。愛らしさ増大、本編比900％以上と推定",
+    "effect": "-",
+    "scraper": "GG_S23_107",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zhzxXOrclwQVVQEb0JSERvKUEAl8RsPyrwjcMuk0vcQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDcucG5n.png"
+  },
+  {
+    "id": "GG/S23-108",
+    "title": "ぷちエイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "s",
+    "say": "ここだと言葉が通じていいねぇー",
+    "effect": "-",
+    "scraper": "GG_S23_108",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TuRf9zFYqfJa5df5Lz0fbZPCDC0Y_3i0iEjft8Cbb00/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDgucG5n.png"
+  },
+  {
+    "id": "GG/S23-109",
+    "title": "ぷちレド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "s",
+    "say": "チェインバー！機体が縮んでるぞ！",
+    "effect": "【永】 相手のターン中、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_109",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HYNbkR4uEiKWBYa1pGusQXYPJ2WY9JhqRdlZcpMyiVk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM18xMDkucG5n.png"
+  },
+  {
+    "id": "GG/S23-P01",
+    "title": "漂流者 チェインバーくん",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "s",
+    "say": "海中遊泳を遂行。貴官には「バタ足」の訓練を推奨。なお、当機は「浮き輪」としても支援可能。",
+    "effect": "-",
+    "scraper": "GG_S23_P01",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "メカ",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oQzU5S1OjpVdYJEsekyGR1MgJ3KrXfXIJqg_HzOKxE4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19QMDEucG5n.png"
+  },
+  {
+    "id": "GG/S23-P02",
+    "title": "問い詰められるエイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "s",
+    "say": "メルティ「どうだった？ 半漁人！」",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "GG_S23_P02",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ky611nBQ1TWGLC1qMkLEOFttOiUSG9XUPjRHYnjTbPs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19QMDIucG5n.png"
+  },
+  {
+    "id": "GG/S23-P03",
+    "title": "水着のエイミー＆ベローズ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "s",
+    "say": "ベローズ「できないことがあったら聞けばいいのさ」",
+    "effect": "【自】 記憶 思い出置場にこのカードがあるなら、あなたか相手のクロックが、自分のカードの効果で控え室に置かれた時、そのプレイヤーは自分のストックの上から2枚を、控え室に置いてよい。そうしないなら、そのプレイヤーは自分の山札の上から1枚を、クロック置場に置く。\n【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《手紙》か《パイロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "GG_S23_P03",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EGgNDvIADlqrppDBGyUmoBjdPz0hsFGtAMMxU8TJYSk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19QMDMucG5n.png"
+  },
+  {
+    "id": "GG/S23-T01",
+    "title": "喜ぶエイミー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "s",
+    "say": "エイミー「すごい綺麗だね！」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "GG_S23_T01",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ny8KWiqNWrLmsxs4e5khKM1LU5J2y_EiGW88bQ4xvsY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDEucG5n.png"
+  },
+  {
+    "id": "GG/S23-T02",
+    "title": "いたずらっ子 メルティ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "はーやくー！",
+    "effect": "【永】 相手のストックが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "GG_S23_T02",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hAvJTk8YJXnUK6QtsvJZteaIFVUlxHQYn8NK5ivEsgw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDIucG5n.png"
+  },
+  {
+    "id": "GG/S23-T03",
+    "title": "水着のサーヤ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "私気にしなーい。ぽっちゃりの方が好きって男の子多いし",
+    "effect": "-",
+    "scraper": "GG_S23_T03",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wL5L8E0hXVEHI1ZblHFnM8-wOdAn1DmfjLcuaxeGnwg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDMucG5n.png"
+  },
+  {
+    "id": "GG/S23-T04",
+    "title": "おっとり娘 サーヤ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "TD",
+    "side": "s",
+    "say": "あ、そこ！なんかいい感じ！",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［(1)］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
+    "scraper": "GG_S23_T04",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3Rcv9RG_gEnAomvYUiY-nwV1n9tipX0nQHW1zmBmKY8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDQucG5n.png"
+  },
+  {
+    "id": "GG/S23-T05",
+    "title": "水着のメルティ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "甘いなぁキミは。そこ勘違いすると、痛い目見るよ？",
+    "effect": "-",
+    "scraper": "GG_S23_T05",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mBjDgQtn8iKhkoeCqDrU5edSliQKJQuReAPUEYFK4g0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDUucG5n.png"
+  },
+  {
+    "id": "GG/S23-T06",
+    "title": "水着のエイミー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "s",
+    "say": "やったぁー！いっちばーん！",
+    "effect": "-",
+    "scraper": "GG_S23_T06",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "手紙",
+      "水着"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/X5hJePpmRNNfc1OjKxfSus0TQNmFCNFo4LB_v-QR3pM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDYucG5n.png"
+  },
+  {
+    "id": "GG/S23-T07",
+    "title": "逃走！",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "レド「人質をとれば、とりあえず攻撃はしてこない」",
+    "effect": "あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "GG_S23_T07",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qC_UnQ8_m2qAK0HSftHgH2nCMMr3oArqTLYlbPfS81Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDcucG5n.png"
+  },
+  {
+    "id": "GG/S23-T08",
+    "title": "友愛の儀式",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "チェインバー「水生生物の死骸である」レド「死骸！？」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "GG_S23_T08",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-054",
+      "GG/S23-054S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xaVhphnZJZo-fVNxrTP1zqbYOy5rsqnO10FWAyXuejo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDgucG5n.png"
+  },
+  {
+    "id": "GG/S23-T09",
+    "title": "試行錯誤の笑顔 レド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "美味しそうな顔…どうすれば？",
+    "effect": "-",
+    "scraper": "GG_S23_T09",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yPwnRT-bwKxi1H_boPYzCswTE81BDHSMI80kBKzb_LE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMDkucG5n.png"
+  },
+  {
+    "id": "GG/S23-T10",
+    "title": "操縦席のレド",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "TD",
+    "side": "s",
+    "say": "こいつら何者だ？",
+    "effect": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを思い出にする。（公開したカードは元に戻す）",
+    "scraper": "GG_S23_T10",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zu_gW4LOGX3AoPgh-ttYqpTcQQg0qOsKZNjyyPtgOec/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMTAucG5n.png"
+  },
+  {
+    "id": "GG/S23-T11",
+    "title": "思案するレド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "s",
+    "say": "今はこれが最善だ",
+    "effect": "【自】［(2)］ あなたのクライマックス置場に「海賊迎撃」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。",
+    "scraper": "GG_S23_T11",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-099",
+      "GG/S23-T14"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SUp35Cs6pIfjWQanL-0FbgT7K9AqcewrywZuAg1j8wk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMTEucG5n.png"
+  },
+  {
+    "id": "GG/S23-T12",
+    "title": "警戒態勢 レド",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "……！",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "GG_S23_T12",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_nUwNPsBYJxBNsFGrer-GlNRCW1jwn0DbIbjWb56WKk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMTIucG5n.png"
+  },
+  {
+    "id": "GG/S23-T13",
+    "title": "宇宙から来た少年",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "レド「チェインバー！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "GG_S23_T13",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-083"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0NbZZ_TzFFGm6pjLAJVBY7tiAcf7m64IL-fjoKcuahs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMTMucG5n.png"
+  },
+  {
+    "id": "GG/S23-T14",
+    "title": "海賊迎撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "発進",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "GG_S23_T14",
+    "productName": "2013年度トライアルデッキ【S】",
+    "seriesCode": "GG",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "GG/S23-092",
+      "GG/S23-T11"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:56:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Tx0Huzf1K0ky-7ffjPOxd2klYGEQQ8foT7ggmsluS-0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0dHX1MyM19UMTQucG5n.png"
+  }
+]

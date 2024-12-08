@@ -1,0 +1,1689 @@
+[
+  {
+    "id": "VA/WE30-55",
+    "title": "SECRET",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "SEC",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "SECRET",
+    "scraper": "VA_WE30_55",
+    "productName": "ダ・カーポ vs リトルバスターズ！",
+    "seriesCode": "VA",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xP-rnf0nrc50lhgGlXHHc1j37Q_qGEi48mrQ7MvYN2I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dFMzBfNTUucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P01",
+    "title": "vavaしゃちょー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 3,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "PR",
+    "side": "w",
+    "say": "いつもココロに太陽を！",
+    "effect": "【永】 他のあなたの《ビジュアルアーツ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ あなたのクライマックス置場に「鬼召集！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000し、《ビジュアルアーツ》と《太陽》を与える。",
+    "scraper": "VA_WPR_P01",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "太陽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P29"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/efTzMUkeGpefo5O3fMf-sueTPz8k4grJ2jzuy1wakWk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDEucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P02",
+    "title": "“金髪ツンデレ好き”樋上いたる",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "PR",
+    "side": "w",
+    "say": "Na-Gaさん、喉渇いたからお茶買ってきて～！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】［(1)］ あなたのクライマックス置場に「差し入れきましたっ！」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“炎のグラフィッカー”Na-Ga」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "VA_WPR_P02",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "カエル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P05",
+      "VA/WPR-P30"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aiBzm-16q03nMCihtweBseu5rHp1pKQ5lyUSFBZ_Rwk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDIucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P03",
+    "title": "“殺伐”の麻枝准",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "（無言でこちらを見ている）",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【自】［他のあなたの舞台の《ビジュアルアーツ》のキャラすべてを控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはこの能力のコストで控え室に置かれたキャラの枚数×1500に等しい。",
+    "scraper": "VA_WPR_P03",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6ARzIYdxsZueWTcX0lW77grUDhlHHv5GlEq5576wbUo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDMucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P04",
+    "title": "“JFK”折戸伸治",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "PR",
+    "side": "w",
+    "say": "からあげはなぁ、外の衣がカリッとしててなぁ、噛んだらジューって肉汁が出るふわっふわのやつがなぁ、ええねん",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。（公開したカードは元に戻す）",
+    "scraper": "VA_WPR_P04",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "ユニゾン"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FCjIvj_Fq8zXGm8mndWBYr5Q8JMNx-TMZ8SCQqgRdfs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDQucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P05",
+    "title": "“炎のグラフィッカー”Na-Ga",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 9500,
+    "rare": "PR",
+    "side": "w",
+    "say": "おぉっ！ ペンタブさえあれば1人力じゃわいっ！",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、このカードをクロック置場に置く。",
+    "scraper": "VA_WPR_P05",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "影"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P02"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fXVx_DOAg8UFCiCC_hQyVJVZTxjnnxDa6FlfedvAvRM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDUucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P06",
+    "title": "“50cc・ライダー”都乃河勇人",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "PR",
+    "side": "w",
+    "say": "ヒュウ！ プレイするときは『行くぜ相棒！』って言ってくれよな！",
+    "effect": "【自】［『行くぜ相棒！』と宣言する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、《バイク》を与える。",
+    "scraper": "VA_WPR_P06",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "オカルト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wCo-hCu0rDHaNV-Anlt4Lw_J88Zg8vZblgY7N1oB7G4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDYucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P07",
+    "title": "“お腹がすいたら干し梅”しのり～",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 3500,
+    "rare": "PR",
+    "side": "w",
+    "say": "眠い時はコーヒーが効くねぇ～",
+    "effect": "【永】 応援 このカードの前のあなたのレベル1以上のキャラすべてに、ソウルを＋1。",
+    "scraper": "VA_WPR_P07",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "宇宙人"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yeVbpDkBDlO9A8f7t84u4UUfQX3_RXqDyKACnSeqMQE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDcucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P08",
+    "title": "“デバッグ大好き”yonie",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "PR",
+    "side": "w",
+    "say": "もっとバグに寛容になろうぜぇえええ！！ とは言えない…",
+    "effect": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VA_WPR_P08",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "人形"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8iAUbjwlhhS33Z8_9rOtcMxqXU3-RBwQOLqc67Xi91U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDgucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P09",
+    "title": "“鳥が好き”餅介",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "濡れたインコの匂いが凄い",
+    "effect": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを前列のキャラのいない他の枠に動かす。",
+    "scraper": "VA_WPR_P09",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/I5Y78vo1G9rBs6PECX5QVxu19AS9H6yRQZ1AhOl81cs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMDkucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P10",
+    "title": "“最弱の実力を持つ”yucchi",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "key開発室に栄光あれえぇ！！ ぎゃあぁあ！！！",
+    "effect": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+    "scraper": "VA_WPR_P10",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "怪異"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/b_RQLFkjnKB2O3gqfJJLPuRD1UUUnHunU9VIzzb3omI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTAucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P11",
+    "title": "“高レベル雑用”藤井知貴",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "忙しいのはわかるけど、皆さん休んで！残業しすぎる社員に注意する役目",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ビジュアルアーツ》のキャラすべてに、そのターン中、《元気》を与える。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VA_WPR_P11",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "マネージャー"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PFowBEsEQgJl5lc6vXIc_zwLkUb-aXBpDHwl_BEqoTI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTEucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P12",
+    "title": "“エグゼクティブ・クド公”編集長",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "入稿終わったら旅行するです。わふっ！",
+    "effect": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "VA_WPR_P12",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JbJtilOdtLhWRCpLr8ENsJ4KlCxTEiQEyZ4Vnwa2xWQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTIucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P13",
+    "title": "“七つの傷を持つ男”魁",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "人間、意外と丈夫なんだぜ！",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VA_WPR_P13",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "不死"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vsacq5rX7ofTAQuqXlpFZx_f6GIArKa_v0_WcoLCqQ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTMucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P14",
+    "title": "“ピンクパンダー”丘野塔也",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "エロゲーは、エロくなきゃね",
+    "effect": "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "VA_WPR_P14",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "まゆげ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SY0k-5MWLTBFHjBQTjWtT3iM7oqpQP73RsDNYFxOBC8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTQucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P15",
+    "title": "“だいたい荒ぶってる”恋泉天音",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "ネットは広大だわ…",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "VA_WPR_P15",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oxpBEgNuhru6VguIYtqb4hDA9RrxjqjmjqW9aJpoYAg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTUucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P16",
+    "title": "“シャレオツ業界人（）”どんまる",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "犬（ハルちゃん）をもふもふしたい",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "VA_WPR_P16",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "仏像"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ub5dURT5x0Enh7XpK5OFFdbb4siMhk51neeyFGE7hOA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTYucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P17",
+    "title": "“無類のＬ好き”池パン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "w",
+    "say": "週末＆週頭に出張入れてドームにGo！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "VA_WPR_P17",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9JssasQzGbDvEYJ_EEztOC2Q3vwSniuf_7SmcQL2Hzk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTcucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P18",
+    "title": "“近距離パワー型”兎塚エイジ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "PR",
+    "side": "w",
+    "say": "だが断る",
+    "effect": "-",
+    "scraper": "VA_WPR_P18",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "悪魔"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j6ZbuOtiUPOPxVK4aNeBCIs_hg_aWSI_KocRd5gQEIg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTgucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P19",
+    "title": "“草食系動物”伊倉ナギサ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "PR",
+    "side": "w",
+    "say": "ゴーヤをかじりたい",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "VA_WPR_P19",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P26"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:07.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/phQjF4JzHkCqjZPxdfxG4b2HKpOVBvx0ze1F9OcYVLA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMTkucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P20",
+    "title": "“ダブルフェイス”せなかさん",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "俺がみんなを笑顔にしてやるぜ！",
+    "effect": "【永】 他のあなたの《ビジュアルアーツ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "VA_WPR_P20",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_fx3JuRQmosfXvWaPwi0r-Lh40lwtGXPMgkBMskc-sk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjAucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P21",
+    "title": "“雑用王”Ｄ坂本",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "なんでも運びます",
+    "effect": "【起】［このカードを【レスト】する］ あなたはキャラを2枚まで選び、そのターン中、《ビジュアルアーツ》を与える。\n【起】［このカードを控え室に置く］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "VA_WPR_P21",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "へたれ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/s_QzoQ2NWdDbhXxyKYvINzi3dbyKQy4ahTum7k4Uunk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjEucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P22",
+    "title": "“カスケーディングスタイル”しばP",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "書き換えてやんよ！ そのWEBページを！！",
+    "effect": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+    "scraper": "VA_WPR_P22",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "ネット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tIhm9YWKfqrPmRewOc8s_rbXifhG4lLPDgcOAzr0YBU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjIucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P23",
+    "title": "“オヤヂ魂”たまち露",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "「おはよう」と「笑顔」は元気の素！「カラオケ」と「カフェイン」は命の素！！",
+    "effect": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "VA_WPR_P23",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/98KBcbNoWDzlfY95ZY-JqrdbOX4zk3b542jQ22gDaDo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjMucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P24",
+    "title": "“笑顔の押し売り”竹下智博",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "お、お願いします！",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+    "scraper": "VA_WPR_P24",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4Lwx3b2DftAGiXhVnE4bKTqdIbVPbXe5YAhQT9-wYfI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjQucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P25",
+    "title": "“きまぐれスナイパー”鳴瀬静",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "なるるがお手伝いします！ 代わりにおやつください！！",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ビジュアルアーツ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "VA_WPR_P25",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "男装"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tJ27JA3RGR07R2dZ11F2_cPxdvvAzPgGn9HhqT8KQRU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjUucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P26",
+    "title": "“万年化粧品貧乏”なかおよしえ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "PR",
+    "side": "w",
+    "say": "お疲れさまです。お昼になりましたー",
+    "effect": "【自】 絆／「“草食系動物”伊倉ナギサ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“草食系動物”伊倉ナギサ」を1枚選び、手札に戻す）\n【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "VA_WPR_P26",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "牛乳"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P19"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/08TcMYfDd0iqYZ6PpFEulpZpT_L6aAkHjvvOIfgCt9M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjYucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P27",
+    "title": "“voix”西邑在処",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "w",
+    "say": "いや～今のテイクよかったで、マジデマジデ。おっしゃその調子でもっぺん唄ってみよか",
+    "effect": "-",
+    "scraper": "VA_WPR_P27",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "お茶"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tD6C9D1DYAgKEVqQdsN3JdGircarVuFfqj9ZkLmntow/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjcucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P28",
+    "title": "君と奏でる明日へのうた",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "花音「20周年ありがとー！ 次は30周年だね！」詩音「だといいね……」花音「不吉！ もっと明るくいこうよ！」",
+    "effect": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《ビジュアルアーツ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《ビジュアルアーツ》のキャラの枚数に等しい。",
+    "scraper": "VA_WPR_P28",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8530rIhBC2RKBeuKyhHgFvX7bjeNXtZiLb2BZJl-QXI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjgucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P29",
+    "title": "鬼召集！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "みんなーっ！ 出てこいやぁ！！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "VA_WPR_P29",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P01"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/C9FK7sV40ZbnEBu9HoSSXXaoJ50W1ww211oOAXsVTic/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMjkucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P30",
+    "title": "差し入れきましたっ！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "PR",
+    "side": "w",
+    "say": "Na-Gaさんがお茶買ってきてくれた！",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "VA_WPR_P30",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VA/WPR-P02"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9D5PR3D_ecGEK768tbGLrGfM0yH67H4VondGw_kbx0w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzAucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P31",
+    "title": "“七変化・歌使いのドワーフ”KOTOKO",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "自分らしけりゃ良いんじゃない？好きスキすきぃ～♥にやっちゃうぜ～！",
+    "effect": "【永】 他のあなたの《ビジュアルアーツ》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "VA_WPR_P31",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fSnDVrL2mSym_96O3rbdlYeCDxz31bPLREyhBMsv5E8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzEucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P32",
+    "title": "“Top of the あげまん”島みやえい子",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "PR",
+    "side": "w",
+    "say": "153cmの身長が154cmに伸びていた！私の成長期に終わりはない。",
+    "effect": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+    "scraper": "VA_WPR_P32",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DwBTOv9LIjyDaxXALoZM6l29kLBsxEG0SQgSrr1dEB8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzIucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P33",
+    "title": "“情熱＝クール・ビューティー”川田まみ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "私について来てっ！！",
+    "effect": "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+    "scraper": "VA_WPR_P33",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iADslDHBspaF4wRxR9deiBfP6oy2dy7RkCjQyZnAYiw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzMucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P34",
+    "title": "“天使と毒舌小悪魔”詩月カオリ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "w",
+    "say": "ふぅ～ん・・・　そうなんだぁ～～☆",
+    "effect": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを手札に戻してよい。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VA_WPR_P34",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lE4m-L3l2IVGmrDcHIc3mClZKo11HLuGGUEh9Ho83Bk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzQucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P35",
+    "title": "“クリスタルヴォイスの歌姫”Lia",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "PR",
+    "side": "w",
+    "say": "焼き肉＆ラーメン大好きッ子！！",
+    "effect": "【自】［(6)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）\n【起】［あなたの《ビジュアルアーツ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VA_WPR_P35",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0CXtxSYqTbKt1w_wODxfE09bOqXH0cV6jkL9DKp58BM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzUucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P36",
+    "title": "“SMiLE”LiSA",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "今日もいい日だっ☆",
+    "effect": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+    "scraper": "VA_WPR_P36",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CiqpaAxbCIDY3Luq9_8vp21GBle1fzLxP6glpVDK1jw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzYucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P37",
+    "title": "“エンディングの女王”多田葵",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "PR",
+    "side": "w",
+    "say": "ボカロじゃないよ、人間だよ☆",
+    "effect": "【永】 他のあなたの《ビジュアルアーツ》のキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "VA_WPR_P37",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T06:05:08.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5eJxGxEougWcuoP9UBCyo7y9JCWof2GfVzCVkwMAHX8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzcucG5n.png"
+  },
+  {
+    "id": "VA/WPR-P38",
+    "title": "“着ぐるみ幻想”鈴田美夜子",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "PR",
+    "side": "w",
+    "say": "わふー、みんな酸素をありがとうー",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "VA_WPR_P38",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VA",
+    "feature": [
+      "ビジュアルアーツ",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1980,
+      "string": "1980円",
+      "date": "2024-11-28T06:05:09.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jZenOQV2KDZcUNxGlUqNBjzt_1Lh79eMswgwpes1GmY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZBX1dQUl9QMzgucG5n.png"
+  }
+]

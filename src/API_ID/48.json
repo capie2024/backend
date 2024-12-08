@@ -1,0 +1,6961 @@
+[
+  {
+    "id": "KI/S44-001",
+    "title": "胸の痛み 天河",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RR",
+    "side": "s",
+    "say": "い、いてぇよ……胸のあたり",
+    "effect": "【永】 他のあなたの《キズナ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「好きだとか好かれるとか」があるなら、あなたは自分の山札を上から2枚まで見て、レベル1以上のカードを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+    "scraper": "KI_S44_001",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-001S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-024"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FKB5bau2K1DnVRCG-8goeAU58hDD1jyz8ZFrepzswko/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDEucG5n.png"
+  },
+  {
+    "id": "KI/S44-001S",
+    "title": "胸の痛み 天河",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《キズナ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「好きだとか好かれるとか」があるなら、あなたは自分の山札を上から2枚まで見て、レベル1以上のカードを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+    "scraper": "KI_S44_001S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-001"
+    ],
+    "relation": [
+      "KI/S44-024"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rSh541G7lOLmE2Ii_4CyPZ9Rhg9BJKWhhVjEtAKSYHw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDFTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-002",
+    "title": "“不思議メンヘラ”仁子",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "ほんとの自分を、不思議って言ってもらえるなんて！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(2) 手札の「クラスの珍獣枠 仁子」を1枚控え室に置く］ あなたのクライマックス置場に「友達だから」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたの前列のキャラすべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_002",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-002SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-005",
+      "KI/S44-005R",
+      "KI/S44-025"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/u0klISm7NB4yyvI2biLeR04kBY3IbmDJgAKOwX_2XzI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDIucG5n.png"
+  },
+  {
+    "id": "KI/S44-002SP",
+    "title": "“不思議メンヘラ”仁子",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(2) 手札の「クラスの珍獣枠 仁子」を1枚控え室に置く］ あなたのクライマックス置場に「友達だから」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたの前列のキャラすべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_002SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-002"
+    ],
+    "relation": [
+      "KI/S44-005",
+      "KI/S44-005R",
+      "KI/S44-025"
+    ],
+    "price": {
+      "number": 2980,
+      "string": "2980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wQBTH3xpf-JFgppkVgUIPK0BvEYkDj1vvcVJ3he9iEk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDJTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-003",
+    "title": "迷いに喝 天河",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "なんでそこで迷うんだよ！　俺らには、あんなきっぱり言い切ってたじゃねぇか",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\n【起】［あなたの舞台のキャラを1枚控え室に置く］ あなたは自分の《キズナ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "KI_S44_003",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j_17IvJ05MMAi-DNFUZYswEwB8nRZGb2EFq6U2VxZa4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDMucG5n.png"
+  },
+  {
+    "id": "KI/S44-004",
+    "title": "反省できる子 仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "わ、わか……な、だって……",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。（公開したカードは元に戻す）\n【自】 絆／「寡黙な文系少女 穂乃香」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「寡黙な文系少女 穂乃香」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_004",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-004S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-030",
+      "KI/S44-030R"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pR3uCMyYw2j4KSA8jIGLpLubsuN9sKL9NJoU1KqLzgU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDQucG5n.png"
+  },
+  {
+    "id": "KI/S44-004S",
+    "title": "反省できる子 仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。（公開したカードは元に戻す）\n【自】 絆／「寡黙な文系少女 穂乃香」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「寡黙な文系少女 穂乃香」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_004S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-004"
+    ],
+    "relation": [
+      "KI/S44-030",
+      "KI/S44-030R"
+    ],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BaDsdv1PL1TxabYR9g5WQOV5nFFIzWoA-LldZDZi4os/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDRTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-005",
+    "title": "クラスの珍獣枠 仁子",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "s",
+    "say": "わあい珍獣！　仁子、マントヒヒとーっぴ！",
+    "effect": "【永】 舞台のこのカードのレベルを－1。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+    "scraper": "KI_S44_005",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-005R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-002",
+      "KI/S44-002SP",
+      "KI/S44-029",
+      "KI/S44-029S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/in4VI8Jqi0BjtIYKlWyUORnMYHTBh7HggGvd-IBb2tc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDUucG5n.png"
+  },
+  {
+    "id": "KI/S44-005R",
+    "title": "クラスの珍獣枠 仁子",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 舞台のこのカードのレベルを－1。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+    "scraper": "KI_S44_005R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-005"
+    ],
+    "relation": [
+      "KI/S44-002",
+      "KI/S44-002SP",
+      "KI/S44-029",
+      "KI/S44-029S"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZTCs-w574ORcv5KKBQU3DhtQRce550K1dQTX2Ylh_SM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDVSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-006",
+    "title": "不安から確信へ 仁子",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "天河君て、やっぱり……",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\n【自】 絆／「真っすぐな性格 天河」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「真っすぐな性格 天河」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_006",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-007",
+      "KI/S44-007R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xuR_XNajhcVnitP96C-dvT8-nfvYHfqVRTksMy0jUSU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDYucG5n.png"
+  },
+  {
+    "id": "KI/S44-007",
+    "title": "真っすぐな性格 天河",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "R",
+    "side": "s",
+    "say": "おっぺだ、おっぺ！",
+    "effect": "【永】 他のあなたの《キズナ》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）",
+    "scraper": "KI_S44_007",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-007R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-006"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VID9II7M6y2oLnsDCbtpFwirO8I-5aDx59hX_NuuTc0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDcucG5n.png"
+  },
+  {
+    "id": "KI/S44-007R",
+    "title": "真っすぐな性格 天河",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《キズナ》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）",
+    "scraper": "KI_S44_007R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-007"
+    ],
+    "relation": [
+      "KI/S44-006"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0mA_mbCBAByVixwNO8T00XpAUqzI_FVRMQBMtuzMgH0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDdSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-008",
+    "title": "打ちひしがれた仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを－1。",
+    "scraper": "KI_S44_008",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m8DYvzPbw3XDsN7FxV1QnrRepzqRqtiRX1VASzv3gn0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDgucG5n.png"
+  },
+  {
+    "id": "KI/S44-009",
+    "title": "黒いゴモリン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "山田「おら、ガンガン繋ぐぞ」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_009",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XzhZxLnbe0uGtmQeRUyYZ7tO_FP3I-zlA535mr7xxS8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMDkucG5n.png"
+  },
+  {
+    "id": "KI/S44-010",
+    "title": "合宿の夜 天河",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "や、やーまだ？うるしー……？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは他の自分の《キズナ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "KI_S44_010",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iIi5tRHiNQaI4m0VVitub9UjGvFSijFJtTJDEFhf-g4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTAucG5n.png"
+  },
+  {
+    "id": "KI/S44-011",
+    "title": "わりとカオスな仁子",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "U",
+    "side": "s",
+    "say": "ゆくゆくは仁子と千鳥、天河君をめぐって殴りあいの喧嘩するの！",
+    "effect": "【永】 他のあなたの前列の中央の枠の《キズナ》のキャラに、パワーを＋2000。\n【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「Best Friends」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+    "scraper": "KI_S44_011",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-026"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NGwXPzhw3HdaCUI8SZEv81pyEiO-7oVsQ4LmbYJ_LD8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTEucG5n.png"
+  },
+  {
+    "id": "KI/S44-012",
+    "title": "“狂犬”天河",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "s",
+    "say": "この状況がそいつに見せられてる夢だと？",
+    "effect": "【永】 他のあなたの《キズナ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
+    "scraper": "KI_S44_012",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PtoCXgMYswvYJULYJTTeDeKIxxeABG3_OWA3qkNqNtE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTIucG5n.png"
+  },
+  {
+    "id": "KI/S44-013",
+    "title": "当惑する天河",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "はああ！！！？",
+    "effect": "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－1。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "KI_S44_013",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xTpyempZtIzf04Y_pmp9CTvfwx0KuErnON1kvZUIQps/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTMucG5n.png"
+  },
+  {
+    "id": "KI/S44-014",
+    "title": "ぎこちない返事 天河",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "s",
+    "say": "お、おう",
+    "effect": "【永】 他のあなたの『絆』を持つキャラすべてに、ソウルを＋1。\n【起】［あなたの《キズナ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "KI_S44_014",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UCNBMIYiKax-Rk5KCPoVquwPl5LLHLfTlAF9mxskmJ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTQucG5n.png"
+  },
+  {
+    "id": "KI/S44-015",
+    "title": "ゴモリン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」をＸ枚まで選び、このカードの下にマーカーとして裏向きに置く。Ｘはあなたの前列の「ゴモリン」の枚数に等しい。",
+    "scraper": "KI_S44_015",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-018",
+      "KI/S44-019",
+      "KI/S44-068",
+      "KI/S44-082",
+      "KI/S44-089"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6Jn7lLnVs0LLgqfKO-KsVvhIE8uF_eF91MzHjBQE-wE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTUucG5n.png"
+  },
+  {
+    "id": "KI/S44-016",
+    "title": "嬉しい答え 仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "はぁああ♪",
+    "effect": "【永】 他のあなたの前列の「嬉しい答え 仁子」1枚につき、このカードのパワーを＋1000し、ソウルを＋1。",
+    "scraper": "KI_S44_016",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/f__y3S9VzOc2oOZxIZitUaCe8doYtY_PrUHHzezacJU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTYucG5n.png"
+  },
+  {
+    "id": "KI/S44-017",
+    "title": "パジャマの仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "おー、ほんとに園崎さんだー",
+    "effect": "-",
+    "scraper": "KI_S44_017",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yBAYc_ssc-Hh2OzwXB8N3s4nLShbgrlfXVMYK-yKw3A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTcucG5n.png"
+  },
+  {
+    "id": "KI/S44-018",
+    "title": "懲りない男 吉沢",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "s",
+    "say": "こんぐらいじゃあきかねぇなあ",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」を2枚まで選び、このカードの下にマーカーとして裏向きに置く。",
+    "scraper": "KI_S44_018",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不良"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-015"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hBuAtcmwMSiyCimFOEpxZ39NJlrWNY0R6VM2kbL7bAE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTgucG5n.png"
+  },
+  {
+    "id": "KI/S44-019",
+    "title": "子分格 釜石",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードがアタックした時、あなたのクロック置場に「ゴモリン」があるなら、そのターン中、このカードのパワーを＋4000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KI_S44_019",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不良"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-015"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rQ3vqcaJ94WvdgxPQV3lEpBQ9O1FCAb3mD192b29zx8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMTkucG5n.png"
+  },
+  {
+    "id": "KI/S44-020",
+    "title": "接点のない4人 由多＆天河＆勝平＆日染",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "由多「頼むから教室で話しかけないでもらえるかな」",
+    "effect": "-",
+    "scraper": "KI_S44_020",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jseXvkjV3AQaSBHwemCoi--z7xycev4wdJlovnCEXVQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjAucG5n.png"
+  },
+  {
+    "id": "KI/S44-021",
+    "title": "一家言あり 仁子",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "s",
+    "say": "友達って、そういうものですか？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。",
+    "scraper": "KI_S44_021",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1XbIIf1wXUM31U-i1TLozu2rihibVPLMP0UwHvXRFdk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjEucG5n.png"
+  },
+  {
+    "id": "KI/S44-022",
+    "title": "用心棒 天河",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "C",
+    "side": "s",
+    "say": "こんなんで牧を救ったことになんのか？",
+    "effect": "【永】 あなたの《キズナ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 アンコール ［手札の黄のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KI_S44_022",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oUomQujU8h7fPXjb0tdC5Bl0BBzMQ71poIx5c5m0e_Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjIucG5n.png"
+  },
+  {
+    "id": "KI/S44-023",
+    "title": "ほのかちゃんあそぼ",
+    "type": "イベント",
+    "level": 3,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "ほーのかちゃーん、あーそーぼ！",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500し、次の能力を与える。『【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。』このカードを思い出にする。",
+    "scraper": "KI_S44_023",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bVqJKSMqxz580eosDphQhbVqIKcfiRup1h3XdiGxOT8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjMucG5n.png"
+  },
+  {
+    "id": "KI/S44-024",
+    "title": "好きだとか好かれるとか",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "はっきり言う、ふってくんねえか",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KI_S44_024",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-001",
+      "KI/S44-001S"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x1M1XkF6S7RyAHDpyGoRwEC0vBbCeZdNIk0kveyHUFQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjQucG5n.png"
+  },
+  {
+    "id": "KI/S44-025",
+    "title": "友達だから",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "勝平君が……友達が！　好きな女の子助けたいっていうなら手伝いたい！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/shot.gif\">：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "scraper": "KI_S44_025",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "shot",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-002",
+      "KI/S44-002SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RvPAj_qDFMRlTa4qmTv2WD2nyPwUqGyl1HWdWJCj86Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjUucG5n.png"
+  },
+  {
+    "id": "KI/S44-026",
+    "title": "Best Friends",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_026",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-011"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9DkEG5POUQjw7iUv1GIVkqiMiikiE79Yqgu5gBNUfMI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjYucG5n.png"
+  },
+  {
+    "id": "KI/S44-027",
+    "title": "“狡猾リア”由多",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RR",
+    "side": "s",
+    "say": "いいじゃん、友達だって言ってやるぐらい",
+    "effect": "【自】［手札を1枚控え室に置き、あなたの【スタンド】しているキャラを2枚【レスト】する］ この能力は1ターンにつき1回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "KI_S44_027",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-027SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-n1IHC1qZAI1VZ8_5qhWbpUxQxwZ-fNDNiBafYpJ-7M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjcucG5n.png"
+  },
+  {
+    "id": "KI/S44-027SP",
+    "title": "“狡猾リア”由多",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［手札を1枚控え室に置き、あなたの【スタンド】しているキャラを2枚【レスト】する］ この能力は1ターンにつき1回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "KI_S44_027SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-027"
+    ],
+    "relation": [],
+    "price": {
+      "number": 5980,
+      "string": "5980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PVoDIaKIz3LawNBZp6isUjJ3lCmVLpbpVI_9nKSdyd4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjdTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-028",
+    "title": "“上から選民”穂乃香",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "s",
+    "say": "友達？　誰と誰が？",
+    "effect": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KI_S44_028",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-028SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-032",
+      "KI/S44-032S"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/T3msVMcL6vERvGPJb590T27C645Fwknrrcg47Su0p4o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjgucG5n.png"
+  },
+  {
+    "id": "KI/S44-028SP",
+    "title": "“上から選民”穂乃香",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "KI_S44_028SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-028"
+    ],
+    "relation": [
+      "KI/S44-032",
+      "KI/S44-032S"
+    ],
+    "price": {
+      "number": 7980,
+      "string": "7980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/g4GSUmL1x9URxsoYXmA9vuTqnFI1QGb9kiBS5blYndA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjhTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-029",
+    "title": "“友達”穂乃香",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "そうやって――認めるのは癪だけど、私はこいつらと友達になったのよ",
+    "effect": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。\n【自】 絆／「クラスの珍獣枠 仁子」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「クラスの珍獣枠 仁子」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_029",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-029S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-005",
+      "KI/S44-005R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cfEh5zT3c9PQxLHIoUnxTwnx7Z6OqAtuLi_5B4nXMvQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjkucG5n.png"
+  },
+  {
+    "id": "KI/S44-029S",
+    "title": "“友達”穂乃香",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。\n【自】 絆／「クラスの珍獣枠 仁子」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「クラスの珍獣枠 仁子」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_029S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-029"
+    ],
+    "relation": [
+      "KI/S44-005",
+      "KI/S44-005R"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/paYlFMsyFLqezlEGKR3cL9lFCYLF306XzolfSbu-o5s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMjlTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-030",
+    "title": "寡黙な文系少女 穂乃香",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "R",
+    "side": "s",
+    "say": "私が善人ならあんたは聖者よ",
+    "effect": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「キズナイーバーでいいじゃない」があるなら、あなたは自分の控え室の《キズナ》のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "KI_S44_030",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-030R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-049",
+      "KI/S44-004",
+      "KI/S44-004S"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h_pG1kDNTvHonY4rzFBdPcAwQ6r8cXk6ZopSENKrdpc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzAucG5n.png"
+  },
+  {
+    "id": "KI/S44-030R",
+    "title": "寡黙な文系少女 穂乃香",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「キズナイーバーでいいじゃない」があるなら、あなたは自分の控え室の《キズナ》のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "KI_S44_030R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-030"
+    ],
+    "relation": [
+      "KI/S44-049",
+      "KI/S44-004",
+      "KI/S44-004S"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/k71MEmEKjp8rWtAaNOgKEQ-MyM-i0f96WWbD-F9A7K8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzBSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-031",
+    "title": "由多＆穂乃香",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "s",
+    "say": "牧さんの……いや、穂乃香ちゃんの言う通りだね",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。",
+    "scraper": "KI_S44_031",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/H9oBzRInd3awfP05Hx7L-BUSeyA_1RVqwlULnoXsbKE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzEucG5n.png"
+  },
+  {
+    "id": "KI/S44-032",
+    "title": "勉強中 由多",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "s",
+    "say": "正直つまらない。最終回が特に",
+    "effect": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 絆／「“上から選民”穂乃香」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“上から選民”穂乃香」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_032",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-032S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-028",
+      "KI/S44-028SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/II42uagLsMh-ys4dQAuoGnjo36JdQoZO9gVgIqDV_4w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzIucG5n.png"
+  },
+  {
+    "id": "KI/S44-032S",
+    "title": "勉強中 由多",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 絆／「“上から選民”穂乃香」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“上から選民”穂乃香」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_032S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-032"
+    ],
+    "relation": [
+      "KI/S44-028",
+      "KI/S44-028SP"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9mDzs9lG7LgPA2DHxQYypA_yG5x4o8BCsbbb5zwfA-w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzJTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-033",
+    "title": "容姿のコンプレックス 由多",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "s",
+    "say": "ああいうのはどう？　いい男だけど、好み？",
+    "effect": "【永】 他のあなたの《キズナ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「禁忌の過去」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+    "scraper": "KI_S44_033",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-033S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-048",
+      "KI/S44-037"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/EjT03OzhR4n6BEnJg02hyj8b64mBD4Ri0RR8a5FL_Yk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzMucG5n.png"
+  },
+  {
+    "id": "KI/S44-033S",
+    "title": "容姿のコンプレックス 由多",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《キズナ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「禁忌の過去」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+    "scraper": "KI_S44_033S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-033"
+    ],
+    "relation": [
+      "KI/S44-048",
+      "KI/S44-037"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vzqFdAksPZMpCSvzlCQ3cYTZyOXQdFl2Es7Dw3q97-w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzNTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-034",
+    "title": "気障な言動 由多",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "あんまり女の子の影があるとね？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。\n【自】［(1) このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KI_S44_034",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ASLbl-p0ym3TkAr_OygRnOW0f9yaDgldOeABj74nCSk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzQucG5n.png"
+  },
+  {
+    "id": "KI/S44-035",
+    "title": "“シャルル・ド・マッキング”瑠々",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "私から、自由になりたい？",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《漫画》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_035",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-038",
+      "KI/S44-042"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-xc2zbO773cWugxWtPsdh2W6Zj6yVgK2EHrkQNmpfpw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzUucG5n.png"
+  },
+  {
+    "id": "KI/S44-036",
+    "title": "独りを好む穂乃香",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "……なんなのよ",
+    "effect": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。",
+    "scraper": "KI_S44_036",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tLWj8b5frCwm6LnIAa3YRMTqAYeHrwlLuM103Ea38J4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzYucG5n.png"
+  },
+  {
+    "id": "KI/S44-037",
+    "title": "焦るイケメン 由多",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "s",
+    "say": "――！！",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】［(2) このカードを控え室に置く］ あなたのクライマックス置場に「禁忌の過去」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「容姿のコンプレックス 由多」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "KI_S44_037",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-033",
+      "KI/S44-033S",
+      "KI/S44-048"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qXehYcjPU2fz1lRaEtKp_Es2bsq8VBMM_Rgoh_28LPU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzcucG5n.png"
+  },
+  {
+    "id": "KI/S44-038",
+    "title": "照れる穂乃香",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "U",
+    "side": "s",
+    "say": "仁子「穂乃香！」",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト1以下のキャラを1枚選び、控え室に置き、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。\n【起】［あなたのキャラを1枚【レスト】する］ あなたは自分の思い出置場の「“シャルル・ド・マッキング”瑠々」を1枚選び、ストック置場に置く。",
+    "scraper": "KI_S44_038",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-035"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Q9PuXvS9U5DFBKsHAhDJsR0uCY8rczFhqTSFvNuwCig/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzgucG5n.png"
+  },
+  {
+    "id": "KI/S44-039",
+    "title": "舌戦 由多",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "s",
+    "say": "被害者ぶるなよ。無理やりの撮影なんて、そっちが加害者でしょう",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを【レスト】する］ あなたのクライマックス置場に「磯臭いやつら」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+    "scraper": "KI_S44_039",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-050"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1mQm6rKq4IfOgO7ooJKbrfiPbffD9P5WLfKpEKzymMo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wMzkucG5n.png"
+  },
+  {
+    "id": "KI/S44-040",
+    "title": "性格キツめ 穂乃香",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "それより、由多君でもないってことは",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。\n【起】［手札を1枚控え室に置く］ あなたは自分のカード名に「由多」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』",
+    "scraper": "KI_S44_040",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/riAj9CI5f14T9O4dMebATbxQzYW3rmLvyPw6oNII_l8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDAucG5n.png"
+  },
+  {
+    "id": "KI/S44-041",
+    "title": "“シャルル・ド・マッキング”牧",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "……ねえ、瑠々",
+    "effect": "-",
+    "scraper": "KI_S44_041",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fMPbGDZoB4prrCMGGbeECmT2IpwWd-3-8_x18D3EHbM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDEucG5n.png"
+  },
+  {
+    "id": "KI/S44-042",
+    "title": "瑠々の幻影 穂乃香",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "s",
+    "say": "あ……あ……",
+    "effect": "【永】 記憶 あなたの思い出置場に「“シャルル・ド・マッキング”瑠々」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。』",
+    "scraper": "KI_S44_042",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-035"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7NM1QlOm5srSa1NRJ73GhjL1l8Bfu6csWMCcIh9nYlA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDIucG5n.png"
+  },
+  {
+    "id": "KI/S44-043",
+    "title": "キラキラな由多",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "それに阿形も心細いだろう",
+    "effect": "-",
+    "scraper": "KI_S44_043",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/e2K8lAYlNkSNFFtpwlmFqTb47R5KLMfzq_bmOI3gMMk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDMucG5n.png"
+  },
+  {
+    "id": "KI/S44-044",
+    "title": "翻弄される由多",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "もしかして俺の体目当て……",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "KI_S44_044",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pmXn-fne1-AnS7NvyM89Un5pumGeVCyP4S1tj0UovpU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDQucG5n.png"
+  },
+  {
+    "id": "KI/S44-045",
+    "title": "繋がるキズナ 穂乃香",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "園崎「キズナイーバーである皆さんに、力を合わせてミッションをクリアーしていただきます」",
+    "effect": "-",
+    "scraper": "KI_S44_045",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/K24XGaDNjGGgT2QSvj1aYx8ydQ6Nxn_izfNNAPUiMWI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDUucG5n.png"
+  },
+  {
+    "id": "KI/S44-046",
+    "title": "防虫クレープ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "穂乃香「悪い虫がつかなくなるでしょ？」",
+    "effect": "このカードは、あなたの《キズナ》のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラならストック置場に置く。（そうでないなら元に戻す）\nあなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。",
+    "scraper": "KI_S44_046",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x8DmbOzlDFDufjSMWPTOMaWX5zGYvuSYvJMtqhXFyZ4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDYucG5n.png"
+  },
+  {
+    "id": "KI/S44-047",
+    "title": "持て余す夏",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "天河「……どうすっかこれ」",
+    "effect": "あなたは自分の山札を見てカード名に「由多」を含むキャラを1枚までとカード名に「穂乃香」を含むキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+    "scraper": "KI_S44_047",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bFIKKcwTXHO-LSTjPftkceCI8Htkzim061ZosSFGtNw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDcucG5n.png"
+  },
+  {
+    "id": "KI/S44-048",
+    "title": "禁忌の過去",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "仁子「うふふ。この太った子も幸せそうな顔してるぅ……♪」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "KI_S44_048",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-033",
+      "KI/S44-033S",
+      "KI/S44-037"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/E-xFLd9OXgDTd6ZiM5b2ze1RCa6tI8eGRVHVMtNtIVQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDgucG5n.png"
+  },
+  {
+    "id": "KI/S44-049",
+    "title": "キズナイーバーでいいじゃない",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "ぷっ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "KI_S44_049",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-030",
+      "KI/S44-030R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/i8rWcRy_NAv7HcZHDCiAKLzfyO-KKppzkHhLKgn5yRk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNDkucG5n.png"
+  },
+  {
+    "id": "KI/S44-050",
+    "title": "磯臭いやつら",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "穂乃香「わかめだらけで、何シリアスしてんの」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_050",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-039"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kj9f4sO2_1v4c-BO8OTAaqQGIPJWC75RUdyLFPz0HS4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTAucG5n.png"
+  },
+  {
+    "id": "KI/S44-051",
+    "title": "“一人にはしない”勝平",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "s",
+    "say": "きっとのりちゃんも、俺のことが好きですそしてのりちゃんは、みんなのことが好きです",
+    "effect": "【永】 記憶 あなたの思い出置場の「溢れる思い出 しおり＆あすか」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置き、相手のレベルＸ以下のキャラを1枚まで選び、控え室に置く。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）\n【自】 このカードがアタックした時、クライマックス置場に「取り戻した痛み」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+    "scraper": "KI_S44_051",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-051SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-053",
+      "KI/S44-073"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AhP318fX26ySsTreMUblBrKAjEyb6LDibW9DdXee18k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTEucG5n.png"
+  },
+  {
+    "id": "KI/S44-051SP",
+    "title": "“一人にはしない”勝平",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 記憶 あなたの思い出置場の「溢れる思い出 しおり＆あすか」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置き、相手のレベルＸ以下のキャラを1枚まで選び、控え室に置く。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）\n【自】 このカードがアタックした時、クライマックス置場に「取り戻した痛み」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+    "scraper": "KI_S44_051SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-051"
+    ],
+    "relation": [
+      "KI/S44-053",
+      "KI/S44-073"
+    ],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/osVaQwBHQ5cN1QFooJ8VbPdl85IG2sO2QRVucl6cfZg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTFTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-052",
+    "title": "自信喪失 千鳥",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "私……園崎さんより、かっちょんのこと、ずっと知ってるって。でも……それさえも違ったら……",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】［(3)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_052",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-052R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-055",
+      "KI/S44-055S"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/18lUf8sOCeu9Oc4Z9NbaVTHwpwj735cU8Z6uWXerC-8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTIucG5n.png"
+  },
+  {
+    "id": "KI/S44-052R",
+    "title": "自信喪失 千鳥",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】［(3)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_052R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-052"
+    ],
+    "relation": [
+      "KI/S44-055",
+      "KI/S44-055S"
+    ],
+    "price": {
+      "number": 1280,
+      "string": "1280円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FCUkcc7KOlO-YPCFnZq2S_fIAauTKcZPeb4LKGqb1X0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTJSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-053",
+    "title": "溢れる思い出 しおり＆あすか",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "しってるよー。勝平君、のりちゃんのことすきなんでしょ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《キズナ》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から4枚まで見て、《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KI_S44_053",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-051",
+      "KI/S44-051SP",
+      "KI/S44-070"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_jXRZIndxxj69pPyi4xOz0LIwTWNHyAsMdN3CzCZWjU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTMucG5n.png"
+  },
+  {
+    "id": "KI/S44-054",
+    "title": "一方向の好意 千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "かっちょん……",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KI_S44_054",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-054S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2vgNLIX5vpbD6yA08i6BxA-n8Mk8RNvuJtcAD79OQrQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTQucG5n.png"
+  },
+  {
+    "id": "KI/S44-054S",
+    "title": "一方向の好意 千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KI_S44_054S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-054"
+    ],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OpjItx1Rqwwo4olynKVZW-UqBcmlvzQCQ7Li2Zhslfo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTRTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-055",
+    "title": "無気力で無頓着 勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "s",
+    "say": "お金さえ渡せばそれで済むから",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 絆／「自信喪失 千鳥」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「自信喪失 千鳥」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_055",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-055S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-052",
+      "KI/S44-052R"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8cTx3wyeA6cDYBNe87qjeLEsMMN4u78KfjJQ5ZxKOuY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTUucG5n.png"
+  },
+  {
+    "id": "KI/S44-055S",
+    "title": "無気力で無頓着 勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 絆／「自信喪失 千鳥」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「自信喪失 千鳥」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_055S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-055"
+    ],
+    "relation": [
+      "KI/S44-052",
+      "KI/S44-052R"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/80xeJHuw-0Uo5YTmbUd-IRH80nstL5yId8sJiaUuClQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTVTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-056",
+    "title": "沈痛な怒り 千鳥",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "R",
+    "side": "s",
+    "say": "もっと、自信持ってよ。興味持ってよ、自分に",
+    "effect": "【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。\n【永】 このカードの正面のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
+    "scraper": "KI_S44_056",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-056S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T01",
+      "KI/S44-T01SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tE-sMLXQmxXG8yFlsCoSie5gnFNzkifWipvqjvk_JDw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTYucG5n.png"
+  },
+  {
+    "id": "KI/S44-056S",
+    "title": "沈痛な怒り 千鳥",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。\n【永】 このカードの正面のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
+    "scraper": "KI_S44_056S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-056",
+      "KI/S44-T14"
+    ],
+    "relation": [
+      "KI/S44-T01",
+      "KI/S44-T01SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SMUsVX21EeXWMAKmj21Rw4yafejZKid8tbTBpw94eCA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTZTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-057",
+    "title": "明かされる過去 勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "R",
+    "side": "s",
+    "say": "教えてください。俺とのりちゃんと……キズナで繋がれたみんなのこと",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「蘇る記憶」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+    "scraper": "KI_S44_057",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-057R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-074",
+      "KI/S44-058"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1HNX__cGHvGGQentHAqOGfHA4GMq1Ya2ZR4BU6Bzhs0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTcucG5n.png"
+  },
+  {
+    "id": "KI/S44-057R",
+    "title": "明かされる過去 勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「蘇る記憶」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+    "scraper": "KI_S44_057R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-057"
+    ],
+    "relation": [
+      "KI/S44-074",
+      "KI/S44-058"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/l01BLzebivrehNXqXcf2HKdLYOQgwiWHBlcMEcq6RmY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTdSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-058",
+    "title": "幼馴染のお隣さん 千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "天河君！？",
+    "effect": "【永】 他のあなたの「明かされる過去 勝平」すべてに、レベルを＋1し、パワーを＋500。\n【自】 絆／「明かされる過去 勝平」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「明かされる過去 勝平」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_058",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-057",
+      "KI/S44-057R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/83QO4z6IG-Q5jPwtkzUyfA3nebVeGZv3g_VW3-H3H6c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTgucG5n.png"
+  },
+  {
+    "id": "KI/S44-059",
+    "title": "キズナの考察 勝平",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "U",
+    "side": "s",
+    "say": "もしかして、副産物の痛みは別なのかな",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+    "scraper": "KI_S44_059",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/R0aHl88cQaA6LU-UMrga1eQ2hhZgAoOd3lNplz8sMdQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNTkucG5n.png"
+  },
+  {
+    "id": "KI/S44-060",
+    "title": "告白のあと 千鳥",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 このカードの効果で選んだキャラがいるなら、このカードのパワーを＋2000。\n【自】 このカードが舞台に置かれた時、あなたは他の自分のキャラを1枚選ぶ。\n【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードの効果で選んだキャラを控え室に置く。",
+    "scraper": "KI_S44_060",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RzK3WXr1J4A76OOrJw5SS3D7lwc0Ot-j1jnYunGTBtI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjAucG5n.png"
+  },
+  {
+    "id": "KI/S44-061",
+    "title": "園崎との対峙 千鳥",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックス置場に「好きな人の好きな人へ」が置かれた時、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_061",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-075"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SPHds3mlg7PqUtQA5TY1Zv8QRbwfW9FkHjH5zdlHEGA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjEucG5n.png"
+  },
+  {
+    "id": "KI/S44-062",
+    "title": "ふられた気持ち 千鳥",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "U",
+    "side": "s",
+    "say": "勝平「千鳥……」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《キズナ》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 バトル中のこのカードが【リバース】した時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。",
+    "scraper": "KI_S44_062",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-064"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9hmAuCBdcvUeEfnlDOFZ6ab_Z0IM7IUNiIPtMHY7SoQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjIucG5n.png"
+  },
+  {
+    "id": "KI/S44-063",
+    "title": "積極的な勝平",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "s",
+    "say": "メアド、交換しましょう",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《キズナ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 絆／「現場監督 園崎」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「現場監督 園崎」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_063",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-092"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XTsnGTvoQNhPjwPLVw5vdFI34a27GiwvlGN3y0SazsU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjMucG5n.png"
+  },
+  {
+    "id": "KI/S44-064",
+    "title": "かわいい一面 千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "な、何言って……",
+    "effect": "【永】 他のあなたの「全てを知る者 園崎」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「ふられた気持ち 千鳥」を1枚まで選び、このカードがいた枠に置く。』\n【永】 他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+    "scraper": "KI_S44_064",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-062",
+      "KI/S44-087"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OO7a9jUaE_WDxqkAJTOR0tARi-xd_gfOzn6860aPLO4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjQucG5n.png"
+  },
+  {
+    "id": "KI/S44-065",
+    "title": "無痛の体 勝平",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "大丈夫。軽い、脳震盪……かも",
+    "effect": "【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。",
+    "scraper": "KI_S44_065",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cK3h-BNuC6cjggMA-58Sw9GwBNOZTbG-vDo2JMsBsJo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjUucG5n.png"
+  },
+  {
+    "id": "KI/S44-066",
+    "title": "世話焼きな千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "やっぱり今日もいる",
+    "effect": "-",
+    "scraper": "KI_S44_066",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ev4SmJr-nShNTKdQvyuj_vv1evVxiY8qpjOs8I6pciw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjYucG5n.png"
+  },
+  {
+    "id": "KI/S44-067",
+    "title": "幼き日の勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "KI_S44_067",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NQjKyefaIqNFK5_Plo8tnj0TMK8u1bECzoTzcs243nI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjcucG5n.png"
+  },
+  {
+    "id": "KI/S44-068",
+    "title": "洲籠市長",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "s",
+    "say": "どうですか、キズナ計画の進捗は",
+    "effect": "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《謎》か《不良》のキャラか「ゴモリン」が4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+    "scraper": "KI_S44_068",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-015"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cYjnDvYAvrddfspU3ghB6eieS8RJgDIaby4Jcp6_fYc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjgucG5n.png"
+  },
+  {
+    "id": "KI/S44-069",
+    "title": "答え合わせ 勝平",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "こんな状況でも大丈夫だったのは――俺たちが、とっくに友達になってたからなんだ",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "KI_S44_069",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yA2qtKkHMNmr_TOnCIm_IBCeltlfbbd1vi2O4vMf7wA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNjkucG5n.png"
+  },
+  {
+    "id": "KI/S44-070",
+    "title": "“忘却ぶりっ子”勝平",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "なんか、これ……変だ",
+    "effect": "【自】 アンコール ［手札の赤のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【自】 記憶 このカードがアタックした時、あなたの思い出置場に「溢れる思い出 しおり＆あすか」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×1000に等しい。",
+    "scraper": "KI_S44_070",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-053"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AgseLHcfsdO_QDnZEk3TF_oIoYvzAim4KFkTAMZIzJA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzAucG5n.png"
+  },
+  {
+    "id": "KI/S44-071",
+    "title": "気遣いへのお礼",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "だから……その、はっきりふってくれって",
+    "effect": "あなたは自分の控え室の《キズナ》のキャラを1枚まで選び、手札に戻し、相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "KI_S44_071",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ph4fVhefJ9aZPAZLmYYVPxfBw4UzEXCIkEKcmF8gUCs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzEucG5n.png"
+  },
+  {
+    "id": "KI/S44-072",
+    "title": "キズのキズナ",
+    "type": "イベント",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "園崎「今日からあなた方は――……キズナイーバーなのです！」",
+    "effect": "【カウンター】 相手のキャラすべてに、そのターン中、ソウルを－1。",
+    "scraper": "KI_S44_072",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XUfOk3aZD-heKACbl_G--_BfsrHxIUCHEd6HLWuMoVs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzIucG5n.png"
+  },
+  {
+    "id": "KI/S44-073",
+    "title": "取り戻した痛み",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "ばくばくして、ひりひりして、ずきずきして……気持ちがいい",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KI_S44_073",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-051",
+      "KI/S44-051SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zUURQ18xwS85k4Po2r__bipKGCkHnsBbSX2nuAPQxts/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzMucG5n.png"
+  },
+  {
+    "id": "KI/S44-074",
+    "title": "蘇る記憶",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "あ……あ、あぁあああッ！！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_074",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-057",
+      "KI/S44-057R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gLtELO4iqYLC8dYObD6xLsreCBLdDZwZWE-jRG8XoUI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzQucG5n.png"
+  },
+  {
+    "id": "KI/S44-075",
+    "title": "好きな人の好きな人へ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "天河「千鳥、落ち着け！　自分の傷広げなくていいから！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_075",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-061"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jkCVUDnarMRrBM0QbXBp20z69JgG8pFnh6KZXjpvPAE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzUucG5n.png"
+  },
+  {
+    "id": "KI/S44-076",
+    "title": "“インモラル”日染",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RR",
+    "side": "s",
+    "say": "俺が欲しいのは純粋に痛み、なんだけど",
+    "effect": "【永】 他のあなたの前列の中央の枠の《キズナ》のキャラに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+    "scraper": "KI_S44_076",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-076SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-088"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/P-wEcC9a-Nv9ILQLCpdcTGoaTYjAVQmC3_1QfWcUu1o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzYucG5n.png"
+  },
+  {
+    "id": "KI/S44-076SP",
+    "title": "“インモラル”日染",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの前列の中央の枠の《キズナ》のキャラに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+    "scraper": "KI_S44_076SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-076"
+    ],
+    "relation": [
+      "KI/S44-088"
+    ],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ieO9HjBuET4hwznwcEyVlZp99wvgxTvOznZcskkYt08/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzZTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-077",
+    "title": "“分かち合うこれから”園崎",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "s",
+    "say": "今、何を考えましたか？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックス置場に「開放される痛み」が置かれた時、このカードの下にマーカーがないなら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。\n【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、あなたはコストを払ってよい。そうしたら、相手に同じダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_077",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-077SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-098",
+      "KI/S44-085"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ajfZrvle8neJqIDun96yzQlB_A7CBpFdSWzgZRtQQ8c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzcucG5n.png"
+  },
+  {
+    "id": "KI/S44-077SP",
+    "title": "“分かち合うこれから”園崎",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックス置場に「開放される痛み」が置かれた時、このカードの下にマーカーがないなら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。\n【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、あなたはコストを払ってよい。そうしたら、相手に同じダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "KI_S44_077SP",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-077"
+    ],
+    "relation": [
+      "KI/S44-098",
+      "KI/S44-085"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NElne_YQ_HkXJTYIK7vaYHOvIG0fpOTv69dw3TTC6FI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzdTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-078",
+    "title": "常にクール 園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "s",
+    "say": "本当の幸せは、キズナを繋ぐことでしか、得ることができない",
+    "effect": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_078",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-078R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-8Lmo42tOhFUr-kcpwbxD_eTAIWMiLO7so9a2WBDsiw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzgucG5n.png"
+  },
+  {
+    "id": "KI/S44-078R",
+    "title": "常にクール 園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_078R",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-078"
+    ],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qYPLnsHuQrNwQYBLsbBvT6xPQTVI1NKccTC9LDnJt7k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzhSLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-079",
+    "title": "絆の会のアイドル 園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "人の気持ちは簡単に変わる",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
+    "scraper": "KI_S44_079",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QcTfMYft6c3ZPUo_BCW-CGDwVDg56exefO4HMjaZDY4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wNzkucG5n.png"
+  },
+  {
+    "id": "KI/S44-080",
+    "title": "寂しさを抱えた少女 園崎",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "漆原「よかったね、のりちゃん……あの子達とね、繋がることができるんだよ」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「幸せな日々」があるなら、あなたは1枚引いてよい。",
+    "scraper": "KI_S44_080",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-080S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-099"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QF287Y2ygb2E1pE9KqmQ94FpvxRksjglYh9n8PpQw3k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODAucG5n.png"
+  },
+  {
+    "id": "KI/S44-080S",
+    "title": "寂しさを抱えた少女 園崎",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「幸せな日々」があるなら、あなたは1枚引いてよい。",
+    "scraper": "KI_S44_080S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-080"
+    ],
+    "relation": [
+      "KI/S44-099"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/M2mtvsYbr8I6mkxfhG3jHaw07k6hsY7vnBX6azwHHwM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODBTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-081",
+    "title": "危険な美貌 日染",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "s",
+    "say": "こんちぱ",
+    "effect": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「危険な薪割り」を1枚選び、手札に戻す。\n【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+    "scraper": "KI_S44_081",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-081S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-096"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/avyUF5XNtomC5Zs0I9_TnlBrPTZXNjL03BUne2KqKSc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODEucG5n.png"
+  },
+  {
+    "id": "KI/S44-081S",
+    "title": "危険な美貌 日染",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「危険な薪割り」を1枚選び、手札に戻す。\n【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+    "scraper": "KI_S44_081S",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-081"
+    ],
+    "relation": [
+      "KI/S44-096"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jW-ucPhvjeF2IRSPqwjxZjyuxnOQj6cP0JG3Y6RLx9I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODFTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-082",
+    "title": "“不満の麩まんじゅう”園崎",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "R",
+    "side": "s",
+    "say": "私の行動が不満じゅうですか？",
+    "effect": "【永】 あなたの控え室の「ゴモリン」が6枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの<img src=\"/wordpress/wp-content/images/cardlist/_partimages/soul.gif\">の合計に等しい。（ダメージキャンセルは発生する）\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」を3枚まで選び、このカードの下にマーカーとして裏向きに置く。",
+    "scraper": "KI_S44_082",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-015"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ht824NXPoryN4qvFS92dVgZT7ouWaifexk8H1Rxt7cY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODIucG5n.png"
+  },
+  {
+    "id": "KI/S44-083",
+    "title": "七変化 園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "あなたは、何を求めていますか？",
+    "effect": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+    "scraper": "KI_S44_083",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/s_lsSmqLVQfIB96JrlyzLusV6Ur_JLIJXlMo5HXF118/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODMucG5n.png"
+  },
+  {
+    "id": "KI/S44-084",
+    "title": "痛みへのこだわり 日染",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "あの日から突発的な痛みもなくて退屈で",
+    "effect": "【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「ドMの歓悦」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、コスト0以下のキャラを2枚まで選び、舞台の別々の枠に置き、残りのカードを控え室に置く。",
+    "scraper": "KI_S44_084",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-100"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bJ5uj0xq1LSdmEAVuvb9_dzu9OoMvjTY8ZM3_usBBn4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODQucG5n.png"
+  },
+  {
+    "id": "KI/S44-085",
+    "title": "スクールカウンセラー“うるしー”",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "皆の傷を手放すのは怖いかもしれない……だけど、手放さなければ、本当に皆と繋がることはできない",
+    "effect": "【自】 絆／「“分かち合うこれから”園崎」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“分かち合うこれから”園崎」を1枚選び、手札に戻す）\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "KI_S44_085",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "先生",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-077",
+      "KI/S44-077SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QbeGUQCiAkgDUvGjBtudxv4vhKSeezd6FFdsHIDSd5A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODUucG5n.png"
+  },
+  {
+    "id": "KI/S44-086",
+    "title": "見守る日染",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+    "scraper": "KI_S44_086",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/344Rx2mONSMMIBOtIlTGh96YnUNZiBR9chL4n8ZeBT8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODYucG5n.png"
+  },
+  {
+    "id": "KI/S44-087",
+    "title": "全てを知る者 園崎",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "本当の罪は――忘却ぶりっ子",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "KI_S44_087",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-064"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Wsd1L_Ze-Yrs52de7FvA7ueZjwI0ITywUqylvH1zh-4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODcucG5n.png"
+  },
+  {
+    "id": "KI/S44-088",
+    "title": "“それ系のアレ”日染",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "U",
+    "side": "s",
+    "say": "君たちも俺を助けたい系のアレ？",
+    "effect": "【永】 あなたのクロック置場に「“インモラル”日染」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "KI_S44_088",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-076",
+      "KI/S44-076SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zg1SfhhEPrfPJDj5x9zXYURP3iNQUM6QfJ2Fh_FP10c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODgucG5n.png"
+  },
+  {
+    "id": "KI/S44-089",
+    "title": "2年A組担任“やーまだ”",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "s",
+    "say": "んー……",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《謎》か《不良》のキャラか「ゴモリン」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "KI_S44_089",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "先生",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-015"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/boEkk6LLFsJvkN4C-WY2yn-fDCNHwjeiDQT8dLnzyuk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wODkucG5n.png"
+  },
+  {
+    "id": "KI/S44-090",
+    "title": "順応するタイプ 日染",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "へえ、のりちゃんっていうんだ",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、このカードを手札に戻す。そうでないなら、このカードをクロック置場に置く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KI_S44_090",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eC5xOhZJ5GvuIlVDFkUdsvkHiN8vxt9IoGIi6R02OTw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTAucG5n.png"
+  },
+  {
+    "id": "KI/S44-091",
+    "title": "人気者計画 日染",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "あっぷっぷー♪",
+    "effect": "-",
+    "scraper": "KI_S44_091",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qyI_6Ge2PxrEssrQHQsj8BcwTRzPP1UBGSNFjZl2qm0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTEucG5n.png"
+  },
+  {
+    "id": "KI/S44-092",
+    "title": "現場監督 園崎",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "s",
+    "say": "本日はこれにて終了です。皆さん、お忘れ物のなきよう",
+    "effect": "【自】［(1) このカードを控え室に置く］ 他のあなたの《キズナ》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KI_S44_092",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-063"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1kucJsfjTpX8cf0pmS1MKncPwMDOFuDYVQqM-8TCDcM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTIucG5n.png"
+  },
+  {
+    "id": "KI/S44-093",
+    "title": "体育館のラブシーン 園崎",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "私が好きですか？",
+    "effect": "-",
+    "scraper": "KI_S44_093",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TYYc004sLPJ2O9ujbQ61EPPZa9dcIezCPtoaFUmzPDQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTMucG5n.png"
+  },
+  {
+    "id": "KI/S44-094",
+    "title": "養殖と天然 由多＆日染",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "だちんこ、よろしく",
+    "effect": "-",
+    "scraper": "KI_S44_094",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yREyQysOXwfF0CS1hMod_wh52HIBlEuIeAvIuJeWuzc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTQucG5n.png"
+  },
+  {
+    "id": "KI/S44-095",
+    "title": "傷を見つめる日染",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 10000,
+    "rare": "C",
+    "side": "s",
+    "say": "自分の傷がどうなってるのか、どこが痛むのか……そういうの自分でちゃんとわかってないと",
+    "effect": "【永】 舞台のこのカードのレベルを－2。",
+    "scraper": "KI_S44_095",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/agMCa1GHTXMHGye72jwjPphtBPVaM3Hk7zBsa8m8TuA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTUucG5n.png"
+  },
+  {
+    "id": "KI/S44-096",
+    "title": "危険な薪割り",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "勝平君、薪が動かないように押さえといてくれるかな",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《キズナ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "KI_S44_096",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-081",
+      "KI/S44-081S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UKCK1DvDoJ1QMxP7Cg6RT6Rd2A_cQ8NnTAlQ_BT8HTg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTYucG5n.png"
+  },
+  {
+    "id": "KI/S44-097",
+    "title": "のりちゃんストラップ",
+    "type": "イベント",
+    "level": 3,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "s",
+    "say": "漆原「のりちゃんはキズナの会のアイドルなの」",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×1000に等しい。",
+    "scraper": "KI_S44_097",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dIxOZrrCToQKbR7JQCFIgAMPzz7aKk4B17TrHARMrNw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTcucG5n.png"
+  },
+  {
+    "id": "KI/S44-098",
+    "title": "開放される痛み",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "いっ……たーーーーーーいッ！！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "KI_S44_098",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-077",
+      "KI/S44-077SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uC_FXpkuwmUvFQG9DaupV9uAoPw6s59dNcOPS7m-Pmo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTgucG5n.png"
+  },
+  {
+    "id": "KI/S44-099",
+    "title": "幸せな日々",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "わたしも勝平君、だーいすき！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "KI_S44_099",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-080",
+      "KI/S44-080S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DSTyPtnQSEmSCyi_Gtj7wIOKEtJi7lxpf0QfHeRStCQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8wOTkucG5n.png"
+  },
+  {
+    "id": "KI/S44-100",
+    "title": "ドMの歓悦",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "んはぁ……♪",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_100",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-084"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hhdOl2PPmpm395a_JXQd9Kd2PN8BbBBr0DH-QKcUa58/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8xMDAucG5n.png"
+  },
+  {
+    "id": "KI/S44-101",
+    "title": "SD天河",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "s",
+    "say": "俺は天河一、洲籠高校、2年A組",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "KI_S44_101",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zycu-GPhB8bvPU_D3BXkLSTN7Y0ieaIQxXvtJiG0RAU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8xMDEucG5n.png"
+  },
+  {
+    "id": "KI/S44-102",
+    "title": "SD千鳥",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "PR",
+    "side": "s",
+    "say": "高城千鳥……洲籠高校、2年A組",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "KI_S44_102",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aWxuctuZqWwh4P7MEMrCm9BZEy-WudKFi1_56RxOSPg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8xMDIucG5n.png"
+  },
+  {
+    "id": "KI/S44-103",
+    "title": "SD勝平",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "PR",
+    "side": "s",
+    "say": "俺。自分のこと、わかんないんです",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、山札の上に置く。",
+    "scraper": "KI_S44_103",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6B9Lc8W0XOYGY9ZMX9SdIoD5WLTDR2H31PTUYKRUOWw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8xMDMucG5n.png"
+  },
+  {
+    "id": "KI/S44-104",
+    "title": "SD園崎",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "s",
+    "say": "私は園崎法子です。洲籠高校2年A組、趣味は特にありません",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "KI_S44_104",
+    "productName": "キズナイーバー",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 1480,
+      "string": "1480円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j2NgTKNL2Imt0jApR_WL6xeRzYVFDS7Eu-077cjn95s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF8xMDQucG5n.png"
+  },
+  {
+    "id": "KI/S44-P01",
+    "title": "自分に無関心 勝平",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "PR",
+    "side": "s",
+    "say": "それは、たぶん、自分自身に興味が持てないから",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KI_S44_P01",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DrdNtnqvLXkiC0_NwPCmoLawtR8OAfXr07tSSFHpraw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9QMDEucG5n.png"
+  },
+  {
+    "id": "KI/S44-P02",
+    "title": "過去にとらわれる園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "PR",
+    "side": "s",
+    "say": "あの研究所での日々は、勝平君にとっては幸せではなかったのですか？",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\n【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "KI_S44_P02",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LzuttoS9Ao8ysDWLin3vZbTZqLvhwEuB7vvRF8T-69A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9QMDIucG5n.png"
+  },
+  {
+    "id": "KI/S44-T01",
+    "title": "“脳筋DQN”天河",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ファイトだ、ファイト！",
+    "effect": "【永】 他のあなたの「沈痛な怒り 千鳥」すべてに、パワーを＋1000。\n【自】 絆／「沈痛な怒り 千鳥」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「沈痛な怒り 千鳥」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_T01",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-T01SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-056",
+      "KI/S44-056S",
+      "KI/S44-T14"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZuWh3Au7ukODYnuweybKCBvmA-wEZtaxTt1vM6Y9hQU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDEucG5n.png"
+  },
+  {
+    "id": "KI/S44-T01SP",
+    "title": "“脳筋DQN”天河",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの「沈痛な怒り 千鳥」すべてに、パワーを＋1000。\n【自】 絆／「沈痛な怒り 千鳥」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「沈痛な怒り 千鳥」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_T01SP",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-T01"
+    ],
+    "relation": [
+      "KI/S44-056",
+      "KI/S44-056S",
+      "KI/S44-T14"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/V_RBY_xobUJebun2QQtQ1CACtkr42o-9hPirGsaJkjQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDFTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-T02",
+    "title": "SD由多",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "s",
+    "say": "由多次人。洲籠高校、2年A組",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《キズナ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 絆／「SD穂乃香」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「SD穂乃香」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_T02",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T07"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/n_gQbe2WPXtSJSPFUvn-O23mjlJo_tUeJ0CqIFnHvmA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDIucG5n.png"
+  },
+  {
+    "id": "KI/S44-T03",
+    "title": "SD仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "えっとー、ひとつでも新山仁子でぇす。……洲籠高校、2年A組",
+    "effect": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。\n【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+    "scraper": "KI_S44_T03",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4xRNb3hDKUKne_XJ3oirL3stbGjWYxMWKRRSUjBD7ko/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDMucG5n.png"
+  },
+  {
+    "id": "KI/S44-T04",
+    "title": "不思議な儀式 仁子",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "妖精さんを呼ぶための、祭壇だよぉ？",
+    "effect": "-",
+    "scraper": "KI_S44_T04",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "不思議"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YThCT-82icyrNjHLn-PebWAOyga7vptZAibC789bndg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDQucG5n.png"
+  },
+  {
+    "id": "KI/S44-T05",
+    "title": "侮蔑の一瞥 穂乃香",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "TD",
+    "side": "s",
+    "say": "狭い空間にあなたたちといるなんて、色々うつりそうで嫌なんで",
+    "effect": "【永】 このカードはサイドアタックできない。",
+    "scraper": "KI_S44_T05",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7TKGo2h8pWgH7JYBAlhovtAbmnss5jjnZ6txyAtOA_w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDUucG5n.png"
+  },
+  {
+    "id": "KI/S44-T06",
+    "title": "お灸をすえる天河",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ぜーんぶ話は聞いたったかんな",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「現金な味方」があり、他のあなたの《キズナ》のキャラが2枚以上なら、あなたは相手のレベル1以下のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。",
+    "scraper": "KI_S44_T06",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T10"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3KkheM3oDlOoTa7GpI3lyieyDuZp5iyiHwvOGvNXO70/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDYucG5n.png"
+  },
+  {
+    "id": "KI/S44-T07",
+    "title": "SD穂乃香",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "牧穂乃香。洲籠高校、2年A組",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "KI_S44_T07",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "漫画"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T02"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/J7IsPWpFaC_wFDR1JJH9uhD2fTFvRBxy75SAmPTZdk4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDcucG5n.png"
+  },
+  {
+    "id": "KI/S44-T08",
+    "title": "SDゴモリン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "KI_S44_T08",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fLJHF16x-CkXtgPntbM0ZABb2-ejd20tMQpEB92zBEk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDgucG5n.png"
+  },
+  {
+    "id": "KI/S44-T09",
+    "title": "プレイボーイ 由多",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "TD",
+    "side": "s",
+    "say": "いいねー",
+    "effect": "-",
+    "scraper": "KI_S44_T09",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "ナルシスト"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8KMEvPP8ZCo9zkv2W50eID0BYXPuSq6BqqIyRZk6CjY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMDkucG5n.png"
+  },
+  {
+    "id": "KI/S44-T10",
+    "title": "現金な味方",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "一円残らず持ってこい、でないと……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/shot.gif\">：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "scraper": "KI_S44_T10",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "shot",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T06"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F3xghOrgbhv7f2yFrCGQzs0iacU9f6V8akDXmBB23vU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTAucG5n.png"
+  },
+  {
+    "id": "KI/S44-T11",
+    "title": "“独善ウザ”千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "s",
+    "say": "かっちょん！",
+    "effect": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KI_S44_T11",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-T11SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sUrQ9kSqmgpK8aY2o7DWzzjdBePWLK7eqMC1UrcX6eU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTEucG5n.png"
+  },
+  {
+    "id": "KI/S44-T11SP",
+    "title": "“独善ウザ”千鳥",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キズナ》のキャラを1枚選び、手札に戻す。",
+    "scraper": "KI_S44_T11SP",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-T11"
+    ],
+    "relation": [],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tTH9iJQBJYl3B2PIp6CKdRGyBvOra77w99d2SqxxuRM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTFTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-T12",
+    "title": "静かな佇まい 園崎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "KI_S44_T12",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:19.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mFT5uhZlUtk7AJkqIrzoMhKr-9BXeZTXrvi3LlUqqvw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTIucG5n.png"
+  },
+  {
+    "id": "KI/S44-T13",
+    "title": "心の闇 勝平",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "s",
+    "say": "蝉って、一週間しか生きないんだよな",
+    "effect": "【自】 他のあなたの《キズナ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "KI_S44_T13",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TRGM56tbrBJG_KQ7KavE4YJYPPnOl_NeYjuy1kPeSe0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTMucG5n.png"
+  },
+  {
+    "id": "KI/S44-T14",
+    "title": "沈痛な怒り 千鳥",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "解決できてない！",
+    "effect": "-",
+    "scraper": "KI_S44_T14",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "KI/S44-056S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T01",
+      "KI/S44-T01SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LsWrAbGrdfPn9fqxR5xUEaDv2srQ1NBFItlLnruZm6I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTQucG5n.png"
+  },
+  {
+    "id": "KI/S44-T15",
+    "title": "SD日染",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "TD",
+    "side": "s",
+    "say": "この魅惑を知ってしまったら……もう、昔には戻れないよ",
+    "effect": "-",
+    "scraper": "KI_S44_T15",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OPByMT7yn7BeW_tgeEtAh8j7EsqHJXQXi42zNYVSzSo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTUucG5n.png"
+  },
+  {
+    "id": "KI/S44-T16",
+    "title": "計画の先導者 園崎",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "TD",
+    "side": "s",
+    "say": "みんな、刻みつけたいんです。誰かに自分の痕を",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 絆／「“愚鈍”勝平」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“愚鈍”勝平」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_T16",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-T16SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T18",
+      "KI/S44-T18S",
+      "KI/S44-T18SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LPCTHsYlFdwNnTxc8oSoZKJcIPjiftY2vz0slf6aUas/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTYucG5n.png"
+  },
+  {
+    "id": "KI/S44-T16SP",
+    "title": "計画の先導者 園崎",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 絆／「“愚鈍”勝平」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“愚鈍”勝平」を1枚選び、手札に戻す）",
+    "scraper": "KI_S44_T16SP",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-T16"
+    ],
+    "relation": [
+      "KI/S44-T18",
+      "KI/S44-T18S",
+      "KI/S44-T18SP"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Yd2Lc3GZUZDI0NqCb8m67klX8BCRkBG4AylIX8WgLUY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTZTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-T17",
+    "title": "謎の7人目 日染",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《キズナ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "KI_S44_T17",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "インモラル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/CYyiJ-YktwGSbICqczg9N_15DxbkUjQfeliXsJBvB3k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTcucG5n.png"
+  },
+  {
+    "id": "KI/S44-T18",
+    "title": "“愚鈍”勝平",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "園崎「そう、今日からあなた方は――……キズナイーバーなのです！」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［あなたの《キズナ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "KI_S44_T18",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-T18S",
+      "KI/S44-T18SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "KI/S44-T16",
+      "KI/S44-T16SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tp9G3iF-ID1P-4UXguJjyUsp7Sf4YTDLYG-JEiL4xOA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTgucG5n.png"
+  },
+  {
+    "id": "KI/S44-T18S",
+    "title": "“愚鈍”勝平",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［あなたの《キズナ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "KI_S44_T18S",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "KI/S44-T18SP"
+    ],
+    "lowVer": [
+      "KI/S44-T18"
+    ],
+    "relation": [
+      "KI/S44-T16",
+      "KI/S44-T16SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/C2n9mZLjPAV-iQrDLr96yAuIGjutl67JoAbHziLptKs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMThTLnBuZw.png"
+  },
+  {
+    "id": "KI/S44-T18SP",
+    "title": "“愚鈍”勝平",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［あなたの《キズナ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "KI_S44_T18SP",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "キズナ",
+      "虚無"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "KI/S44-T18",
+      "KI/S44-T18S"
+    ],
+    "relation": [
+      "KI/S44-T16",
+      "KI/S44-T16SP"
+    ],
+    "price": {
+      "number": 2980,
+      "string": "2980円",
+      "date": "2024-11-28T05:58:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VVXPd2CD-ZrPaDDdx0m9dgzfU5bJmXeuvwZsuAxzkj8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMThTUC5wbmc.png"
+  },
+  {
+    "id": "KI/S44-T19",
+    "title": "mission : 自己紹介",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "誕生日は9月18日のおとめ座で、血液型はO型！",
+    "effect": "このカードは、あなたの《キズナ》のキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室のキャラを1枚選び、手札に戻す。\nあなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、このカードをクロック置場に置く。（クライマックスのレベルは0として扱う）",
+    "scraper": "KI_S44_T19",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7BVjehI0WuUSZuJq7Ac7iVAn_jPIQr-Xh5QgzOwcoJk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMTkucG5n.png"
+  },
+  {
+    "id": "KI/S44-T20",
+    "title": "重すぎる私",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "勝平「重いぐらいの方が、千鳥っぽいよ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "KI_S44_T20",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/s49AjX8l9-Tt8E3ZnKhmWtG5Om1DJFK_YeRBfTXYZuE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMjAucG5n.png"
+  },
+  {
+    "id": "KI/S44-T21",
+    "title": "洲籠市キズナ計画",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "あなた方は、何よりも強い『キズのキズナ』で結ばれた……",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "KI_S44_T21",
+    "productName": "2016年度トライアルデッキ【S】",
+    "seriesCode": "KI",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:58:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4vsIuo8GOlh8JHj8UiGejL2z9k5KtprffiELC3Eqwaw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0tJX1M0NF9UMjEucG5n.png"
+  }
+]
