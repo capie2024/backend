@@ -8,7 +8,10 @@ const login  = require('./src/routes/login');
 const authRouter = require('./src/routes/auth');
 const deckMake = require('./src/routes/deck-make');
 const cardSeries = require('./src/routes/card-series');
+const cardPDF = require("./src/routes/card-pdf");
+const base64 = require("./src/routes/Base64")
 const dailyCard = require('./src/routes/daily-card');
+
 
 
 app.use(cors());
@@ -52,6 +55,8 @@ router.post('/signup', (req, res) => {
 app.use('/api', router);
 app.use('/api', deckMake);
 app.use('/api', cardSeries);
+app.use('/api', cardPDF);
+app.use('/api', base64)
 app.use('/api', dailyCard);
 
 app.listen(port, () => {
