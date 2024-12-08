@@ -1,0 +1,7009 @@
+[
+  {
+    "id": "DD/WE12-01",
+    "title": "レオンミシェリ・ガレット・デ・ロワ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "フランボワーズ「すぐさま向かってたたき落とす、との事です」",
+    "effect": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "DD_WE12_01",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Q4qEe25-297yrhiVfLX5x-tRqqlUsZB3QyxqweFwAoE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDEucG5n.png"
+  },
+  {
+    "id": "DD/WE12-02",
+    "title": "ガレット王子 ガウ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "w",
+    "say": "大変な思いをしていいのは、王族だけさ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+    "scraper": "DD_WE12_02",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Js5fN5SJRPHpuDytJW5_epd5_fbTIUPbKIEdejuCQ9U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDIucG5n.png"
+  },
+  {
+    "id": "DD/WE12-03",
+    "title": "正々堂々 レオ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "w",
+    "say": "フン…面白い",
+    "effect": "【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "DD_WE12_03",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/el8rI_az30vDzU040E2PRZBjsgef4k-MtQwwQc5gL9w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDMucG5n.png"
+  },
+  {
+    "id": "DD/WE12-04",
+    "title": "戦無双 レオ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "w",
+    "say": "獅子王炎陣ッ！！",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「獅子王炎陣大爆破」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE12_04",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-14"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8GaL-8P3w2nslK8340JqUydUAHAchYYM2HcutJwDaUI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDQucG5n.png"
+  },
+  {
+    "id": "DD/WE12-05",
+    "title": "“獅子王”レオ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "ワシを以前のワシと思うなよ",
+    "effect": "【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔戦斧グランヴェール」を1枚選び、手札に戻す。",
+    "scraper": "DD_WE12_05",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-13"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZyxfYIGhlr1g6STXQ3dpkkGtu9iFiuKgUy5807pHDoM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDUucG5n.png"
+  },
+  {
+    "id": "DD/WE12-06",
+    "title": "単騎突入 レオ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "ガウル「姉上ッ！？」",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+    "scraper": "DD_WE12_06",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y3feqUSEVAcNRsvQ_3IXwd2Vaiv7jNyIQ6D3yT3mmo0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDYucG5n.png"
+  },
+  {
+    "id": "DD/WE12-07",
+    "title": "“ジェノワーズ”ジョーヌ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "ガウ様直属、秘密諜報部隊！",
+    "effect": "-",
+    "scraper": "DD_WE12_07",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-07_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r_vlLhWLwujU0DQolb7kCSwup-FsfycdtKEi8QscJJk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDcucG5n.png"
+  },
+  {
+    "id": "DD/WE12-07_",
+    "title": "“ジェノワーズ”ジョーヌ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "ガウ様直属、秘密諜報部隊！",
+    "effect": "-",
+    "scraper": "DD_WE12_07_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-07"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_CSKQGgP38HFJBScJuiwXFCaVscQwxF8IxQfv6cj7aY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDdfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-08",
+    "title": "“ジェノワーズ”ベール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "我ら、ガレット獅子団領",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
+    "scraper": "DD_WE12_08",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5PT2CcETDP8-8wMWSKr5cZi6jR20WLlASMV9n2eMXBM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDgucG5n.png"
+  },
+  {
+    "id": "DD/WE12-09",
+    "title": "ガウル・ガレット・デ・ロワ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "強さと華麗さ、豪快さ！そのへんが、騎士と戦士の必須事項！",
+    "effect": "【永】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "DD_WE12_09",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tSxy1TxlxPJ-x4o7h0v40aiq7j2V_rxDrOo0WAfgayg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMDkucG5n.png"
+  },
+  {
+    "id": "DD/WE12-10",
+    "title": "静かな決意 レオ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "……",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "DD_WE12_10",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "DD/WE12-10_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tx137smZ0zYYF5dOWrFCVkoTP7Vq8lSRDbT_al2jwE8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTAucG5n.png"
+  },
+  {
+    "id": "DD/WE12-10_",
+    "title": "静かな決意 レオ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "……",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "DD_WE12_10_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-10"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PdJO2TwJKAnStLJf497u0-cIxng9US-hMKYUUEWJizo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTBfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-11",
+    "title": "お側役 ビオレ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "w",
+    "say": "フランボワーズ「レオンミシェリ姫のお側役、ビオレさんに来ていただいております」",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋2000。\n【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+    "scraper": "DD_WE12_11",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "DD/WE12-11_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-gHI7F88G6UcuaRSFWmuSWTHmdp4yGE1IhODnqdJimU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTEucG5n.png"
+  },
+  {
+    "id": "DD/WE12-11_",
+    "title": "お側役 ビオレ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "w",
+    "say": "フランボワーズ「レオンミシェリ姫のお側役、ビオレさんに来ていただいております」",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋2000。\n【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+    "scraper": "DD_WE12_11_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-11"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ip13eBNN0QWLVeCJ3_KU3fMY05I1Jfuj9BeXnsXmPwY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTFfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-12",
+    "title": "突然の宣戦布告 レオ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "C",
+    "side": "w",
+    "say": "ガレット・ビスコッティ両国民。己の国のため、自らのため……！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、相手は自分の控え室のキャラを1枚選び、手札に戻してよい。\n【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「魔神旋光破」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の自分のレベル以下のレベルの《動物》のキャラを1枚選び、舞台の好きな枠に置く。",
+    "scraper": "DD_WE12_12",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-15"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a-iHqVLxxIHfGVWL_53f-xiPUdCxSBy609yGb5ZupJQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTIucG5n.png"
+  },
+  {
+    "id": "DD/WE12-13",
+    "title": "魔戦斧グランヴェール",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "レオ「ガレットの宝剣、魔戦斧グランヴェールと、神剣エクスマキナ」",
+    "effect": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+    "scraper": "DD_WE12_13",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-05"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bRkop5XWPS_iWAqjX7ETwtuppivBfgse5KEVwH2Tek0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTMucG5n.png"
+  },
+  {
+    "id": "DD/WE12-14",
+    "title": "獅子王炎陣大爆破",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "どおりゃあーーーー！！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "DD_WE12_14",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-04"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ShC9BYxpnHH6k5cQmvrTAvew-N0TT-j_valpYy5ghLk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTQucG5n.png"
+  },
+  {
+    "id": "DD/WE12-15",
+    "title": "魔神旋光破",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "魔神ッッ！！　旋光破ァァッ！！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "DD_WE12_15",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-12"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QJJmyt5EiFUSFULWwbozt_plsltyrIxHS_B-G-PaPKg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTUucG5n.png"
+  },
+  {
+    "id": "DD/WE12-16",
+    "title": "“勇者超特急”シンク",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "ひよこだって頑張れば飛べる･･･！",
+    "effect": "【自】［(2) あなたの山札の上から1枚をクロック置場に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《動物》のキャラを1枚と、このカードを選び、手札に戻す。",
+    "scraper": "DD_WE12_16",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SbKcjvzbeCCag4QMkuLbC-X8JWzQRvTlNkU2rhyHj4A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTYucG5n.png"
+  },
+  {
+    "id": "DD/WE12-17",
+    "title": "召喚主 ミルヒ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "w",
+    "say": "こんな方がわたしの…この国の勇者様だったらいいなってそう思ったんです…",
+    "effect": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。\n【自】［(1)］ 他のあなたのバトル中の「シンク・イズミ」が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを思い出にする。\n【起】［(3)  手札の「勇者降臨！」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。",
+    "scraper": "DD_WE12_17",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-33",
+      "DD/WE12-35"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ttjywR3NlB6cfZPmnQYjh7cg8g0RkstTCRP3sNMFXqA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTcucG5n.png"
+  },
+  {
+    "id": "DD/WE12-18",
+    "title": "自由騎士 ダルキアン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "勇者殿もなかなかどうして、大胆にござるな",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《動物》か《勇者》のキャラが3枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル×500に等しい。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "DD_WE12_18",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OWYXz1oaQeze7wr7aXqU_vCCJgVo1aayCVmNDsanvo8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTgucG5n.png"
+  },
+  {
+    "id": "DD/WE12-19",
+    "title": "領主の覚悟 ミルヒ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "w",
+    "say": "この戦に勝利しましょう！",
+    "effect": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードは次の能力を得る。『【起】［(2) このカードを【レスト】する］ あなたは自分の思い出置場の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。』\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+    "scraper": "DD_WE12_19",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-33"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ForHqk8Tn7753yRjz3PhOlfDJHj0aq_u1dgs47ccO2I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMTkucG5n.png"
+  },
+  {
+    "id": "DD/WE12-20",
+    "title": "リコッタ・エルマール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "ビスコッティ学術研究院主席、リコッタ・エルマール！",
+    "effect": "【自】［(1)］ あなたのクライマックス置場に「リコのサポート」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。\n【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "DD_WE12_20",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-36",
+      "DD/WE12-27"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nOxnFvgLa6v08tgBrhEMvz4FiIHGJVY8MT0iHqQ-AMI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjAucG5n.png"
+  },
+  {
+    "id": "DD/WE12-21",
+    "title": "エクレール・マルティノッジ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "R",
+    "side": "w",
+    "say": "正面突破ぁーッッ！うおおーッッ！！",
+    "effect": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《動物》のキャラの枚数×500に等しい。",
+    "scraper": "DD_WE12_21",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ge2Tw9YVawL9q-eyjOXnnUwx-FjX66k1UbaTdTZdY9s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjEucG5n.png"
+  },
+  {
+    "id": "DD/WE12-22",
+    "title": "ミルヒオーレ・フィリアンノ・ビスコッティ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "ビスコッティが領主、ミルヒオーレ・フィリアンノ・ビスコッティが、絶対絶対、許しませんッッ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(2)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "DD_WE12_22",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4dek520TJw_b2YFOQZV3Gqfw2BEb4PUjsVrAYhOLwEg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjIucG5n.png"
+  },
+  {
+    "id": "DD/WE12-23",
+    "title": "ビスコッティ領主 ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "遅くなりました！ミルヒオーレ、参りましたッ！！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE12_23",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-23_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/n8Yxbge1VDeyQLbmxtOPB9oeFmmSE7PpeY3rKCWiSEA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjMucG5n.png"
+  },
+  {
+    "id": "DD/WE12-23_",
+    "title": "ビスコッティ領主 ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "遅くなりました！ミルヒオーレ、参りましたッ！！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE12_23_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-23"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6LFQgM7SprUoS5oUaZHgxYI5UdNGQtF_VF8cv7yflH4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjNfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-24",
+    "title": "オンミツ部隊筆頭 ユキカゼ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "今回はちと様子が違いそうでござる",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "DD_WE12_24",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YLmc4hg3SGa1eX5JeRhuwE0q2W7E8oE3oVQ8gQ2FfE8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjQucG5n.png"
+  },
+  {
+    "id": "DD/WE12-25",
+    "title": "タレミミ隊長 エクレ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "はぁああっっ！！",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［このカードを控え室に置く］ あなたは自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "DD_WE12_25",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zenBdm3uQLickJ7-ipjG5VLeaCCu7j5BkR1FlZY0dGc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjUucG5n.png"
+  },
+  {
+    "id": "DD/WE12-26",
+    "title": "機械大好き！ リコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "見知らぬ機械をみつけると、自分はしっぽのつけねと研究心がキュンキュンきちゃうのであります！",
+    "effect": "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "DD_WE12_26",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0GefLPdVRK0T3TsXcQdh2G_Va7ixiWGb-jD-SOgOip8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjYucG5n.png"
+  },
+  {
+    "id": "DD/WE12-27",
+    "title": "替え玉作戦 ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "騎士「わかりました。お通ししてください」",
+    "effect": "【永】 あなたのクロック置場に「リコッタ・エルマール」があるなら、このカードのパワーを＋2000。",
+    "scraper": "DD_WE12_27",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-20"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XPO2QcMdY-A2ho_87GzqwxdFlmHHsjCK0wBm9VmhXfE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjcucG5n.png"
+  },
+  {
+    "id": "DD/WE12-28",
+    "title": "見つめるミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "勇者シンク様ですね……存じ上げております",
+    "effect": "-",
+    "scraper": "DD_WE12_28",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-28_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hwQUbTOFFuBpgtnQV_C3S2nrS312Ckf6Z1HVibKtR_g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjgucG5n.png"
+  },
+  {
+    "id": "DD/WE12-28_",
+    "title": "見つめるミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "勇者シンク様ですね……存じ上げております",
+    "effect": "-",
+    "scraper": "DD_WE12_28_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-28"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/frBpSXDkIemlesNeIK_uDggCp_L6by7jIDNZXzjvUkk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjhfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-29",
+    "title": "主席研究士 リコ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "姫様の命を受けて誠心誠意、勇者様がご帰還される方法を探していたでありますが！",
+    "effect": "【自】 相手のアタックフェイズの始めに、あなたは自分のカード名に「ミルヒ」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。",
+    "scraper": "DD_WE12_29",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iUcbwGKr6aHF_Swi_vfecSWngjBTrbNIwWBRwO7XbOw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMjkucG5n.png"
+  },
+  {
+    "id": "DD/WE12-30",
+    "title": "召喚勇者 シンク",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "姫様からのお呼びに預かり……勇者シンク、ただいま見ッ参ッッ！！！",
+    "effect": "【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1。",
+    "scraper": "DD_WE12_30",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-30_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/L6WAwG3WyN-RQR1iCp4kiYjxv9A3MgQ-tAkldDIlbvs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzAucG5n.png"
+  },
+  {
+    "id": "DD/WE12-30_",
+    "title": "召喚勇者 シンク",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "姫様からのお呼びに預かり……勇者シンク、ただいま見ッ参ッッ！！！",
+    "effect": "【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1。",
+    "scraper": "DD_WE12_30_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-30"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fd__MT_bDcqKQaJq-qr8_Pkge41pcJZqn7mp2jlNW3A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzBfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-31",
+    "title": "親衛隊長 エクレ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "エクレール……騎士団の、親衛隊長だ",
+    "effect": "-",
+    "scraper": "DD_WE12_31",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-31_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qoYsWWl4T1_0moaC7w_y3mwYcJTR9Hrd7k0hoS_ASwA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzEucG5n.png"
+  },
+  {
+    "id": "DD/WE12-31_",
+    "title": "親衛隊長 エクレ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "エクレール……騎士団の、親衛隊長だ",
+    "effect": "-",
+    "scraper": "DD_WE12_31_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-31"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dC_rb2OjN00xgDw_ksIxjP-Fc6vhmooro2xgRaF1yfM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzFfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-32",
+    "title": "お風呂で遭遇！ ミルヒ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "あのあの！わたし、もう上がりますので、……勇者様はどうぞごゆっくり！！",
+    "effect": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+    "scraper": "DD_WE12_32",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x72P2173L10c9XXQibFwuTsQ_D8T2s1W745NfoBgVQM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzIucG5n.png"
+  },
+  {
+    "id": "DD/WE12-33",
+    "title": "シンク・イズミ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "C",
+    "side": "w",
+    "say": "おす！勇者として呼んでもらいました、シンク・イズミです！",
+    "effect": "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+    "scraper": "DD_WE12_33",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-17",
+      "DD/WE12-19"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bfNwY13LhNPtd9elJ9UilqtHNaCXqSoc6e3ZfLQjT48/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzMucG5n.png"
+  },
+  {
+    "id": "DD/WE12-34",
+    "title": "ケモノダマ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "にゃー！",
+    "effect": "【カウンター】 あなたは自分の《動物》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+    "scraper": "DD_WE12_34",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE12-34_"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nOgMPgudw3A1Wu2Q0NL5JO2tF5uA0Ys1tWRQPOIM8QU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzQucG5n.png"
+  },
+  {
+    "id": "DD/WE12-34_",
+    "title": "ケモノダマ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "にゃー！",
+    "effect": "【カウンター】 あなたは自分の《動物》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+    "scraper": "DD_WE12_34_",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE12-34"
+    ],
+    "relation": [],
+    "price": {
+      "number": 0,
+      "string": ""
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PmXSfi7Qgo9msOnG4r-EBdsbmw9EICKsF75Jw3rtkhM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzRfLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-35",
+    "title": "勇者降臨！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "はじめまして……召喚に応えて下さった、勇者様でいらっしゃいますね？",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "DD_WE12_35",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-17"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IekFYrew7qTNZDWgu5B3H_Qzi0p5HkkPiHlsdz70TlM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzUucG5n.png"
+  },
+  {
+    "id": "DD/WE12-36",
+    "title": "リコのサポート",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "戦場では、砲術士をやらせていただいてるであります！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "DD_WE12_36",
+    "productName": "DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-20"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cq4nUxZ1c1GuGUc-YZ8xgwYJbzRbVjKdHLxot-2zTys/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfMzYucG5n.png"
+  },
+  {
+    "id": "DD/WE12-53",
+    "title": "姫殿下 ミルヒ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "私たちが見つけて、私が迷う事なくこの人と決めた……この国の、勇者様です！",
+    "effect": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋1000。",
+    "scraper": "DD_WE12_53",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6mF777Q_8JDBUFPBey0kilj-IXTWuMwf5zV4iDbHHgA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfNTMucG5n.png"
+  },
+  {
+    "id": "DD/WE12-54",
+    "title": "メイド服のリコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "一緒に姫様のところに行くでありますよ！",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE12_54",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "メイド"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8wT77OHiH5P0C4JugHLlIeXSlsb7YYkWgDJrIwwRU38/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfNTQucG5n.png"
+  },
+  {
+    "id": "DD/WE12-55",
+    "title": "ビスコッティの歌姫 ミルヒ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "いっしょうけんめい、歌いますッ！",
+    "effect": "【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "DD_WE12_55",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r7YpraDo4EElmGsYbauij4-LAnP2DJAjg36k_nuat4s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfNTUucG5n.png"
+  },
+  {
+    "id": "DD/WE12-T01",
+    "title": "武芸百般 レオ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "……",
+    "effect": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+    "scraper": "DD_WE12_T01",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Bzma5P1t0DZiw0xDkXl89NTpJkHHDVCr2WM0QrVCJfU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDAxLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T02",
+    "title": "“ジェノワーズ”ノワール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "w",
+    "say": "フラン「ガウル殿下と腹心の皆さんも、バッチリとご参加です」",
+    "effect": "-",
+    "scraper": "DD_WE12_T02",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:10.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vm8CVmwNDQj_ggYlCSZa-ZmnIdlUumOJf9F-3YkhTBY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDAyLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T03",
+    "title": "近衛メイド ルージュ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "TD",
+    "side": "w",
+    "say": "これを奪えば……！",
+    "effect": "【自】 アンコール ［(2)］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE12_T03",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "メイド"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WZ4ZcQbMnkW0Pd4AHW4x3sxIiwDlixfUeroO_sjt1mI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDAzLnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T04",
+    "title": "百獣王の騎士 レオ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "w",
+    "say": "ガレット獅子団領国の王にして、百獣王の騎士！！",
+    "effect": "【自】このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+    "scraper": "DD_WE12_T04",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9rjopRPTErJdX5n2k1spaph9ewa2Mh9hUob2fSkgU-M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA0LnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T05",
+    "title": "姫様の秘書 アメリタ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "w",
+    "say": "お邪魔が入らぬようにいたします……大丈夫ですよね、騎士団長？",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "DD_WE12_T05",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/yEdgHOy_K3n8vjLYH0GyGxYKxvOSezZJm9_Y0mmnYQA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA1LnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T06",
+    "title": "メイド長 リゼル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "w",
+    "say": "姫様…勇者様とお約束ですか？",
+    "effect": "-",
+    "scraper": "DD_WE12_T06",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "メイド"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oMAMsvczAPA1qh_xsIwhXXLwRM51mmrNymyvQfKc7Co/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA2LnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T07",
+    "title": "ミルヒの勇者 シンク",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "w",
+    "say": "輝力、全開ィィッッ！！",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「ホーリーセイバー」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋3000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE12_T07",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-T08"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8a8s5P9FvhFHN5--iZhCVekGPYZP9vMDaGp5EurJ-pY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA3LnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T08",
+    "title": "ホーリーセイバー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "シンク・ミルヒ「「ホーリーセイバー！！」」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE12_T08",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE12-T07"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bhkYm-3SqA7OmefxfvXihGM2zUX2PaidLqdGP5N1v40/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA4LnBuZw.png"
+  },
+  {
+    "id": "DD/WE12-T09",
+    "title": "きっと恋をしている",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "頑張る勇気を乗せて歌います……",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "DD_WE12_T09",
+    "productName": "【エクストラトライアル】DOG DAYS",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:11.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eizIY29v828l1Lre7DlSx6-5gKddnmyA9eEwSdjf6fI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTJfVDA5LnBuZw.png"
+  },
+  {
+    "id": "DD/WE17-01",
+    "title": "抱き続けた憧れ クーベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "ウチはミルヒ姉やレオ姉たちに憧れとる",
+    "effect": "【自】［(1)  手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て、《動物》か《勇者》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "DD_WE17_01",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Nlc2T32hxHRxhz9pQMkN__nKR1eBn4nlGI3XREZei_M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDEucG5n.png"
+  },
+  {
+    "id": "DD/WE17-02",
+    "title": "神剣メルクリウス レベッカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "…えと……？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【起】 集中 ［(1) ］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE17_02",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cH49ezNnv-Zn6Fetj2YDRHwPzqNu2J0c9P-8TefmCU4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDIucG5n.png"
+  },
+  {
+    "id": "DD/WE17-03",
+    "title": "歓迎する クーベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "完璧！お迎えのプランは、これで万全なのじゃ～！",
+    "effect": "【永】 相手の手札が4枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "DD_WE17_03",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-08"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UHERdLiVrGSEIxhwiErTBcB3pGXFXe2abQCzZRrbyFo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDMucG5n.png"
+  },
+  {
+    "id": "DD/WE17-04",
+    "title": "英雄仮面 アデル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "お待たせしたのですっ！",
+    "effect": "【自】［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+    "scraper": "DD_WE17_04",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UBhje48rU-mC-XCJmh_Tlk1o8fJB990R0IMX_aSeAjs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDQucG5n.png"
+  },
+  {
+    "id": "DD/WE17-05",
+    "title": "クーベル・エッシェンバッハ・パスティヤージュ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "ウチはお前と空を行きたい",
+    "effect": "【永】 他のあなたの、《勇者》か《王族》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "DD_WE17_05",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-13"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Mzc3qg6Bsa7yh6yKxYLaSUkmQWxsNCcYab-TqK5dRW4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDUucG5n.png"
+  },
+  {
+    "id": "DD/WE17-06",
+    "title": "空を駆けるレベッカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "クーベル「すごいぞレベッカ！」",
+    "effect": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。",
+    "scraper": "DD_WE17_06",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_Spzay7fsNd0hziMs89tHkXdeUmvJlyBaH_BX1t5O_4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDYucG5n.png"
+  },
+  {
+    "id": "DD/WE17-07",
+    "title": "パスティヤージュ君主 クーベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "しかし本当に、勇者たちが来てくれてからは面白イベントに事欠かんの",
+    "effect": "【自】 絆／「魔神結晶 レベッカ」 ［(1) ］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔神結晶 レベッカ」を1枚選び、手札に戻す）\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+    "scraper": "DD_WE17_07",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-14"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TYDUis7i1h2u01EUodhVBW1R_dnqNV4NowfvjC_WFeU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDcucG5n.png"
+  },
+  {
+    "id": "DD/WE17-08",
+    "title": "飛翔系勇者 レベッカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "あたし、クー様の勇者でいたいんだ",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2000。\n【自】 このカードがアタックした時、あなたは他の自分の「歓迎する クーベル」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。\n【自】［(2) 手札を1枚控え室に置き、このカードの下のマーカーを1枚手札に戻す］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+    "scraper": "DD_WE17_08",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-03"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ed_Eb-w1GX1u5tCCjWWm5Ggd_ehyP-8hRu9pF4XT-P0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDgucG5n.png"
+  },
+  {
+    "id": "DD/WE17-09",
+    "title": "領主見習い クーベル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "しかしお姉達、今日はいつにもまして、ツヤッツヤじゃのー",
+    "effect": "【自】［(1)  手札を1枚控え室に置く］ あなたのクライマックス置場に「ガーネットスパーク」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
+    "scraper": "DD_WE17_09",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-18"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TQdaPeFjHyixggV4lWTcc5jk34Zj_bpI3wk1qH0bnEI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMDkucG5n.png"
+  },
+  {
+    "id": "DD/WE17-10",
+    "title": "髪を下すレベッカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "シンクに実際呼ばれると、予想以上に恥ずかしい…！",
+    "effect": "-",
+    "scraper": "DD_WE17_10",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IrsrqPGTgFYMeUkgZujk8dNaf0SMoExUlo0DnItUgTk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTAucG5n.png"
+  },
+  {
+    "id": "DD/WE17-11",
+    "title": "レベッカ・アンダーソン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "で…できた…！",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE17_11",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wULz48bDBwI-Tpi0XJStm6Y2r-tdKDNt9EP6VJDEbLY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTEucG5n.png"
+  },
+  {
+    "id": "DD/WE17-12",
+    "title": "天槍クルマルス クーベル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "C",
+    "side": "w",
+    "say": "目覚めよ、天槍クルマルスッ！",
+    "effect": "-",
+    "scraper": "DD_WE17_12",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/v9qnF5YIFgXHq8ikD4SpmCWNPeaWC4JL4ZjeL-rfdjw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTIucG5n.png"
+  },
+  {
+    "id": "DD/WE17-13",
+    "title": "術士タイプ クーベル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "C",
+    "side": "w",
+    "say": "でもってウチは、その子をいただきに来たのじゃ！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(1)  手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「クーベル・エッシェンバッハ・パスティヤージュ」を1枚とこのカードを選び、入れ替える。",
+    "scraper": "DD_WE17_13",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-05"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m2stsPtPziMX3BagQpoV2lw5XsrhkckXZnJVPHeSjag/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTMucG5n.png"
+  },
+  {
+    "id": "DD/WE17-14",
+    "title": "魔神結晶 レベッカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "でも本当…無事でよかった",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「ウィッチカノン 超魔王モード」があるなら、あなたは他の自分のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+    "scraper": "DD_WE17_14",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-17",
+      "DD/WE17-07"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wlUzhV7hE5u9EJEoO8sWS34Cmlb5cQTNc3DTH-_4-h8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTQucG5n.png"
+  },
+  {
+    "id": "DD/WE17-15",
+    "title": "ヴァレリア・カルバドス",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "人間どもは俺を、魔王と呼ぶがなぁ！",
+    "effect": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
+    "scraper": "DD_WE17_15",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/De7LGI3OESzZN4eZCjqP7w9jouSmL0ovfStqDDCfedo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTUucG5n.png"
+  },
+  {
+    "id": "DD/WE17-16",
+    "title": "ブレイブコネクト",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "ナイスなのです、いとしき勇者たち！",
+    "effect": "あなたは自分の山札を見て《勇者》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
+    "scraper": "DD_WE17_16",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qAIjLYKrZ8dxTLmOE1egSRDykCgXGecIxFTKjeP4z6k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTYucG5n.png"
+  },
+  {
+    "id": "DD/WE17-17",
+    "title": "ウィッチカノン 超魔王モード",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "ウィッチカノン、超魔王モード！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/shot.gif\">：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+    "scraper": "DD_WE17_17",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "shot",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-14"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/V_hLNF-8LSIwkkgwNzDxmMOyd0qOhGp2u9AspRVQuFw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTcucG5n.png"
+  },
+  {
+    "id": "DD/WE17-18",
+    "title": "ガーネットスパーク",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "駄目で元々！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "DD_WE17_18",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-09"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_rGzDKQgzGDx15ova39o8tIO05ioKlak_GL5KYFNp1E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTgucG5n.png"
+  },
+  {
+    "id": "DD/WE17-19",
+    "title": "夏合宿 ノワール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "わたしが勝ち超すまで…やめない…！",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "DD_WE17_19",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "本"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mLrce9E3FfD3Jcy_mEp6WthrkeVMSc2rRSZAcdI1lxo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMTkucG5n.png"
+  },
+  {
+    "id": "DD/WE17-20",
+    "title": "英雄結晶 ガウル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 9000,
+    "rare": "R",
+    "side": "w",
+    "say": "残りはあとちょっとだ。俺とシンクで捕まえてくらぁ！",
+    "effect": "【永】 このカードはサイドアタックできない。",
+    "scraper": "DD_WE17_20",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8AGQ613V2ZlQo1Vre-yvc5FfwgTf9B5Y5uMN6BlDeI4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjAucG5n.png"
+  },
+  {
+    "id": "DD/WE17-21",
+    "title": "ミルヒの幼馴染み レオ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "３国いずれも、世話好きで良き勇者じゃな",
+    "effect": "【永】 このカードの正面のキャラのソウルを－1。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「ナナミの毛づくろい」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
+    "scraper": "DD_WE17_21",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-30"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JRdb9NpbpAphJCMA6HwwEsh06oqf1uuO9lqiRnQujvo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjEucG5n.png"
+  },
+  {
+    "id": "DD/WE17-22",
+    "title": "ひと夏の冒険 ナナミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "でも、いいなぁ～、楽しそうだなぁ～",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《動物》か《勇者》のキャラを1枚を選び、入れ替えてよい。",
+    "scraper": "DD_WE17_22",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7qxbrGzPc9y54-r8llV-MEF9UO0EhlvyZckZEiwrZgA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjIucG5n.png"
+  },
+  {
+    "id": "DD/WE17-23",
+    "title": "ガレット代表領主 レオ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "ならば、お主も参加するか？",
+    "effect": "【自】 絆／「見上げる ミルヒ」 ［(1) ］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「見上げる ミルヒ」を1枚選び、手札に戻す）",
+    "scraper": "DD_WE17_23",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-40"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-7AHuZlYvu3THDBIvwShcLL5U87KBuB2L24oWO_mQ9c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjMucG5n.png"
+  },
+  {
+    "id": "DD/WE17-24",
+    "title": "師匠でライバル ナナミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "あ、写真撮ろうよ！みんなで記念写真",
+    "effect": "-",
+    "scraper": "DD_WE17_24",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4AoB-56wfB1VrMKFcRxFosE-1_iJ5T4oVBvtFBcQHgU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjQucG5n.png"
+  },
+  {
+    "id": "DD/WE17-25",
+    "title": "ナナミ・タカツキ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "夏の思い出に、みんなで、のんびりしよう～",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「波乗り勇者 ナナミ」を1枚とこのカードを選び、入れ替える。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+    "scraper": "DD_WE17_25",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-28"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LyHFHOjpsN89jr5GNG9UcWN0aHpuZFVFIfJbva9OqIQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjUucG5n.png"
+  },
+  {
+    "id": "DD/WE17-26",
+    "title": "ジョーヌ＆ベール",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "ベール「ナナミちゃん？」ジョーヌ「いいアイデアって？」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《動物》か《勇者》のキャラを1枚を選び、入れ替えてよい。",
+    "scraper": "DD_WE17_26",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DQ3VHQO1rT-7r3KBpbEKY8tBxpcVPHp2tQuGWnqn61A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjYucG5n.png"
+  },
+  {
+    "id": "DD/WE17-27",
+    "title": "獅子王侍 レオ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "駆け巡れ、断罪の刃！",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "DD_WE17_27",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HNRggyWsLSklATHYp020dLNcs8E-XPsuw1dujwv3AT4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjcucG5n.png"
+  },
+  {
+    "id": "DD/WE17-28",
+    "title": "波乗り勇者 ナナミ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "どうしようシンク、フロニャルドの戦って、すっごい楽しいッ！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「ウェーブライダー」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。\n【自】 アンコール ［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE17_28",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-31",
+      "DD/WE17-25"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Kenk0sdzDTT5L6uS7Gl5EkStT32FFmYWq0ZzBCE3fl8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjgucG5n.png"
+  },
+  {
+    "id": "DD/WE17-29",
+    "title": "ヒーロータイム",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "レベッカ・ナナミ「育ってるーっ！？」",
+    "effect": "あなたは自分の、《動物》のキャラと《勇者》のキャラを1枚ずつ別々に選び、次の相手のターンの終わりまで、パワーを＋2000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+    "scraper": "DD_WE17_29",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-37"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/U92j_INjAJrlCBkoGhX7YYOBAAEk1rW4pdW0CQSZatw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMjkucG5n.png"
+  },
+  {
+    "id": "DD/WE17-30",
+    "title": "ナナミの毛づくろい",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "レオ「んんん～…ナナミもなかなかのテクニシャンじゃー…」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "DD_WE17_30",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-21"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SFYiNAM69Z9O2RUUgEDUCb34JzOcZ7wIJePr_Yu404Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzAucG5n.png"
+  },
+  {
+    "id": "DD/WE17-31",
+    "title": "ウェーブライダー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "ナナミ「氷結、リンク生成！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE17_31",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-28"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VEcsYHwY_tVx8EXCle0EdSLdgNe7GfYuY851bkBEuwk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzEucG5n.png"
+  },
+  {
+    "id": "DD/WE17-32",
+    "title": "発明王 リコ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "R",
+    "side": "w",
+    "say": "現場のみんなばっかり、ずるいであります～！",
+    "effect": "【永】 このカードはダイレクトアタックできない。",
+    "scraper": "DD_WE17_32",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vWqG9uR9JOD8gCYNtpLyHpCfHs1t9BSlMxrbSVsj3JE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzIucG5n.png"
+  },
+  {
+    "id": "DD/WE17-33",
+    "title": "封印洞窟戦！ ユキカゼ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "w",
+    "say": "服と靴は、拙者が忍術でなんとかしたでござる",
+    "effect": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "DD_WE17_33",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "神"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mI0liIsJ0xW8oaQxfbJubEOyOO1Zwn9wvPtuy15pbGI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzMucG5n.png"
+  },
+  {
+    "id": "DD/WE17-34",
+    "title": "世界的アイドル ミルヒ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "R",
+    "side": "w",
+    "say": "届けたい伝えたい大切なこの想い",
+    "effect": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か「見上げる ミルヒ」の【自】の効果で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "DD_WE17_34",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-40"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cEC-eG86WShtSIKoK4HCmS0lD8Kgn1qf3Di2t2HJ7sQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzQucG5n.png"
+  },
+  {
+    "id": "DD/WE17-35",
+    "title": "イスカ・マキシマ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "朝から賑やかだね",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、《武器》を与える。",
+    "scraper": "DD_WE17_35",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "鍛冶"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bzJdPiezEgXUwUz3W7YqZEJ6_AGqOuYohhYGJRSfbS8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzUucG5n.png"
+  },
+  {
+    "id": "DD/WE17-36",
+    "title": "夏の再会 ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "そんな、こちらこそありがとうです",
+    "effect": "【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「Shiny Heart Shiny Smile」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE17_36",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-45"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MKx9rSoNDgv41hMnIwoIQ8OSx6p2H7z-76R0SQWYeCo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzYucG5n.png"
+  },
+  {
+    "id": "DD/WE17-37",
+    "title": "英雄結晶 シンク",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "行くよ、ガウルッ！",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2000。\n【自】［手札の「ヒーロータイム」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+    "scraper": "DD_WE17_37",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-29"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/r9Hda7vZSQDEnvXdV1PP9i5HuAVxyeoRgElAd7hyXSs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzcucG5n.png"
+  },
+  {
+    "id": "DD/WE17-38",
+    "title": "不器用な想い エクレ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "悩みってなんの事だ？",
+    "effect": "【起】［(2) 手札を1枚控え室に置き、他のあなたの《勇者》のキャラを1枚とこのカードを【レスト】する］ あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+    "scraper": "DD_WE17_38",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ov9tFCa-MAwzfdBimPNGnn3VUqXnxzpMQbTHVDZ0F_I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzgucG5n.png"
+  },
+  {
+    "id": "DD/WE17-39",
+    "title": "封印洞窟戦！ エクレ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "ところで、なんで我々はまだ戻らないのでしょうか？",
+    "effect": "【自】 アンコール ［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［(1) ］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
+    "scraper": "DD_WE17_39",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B4VWr9EdgApcXcIYli8rTKQcyUuUEbf2keXAveLzJ28/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfMzkucG5n.png"
+  },
+  {
+    "id": "DD/WE17-40",
+    "title": "見上げる ミルヒ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "今朝はシンクが湖で一緒に遊んでくれて…",
+    "effect": "【自】［(1) ］ あなたのクライマックス置場に「Heart Relation」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「世界的アイドル ミルヒ」を1枚とこのカードを選び、入れ替える。\n【起】【カウンター】 助太刀3000 レベル2 ［(1)  手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "DD_WE17_40",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-34",
+      "DD/WE17-44",
+      "DD/WE17-23"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Hhawodabi1idqviFjHIBMoKH-X-WScmLqVw8tG20i5k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDAucG5n.png"
+  },
+  {
+    "id": "DD/WE17-41",
+    "title": "夏合宿 ユキカゼ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "救命訓練に移るでござるよ～",
+    "effect": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋1000。",
+    "scraper": "DD_WE17_41",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "神"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DxAFP5DnUdfBnbF2mCHWeiisgO2BVi9i8e7d7pNBj8Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDEucG5n.png"
+  },
+  {
+    "id": "DD/WE17-42",
+    "title": "大陸最強 ダルキアン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "なるほど…シンクの師というのも納得でござるな",
+    "effect": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋2000。",
+    "scraper": "DD_WE17_42",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/c3-QS6KSLLRpYLnm2RiKVOhYJvhBtXmVnCbBpCYh7G4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDIucG5n.png"
+  },
+  {
+    "id": "DD/WE17-43",
+    "title": "チェンジ・マイ・ハート",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "ええっ、これ、ユッキーッ？",
+    "effect": "あなたは自分の手札の《王族》のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の《動物》のキャラを1枚選び、手札に戻し、自分のクロック置場のレベル2以下の《勇者》のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1500。このカードをクロック置場に置く。",
+    "scraper": "DD_WE17_43",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aUnwkuFrah_SXv-gFKG-GwW4cMHz3yJ_VUEjPEjDJx0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDMucG5n.png"
+  },
+  {
+    "id": "DD/WE17-44",
+    "title": "Heart Relation",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "きっとつながるRelation空に描き出す",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "DD_WE17_44",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-40"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KKA8HyEJHPpHAl7bw2gopAteYz_ZNoGjQ89se7_cIsg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDQucG5n.png"
+  },
+  {
+    "id": "DD/WE17-45",
+    "title": "Shiny Heart Shiny Smile",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "届かない片思い 恋心ゆらめくでも平気 歩き出そう",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "DD_WE17_45",
+    "productName": "DOG DAYS'",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE17-36"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lQ02qDlJrIqtnIFsfs7P7LwkvDMOcnN3IYi_oYiICxI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfNDUucG5n.png"
+  },
+  {
+    "id": "DD/WE17-P01",
+    "title": "真夏を想うミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "勇者様とみんなの愛と勇気の物語は、ここからまた、始まるんです！",
+    "effect": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "DD_WE17_P01",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5upsBNmfsvpi4rzfPQEcjtzE1aKtZ1OOrVNrfJiBSJQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfUDAxLnBuZw.png"
+  },
+  {
+    "id": "DD/WE17-P02",
+    "title": "ほんわか犬姫様 ミルヒ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "ようこそ、フロニャルドへ！",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE17_P02",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:14.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/afMNCC_vpeOuTQ8tMGNexenzZFJZFZcS6FbyNwuzsg4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMTdfUDAyLnBuZw.png"
+  },
+  {
+    "id": "DD/WE23-01",
+    "title": "愛され領主 クーベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "RR",
+    "side": "w",
+    "say": "特別じゃ♪ウチの尻尾をもふってもよいぞ～",
+    "effect": "【永】 他のあなたの、《勇者》か《王族》のキャラすべてに、パワーを＋500。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロック置場の黄のカードを1枚選び、手札に戻し、自分の山札の上から2枚を、クロック置場に置く。",
+    "scraper": "DD_WE23_01",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE23-01SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-02",
+      "DD/WE23-02SP"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tW28aMROlVtfPvaUWYvPP1vSNTV0thUsBtazYKHO5xg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDEucG5n.png"
+  },
+  {
+    "id": "DD/WE23-01SP",
+    "title": "愛され領主 クーベル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの、《勇者》か《王族》のキャラすべてに、パワーを＋500。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロック置場の黄のカードを1枚選び、手札に戻し、自分の山札の上から2枚を、クロック置場に置く。",
+    "scraper": "DD_WE23_01SP",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE23-01"
+    ],
+    "relation": [
+      "DD/WE23-02",
+      "DD/WE23-02SP"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pEDB93jKYL7k-euEZ75TINDLyyuCEbd5v51bufOzLnc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDFTUC5wbmc.png"
+  },
+  {
+    "id": "DD/WE23-02",
+    "title": "パスティヤージュの勇者 レベッカ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "w",
+    "say": "ただいま、クー様",
+    "effect": "【永】 あなたのクロック置場に「愛され領主 クーベル」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「魔神結晶」があるなら、相手に1ダメージを与え、このカードを思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「パスティヤージュの勇者 レベッカ」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3500。（ダメージキャンセルは発生する）",
+    "scraper": "DD_WE23_02",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "DD/WE23-02SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-01",
+      "DD/WE23-01SP",
+      "DD/WE23-02SP",
+      "DD/WE23-11"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/88AaRfngiFAtQkwCGImNLaJuCI36ueopBqaYBGejwDo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDIucG5n.png"
+  },
+  {
+    "id": "DD/WE23-02SP",
+    "title": "パスティヤージュの勇者 レベッカ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのクロック置場に「愛され領主 クーベル」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「魔神結晶」があるなら、相手に1ダメージを与え、このカードを思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「パスティヤージュの勇者 レベッカ」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3500。（ダメージキャンセルは発生する）",
+    "scraper": "DD_WE23_02SP",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE23-02"
+    ],
+    "relation": [
+      "DD/WE23-01",
+      "DD/WE23-01SP",
+      "DD/WE23-02",
+      "DD/WE23-11"
+    ],
+    "price": {
+      "number": 5980,
+      "string": "5980円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QogP1HEKwh6mF9NwXS3_sXjj7jc91mo7oVsxg5GSkbo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDJTUC5wbmc.png"
+  },
+  {
+    "id": "DD/WE23-03",
+    "title": "“追憶”フィー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "あなたが勇気を持って私の傍にいてくれたからです",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》か《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "DD_WE23_03",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-06",
+      "DD/WE23-08",
+      "DD/WE23-32",
+      "DD/WE23-35"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VdY8jIeBJO5Yh2WeAYCf0igF1lG_d1wnC8RExXw1Hxg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDMucG5n.png"
+  },
+  {
+    "id": "DD/WE23-04",
+    "title": "英雄王 アデル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 あなたのアンコールステップの始めに、クライマックス置場に「勇者と姫の物語」があり、前列にこのカードがいるなら、あなたは他の自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を見てそのキャラと同じ特徴を1つ以上持つキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "DD_WE23_04",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-12"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TxPKmyhW-KZWfQvu3rjJuE-XJnqJySjhnedcj8eFCnI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDQucG5n.png"
+  },
+  {
+    "id": "DD/WE23-05",
+    "title": "勇者の休息 レベッカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【永】 応援 このカードの前のあなたの、《勇者》か《王族》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+    "scraper": "DD_WE23_05",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "本"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2dehys3alKD2nFzBPfS2UUTAKPWZLYBauce3O9xs3BU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDUucG5n.png"
+  },
+  {
+    "id": "DD/WE23-06",
+    "title": "魔王 ヴァレリー",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 記憶 あなたの思い出置場に「“追憶”フィー」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+    "scraper": "DD_WE23_06",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-03"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/527tb9eSH92BF3M9X6N067QNlI_DFPeStF35LDpONO4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDYucG5n.png"
+  },
+  {
+    "id": "DD/WE23-07",
+    "title": "英雄姫 フィー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "勇者アデライド様でいらっしゃいますね？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《動物》か《勇者》のキャラの枚数×500に等しい。",
+    "scraper": "DD_WE23_07",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qSSpslZTZp3KDXMaDA0rolpLHoq8_sy02Oj3XajxH4A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDcucG5n.png"
+  },
+  {
+    "id": "DD/WE23-08",
+    "title": "英雄姫の銃 アデル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "もちろん危ないこととかダメなことがあったら頑として止めますけどね",
+    "effect": "【自】［あなたの思い出置場の「“追憶”フィー」を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたの、《動物》か《勇者》のキャラすべてに、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "DD_WE23_08",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-03"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dBklZ19GN9If3tWw7ZT8R4FxmGAkJIDaLuVZsqKMwSU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDgucG5n.png"
+  },
+  {
+    "id": "DD/WE23-09",
+    "title": "英雄王の子孫 クーベル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの、《勇者》か《王族》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《勇者》か《王族》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+    "scraper": "DD_WE23_09",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OyzR6M_rS-2GNRsJENRw7SW8ysPDHmsHBPHYDlsmT4g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMDkucG5n.png"
+  },
+  {
+    "id": "DD/WE23-10",
+    "title": "伝説の勇者召喚",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "アデル「フランスの片田舎に押し込められていた…訳ありの貴族の小娘…」",
+    "effect": "あなたは自分の山札を見て《動物》のキャラを1枚までと《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。このカードをクロック置場に置く。",
+    "scraper": "DD_WE23_10",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9ivyxxLK2Y5yFyJFbtYWP4kK5UunZ56NbuWYq5HnGcM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTAucG5n.png"
+  },
+  {
+    "id": "DD/WE23-11",
+    "title": "魔神結晶",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "魔神結晶！発動！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "DD_WE23_11",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-02",
+      "DD/WE23-02SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gJunJpWIV54rK3JEb1lMI_7pc2DhOrz_Zzka9YqQ8WM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTEucG5n.png"
+  },
+  {
+    "id": "DD/WE23-12",
+    "title": "勇者と姫の物語",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "フィー「私はパスティヤージュ王国の当主クラリフィエと申します」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE23_12",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-04"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ytGAIrASN4AxyDPEbszrubcz0jiNer5NgD1gbgJ8EgA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTIucG5n.png"
+  },
+  {
+    "id": "DD/WE23-13",
+    "title": "天真爛漫 ナナミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RR",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【自】 あなたのクライマックスフェイズの始めに、あなたは自分のクロック置場の「勇者の休息 ナナミ」を1枚とこのカードを選び、入れ替えてよい。』\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "scraper": "DD_WE23_13",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE23-13SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-19"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/IwnZ2crlXY0Hl_P_M4PVOhOJpVZhqbfy-CXxa6voJgw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTMucG5n.png"
+  },
+  {
+    "id": "DD/WE23-13SP",
+    "title": "天真爛漫 ナナミ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【自】 あなたのクライマックスフェイズの始めに、あなたは自分のクロック置場の「勇者の休息 ナナミ」を1枚とこのカードを選び、入れ替えてよい。』\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+    "scraper": "DD_WE23_13SP",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE23-13"
+    ],
+    "relation": [
+      "DD/WE23-19"
+    ],
+    "price": {
+      "number": 6980,
+      "string": "6980円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LIZ6NdhpQKhFoU6U_6Xu9Ehf9I61iND4vqlPo-ju04w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTNTUC5wbmc.png"
+  },
+  {
+    "id": "DD/WE23-14",
+    "title": "若き獅子姫 レオ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "w",
+    "say": "誰の挑戦でも受けると言ったのはこちらじゃ",
+    "effect": "【永】 他のあなたの、《動物》か《勇者》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(2］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。\n【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "DD_WE23_14",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "DD/WE23-14SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-16"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/5yTlhmtvWRQ0LfpL0eNog-TxFt8z3DAkxqA9tVZfrKs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTQucG5n.png"
+  },
+  {
+    "id": "DD/WE23-14SP",
+    "title": "若き獅子姫 レオ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 他のあなたの、《動物》か《勇者》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(2］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。\n【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+    "scraper": "DD_WE23_14SP",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE23-14"
+    ],
+    "relation": [
+      "DD/WE23-16"
+    ],
+    "price": {
+      "number": 5980,
+      "string": "5980円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MSdSvTSnmuh0vTqKDP_wDsuB9uFmmEG8gosb7MYw0EQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTRTUC5wbmc.png"
+  },
+  {
+    "id": "DD/WE23-15",
+    "title": "リーフ・ラング・ド・シャー・ハルヴァー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "w",
+    "say": "凄いですね。活気があります",
+    "effect": "【自】 他のあなたの、《動物》か《勇者》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「道標」があるなら、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+    "scraper": "DD_WE23_15",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-24"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ySXWMH62i0WB8K6nANbBITCmcE3mfQM0iMDJG29bC64/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTUucG5n.png"
+  },
+  {
+    "id": "DD/WE23-16",
+    "title": "好戦的 ガウル",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "俺らが追いかけてそいつをきっちりぶちのめしてやるからよ！",
+    "effect": "【永】 あなたのクロック置場に「若き獅子姫 レオ」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードがアタックした時、クライマックス置場に「空海での決闘」があるなら、あなたは他の自分のキャラを1枚とこのカードを選び、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+    "scraper": "DD_WE23_16",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-14",
+      "DD/WE23-14SP",
+      "DD/WE23-25"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N2MyZrSuzAeOyZhGjmVg4NXsf5pqc4i4VivmxuENckY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTYucG5n.png"
+  },
+  {
+    "id": "DD/WE23-17",
+    "title": "リーフの親戚 ベール",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "まぁいいんじゃないの？レオ様のこと好きなのは本当なんだし",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《動物》か《勇者》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。\n【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "DD_WE23_17",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/p37D4cO1E5NzuXVY6mW0mlM4Ehq5sE4JYboT8fwklIk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTcucG5n.png"
+  },
+  {
+    "id": "DD/WE23-18",
+    "title": "勇者捜索 ガウル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "おい！姉上！",
+    "effect": "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』",
+    "scraper": "DD_WE23_18",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4Q0ESNhG3xkmpZeUjcGzGPZpNCYfXORaXe5vsYW6-zw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTgucG5n.png"
+  },
+  {
+    "id": "DD/WE23-19",
+    "title": "勇者の休息 ナナミ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "U",
+    "side": "w",
+    "say": "それじゃ…！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）\n【自】 アンコール ［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE23_19",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-13",
+      "DD/WE23-13SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KEqQWL5skr37nAwtqX9WH8yrottWmIPUBZWTcsir-eo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMTkucG5n.png"
+  },
+  {
+    "id": "DD/WE23-20",
+    "title": "獅子のお見合い レオ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "１対１でワシと戦い打ち倒してみせてほしい！",
+    "effect": "【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。",
+    "scraper": "DD_WE23_20",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "王族"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rsojw_ckBpwhmQzZkEDVtfGBFmNXCr1eaXtg6dCcxMc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjAucG5n.png"
+  },
+  {
+    "id": "DD/WE23-21",
+    "title": "空海探索 ジョーヌ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "C",
+    "side": "w",
+    "say": "だ、大丈夫？うっかり食べられてしもうたりとかは…",
+    "effect": "【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "DD_WE23_21",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7rzX9uKTZfloWz6vem6hm7g7DWJh3jQk06HQcNbLCys/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjEucG5n.png"
+  },
+  {
+    "id": "DD/WE23-22",
+    "title": "ガウルの親衛隊 ノワール",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋1500。",
+    "scraper": "DD_WE23_22",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BrtXdH9FaEq4udHOjfx1qofja7O6C2hJ_2C1_gC4-_0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjIucG5n.png"
+  },
+  {
+    "id": "DD/WE23-23",
+    "title": "獅子姫の見合い",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "………",
+    "effect": "【カウンター】 このカードは、あなたのストックが6枚以上なら、手札からプレイできない。\nあなたは自分の山札を上から4枚まで見て、《動物》か《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+    "scraper": "DD_WE23_23",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cGxDn2WzEykykp7NBVHAW4tdYDNhnYV2LiLiAlFzJxQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjMucG5n.png"
+  },
+  {
+    "id": "DD/WE23-24",
+    "title": "道標",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "レオ「これからも自国の騎士達に学び鍛え続けると良いぞ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "DD_WE23_24",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-15"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j384EpQ4x-_-wc8c-Bk4zZTiY_jNHGjTvHjtAET3A3Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjQucG5n.png"
+  },
+  {
+    "id": "DD/WE23-25",
+    "title": "空海での決闘",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "悪さしねぇって約束するならお前も一緒にな！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE23_25",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-16"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lW3VgKpPWyD50sf-bHC3H_ARCBgQ4Ncx2YiMcCMcZvY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjUucG5n.png"
+  },
+  {
+    "id": "DD/WE23-26",
+    "title": "優しい微笑み ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "RR",
+    "side": "w",
+    "say": "シンクとまたすぐに会いたいし、これからもずっと一緒に遊びたいです",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《動物》か《勇者》のキャラを1枚選び、そのターン中、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "DD_WE23_26",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "DD/WE23-26SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nrWO9kXe7zORluwN_TLKvSHNqy8FgoJmJhaw67_yfKo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjYucG5n.png"
+  },
+  {
+    "id": "DD/WE23-26SP",
+    "title": "優しい微笑み ミルヒ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SP",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《動物》か《勇者》のキャラを1枚選び、そのターン中、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+    "scraper": "DD_WE23_26SP",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "DD/WE23-26"
+    ],
+    "relation": [],
+    "price": {
+      "number": 9980,
+      "string": "9980円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/02_ljhTd6nie82hy9CMrMQsXNtz8KsSdNOzl3IhSPyg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjZTUC5wbmc.png"
+  },
+  {
+    "id": "DD/WE23-27",
+    "title": "木漏れ日の中 ヒナ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+    "scraper": "DD_WE23_27",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RX-SJJvwj5kaY5fBgxAXbgwPrQdalL-JvpWISx1ck70/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjcucG5n.png"
+  },
+  {
+    "id": "DD/WE23-28",
+    "title": "双剣の使い手 エクレ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "w",
+    "say": "次ぃ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "DD_WE23_28",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/o6iMjDp0rPSO8T5Bs7DoXAiLkCjDrg5-AAXLfsNvrG4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjgucG5n.png"
+  },
+  {
+    "id": "DD/WE23-29",
+    "title": "姫様の休息 ミルヒ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "w",
+    "say": "シンクー！",
+    "effect": "【永】 他のあなたの「ビスコッティの勇者 シンク」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(1)］ あなたのクライマックス置場に「癒しの歌」が置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに赤のカードと青のカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+    "scraper": "DD_WE23_29",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-30",
+      "DD/WE23-38"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/apr9Wktcc3oKCtNUDXCkJVIFOYzbPaZzTLhvceDIXF0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMjkucG5n.png"
+  },
+  {
+    "id": "DD/WE23-30",
+    "title": "ビスコッティの勇者 シンク",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "姫様の歌が必要なんだ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(4) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「英雄モード」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを山札の上に置き、このカードを【スタンド】する。",
+    "scraper": "DD_WE23_30",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-39",
+      "DD/WE23-29"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/UqIIKmCk28O4KBzEl-KH-Fwvks_TYsUoWxvOlkyX5SY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzAucG5n.png"
+  },
+  {
+    "id": "DD/WE23-31",
+    "title": "学術探索？リコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "学術探索に出かけるのであります！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《動物》か《勇者》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+    "scraper": "DD_WE23_31",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HRlh4optWA0TyQhm-9dn6MarYYc1S-s6rRcMfxHDziE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzEucG5n.png"
+  },
+  {
+    "id": "DD/WE23-32",
+    "title": "通りすがりの腕自慢 ヒナ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "w",
+    "say": "魔物に変わっちゃった生き物や土地神を助けるためにもね",
+    "effect": "【永】 記憶 あなたの思い出置場に「“追憶”フィー」があるなら、このカードのパワーを＋2000。",
+    "scraper": "DD_WE23_32",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-03"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/z8tSy4rfPQTDz8kbsPQwgHINqDOyXEsR8UacUCY0Ezk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzIucG5n.png"
+  },
+  {
+    "id": "DD/WE23-33",
+    "title": "フロニャルドの秋 ユキカゼ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "w",
+    "say": "街道の秋の景色を楽しんでいただきたいでござる～",
+    "effect": "【永】 あなたの、赤のキャラと青のキャラがそれぞれ2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 アンコール ［あなたの控え室の、赤か青のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "DD_WE23_33",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "神"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1x7ZUvr0Zc4FTUhKL-CntYGumYE21ZWwpeJ7qF_7MMc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzMucG5n.png"
+  },
+  {
+    "id": "DD/WE23-34",
+    "title": "勇者推参！シンク",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "シャル、大丈夫？",
+    "effect": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、手札に戻す。",
+    "scraper": "DD_WE23_34",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bB4asJTn1FZTfINYGc48STNQ-64JFL19GgdKoz9NlZo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzQucG5n.png"
+  },
+  {
+    "id": "DD/WE23-35",
+    "title": "通りすがりの腕自慢 イスカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "少しばかり腕自慢のな",
+    "effect": "【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出置場に「“追憶”フィー」があるなら、あなたはそのバトル相手を山札の上に置いてよい。",
+    "scraper": "DD_WE23_35",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "鍛冶"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-03"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/reeiQ021KkGAlbz-PrSobVqUbLqxTr40puk-cjpGtYg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzUucG5n.png"
+  },
+  {
+    "id": "DD/WE23-36",
+    "title": "活発な性格 シンク",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "うん、燃えてきた！",
+    "effect": "【永】 このカードの正面のキャラのコストが0以下なら、このカードのレベルを＋1し、パワーを＋3500。",
+    "scraper": "DD_WE23_36",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "勇者",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XUvoYX9KptJEQbojyUsCwudqvfYjHHkL5KCcIk_IVnk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzYucG5n.png"
+  },
+  {
+    "id": "DD/WE23-37",
+    "title": "臨戦態勢 リコ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "逃がさないであります",
+    "effect": "【自】［(3)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+    "scraper": "DD_WE23_37",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "科学"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4DXWLIvqtFzVW8qt75wkAbVaN0ovHX8bgUf5ZkM2NOY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzcucG5n.png"
+  },
+  {
+    "id": "DD/WE23-38",
+    "title": "癒しの歌",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "DD_WE23_38",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-29",
+      "DD/WE23-47"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TCODyw14qOnIV58t_Aw8pBtJ63-BasxF1z-lAOpTf34/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzgucG5n.png"
+  },
+  {
+    "id": "DD/WE23-39",
+    "title": "英雄モード",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "勇者シンク！英雄モードで只今見参！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "DD_WE23_39",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-30"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pVO7p0YJW4sJw5DT1NSrr_hnRbx0k8WdksiS75x0N8o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfMzkucG5n.png"
+  },
+  {
+    "id": "DD/WE23-40",
+    "title": "竜を守る者 シャル",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "w",
+    "say": "竜と共に生き竜の力を借りる巫女の仕事…",
+    "effect": "【永】 あなたの、赤のキャラと青のキャラがそれぞれ2枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "DD_WE23_40",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "竜"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/p9B09UVt8BiBQNMFVt6KElnLEzAwjeVQLU48a70ZUY0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDAucG5n.png"
+  },
+  {
+    "id": "DD/WE23-41",
+    "title": "迷子の少女 アリア",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2 このカードを【レスト】する］ あなたは自分の山札を見て《動物》か《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "DD_WE23_41",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "巫女",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9O28CooyCWiAGh8SlOBp56IM7EcLSMoO8NNcRgubd_g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDEucG5n.png"
+  },
+  {
+    "id": "DD/WE23-42",
+    "title": "人見知り シャル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "w",
+    "say": "シャ、シャルです…！竜の巫女です！",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「竜の森」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て赤か青のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。",
+    "scraper": "DD_WE23_42",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "竜"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-50"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/J7xwGeDp9GVwrZ-VQzGc9oo2dtT6CAK8crZ71jMY2i8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDIucG5n.png"
+  },
+  {
+    "id": "DD/WE23-43",
+    "title": "竜の巫女 シャル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "勇者シンク…",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を公開し、赤のカードを1枚まで選び、このカードの下にマーカーとして裏向きに置き、青のカードを1枚まで選び、このカードの下にマーカーとして裏向きに置き、残りのカードを控え室に置く。",
+    "scraper": "DD_WE23_43",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "竜"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F9XSjGySYxI1wFjz355ZhnYJd4epdl2-HiSl20AUK4Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDMucG5n.png"
+  },
+  {
+    "id": "DD/WE23-44",
+    "title": "地上への憧れ アリア",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "w",
+    "say": "はぁ…",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、他のあなたの赤のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+    "scraper": "DD_WE23_44",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "巫女",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dQy13dExSK1Cplf1Q-NzCl9WmtTulKJgdcViXoNjHRk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDQucG5n.png"
+  },
+  {
+    "id": "DD/WE23-45",
+    "title": "巫女 ファリーヌ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "DD_WE23_45",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "巫女"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/w-fRF3_EV2IP_sSwhh1zNQUMIEiwEt2alac7ZZzNHK4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDUucG5n.png"
+  },
+  {
+    "id": "DD/WE23-46",
+    "title": "空からの来訪 シャル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "突然の来訪で申し訳ない",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "DD_WE23_46",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "竜"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zwMvkyv4nnTAKOFNMvvLuBrUAyCoRkBlPLhv5JqDNo8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDYucG5n.png"
+  },
+  {
+    "id": "DD/WE23-47",
+    "title": "空海の歌姫 アリア",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "でも、可愛いんだ",
+    "effect": "【自】［(2］ このカードがアタックした時、クライマックス置場に「癒しの歌」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの下から1枚を、手札に戻す。",
+    "scraper": "DD_WE23_47",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "巫女",
+      "音楽"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-38"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JxEkGzvTUId3pZ7y_U_EoTT2ORPrtrbxFj_Mg6Qjj6Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDcucG5n.png"
+  },
+  {
+    "id": "DD/WE23-48",
+    "title": "病の使徒 ベルデ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 3,
+    "attack": 10000,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【永】 このカードの下にマーカーがないなら、他のあなたの《音楽》のキャラすべてに、パワーを＋1500し、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のクライマックスを1枚選び、このカードの下にマーカーとして裏向きに置く。\n【自】 バトル中のこのカードが【リバース】した時、このカードの下にマーカーがあるなら、あなたはこのカードの下のマーカーを1枚クロック置場に置き、このカードを【レスト】する。",
+    "scraper": "DD_WE23_48",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "毒"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tT7dOMphG1LhDLDbCWgCWTLrmPnJNlFmc_WvBl3p0po/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDgucG5n.png"
+  },
+  {
+    "id": "DD/WE23-49",
+    "title": "英雄結晶",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "R",
+    "side": "w",
+    "say": "シンク「英雄結晶…発動！」",
+    "effect": "【カウンター】 あなたは自分の手札の「英雄結晶」を1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+    "scraper": "DD_WE23_49",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:38:17.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8bSCX3Kg5XZSSHOG_9bamvNAmZuz1txWyGOJeTWvIpY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNDkucG5n.png"
+  },
+  {
+    "id": "DD/WE23-50",
+    "title": "竜の森",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "本当に…勇者様だったんだ…",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/gate.gif\">：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+    "scraper": "DD_WE23_50",
+    "productName": "DOG DAYS\"",
+    "seriesCode": "DD",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "gate",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "DD/WE23-42"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/o08qs4x8vxEuKPZ6TovzLFpVV4R0nOMKAi2n6KcK-fQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfNTAucG5n.png"
+  },
+  {
+    "id": "DD/WE23-P01",
+    "title": "素敵な1日 ミルヒ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "みんなに笑顔をくれる素敵な３人。勇者３人の帰還の日なんです",
+    "effect": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+    "scraper": "DD_WE23_P01",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "DD",
+    "feature": [
+      "動物",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:38:18.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8tVXEzJ_iFkWgbm1uUylwo9KyltVsc8J6Wfknlq7-3g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0REX1dFMjNfUDAxLnBuZw.png"
+  }
+]

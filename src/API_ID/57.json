@@ -1,0 +1,6148 @@
+[
+  {
+    "id": "EV/S12-001",
+    "title": "“最初の戦い”シンジ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "RR",
+    "side": "s",
+    "say": "やります。僕が乗ります",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「初号機初戦」があるなら、そのターン中、このカードのソウルを＋2。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_001",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-001R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-023"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/NyPph14-_nFirb9G-wfsnPlas-m_67zG0GQ1VV95zwY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDEucG5n.png"
+  },
+  {
+    "id": "EV/S12-001R",
+    "title": "“最初の戦い”シンジ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「初号機初戦」があるなら、そのターン中、このカードのソウルを＋2。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_001R",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-001"
+    ],
+    "relation": [
+      "EV/S12-023"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XSEfbFAMrx0LvNUJpfr-2HL30YhcG8Mz599Ze5XiIRM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDFSLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-002",
+    "title": "エヴァ初号機（疑似シン化第１覚醒形態）",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "RR",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "EV_S12_002",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "覚醒"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-002SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-012"
+    ],
+    "price": {
+      "number": 680,
+      "string": "680円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VnGxLqnVfYJqAKhN5T7qyKUvWPyxgw78fMBSENZjAnM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDIucG5n.png"
+  },
+  {
+    "id": "EV/S12-002SP",
+    "title": "エヴァ初号機（疑似シン化第１覚醒形態）",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "EV_S12_002SP",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "覚醒"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-002"
+    ],
+    "relation": [
+      "EV/S12-012"
+    ],
+    "price": {
+      "number": 3980,
+      "string": "3980円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aTJH8dP1Uw5ApFptIZgSxyAqIIDWaCVU5eVyMNFsGOw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDJTUC5wbmc.png"
+  },
+  {
+    "id": "EV/S12-003",
+    "title": "お弁当役 シンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "s",
+    "say": "ごめん、綾波。口に合わなかったかな？",
+    "effect": "【永】 他のあなたのカード名に「アスカ」か「綾波」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスカ」か「綾波」を含むキャラを1枚選び、そのターン中、パワーを＋500し、《お弁当》を与える。",
+    "scraper": "EV_S12_003",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "お弁当"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mT5AOUhCpdgbWbnjnPGp-BKN-qKSi6Ezad7f4T7Ecxc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDMucG5n.png"
+  },
+  {
+    "id": "EV/S12-004",
+    "title": "作戦前のシンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "僕たち、これで死ぬかもしれないね",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "EV_S12_004",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QWYkxsZvSu6rjyVjiAQs4UfeMnxOlxAOABMmqGNrUCA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDQucG5n.png"
+  },
+  {
+    "id": "EV/S12-005",
+    "title": "葛城 ミサト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "s",
+    "say": "碇司令とシンちゃんをくっつけるキューピットになりたいみたいよ",
+    "effect": "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋1500。\n【起】［あなたの《パイロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_005",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-008"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aqJVLSVfdr-OFUkJ2RNEyXJWDFCipwc3xMLZorc9CTs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDUucG5n.png"
+  },
+  {
+    "id": "EV/S12-006",
+    "title": "月面のカヲル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "s",
+    "say": "逢えるときが楽しみだよ。碇シンジ君",
+    "effect": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「シンジ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_006",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-006S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mB5amghD3duI5Xyx_IxvFf-TCqNqaRd-Y4NFUBw1WdM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDYucG5n.png"
+  },
+  {
+    "id": "EV/S12-006S",
+    "title": "月面のカヲル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「シンジ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_006S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-006"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a6pF1OpOP5iewBFUPJSxEhvn4oPR-t8CvmRwnKw3YRM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDZTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-007",
+    "title": "未来を託すミサト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "s",
+    "say": "今、使徒がサードインパクトを引き起こせば、今度こそヒトは滅ぶ",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。\n【自】［(1)］ あなたのクライマックス置場に「託された未来」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）",
+    "scraper": "EV_S12_007",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-007S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-025"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PTrKhvhZ4JvlutlOltmUxs2qBekvBotBRY-yIGrlUH8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDcucG5n.png"
+  },
+  {
+    "id": "EV/S12-007S",
+    "title": "未来を託すミサト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。\n【自】［(1)］ あなたのクライマックス置場に「託された未来」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）",
+    "scraper": "EV_S12_007S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-007"
+    ],
+    "relation": [
+      "EV/S12-025"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HwnsbFfUe7RQ4CaGZyzVpexBPQBYreeR84J6XMcPuA4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDdTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-008",
+    "title": "ペンペン",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "ミサト「名前はペンペン」",
+    "effect": "【自】 絆／「葛城 ミサト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「葛城 ミサト」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「ミサト」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+    "scraper": "EV_S12_008",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-005"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6OiEn42ewhGgT0MkBhz-e4SvVOKMonbZH-2yz_lIB3o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDgucG5n.png"
+  },
+  {
+    "id": "EV/S12-009",
+    "title": "渚 カヲル",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "はじめまして。お父さん",
+    "effect": "【永】 他のあなたの《謎》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《謎》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_009",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YFFBbi_6ewiEWDhtyFO4FxY7BaerGA2c6inhzw0MZWw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMDkucG5n.png"
+  },
+  {
+    "id": "EV/S12-010",
+    "title": "リビングのミサト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "風呂は命の洗濯よ",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《動物》か《パイロット》のキャラなら、そのターン中、このカードのパワーを＋1500。（公開したカードは元に戻す）",
+    "scraper": "EV_S12_010",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oL8Rvtoxg8UVCA7lE8AKz8RgkOn5gDBy6jBuB0bxXls/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTAucG5n.png"
+  },
+  {
+    "id": "EV/S12-011",
+    "title": "お払い箱！？ シンジ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "s",
+    "say": "シンジ「？」アスカ「あんたお払い箱ってことよ」",
+    "effect": "【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+    "scraper": "EV_S12_011",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1Bn342nTkZHFojUa14j7YZQLvEfP34RrG_Jgv9BAlsc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTEucG5n.png"
+  },
+  {
+    "id": "EV/S12-012",
+    "title": "“初号機パイロット”シンジ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "ミサトさん！",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァ初号機（疑似シン化第１覚醒形態）」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "EV_S12_012",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-002",
+      "EV/S12-002SP"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9uOjBPc_71p5iSYddbfobbNH44cAWaQYAKCJKLKBPs4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTIucG5n.png"
+  },
+  {
+    "id": "EV/S12-013",
+    "title": "写真のミサト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_013",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0mvNau3OsPaCSA0FEgXN09-6PYwAdinDeLRlOf4JQ3g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTMucG5n.png"
+  },
+  {
+    "id": "EV/S12-014",
+    "title": "屋上のシンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【起】［あなたの《パイロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_014",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uqT6KrEVbjd5v1-Zd4iiy4-pFYeoCweLf-0TJBjJVuA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTQucG5n.png"
+  },
+  {
+    "id": "EV/S12-015",
+    "title": "待ち合わせ中のシンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "待ち合わせは無理か",
+    "effect": "-",
+    "scraper": "EV_S12_015",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SZwoM8E4HXRx3l3yHroYKbFBx47z2qNWRSpyD2ScgGQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTUucG5n.png"
+  },
+  {
+    "id": "EV/S12-016",
+    "title": "エヴァンゲリオン試験初号機",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "ミサト「作戦どおり、いいわね。シンジ君」",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_016",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cnjL0qDZk6K9eW5nrN1W-H00F9W2smmbd978yryTRFA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTYucG5n.png"
+  },
+  {
+    "id": "EV/S12-017",
+    "title": "緊急事態のミサト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "救護措置急いで！",
+    "effect": "-",
+    "scraper": "EV_S12_017",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/onmqXv92HVsmh2LrvgPEHVAP18t69MlA3gshyDenmFo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTcucG5n.png"
+  },
+  {
+    "id": "EV/S12-018",
+    "title": "ドライバー ミサト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "お待たせ",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "EV_S12_018",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "動物",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/x5lINreMLrv4mGD9sGQKnnCwgfEq9IV0ZYTiZcph1M8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTgucG5n.png"
+  },
+  {
+    "id": "EV/S12-019",
+    "title": "G型装備 エヴァ初号機",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "ミサト「ヤシマ作戦発動！」",
+    "effect": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「ヤシマ作戦」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚と相手の後列のレベル2以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_019",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-024",
+      "EV/S12-T09"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_iaEh9RUuRoRPGtM86yGQajuD4ViUeFa8RpcJEYIPmY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMTkucG5n.png"
+  },
+  {
+    "id": "EV/S12-020",
+    "title": "碇 シンジ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "s",
+    "say": "こっちでなんとかする。ミサトさん！",
+    "effect": "-",
+    "scraper": "EV_S12_020",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h7hegXoO2OcRZMMvPFq9_zNp75bUB8U5qwlV4873IzE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjAucG5n.png"
+  },
+  {
+    "id": "EV/S12-021",
+    "title": "使徒の一撃",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "青葉「目標内部に高エネルギー反応！」ミサト「何ですって！？」",
+    "effect": "あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_021",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QweSZS3gcvW4sNSpOJfbbcTVf6oytGiVPnJwyrUNe4k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjEucG5n.png"
+  },
+  {
+    "id": "EV/S12-022",
+    "title": "セカンドインパクト",
+    "type": "イベント",
+    "level": 3,
+    "cost": 7,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "加持「......セカンドインパクト」",
+    "effect": "あなたはすべてのプレイヤーのレベル3以下のキャラすべてを、ストック置場に好きな順番で置く。",
+    "scraper": "EV_S12_022",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oGSAwFHy6rMdByhc5MlT9PCM_YZsXyADG5I51wx1byo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjIucG5n.png"
+  },
+  {
+    "id": "EV/S12-023",
+    "title": "初号機初戦",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "ヴォッ!!",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "EV_S12_023",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-001",
+      "EV/S12-001R"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h77_-3iS6aWlSDWlWT6U_o8VICuS0X9nb22dj5-mxos/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjMucG5n.png"
+  },
+  {
+    "id": "EV/S12-024",
+    "title": "ヤシマ作戦",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "ミサト「陽電子砲狙撃準備！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_024",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-019",
+      "EV/S12-T07"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/in9c9XEfXwW436_N9nLnA3Z468jWG8VmI4EAuPU5ySQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjQucG5n.png"
+  },
+  {
+    "id": "EV/S12-025",
+    "title": "託された未来",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "理由はないわ。その運命があなただったってだけ",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "EV_S12_025",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-007",
+      "EV/S12-007S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AE_8nDgFMj1qo8lJTLPJsLqEPlO0D8UPcqBqIKBArF4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjUucG5n.png"
+  },
+  {
+    "id": "EV/S12-026",
+    "title": "真希波・マリ・イラストリアス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "RR",
+    "side": "s",
+    "say": "じゃ、このことは他言無用で♡ネルフのワンコくん♡",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「屋上の遭遇」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+    "scraper": "EV_S12_026",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-026R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-048"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dZkYREWlTuJZt_-QhgRUTguNSejvvlYBgtYX7TvoSa8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjYucG5n.png"
+  },
+  {
+    "id": "EV/S12-026R",
+    "title": "真希波・マリ・イラストリアス",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「屋上の遭遇」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+    "scraper": "EV_S12_026R",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-026"
+    ],
+    "relation": [
+      "EV/S12-048"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iIL-AaDd7VMJc0ertaeJyVsL84dkmp7e7DuGw2P2YvE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjZSLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-027",
+    "title": "ビースト・マリ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "RR",
+    "side": "s",
+    "say": "がぁぁぁ……",
+    "effect": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "EV_S12_027",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-027S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-036"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-CZBLtIICV2cwXH4M17aAKHFbEGqzpyGC2ZKbwp9O-U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjcucG5n.png"
+  },
+  {
+    "id": "EV/S12-027S",
+    "title": "ビースト・マリ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+    "scraper": "EV_S12_027S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-027"
+    ],
+    "relation": [
+      "EV/S12-036"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9bAjFKHV42ZP5ch_iRXOrkSZMfKrNUXHo3LSzZwWzlc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjdTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-028",
+    "title": "空を見上げるマリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "自分の目的に大人を巻き込むのは、気後れするなあ",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋500。\n【自】 絆／「エヴァンゲリオン局地仕様仮設５号機」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン局地仕様仮設５号機」を1枚選び、手札に戻す）",
+    "scraper": "EV_S12_028",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-042"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QlMM9FoYbYszUX6t6pCFxTFKDQPSfaqU5nvQL2nB8MY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjgucG5n.png"
+  },
+  {
+    "id": "EV/S12-029",
+    "title": "極秘入国者 マリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "s",
+    "say": "君、面白いね",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "EV_S12_029",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-029SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kEwiRpiEDPRL1QcAKPaGusPMbUvQI8tiBdZI3gWmPYM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjkucG5n.png"
+  },
+  {
+    "id": "EV/S12-029SP",
+    "title": "極秘入国者 マリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "EV_S12_029SP",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-029"
+    ],
+    "relation": [],
+    "price": {
+      "number": 2480,
+      "string": "2480円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/j8BlJRiUZouDF7Cz4gDyl9OWpvkj-4EsOa0t0D_3Rns/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMjlTUC5wbmc.png"
+  },
+  {
+    "id": "EV/S12-030",
+    "title": "伊吹 マヤ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "R",
+    "side": "s",
+    "say": "だめです!!　完全に制御不能です!!",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_030",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "特徴なし"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/W6T_2wPh8hMvzE9PpfFZRPranqotpM4Kb0EHjMzlrHk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzAucG5n.png"
+  },
+  {
+    "id": "EV/S12-031",
+    "title": "エヴァ２号機 獣化第２形態",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "R",
+    "side": "s",
+    "say": "マリ「ザ・ビースト！」",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「最後の１枚」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_031",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-031S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-049"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QIeaZCA5Is4rio3Ygs16pEPwBEWMnm8xvb4ygLIVtRg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzEucG5n.png"
+  },
+  {
+    "id": "EV/S12-031S",
+    "title": "エヴァ２号機 獣化第２形態",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「最後の１枚」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_031S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "動物"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-031"
+    ],
+    "relation": [
+      "EV/S12-049"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y7PdmN5lb5NfYyvEY5CSEByD7McH74g5fKjox9OOCK8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzFTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-032",
+    "title": "奮戦するマリ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "s",
+    "say": "うおぉりゃっ!!",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(3) あなたの舞台のレベル1以上の《メカ》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「大人の都合と自分の目的」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、クロック置場に置く。",
+    "scraper": "EV_S12_032",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-050"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TacWPMd0r2f6HIZek7j_5glIYdpfmPg_f4-MA9Q3l14/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzIucG5n.png"
+  },
+  {
+    "id": "EV/S12-033",
+    "title": "もう１人の２号機パイロット マリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "いい匂い。他人の匂いのするエヴァもワルくない",
+    "effect": "【永】 他のあなたの、《パイロット》か《メカ》のキャラすべてに、パワーを＋500。",
+    "scraper": "EV_S12_033",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qxeV8sSrnAETDBkDDmXn2VINFydDkgvmGJVGoS1jTkY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzMucG5n.png"
+  },
+  {
+    "id": "EV/S12-034",
+    "title": "第４の使徒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードのバトル相手が【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "EV_S12_034",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VoIXh7j2uOF7-2_kVFJhMbeAWtpj7SpCzY6ojuXXl5o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzQucG5n.png"
+  },
+  {
+    "id": "EV/S12-035",
+    "title": "第３の使徒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "オペレーター「上部外壁破損！最終結界が破られます！」",
+    "effect": "【起】［(1)］ あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "EV_S12_035",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/i8dH9bNsKLn0RIucQZzB1-XROBhABZfKRYLuyhQ3T4A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzUucG5n.png"
+  },
+  {
+    "id": "EV/S12-036",
+    "title": "決意のマリ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "にゃろー。なんてやつ",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ビースト・マリ」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "EV_S12_036",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-027",
+      "EV/S12-027S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QB4-YY-ajhUHBdy7VhoW3UiS4QpXm_d8sHjjy1Wx9v0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzYucG5n.png"
+  },
+  {
+    "id": "EV/S12-037",
+    "title": "脱出する加持",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "s",
+    "say": "……てな訳で後は、ヨロシク",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+    "scraper": "EV_S12_037",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "スイカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jkVL27X2Ak8pzoo_ZOAvIKaJ7BXlazmKcWLh95y34OY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzcucG5n.png"
+  },
+  {
+    "id": "EV/S12-038",
+    "title": "出撃するマリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "速攻で片付けないと本部がパーじゃん",
+    "effect": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+    "scraper": "EV_S12_038",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/37ue2AUMLMg-Tj-upWrpTRjXOx5nyrTrq2rNY8YGdUA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzgucG5n.png"
+  },
+  {
+    "id": "EV/S12-039",
+    "title": "第５の使徒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_039",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rszhMpU6IfpIAu1o5UxfuX1t2o6JCz9Ag5sPDgYPHlI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wMzkucG5n.png"
+  },
+  {
+    "id": "EV/S12-040",
+    "title": "新型プラグスーツのマリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "さすが新型。胸もピッタリで気持ちいい！",
+    "effect": "-",
+    "scraper": "EV_S12_040",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OGrWcNWbtM3gDtHcNj-vk7EkfkFfo8l4xkt_Ij0B_QM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDAucG5n.png"
+  },
+  {
+    "id": "EV/S12-041",
+    "title": "青葉 シゲル",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "今の彼ならやりかねませんね",
+    "effect": "-",
+    "scraper": "EV_S12_041",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "特徴なし"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4COrz8BVkAf7z5ca4thc0jWhHC-PWhA8HBz_qwZVh5U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDEucG5n.png"
+  },
+  {
+    "id": "EV/S12-042",
+    "title": "エヴァンゲリオン局地仕様仮設５号機",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "s",
+    "say": "マリ「こりゃ、力押ししかないじゃん！」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "EV_S12_042",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-028"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hfldnqOWODq37kUS8TvHDX8jiqB6udhPVfWBKs6_aP4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDIucG5n.png"
+  },
+  {
+    "id": "EV/S12-043",
+    "title": "日向 マコト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "s",
+    "say": "ミサト「プラグを緊急射出して！」",
+    "effect": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋1000。",
+    "scraper": "EV_S12_043",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oaSLCiX3Lkc9y0or12DxBQvrttglkMEImEdJup8CqIw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDMucG5n.png"
+  },
+  {
+    "id": "EV/S12-044",
+    "title": "加持 リョウジ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "C",
+    "side": "s",
+    "say": "給料分は働いてもらうぞ",
+    "effect": "【永】 あなたのストックが7枚以上なら、このカードのパワーを＋2000。",
+    "scraper": "EV_S12_044",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "スイカ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uU_FNpgf9I_DhYTC4ufJHsq2i7BUJZfYtTFmOANOF8M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDQucG5n.png"
+  },
+  {
+    "id": "EV/S12-045",
+    "title": "５号機コクピットのマリ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "おっ！　来た♡",
+    "effect": "-",
+    "scraper": "EV_S12_045",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h45sDIIBjC_RD12AhiXm-Fs5vpLG2UR22euUVZ5hjEc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDUucG5n.png"
+  },
+  {
+    "id": "EV/S12-046",
+    "title": "裏コード ザ・ビースト",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "ヒトを捨てたエヴァの力、見せてもらうわ",
+    "effect": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードをストック置場に置く。",
+    "scraper": "EV_S12_046",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4VrYb6-4_a9yosTneLoJ4_wzk_-eBv-AD6NefexWL5s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDYucG5n.png"
+  },
+  {
+    "id": "EV/S12-047",
+    "title": "デートの誘い",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "加持「愛に性別は関係ないさ」",
+    "effect": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。",
+    "scraper": "EV_S12_047",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YGTF4x0sZ-2UZ05I8x8meiUwyW5CWppmnCkiYQfK4mk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDcucG5n.png"
+  },
+  {
+    "id": "EV/S12-048",
+    "title": "屋上の遭遇",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "メガネ……メガネ……",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_048",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-026",
+      "EV/S12-026R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_-LluXaQM4ZnY8SSmxHn_s1VPtPypaZBLwymXphGZKA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDgucG5n.png"
+  },
+  {
+    "id": "EV/S12-049",
+    "title": "最後の１枚",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "マリ「あと、いちまいぃぃい！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/stock.gif\">：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "EV_S12_049",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "stock"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-031",
+      "EV/S12-031S"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/K24912HEpVyGkrviUO7U1SdDmzXXR3Em4w3JrbglLuU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNDkucG5n.png"
+  },
+  {
+    "id": "EV/S12-050",
+    "title": "大人の都合と自分の目的",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "さよなら、エヴァ５号機。御役目御苦労さん",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "EV_S12_050",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-032"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ElaJi-atYt8Y8R8dywbdRlzRAvfF86Q-n0HR27o6Sz0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTAucG5n.png"
+  },
+  {
+    "id": "EV/S12-051",
+    "title": "式波・アスカ・ラングレー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RR",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "EV_S12_051",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-051R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-057",
+      "EV/S12-057S"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/I9SD36-DA_lo6HSGvUxiVvr3NW17uosUKGWMeFUBD6k/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTEucG5n.png"
+  },
+  {
+    "id": "EV/S12-051R",
+    "title": "式波・アスカ・ラングレー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "EV_S12_051R",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-051"
+    ],
+    "relation": [
+      "EV/S12-057",
+      "EV/S12-057S"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m6wSNW7KqU50_gEITX87nz5jV1TydaIxjFt1KsAXBcM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTFSLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-052",
+    "title": "トドメのアスカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "RR",
+    "side": "s",
+    "say": "ナナヒカリ！",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) あなたの《パイロット》のキャラを2枚【レスト】する] あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "EV_S12_052",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-052SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tEpUuXppyqEkfBni0ipQSWuilKtW7e27rWNNc1QctGM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTIucG5n.png"
+  },
+  {
+    "id": "EV/S12-052SP",
+    "title": "トドメのアスカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) あなたの《パイロット》のキャラを2枚【レスト】する] あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "EV_S12_052SP",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-052"
+    ],
+    "relation": [],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Pqm_p4v3jZDvgV35KzsKubH45lQR7dtu7-AgpBOcU5g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTJTUC5wbmc.png"
+  },
+  {
+    "id": "EV/S12-053",
+    "title": "洞木 ヒカリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "アスカ「残り、食べていいわよ」ヒカリ「？」",
+    "effect": "【自】 絆／「独り占め？ アスカ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「独り占め？ アスカ」を1枚選び、手札に戻す）\n【自】 経験 ［(1)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "EV_S12_053",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "委員長"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-067"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ChvgRjjLdu6XA0_xEY-7yl1LxSBVddYzZDKfyWaylbQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTMucG5n.png"
+  },
+  {
+    "id": "EV/S12-054",
+    "title": "エレベーターのアスカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "s",
+    "say": "レイ「エヴァは自分の心の鏡……」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《パイロット》のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_054",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DcI_kksl_MC9DPVasQXx7XsgFSJSX_75Efg93kF7Aak/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTQucG5n.png"
+  },
+  {
+    "id": "EV/S12-055",
+    "title": "お引っ越し アスカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "s",
+    "say": "あんたバカ？",
+    "effect": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_055",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-055S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B4fwrSlRiw18z_n0o3jd3rUqjLR1qpQoJbS4BfozZE4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTUucG5n.png"
+  },
+  {
+    "id": "EV/S12-055S",
+    "title": "お引っ越し アスカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_055S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-055"
+    ],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YoiR5Wav6thpgWsCfhNZ3aLSosYjF9boetC1mc1dvyc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTVTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-056",
+    "title": "納得いかないアスカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "s",
+    "say": "私以外、誰も乗れないのに……",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_056",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y5e0FAlRLnJ6BZkWNyfCyq57bWO3TYyKELJyUkt85cs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTYucG5n.png"
+  },
+  {
+    "id": "EV/S12-057",
+    "title": "テスト用プラグスーツのアスカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "R",
+    "side": "s",
+    "say": "このテスト用プラグスーツって見えすぎじゃない？",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「最悪の事態」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置き、ターンの終わりに、このカードを控え室に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_057",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-057S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-073",
+      "EV/S12-051",
+      "EV/S12-051R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2NDSxV40NXHvin51Jkrmib9QCSgN4KiFzbGgme_04Fw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTcucG5n.png"
+  },
+  {
+    "id": "EV/S12-057S",
+    "title": "テスト用プラグスーツのアスカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「最悪の事態」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置き、ターンの終わりに、このカードを控え室に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_057S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-057"
+    ],
+    "relation": [
+      "EV/S12-073",
+      "EV/S12-051",
+      "EV/S12-051R"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xVRDKFy8NGwA8faFamTneVMGUMTjlaR3-Wm_OPS3R0w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTdTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-058",
+    "title": "指摘するアスカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "s",
+    "say": "あんた、バカ。肝心な時にいないなんて。なんて無自覚",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋500。",
+    "scraper": "EV_S12_058",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dnogC91bR9U8z1uTqrFL54fs6lfCMFyz9BV7HZC5ITc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTgucG5n.png"
+  },
+  {
+    "id": "EV/S12-059",
+    "title": "鈴原 トウジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "すまんな、転校生。ワシはお前を殴らないかん。殴っとかな気がすまへんのや",
+    "effect": "【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の手札を公開し、自分の手札のレベル0以下のキャラを1枚選び、このカードがいた枠に【レスト】して置く。",
+    "scraper": "EV_S12_059",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "特徴なし"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nCuAWR_-cOA6hJYLW3MvatNKodlVt-IKMPOeBmSJU8A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNTkucG5n.png"
+  },
+  {
+    "id": "EV/S12-060",
+    "title": "空中挺進専用S型装備 エヴァ２号機",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 4500,
+    "rare": "U",
+    "side": "s",
+    "say": "ミサト「やはり２号機！」",
+    "effect": "【自】 あなたのクライマックス置場に「とどめの一撃」が置かれた時、そのターン中、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_060",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-074"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hHSFsUUokPJca7g-ZXB2RUkuCUsFPLYzArFSmZvfznw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjAucG5n.png"
+  },
+  {
+    "id": "EV/S12-061",
+    "title": "料理中！？ アスカ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "話すわけないでしょ。この私が",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_061",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Atljf4XO8CY1ZhDlLnTKgldqr_b2w1OiXuPj-XSMW30/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjEucG5n.png"
+  },
+  {
+    "id": "EV/S12-062",
+    "title": "“ユーロ空軍のエース”アスカ",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "U",
+    "side": "s",
+    "say": "これこそ実戦用に作られた世界初の本物のエヴァンゲリオンなのよ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「３人がかり」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手の【リバース】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+    "scraper": "EV_S12_062",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-075"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WxMd9tvpgGhpTpVs0221YqOe9VsqZAcidqK3N_XJggU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjIucG5n.png"
+  },
+  {
+    "id": "EV/S12-063",
+    "title": "相田 ケンスケ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "s",
+    "say": "悪いね。このあいだの騒ぎで、あいつの妹さんケガしちゃってさ",
+    "effect": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_063",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メガネ",
+      "カメラ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xb_2BQ4yp9SHLhQSiD_LqnCaRXF1x8Su9ENxhLXKnRc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjMucG5n.png"
+  },
+  {
+    "id": "EV/S12-064",
+    "title": "第７の使徒",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《謎》のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_064",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lbzNY1wxc1epssRSxMDlPM0VmdMfRTj8VFbD1f9aGhw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjQucG5n.png"
+  },
+  {
+    "id": "EV/S12-065",
+    "title": "発進準備 アスカ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "ミサト「あなたたち三人の力が必要なのよ。奇跡を起こすために」",
+    "effect": "-",
+    "scraper": "EV_S12_065",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/h7z4f1kITAHaWOp9LZhxqGmujBZ627TqExZKFiwy6eI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjUucG5n.png"
+  },
+  {
+    "id": "EV/S12-066",
+    "title": "第８の使徒",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "C",
+    "side": "s",
+    "say": "青葉「目標、変形！　距離１万２千！」",
+    "effect": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "EV_S12_066",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wzczO94GAMuEn7jcDbL7WW4LFsiAsWM_YNQJ6l8zTSY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjYucG5n.png"
+  },
+  {
+    "id": "EV/S12-067",
+    "title": "独り占め？ アスカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "いいけど、弁当は分けないわよ",
+    "effect": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《パイロット》のキャラを1枚選び、手札に戻す。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+    "scraper": "EV_S12_067",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-053"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/q4V_HQ_Kl06E2RPdUHt1z5FTYoNvhZaBA77gvVJeit4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjcucG5n.png"
+  },
+  {
+    "id": "EV/S12-068",
+    "title": "浄化実験施設のアスカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "せっかくの命は、全部もれなく食べ尽くしなさいよ",
+    "effect": "-",
+    "scraper": "EV_S12_068",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YrBDceam5q0UHzCSXqszUUWwTCVdU8RlZIQrTcdUdGA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjgucG5n.png"
+  },
+  {
+    "id": "EV/S12-069",
+    "title": "エヴァンゲリオン正規実用型２号機",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "アスカ「ダメ！　私じゃ間に合わない！」",
+    "effect": "-",
+    "scraper": "EV_S12_069",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/t65W8tp95mUXCM-MYFaN3X66XbCeRTEa7k0TBlLrlaM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNjkucG5n.png"
+  },
+  {
+    "id": "EV/S12-070",
+    "title": "第９の使徒",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "C",
+    "side": "s",
+    "say": "冬月「やはり、浸食タイプか……やっかいだな」",
+    "effect": "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_070",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qSWCOr7Ba93hXhjGNJTBnpc8IoBAnduOddptUYKxO8Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzAucG5n.png"
+  },
+  {
+    "id": "EV/S12-071",
+    "title": "封印される２号機",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "リツコ「……エヴァは実戦兵器よ。全てにバックアップを用意しているわ。操縦者も含めてね」",
+    "effect": "あなたは自分の控え室の『チェンジ』を持つキャラを1枚まで選び、手札に加える。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "EV_S12_071",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jjIb4DxT34X1jiFgfi98CAL0dikOnV7hqDvXsetPFa0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzEucG5n.png"
+  },
+  {
+    "id": "EV/S12-072",
+    "title": "殺菌処理",
+    "type": "イベント",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "加持「最もこっからが、ちょいとめんどうだけどな」",
+    "effect": "あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "EV_S12_072",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B81WySXPE52CUr6FaPlSqfmAKpfQzHm17Wg1f5bL5MY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzIucG5n.png"
+  },
+  {
+    "id": "EV/S12-073",
+    "title": "最悪の事態",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "そっか……私、笑えるんだ",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "EV_S12_073",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-057",
+      "EV/S12-057S"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rruseGRDIoPX0oNsEVfZYoz8bG4gimem-5sxlrvsBug/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzMucG5n.png"
+  },
+  {
+    "id": "EV/S12-074",
+    "title": "とどめの一撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "アスカ「どおぅりゃあああ！！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_074",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-060"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G7Aht7G4h-4Z4PaK1ODBtkZeQc__NwVwpiClto2PuPI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzQucG5n.png"
+  },
+  {
+    "id": "EV/S12-075",
+    "title": "３人がかり",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "レイ「２号機、コアを」アスカ「わかってるわよ！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "EV_S12_075",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-062"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_LPjF1y35QnkTQytNrWWTw5MKb2dLlF_pdDV10XwTbM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzUucG5n.png"
+  },
+  {
+    "id": "EV/S12-076",
+    "title": "非常招集の綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RR",
+    "side": "s",
+    "say": "先、行くから",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
+    "scraper": "EV_S12_076",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "眼帯"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-076R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AXptZR2oLu_oWFgJPN4k2orRlUzN-dFng5n-zHLc4Z8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzYucG5n.png"
+  },
+  {
+    "id": "EV/S12-076R",
+    "title": "非常招集の綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "RRR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
+    "scraper": "EV_S12_076R",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "眼帯"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-076"
+    ],
+    "relation": [],
+    "price": {
+      "number": 980,
+      "string": "980円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7PYOw6vfW9F8p-dJM8EPp2JSfJFpKlyhuOfCexTWsM0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzZSLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-077",
+    "title": "零号機パイロット 綾波",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "RR",
+    "side": "s",
+    "say": "ミサト「エヴァとあなたたちに全てを賭けるわ」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 絆／「エヴァンゲリオン試作零号機（改）」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン試作零号機（改）」を1枚選び、手札に戻す）",
+    "scraper": "EV_S12_077",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-077SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-079"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/c-5DdiE7ahirjayxmPYOME_1ljqrDugGc29H0n5fzrU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzcucG5n.png"
+  },
+  {
+    "id": "EV/S12-077SP",
+    "title": "零号機パイロット 綾波",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "SP",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 絆／「エヴァンゲリオン試作零号機（改）」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン試作零号機（改）」を1枚選び、手札に戻す）",
+    "scraper": "EV_S12_077SP",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-077"
+    ],
+    "relation": [
+      "EV/S12-079"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uauBvVLbbu9La9MldiJ2yeUTSAbS_pdw6nHa2FAcqo8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzdTUC5wbmc.png"
+  },
+  {
+    "id": "EV/S12-078",
+    "title": "クラスメイト 綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "……あ、ありがと",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+    "scraper": "EV_S12_078",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "EV/S12-078S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gDIR78xl9PMaekSPzZv84PXUiA0vRbCbZNiBFu1b_wQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzgucG5n.png"
+  },
+  {
+    "id": "EV/S12-078S",
+    "title": "クラスメイト 綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+    "scraper": "EV_S12_078S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-078"
+    ],
+    "relation": [],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gYI3Ar7i0YjvOnGdx7EQfG8YLbPXGb46fhuvJ7WwAyo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzhTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-079",
+    "title": "エヴァンゲリオン試作零号機（改）",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "s",
+    "say": "ミサト「発進」",
+    "effect": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "EV_S12_079",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-077",
+      "EV/S12-077SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/as6-vHz-1HyVWUecgXfmck63Z8pTUesC_NK9cnqESsw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wNzkucG5n.png"
+  },
+  {
+    "id": "EV/S12-080",
+    "title": "命令するゲンドウ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 4000,
+    "rare": "R",
+    "side": "s",
+    "say": "エヴァンゲリオン３号機は現時刻をもって破棄。監視対象物を第９使徒と識別する",
+    "effect": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【自】［(3)］ あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードが自分のレベル以下のレベルの《パイロット》のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）",
+    "scraper": "EV_S12_080",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メガネ",
+      "手袋"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vIxvJB2FzHaqG_dP_Te6OydA92giYkyfT_nU9rhNbvs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODAucG5n.png"
+  },
+  {
+    "id": "EV/S12-081",
+    "title": "防御担当 綾波",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "R",
+    "side": "s",
+    "say": "…明日午前０時より発動されるヤシマ作戦のスケジュールを伝えます",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シンジを守ると誓う綾波」を1枚選び、このカードがいた枠に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+    "scraper": "EV_S12_081",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-082",
+      "EV/S12-082S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sSOFuLWLg-SxFxFD7uDS5TnoXdj0N49o6E1JB-hMv9s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODEucG5n.png"
+  },
+  {
+    "id": "EV/S12-082",
+    "title": "シンジを守ると誓う綾波",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "s",
+    "say": "さよなら",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札の「綾波の笑顔」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3500し、このカードのパワーを＋3500。",
+    "scraper": "EV_S12_082",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "EV/S12-082S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-099",
+      "EV/S12-T13",
+      "EV/S12-081"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/uKmMy_Zo3eZMLgygJ8Jk4dfrJNR1nopPqIpj60qPP98/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODIucG5n.png"
+  },
+  {
+    "id": "EV/S12-082S",
+    "title": "シンジを守ると誓う綾波",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SR",
+    "side": "s",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札の「綾波の笑顔」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3500し、このカードのパワーを＋3500。",
+    "scraper": "EV_S12_082S",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "EV/S12-082"
+    ],
+    "relation": [
+      "EV/S12-099",
+      "EV/S12-T13",
+      "EV/S12-081"
+    ],
+    "price": {
+      "number": 420,
+      "string": "420円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/78J2WsAnrgQAqTBXnQUDCzmQskhyJpBAXGAgS9FiFqQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODJTLnBuZw.png"
+  },
+  {
+    "id": "EV/S12-083",
+    "title": "赤木 リツコ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "s",
+    "say": "到着予定時刻を１２分もオーバー。あんまり遅いので迎えに来たわ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_083",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/o9LY0i1pKM4A_eX0r61phq72snYhRzp61jYn-CPwBx0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODMucG5n.png"
+  },
+  {
+    "id": "EV/S12-084",
+    "title": "微笑む綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 相手のターン中、他のあなたの「碇 ゲンドウ」がいるなら、このカードのパワーを＋2000。",
+    "scraper": "EV_S12_084",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-088"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/K3FNR-3416Ji2lerFR5ts1SDFVLUaBelXd7ElMDMU6s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODQucG5n.png"
+  },
+  {
+    "id": "EV/S12-085",
+    "title": "綾波 レイ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "U",
+    "side": "s",
+    "say": "……おいしい",
+    "effect": "【自】 経験 ［(2)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "EV_S12_085",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:15.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cl5irVLKBcaC51YFxRdAmXURjXImcIJ_5xxs2C_pXzs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODUucG5n.png"
+  },
+  {
+    "id": "EV/S12-086",
+    "title": "吶喊エヴァ零号機（改）",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "s",
+    "say": "レイ「碇くんがもう……エヴァに乗らなくていいようにする」",
+    "effect": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。\n【自】［(3)］ このカードがアタックした時、クライマックス置場に「捨て身の攻撃」があるなら、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーにＸダメージを与える。Ｘはあなたの手札の枚数に等しい。（ダメージキャンセルは発生する）",
+    "scraper": "EV_S12_086",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-098"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/n7zhiDBGSoLkQ_kcPeDubtpchwgHCIW8VssB_MMEMKI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODYucG5n.png"
+  },
+  {
+    "id": "EV/S12-087",
+    "title": "第１０の使徒",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "s",
+    "say": "-",
+    "effect": "【起】［手札のクライマックスを1枚控え室に置く］ あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの能力で控え室に置かれたキャラのパワーに等しい。",
+    "scraper": "EV_S12_087",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3-cuR-2VooiKbOeFZCclyFPI0pZXduQhja8wLEe0n_g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODcucG5n.png"
+  },
+  {
+    "id": "EV/S12-088",
+    "title": "碇 ゲンドウ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "s",
+    "say": "そのための、ネルフです",
+    "effect": "【永】 他のあなたのカード名に「綾波」を含むキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
+    "scraper": "EV_S12_088",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メガネ",
+      "手袋"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-084"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/YcXkZN3xcYtGfblManbQtYnn2qCY8WRwgg0EfLL-DYI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODgucG5n.png"
+  },
+  {
+    "id": "EV/S12-089",
+    "title": "冬月 コウゾウ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "s",
+    "say": "３年ぶりの対面か……",
+    "effect": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "EV_S12_089",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "特徴なし"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hOlE8SxSB7_p-E1mdmjcDf_HyiJtNNzV9S3EQEiDcqs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wODkucG5n.png"
+  },
+  {
+    "id": "EV/S12-090",
+    "title": "包帯姿の綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "EV_S12_090",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "眼帯"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mXd-SMU-7HoRFxA1uZubtzjje9AnGO3s66azBPhURhA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTAucG5n.png"
+  },
+  {
+    "id": "EV/S12-091",
+    "title": "エヴァンゲリオン試作零号機",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "s",
+    "say": "主伝導システム、混戦！流動中！",
+    "effect": "【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。\n【永】 相手のターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_091",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/41L9XabYMs56_8vUv13jjgS5HaO8BErcPWqKvoLiPY4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTEucG5n.png"
+  },
+  {
+    "id": "EV/S12-092",
+    "title": "第６の使徒",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "EV_S12_092",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/udLIgnGPD3x5NL3HolpmEb_oF6NZBPLTqnO3nHozYa8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTIucG5n.png"
+  },
+  {
+    "id": "EV/S12-093",
+    "title": "自宅の綾波",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "C",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「どいてくれる？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の下に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_093",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-100",
+      "EV/S12-T14"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9bKGP1ff-YkzVL0o-OFchxyfWIpxTayVMt4-Ji322TU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTMucG5n.png"
+  },
+  {
+    "id": "EV/S12-094",
+    "title": "再会のリツコ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "s",
+    "say": "リョウちゃん、お久しぶり",
+    "effect": "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_094",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "科学",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xCxv1eqs51l2G5GvmS__XQsAwr1AxjOVJ0h3AiapZFo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTQucG5n.png"
+  },
+  {
+    "id": "EV/S12-095",
+    "title": "あいさつする綾波",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "s",
+    "say": "……おはよう",
+    "effect": "-",
+    "scraper": "EV_S12_095",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MPkIx0XXTyKb0QzbA7ARSwBijlniJPAnfBzZUqyqvvE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTUucG5n.png"
+  },
+  {
+    "id": "EV/S12-096",
+    "title": "ダミーシステム",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "ミサト「あれが、ダミーシステム……」",
+    "effect": "あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "EV_S12_096",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/GbZxbNEc0cBSeyW2JLNg9BK4jhTr6yKwbOa0A8pCL5g/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTYucG5n.png"
+  },
+  {
+    "id": "EV/S12-097",
+    "title": "謎の施設",
+    "type": "イベント",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "s",
+    "say": "ゲンドウ「食事にしよう」レイ「ハイ」",
+    "effect": "あなたは自分の【スタンド】している、《メガネ》か《パイロット》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "EV_S12_097",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Ty1O966di0oWcj7d7BinII8-5OZHrgZEMgZexDrSRUo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTcucG5n.png"
+  },
+  {
+    "id": "EV/S12-098",
+    "title": "捨て身の攻撃",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "s",
+    "say": "ミサト「エヴァ単機ではあのＡ．Ｔ．フィールドを破れない……」",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "EV_S12_098",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-086"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wQ1bVt_9-L19lC_InRbALw3SKkZA89JRqLNUtOuzwn8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTgucG5n.png"
+  },
+  {
+    "id": "EV/S12-099",
+    "title": "綾波の笑顔",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "シンジ「…笑えばいいと思うよ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "EV_S12_099",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-082",
+      "EV/S12-082S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/W4KjS5ElttBQHgMmhtU9hnnAm51RGC3IXIwrfg1WVdw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8wOTkucG5n.png"
+  },
+  {
+    "id": "EV/S12-100",
+    "title": "どいてくれる？",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_100",
+    "productName": "ヱヴァンゲリヲン新劇場版",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-093",
+      "EV/S12-T12"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eA57JrYXFCnoiFiHENS7Q3ltmbiIqXRmt-gsF_mmJ2o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDAucG5n.png"
+  },
+  {
+    "id": "EV/S12-101",
+    "title": "作戦部長 ミサト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "…ま、色々と貸しがあるのよ",
+    "effect": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_101",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4JGP6Qml4aEUOJtnvv_-hN-AzJib_QqAYzR2nPiRBLw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDEucG5n.png"
+  },
+  {
+    "id": "EV/S12-102",
+    "title": "窓辺の綾波",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_102",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "眼帯"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TZPsbzX0O7BsosCibkRmBYMQ6rhA1sjndl_sFNhxVC8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDIucG5n.png"
+  },
+  {
+    "id": "EV/S12-103",
+    "title": "綾波＆ゲンドウ",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ゲンドウ「レイ…大丈夫か？レイ！」",
+    "effect": "-",
+    "scraper": "EV_S12_103",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/O4sC6-j_EJpLaJ3R2qHXtVtKzUWdkB9_QlTmH2SMcvQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDMucG5n.png"
+  },
+  {
+    "id": "EV/S12-104",
+    "title": "エントリープラグの綾波",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "s",
+    "say": "ごめんなさい。こういう時、どんな顔すればいいのか、わからないの",
+    "effect": "【永】 相手のターン中、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+    "scraper": "EV_S12_104",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FN4LUdit_4-bqdH9TnmPcCHiU1klNfkylUK7NgYzQgI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDQucG5n.png"
+  },
+  {
+    "id": "EV/S12-105",
+    "title": "転校生 シンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "TD",
+    "side": "s",
+    "say": "ミサト「あらためてよろしくね。碇シンジ君」",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "EV_S12_105",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QzgyCqWQ59OmTA1NoZV1V5PzCtGXgvCEO0TSUhCQ8ek/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDUucG5n.png"
+  },
+  {
+    "id": "EV/S12-106",
+    "title": "出撃する綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "s",
+    "say": "時間よ。 行きましょ",
+    "effect": "-",
+    "scraper": "EV_S12_106",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iMl5lhgXRyNJeLN7LwhvghcY0q4wAIp8-7fbCHWnSEY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDYucG5n.png"
+  },
+  {
+    "id": "EV/S12-107",
+    "title": "旧型プラグスーツのマリ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "s",
+    "say": "エヴァンゲリオン仮設5号機、起動！",
+    "effect": "-",
+    "scraper": "EV_S12_107",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/HNqiyYH3lxbTliFqcOQbOcE0jaTijKSOaL0mgFSJdS0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDcucG5n.png"
+  },
+  {
+    "id": "EV/S12-108",
+    "title": "隔離待機室のアスカ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "s",
+    "say": "誰かと話すって心地いいのね",
+    "effect": "【自】 このカードがアタックした時、あなたは他の自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_108",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "軍隊"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0Xl-G8nE8fHnllmw__xrzemtZxw_M-NNm-uCxV6CVcA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDgucG5n.png"
+  },
+  {
+    "id": "EV/S12-109",
+    "title": "ヒミツの綾波",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "s",
+    "say": "シンジ「何してたの？」レイ「…ヒミツ。もう少しうまくなったら話す」",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "EV_S12_109",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mH-ChK5LqfIMSJ1r6dvNQct3UX2Pt61kAw9P_ATfSmI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMDkucG5n.png"
+  },
+  {
+    "id": "EV/S12-110",
+    "title": "ゼロ距離射撃のマリ",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "s",
+    "say": "ゼロ距離ならば！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "EV_S12_110",
+    "productName": "PRカード【Sサイド】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0Q3uWXCNoOaZXy8IdruDJcFM0wx9dXUJ8Qc9dy2zV_s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl8xMTAucG5n.png"
+  },
+  {
+    "id": "EV/S12-T01",
+    "title": "屋上のシンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【起】［あなたの《パイロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_T01",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "音楽"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3ys2Eqbc9DhqPwjTDOa9UCuCcSGHfzhurVDIPoDHVsM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDEucG5n.png"
+  },
+  {
+    "id": "EV/S12-T02",
+    "title": "写真のミサト",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+    "scraper": "EV_S12_T02",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ilx1DnZaqqQdn9sPZMzEyZutqSbERULi2KJASDGVFY4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDIucG5n.png"
+  },
+  {
+    "id": "EV/S12-T03",
+    "title": "待ち合わせ中のシンジ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "待ち合わせは無理か",
+    "effect": "-",
+    "scraper": "EV_S12_T03",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tkHJFllc3UzsS7vVgCWwizqgob9yRqayNNv5LORg2U8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDMucG5n.png"
+  },
+  {
+    "id": "EV/S12-T04",
+    "title": "エヴァンゲリオン試験初号機",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ミサト「作戦どおり、いいわね。シンジ君」",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_T04",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/MEDBmxLXgokNn-UUiA-4f_5PV9AXVQ7ZUf5OAhYPYwE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDQucG5n.png"
+  },
+  {
+    "id": "EV/S12-T05",
+    "title": "緊急事態のミサト",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "TD",
+    "side": "s",
+    "say": "救護措置急いで！",
+    "effect": "-",
+    "scraper": "EV_S12_T05",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qKloXdRMqrhVQnuCpxWWSG1XMXpIY2wETmxVkLMMdTk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDUucG5n.png"
+  },
+  {
+    "id": "EV/S12-T06",
+    "title": "ドライバー ミサト",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "s",
+    "say": "お待たせ",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "EV_S12_T06",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "動物",
+      "メガネ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/M2G4Qpyvq31M_w8RF9Scx2KJeryiNFjdxyqWBkDbNOk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDYucG5n.png"
+  },
+  {
+    "id": "EV/S12-T07",
+    "title": "G型装備 エヴァ初号機",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "s",
+    "say": "ミサト「ヤシマ作戦発動！」",
+    "effect": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「ヤシマ作戦」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚と相手の後列のレベル2以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_T07",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "メカ",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-024",
+      "EV/S12-T09"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_bIXduN4a_yznrYfSequB8FdmBAXxkNxSMy1KPpZmp8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDcucG5n.png"
+  },
+  {
+    "id": "EV/S12-T08",
+    "title": "使徒の一撃",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "青葉「目標内部に高エネルギー反応！」ミサト「何ですって！？」",
+    "effect": "あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。",
+    "scraper": "EV_S12_T08",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N7gHG-5kzM9rjJ3NQfsEToNoXnKAe7TwzS_o6i3DVRo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDgucG5n.png"
+  },
+  {
+    "id": "EV/S12-T09",
+    "title": "ヤシマ作戦",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "ミサト「陽電子砲狙撃準備！」",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_T09",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-019",
+      "EV/S12-T07"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/3Phkk9ZwiDOhk9cbLtNzs_ohx-P9pCrCOV_pIeLA1uA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMDkucG5n.png"
+  },
+  {
+    "id": "EV/S12-T10",
+    "title": "包帯姿の綾波",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "s",
+    "say": "ゲンドウ「予備が使えなくなった。もう1度だ」",
+    "effect": "-",
+    "scraper": "EV_S12_T10",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット",
+      "眼帯"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-FGgXHAWkkF54yaVETb4Db3AvzwiSdT-kA9dXho3sok/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMTAucG5n.png"
+  },
+  {
+    "id": "EV/S12-T11",
+    "title": "第６の使徒",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "-",
+    "scraper": "EV_S12_T11",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JEwz1pu7nCj-nmWuH90aIh-L4DuA8wa8Fn394L0TnmM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMTEucG5n.png"
+  },
+  {
+    "id": "EV/S12-T12",
+    "title": "自宅の綾波",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「どいてくれる？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の下に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "EV_S12_T12",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "パイロット"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-100",
+      "EV/S12-T14"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XM7g6bkXGAkJKBsECSFX9O3F6YnVuKDmevABTYaTCQY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMTIucG5n.png"
+  },
+  {
+    "id": "EV/S12-T13",
+    "title": "綾波の笑顔",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "シンジ「…笑えばいいと思うよ」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "EV_S12_T13",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-082",
+      "EV/S12-082S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/F8ofGNht3Ht027ugF0HCxvXQ92WIXrtxHTG7hlIPKDk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMTMucG5n.png"
+  },
+  {
+    "id": "EV/S12-T14",
+    "title": "どいてくれる？",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "s",
+    "say": "-",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "EV_S12_T14",
+    "productName": "2010年度トライアルデッキ【S】",
+    "seriesCode": "EV",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "EV/S12-093",
+      "EV/S12-T12"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:53:16.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ucoxabUs9wEbBeStz9bKqAADokcsGHG6lVOf72Z2gKg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL0VWX1MxMl9UMTQucG5n.png"
+  }
+]
