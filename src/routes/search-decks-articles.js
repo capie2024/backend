@@ -17,21 +17,21 @@ router.get('/search', async (req, res) => {
       if (deck) {
         return res.json({
           success: true,
-          data: { deck_id: deck.deck_id, name: deck.name },
+          data: { deck_id: deck.deck_id },
         });
       } else {
         return res.status(404).json({ error: "未找到對應的牌組！" });
       }
     } else if (post_code) {
       // 查詢社群文章代碼
-      const article = await prisma.add_article.findFirst({
+      const article = await prisma.add_article.findUnique({
         where: { post_code: post_code },
       });
 
       if (article) {
         return res.json({
           success: true,
-          data: { post_code: article.post_code, title: article.title },
+          data: { post_code: article.post_code },
         });
       } else {
         return res.status(404).json({ error: "未找到對應的文章！" });
