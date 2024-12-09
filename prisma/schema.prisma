@@ -8,44 +8,45 @@ datasource db {
 }
 
 model add_article {
-  id         Int       @id @default(autoincrement())
-  title      String    @db.VarChar(10)
-  content    String?   @db.VarChar(45)
-  created_at DateTime? @default(now()) @db.Timestamp(0)
+  id           Int            @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  user_id      Int?
+  deck_id      Int?
+  post_code    String         @unique(map: "post_code_UNIQUE") @db.VarChar(5)
+  post_picture String?        @db.VarChar(255)
+  title        String         @db.VarChar(10)
+  content      String?        @db.VarChar(45)
+  created_at   DateTime?      @default(now()) @db.Timestamp(0)
+  deck_list    deck_list?     @relation(fields: [deck_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_articles_deck_id")
+  users        users?         @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_articles_user_id")
+  comment_test comment_test[]
+
+  @@index([deck_id], map: "fk_articles_deck_id")
+  @@index([user_id], map: "fk_articles_user_id_idx")
+  @@index([post_code], map: "post_code")
 }
 
 model users_test {
-  id               Int                @unique(map: "id_UNIQUE") @default(autoincrement())
-  username         String?            @db.VarChar(50)
-  email            String             @unique @db.VarChar(100)
-  password         String             @db.VarChar(255)
-  google_auth      Int?               @db.TinyInt
-  comment_reaction comment_reaction[]
-}
-
-model comment_area {
-  id                  Int                @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  username            String             @db.VarChar(45)
-  created_at          DateTime           @db.Timestamp(0)
-  content             String             @db.Text
-  like_count          Int                @default(0)
-  profile_picture_url String             @db.VarChar(255)
-  accountId           Int?
-  account_page        account_page?      @relation(fields: [accountId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_account_id")
-  comment_reaction    comment_reaction[]
-
-  @@index([accountId], map: "fk_account_id")
+  id          Int     @unique(map: "id_UNIQUE") @default(autoincrement())
+  username    String? @db.VarChar(50)
+  email       String  @unique @db.VarChar(100)
+  password    String  @db.VarChar(255)
+  google_auth Int?    @db.TinyInt
 }
 
 model deck_list {
-  id               Int       @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  deck_id          String    @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
-  user_email       String    @db.VarChar(45)
-  deck_name        String    @db.VarChar(45)
-  deck             String    @db.VarChar(255)
-  deck_cover       String    @db.VarChar(255)
-  deck_description String    @db.VarChar(255)
-  build_time       DateTime? @default(now()) @db.DateTime(0)
+  id               Int           @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  user_id          Int
+  deck_id          String        @unique(map: "deck_id_UNIQUE") @db.VarChar(5)
+  user_email       String        @db.VarChar(45)
+  deck_name        String        @db.VarChar(45)
+  deck             Json
+  deck_cover       String        @db.VarChar(255)
+  deck_description String        @db.VarChar(255)
+  build_time       DateTime?     @default(now()) @db.Timestamp(0)
+  add_article      add_article[]
+  users            users         @relation(fields: [user_id], references: [id], onUpdate: Restrict, map: "fk_user_id")
+
+  @@index([user_id], map: "fk_user_id_idx")
 }
 
 model user_auths {
@@ -64,32 +65,73 @@ model user_auths {
 }
 
 model users {
-  id         Int          @id @default(autoincrement())
-  email      String       @unique(map: "email_UNIQUE") @db.VarChar(45)
-  username   String?      @default("User") @db.VarChar(45)
-  created_at DateTime?    @default(now()) @db.Timestamp(0)
-  updated_at DateTime?    @default(now()) @db.Timestamp(0)
-  user_auths user_auths[]
+  id                Int                 @id @default(autoincrement())
+  email             String              @unique(map: "email_UNIQUE") @db.VarChar(45)
+  username          String?             @default("User") @db.VarChar(45)
+  picture           String?             @db.VarChar(255)
+  created_at        DateTime?           @default(now()) @db.Timestamp(0)
+  updated_at        DateTime?           @default(now()) @db.Timestamp(0)
+  add_article       add_article[]
+  comment_likes     comment_likes[]
+  comment_reactions comment_reactions[]
+  comment_test      comment_test[]
+  comments          comments[]
+  deck_list         deck_list[]
+  user_auths        user_auths[]
 }
 
-model account_page {
-  id                  Int            @id @unique(map: "id_UNIQUE") @default(autoincrement())
-  username            String         @unique @db.VarChar(45)
-  profile_picture_url String         @db.VarChar(255)
-  comment_area        comment_area[]
+model comment_likes {
+  id         Int       @id @default(autoincrement())
+  comment_id Int
+  user_id    Int
+  created_at DateTime? @db.Timestamp(0)
+  comments   comments  @relation(fields: [comment_id], references: [id], onDelete: Cascade, map: "comment_id")
+  users      users     @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comment_likes_user_id")
+
+  @@index([comment_id], map: "fk_comment_likes_comment_id")
+  @@index([user_id], map: "fk_comment_likes_user_id")
 }
 
-model comment_reaction {
-  id           Int          @unique(map: "id_UNIQUE")
-  user_id      Int          @default(autoincrement())
-  message_id   Int
-  liked        Int?         @default(0) @db.TinyInt
-  bad_liked    Int?         @db.TinyInt
-  comment_area comment_area @relation(fields: [message_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "message_id")
-  users_test   users_test   @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "user_id")
+model comment_reactions {
+  id           Int          @id @default(autoincrement())
+  comment_id   Int
+  user_id      Int
+  liked        Boolean      @default(false)
+  disliked     Boolean      @default(false)
+  created_at   DateTime?    @db.Timestamp(0)
+  comment_test comment_test @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_reactions_comment_id")
+  users        users        @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comment_reactions_user_id")
 
-  @@id([user_id, id, message_id])
-  @@index([message_id], map: "message_id")
+  @@index([comment_id], map: "fk_comment_reactions_comment_id")
+  @@index([user_id], map: "fk_comment_reactions_user_id")
+}
+
+model comment_test {
+  id                Int                 @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  user_id           Int
+  article_id        Int
+  message           String              @db.Text
+  like_count        Int
+  created_at        DateTime            @default(now()) @db.Timestamp(0)
+  comment_reactions comment_reactions[]
+  users             users               @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_test_user_id")
+  add_article       add_article         @relation(fields: [article_id], references: [id], onDelete: Cascade, map: "fk_comment_test_article_id")
+
+  @@index([user_id], map: "FK_comment_test_user_id")
+  @@index([article_id], map: "fk_comment_test_article_id")
+}
+
+model comments {
+  id            Int             @id @default(autoincrement())
+  post_code     String          @db.VarChar(5)
+  user_id       Int
+  message       String          @db.Text
+  like_count    Int
+  created_at    DateTime        @db.Timestamp(0)
+  comment_likes comment_likes[]
+  users         users           @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comments_user_id")
+
+  @@index([user_id], map: "fk_comments_user_id")
 }
 
 enum user_auths_auth_type {
