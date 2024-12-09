@@ -3,6 +3,7 @@ const app = express();
 const router = express.Router();
 const port = 3000;
 const cors = require('cors');
+const path = require('path')
 // const mysql = require('mysql2')
 const login  = require('./src/routes/login');
 const authRouter = require('./src/routes/auth');
@@ -13,6 +14,11 @@ const base64 = require("./src/routes/Base64")
 const dailyCard = require('./src/routes/daily-card');
 
 
+const userRouter = require('./src/routes/user-profile');
+const uploadPic = require('./src/routes/upload-picture');
+const updateName = require('./src/routes/update-name');
+const userDecks = require('./src/routes/userDecks');
+const userPosts = require('./src/routes/userPosts');
 
 app.use(cors());
 
@@ -21,8 +27,13 @@ app.use(express.json());
 
 app.use('/api', login);
 app.use('/auth', authRouter);
-// app.use(require('./src/routes/google-auth'));
-
+app.use(require('./src/routes/google-auth'));
+app.use(userRouter);
+app.use(uploadPic);
+app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+app.use(updateName);
+app.use(userDecks);
+app.use(userPosts);
 // const db = mysql.createPool({
 //   host: "dev-testdb.ctcm8i88mnas.ap-northeast-1.rds.amazonaws.com",
 //   user: "admin",

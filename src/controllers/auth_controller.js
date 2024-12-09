@@ -71,6 +71,7 @@ const login = async (email, password) => {
 
 // Google 登入
 const googleLogin = async (profile) => {
+  console.log(profile)
   try {
     let auth = await prisma.user_auths.findFirst({
       where: {
@@ -94,7 +95,8 @@ const googleLogin = async (profile) => {
       const user = await tx.users.create({
         data: {
           email: profile.emails[0].value,
-          username: profile.displayName
+          username: profile.displayName,
+          picture: profile.photos[0].value
         }
       })
 
