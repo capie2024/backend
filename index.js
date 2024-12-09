@@ -19,6 +19,7 @@ const uploadPic = require('./src/routes/upload-picture');
 const updateName = require('./src/routes/update-name');
 const userDecks = require('./src/routes/userDecks');
 const userPosts = require('./src/routes/userPosts');
+const commentsRouter = require('./src/routes/comments-with-verifytoken');
 
 app.use(cors());
 
@@ -62,6 +63,7 @@ router.post('/signup', (req, res) => {
     });
   });
 });
+// app.use(require('./src/routes/google-auth'));
 
 app.use('/api', router);
 app.use('/api', deckMake);
@@ -69,6 +71,7 @@ app.use('/api', cardSeries);
 app.use('/api', cardPDF);
 app.use('/api', base64)
 app.use('/api', dailyCard);
+app.use('/api', commentsRouter);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
