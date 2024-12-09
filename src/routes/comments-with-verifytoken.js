@@ -3,25 +3,12 @@ const router = express.Router();
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 const jwt = require('jsonwebtoken');
+const verifyToken  = require('../middlewares/verifyToken');
 
 // 獲取當前用戶資料
-router.get('/currentUser', async (req, res) => {
+router.get('/currentUser', verifyToken, async (req, res) => {
     try {
-        const token = req.headers.authorization?.split(' ')[1]; // 從 Authorization 標頭提取
-        if (!token) {
-            return res.status(400).json({ message: "未提供 token" });
-        }
-
-        // 解碼 token
-        const userData = jwt.decode(token); // 或使用 jwt.verify(token, '你的密鑰') 進行驗證
-        console.log('解碼後的 userData:', userData);
-
-        if (!userData || !userData.user_id) {
-            return res.status(400).json({ message: "無效的 token" });
-        }
-
-        const userId = userData.user_id;
-
+        const { userId } = req.user;
         // 查詢用戶資料
         const user = await prisma.users.findUnique({
             where: { id: parseInt(userId)},
@@ -64,10 +51,10 @@ router.get('/article-id/:post_code', async (req, res) => {
 });
 
 // 新增留言
-router.post('/send-message', async (req, res) => {
-    const { newMessage, userToken } = req.body;
-    const userData = jwt.decode(userToken);
-    console.log(userData)  
+router.post('/send-message', verifyToken, async (req, res) => {
+    const { newMessage} = req.body;
+    const userData = req.user;
+
     try {
         const comment = await prisma.comment_test.create({
         data: {
@@ -90,10 +77,11 @@ router.post('/send-message', async (req, res) => {
 });
 
 // 編輯留言
-router.put('/comments/:id', async (req, res) => {
-    console.log("Request body:", req.body);
+router.put('/comments/:id', verifyToken, async (req, res) => {
     const { id } = req.params;
-    const { message } = req.body    
+    const { message } = req.body;
+    const userData = req.user;
+    
     try {
         const updatedComment = await prisma.comment_test.update({
         where: { id: parseInt(id) },
@@ -108,9 +96,10 @@ router.put('/comments/:id', async (req, res) => {
 })
 
 // 刪除留言
-router.delete('/comments/:id', async (req, res) => {
+router.delete('/comments/:id', verifyToken, async (req, res) => {
     const { id } = req.params
-    console.log(id)   
+    const userData = req.user
+
     try {
         const existingComment = await prisma.comment_test.findUnique({
             where: { id: parseInt(id) },
@@ -129,15 +118,10 @@ router.delete('/comments/:id', async (req, res) => {
 });
 
 // 留言按讚
-router.post("/comments/:commentId/toggleLike", async (req, res) => {
-    const { commentId } = req.params;
-    const { userToken } = req.body;
-    try {
-        const userData = jwt.decode(userToken);
-        if (!userData || !userData.user_id) {
-            return res.status(400).json({ message: "無效的 token" });
-        }
-        const userId = userData.user_id;
+router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => {
+    try{
+        const { commentId } = req.params;
+        const { userId } = req.user;
 
         // 查詢是否已有 reaction
         let reaction = await prisma.comment_reactions.findFirst({
@@ -209,16 +193,10 @@ router.post("/comments/:commentId/toggleLike", async (req, res) => {
 });
 
 // 留言按倒讚
-router.post("/comments/:commentId/toggleHate", async (req, res) => {
-    const { commentId } = req.params;
-    const { userToken } = req.body;
-    
-    try {
-        const userData = jwt.decode(userToken);
-        if (!userData || !userData.user_id) {
-            return res.status(400).json({ message: "無效的 token" });
-        }
-        const userId = userData.user_id;
+router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
+    try{
+        const { commentId } = req.params;
+        const { userId } = req.user;
     
         // 查詢是否已有 reaction
         let reaction = await prisma.comment_reactions.findFirst({
