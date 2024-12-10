@@ -53,12 +53,12 @@ router.get('/article-id/:post_code', async (req, res) => {
 // 新增留言
 router.post('/send-message', verifyToken, async (req, res) => {
     const { newMessage} = req.body;
-    const userData = req.user;
+    const {userId} = req.user;
 
     try {
         const comment = await prisma.comment_test.create({
         data: {
-            user_id: parseInt(userData.user_id),
+            user_id: parseInt(userId),
             message: newMessage.message,
             like_count: newMessage.like_count,
             created_at: new Date().toISOString(),

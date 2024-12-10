@@ -29,14 +29,14 @@ app.use(express.json());
 
 app.use('/api', login);
 app.use('/auth', authRouter);
-// app.use(require('./src/routes/google-auth'));
+app.use(require('./src/routes/google-auth'));
 app.use(userRouter);
 app.use(uploadPic);
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(updateName);
 app.use(userDecks);
 app.use(userPosts);
-// app.use(require('./src/routes/google-auth'));
+app.use(require('./src/routes/google-auth'));
 app.use('/api', router);
 app.use('/api', deckMake);
 app.use('/api', cardSeries);
