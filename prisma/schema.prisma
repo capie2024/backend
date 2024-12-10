@@ -23,6 +23,7 @@ model add_article {
   @@index([deck_id], map: "fk_articles_deck_id")
   @@index([user_id], map: "fk_articles_user_id_idx")
   @@index([post_code], map: "post_code")
+
 }
 
 model users_test {
@@ -132,6 +133,7 @@ model comments {
   users         users           @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comments_user_id")
 
   @@index([user_id], map: "fk_comments_user_id")
+
 }
 
 enum user_auths_auth_type {

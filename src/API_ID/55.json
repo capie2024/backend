@@ -1,0 +1,6626 @@
+[
+  {
+    "id": "VR/W22-001",
+    "title": "心を開いたひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "RR",
+    "side": "w",
+    "say": "あかねがいたから、私はもう一度、みんなを信じることができた……",
+    "effect": "【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "VR_W22_001",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-001R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-004"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/DCTNZKtzMk-5mV0BuPEsj8kWn2Kq6WkA9oxid2HjSiQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDEucG5n.png"
+  },
+  {
+    "id": "VR/W22-001R",
+    "title": "心を開いたひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+    "scraper": "VR_W22_001R",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-001"
+    ],
+    "relation": [
+      "VR/W22-004"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/RGIteOOHDNGUYLH7Zkhy1L1uyD5L5xtFJHmr6Ck8DEM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDFSLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-002",
+    "title": "四宮 ひまわり",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "w",
+    "say": "私達、嘘つきじゃないって伝えて",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「新たな友達」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《鍵》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "VR_W22_002",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-002SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-019",
+      "VR/W22-010"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JPqeMRQH4Q__TARe9NiA4V4hxkn964l-k2Q-M680vzU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDIucG5n.png"
+  },
+  {
+    "id": "VR/W22-002SP",
+    "title": "四宮 ひまわり",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「新たな友達」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《鍵》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "VR_W22_002SP",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-002"
+    ],
+    "relation": [
+      "VR/W22-019",
+      "VR/W22-010"
+    ],
+    "price": {
+      "number": 5980,
+      "string": "5980円",
+      "date": "2024-11-28T05:39:20.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a3777t-jkCZcM2T22nlMdO0ObaBaLbYvss4Kcg_VXck/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDJTUC5wbmc.png"
+  },
+  {
+    "id": "VR/W22-003",
+    "title": "体育の時間 ひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "……はぁ、疲れた～",
+    "effect": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《鍵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+    "scraper": "VR_W22_003",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jaYEqDsnjt3MwWrr5-2Qh14Yt51zFaaUJVqsBhqlCrM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDMucG5n.png"
+  },
+  {
+    "id": "VR/W22-004",
+    "title": "ひまわりとドッキング！ あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "行くよ！",
+    "effect": "【自】 絆／「心を開いたひまわり」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「心を開いたひまわり」を1枚選び、手札に戻す）\n【起】［(3) あなたの舞台の「心を開いたひまわり」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「ビビッドイエロー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_004",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-001",
+      "VR/W22-001R",
+      "VR/W22-006",
+      "VR/W22-006S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FJGhi-cGf7DxEmaaWxuNQBLYILBuyw8fkz8uoo9Bpx8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDQucG5n.png"
+  },
+  {
+    "id": "VR/W22-005",
+    "title": "工場大好き ひまわり",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "……これ。シンセポリメラーゼ。メカノテック社の新しいパイロットプラント",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。",
+    "scraper": "VR_W22_005",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Nhjn2M32q7h_WY4DE3oTDk9uz-2EXUKYE66wcV8DD5Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDUucG5n.png"
+  },
+  {
+    "id": "VR/W22-006",
+    "title": "ビビッドイエロー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "R",
+    "side": "w",
+    "say": "ビビッドイエロー、オペレーション！",
+    "effect": "【永】 記憶 あなたのターン中、あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VR_W22_006",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-006S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-004"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/65OY_-rlciUzey5OESGDxIRg4qK8r9hY9npQ53v5zbw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDYucG5n.png"
+  },
+  {
+    "id": "VR/W22-006S",
+    "title": "ビビッドイエロー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 記憶 あなたのターン中、あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VR_W22_006S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-006"
+    ],
+    "relation": [
+      "VR/W22-004"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ooHF0ma3tkJNWTDGlQuyn3zHFGn8MhxRg0eebcwoRK8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDZTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-007",
+    "title": "天才ハッカー ひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 500,
+    "rare": "U",
+    "side": "w",
+    "say": "何、これ……",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 相手がイベントをプレイした時、あなたは自分の控え室の黄のカードを1枚選び、ストック置場に置いてよい。",
+    "scraper": "VR_W22_007",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XQXVe21MPrP_jYXY2jE4UeImTHSYWOYSt7wTz9uHGSI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDcucG5n.png"
+  },
+  {
+    "id": "VR/W22-008",
+    "title": "読者モデル ひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "VR_W22_008",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rqCW3q81gZ4PVt15NePJQEuW0bHszri8p0U-eaNobuk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDgucG5n.png"
+  },
+  {
+    "id": "VR/W22-009",
+    "title": "水着のひまわり",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "U",
+    "side": "w",
+    "say": "あかね……裸ん坊",
+    "effect": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、そのターン中、このカードのソウルを＋4。",
+    "scraper": "VR_W22_009",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/SRUYRalOZFPrEMtaAkZRSzflIRNiW-j_wG3KuQQMHE0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMDkucG5n.png"
+  },
+  {
+    "id": "VR/W22-010",
+    "title": "テクスチャー・オン！ ひまわり",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "U",
+    "side": "w",
+    "say": "イグニッション！　テクスチャー・オン！",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「四宮 ひまわり」を1枚選び、このカードがいた枠に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《鍵》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+    "scraper": "VR_W22_010",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-002",
+      "VR/W22-002SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/g_cS0Ou_cSYokbx6Bod97E8foKoZMlPM6_44UgE7A_I/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTAucG5n.png"
+  },
+  {
+    "id": "VR/W22-011",
+    "title": "好奇心旺盛 ひまわり",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "w",
+    "say": "あなたが、あの一色健次郎博士の孫だったなんて",
+    "effect": "【自】 他のあなたの《鍵》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_011",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-011S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eiRa3UR_dP6lN-CYUqVfZOqqBgrhp9TDTpK_xN9cy54/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTEucG5n.png"
+  },
+  {
+    "id": "VR/W22-011S",
+    "title": "好奇心旺盛 ひまわり",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 他のあなたの《鍵》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_011S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-011"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/853MWqYMJSWfjWn1LxLI1BuS-FeMj_5a5v2nnBj5nJI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTFTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-012",
+    "title": "引きこもり少女 ひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "…………まあまあ",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "VR_W22_012",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/bDhRpCP7OXD4-dGzTqzFm1KEyJgRYJMuQmRURQ4rdaI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTIucG5n.png"
+  },
+  {
+    "id": "VR/W22-013",
+    "title": "勉強会のお誘い ひまわり",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "…………土曜、ヒマ？",
+    "effect": "-",
+    "scraper": "VR_W22_013",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/31Gq5n86AeN7KMGndpn9dHErx6_Bzd6n49IM0lapPls/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTMucG5n.png"
+  },
+  {
+    "id": "VR/W22-014",
+    "title": "パレットスーツ装着！ ひまわり",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "遅れてすみません",
+    "effect": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "VR_W22_014",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/liFyJ_P4wZxWqid2voD4_QoYeBfIk5HZgeCIHehR1sE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTQucG5n.png"
+  },
+  {
+    "id": "VR/W22-015",
+    "title": "オペレーション！ ビビッドイエロー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "ビビッドエンジン、セーフティ解除！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「ビビッドコライダー」があるなら、そのターン中、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「ビビッドコライダー」があるなら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+    "scraper": "VR_W22_015",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "盾"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-020"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LdJtGHz-XHpDtPioOvlXq8i46rp5PPavoXDzGv02P2s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTUucG5n.png"
+  },
+  {
+    "id": "VR/W22-016",
+    "title": "向日葵とひまわり",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 7000,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "-",
+    "scraper": "VR_W22_016",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ipzeS0NvfhQ_akdtAS4iHmQ0CP9Bw6ht3lYNyUxws1w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTYucG5n.png"
+  },
+  {
+    "id": "VR/W22-017",
+    "title": "ひまわりのカメラ",
+    "type": "イベント",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "ひまわり「……何……これ？」",
+    "effect": "あなたは自分の山札を上から4枚まで見て、《鍵》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+    "scraper": "VR_W22_017",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/mhMPyg-2CWQkDiWsnfzNZugrMrcnJcPlz_zY7DibigA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTcucG5n.png"
+  },
+  {
+    "id": "VR/W22-018",
+    "title": "ネイキッドコライダー",
+    "type": "イベント",
+    "level": 3,
+    "cost": 1,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "ネイキッドコライダー！",
+    "effect": "【カウンター】 あなたは自分の《盾》のキャラを1枚選び、そのターン中、パワーを＋4000。そのターン中、あなたが次にダメージを受けた時、そのダメージがキャンセルされたなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_018",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sqx3sa9BbiSOHACrrRkbnuwne448zlmSQUFvD9kLkZc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTgucG5n.png"
+  },
+  {
+    "id": "VR/W22-019",
+    "title": "新たな友達",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "あかね「私達の新しい仲間……ううん、友達だよ！」",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/bounce.gif\">：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "VR_W22_019",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "bounce",
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-002",
+      "VR/W22-002SP"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LH6_RsnBxVBffQgTfV4SC7PTXZf0zqi5iGTSTHMTJcA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMTkucG5n.png"
+  },
+  {
+    "id": "VR/W22-020",
+    "title": "ビビッドコライダー",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "ビビッドコライダー、ファイナルオペレーション！！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_020",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-015"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/8rrgKqoUgiVSGFlhLhI4cVny_wPQjY40IhfDK8AL9Ps/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjAucG5n.png"
+  },
+  {
+    "id": "VR/W22-021",
+    "title": "勝気な少女 わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "RR",
+    "side": "w",
+    "say": "ちょっとでも負けると思ったらそこで負けが決まるのよ",
+    "effect": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』",
+    "scraper": "VR_W22_021",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-021R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cNuGHSeOr9cNl5hpx17pTC2YdSQdLjBcaAe-FU6Ncuc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjEucG5n.png"
+  },
+  {
+    "id": "VR/W22-021R",
+    "title": "勝気な少女 わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』",
+    "scraper": "VR_W22_021R",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-021"
+    ],
+    "relation": [],
+    "price": {
+      "number": 780,
+      "string": "780円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/LLg3SerbTfRg2yAXeW2ddJUfDePsojddLwNfqD_5Yu8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjFSLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-022",
+    "title": "テクスチャー・オン！ わかば",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 7000,
+    "rare": "RR",
+    "side": "w",
+    "say": "イグニッション！　テクスチャー・オン！",
+    "effect": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「三枝 わかば」を1枚選び、このカードがいた枠に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "VR_W22_022",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-026",
+      "VR/W22-026SP"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Tdkg5mh-Z1Sv0TATQjpdlob40Lz2eA_EwBBGTzwZ898/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjIucG5n.png"
+  },
+  {
+    "id": "VR/W22-023",
+    "title": "免許皆伝 わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "天元理心流、喪心撃",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+    "scraper": "VR_W22_023",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-023S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-028"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xFiIULoQd8R4Lv3gArnMXGRFpqQpiajDm7K5ah28o90/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjMucG5n.png"
+  },
+  {
+    "id": "VR/W22-023S",
+    "title": "免許皆伝 わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+    "scraper": "VR_W22_023S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-023"
+    ],
+    "relation": [
+      "VR/W22-028"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aYLG9BH9vsRK7XnDB7xZkW66tWrpvgRW1uJh48fhNtk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjNTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-024",
+    "title": "オペレーション！ ビビッドグリーン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+    "scraper": "VR_W22_024",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/onbzooOKxUuqPVl03kBDqx5188d18GOd8WQ1pQbZfvM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjQucG5n.png"
+  },
+  {
+    "id": "VR/W22-025",
+    "title": "ビビッドグリーン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "R",
+    "side": "w",
+    "say": "ビビッドグリーン、オペレーション！",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「ビビッドブレード」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+    "scraper": "VR_W22_025",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-025S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-039",
+      "VR/W22-028"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sZU4n5wUQvHw0bjsMNeAvE0kqpOQTKem6Wgob9ayHH0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjUucG5n.png"
+  },
+  {
+    "id": "VR/W22-025S",
+    "title": "ビビッドグリーン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「ビビッドブレード」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+    "scraper": "VR_W22_025S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-025"
+    ],
+    "relation": [
+      "VR/W22-039",
+      "VR/W22-028"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_J25Sh77InWjYCtqYU3EX9JMjBL2Txg-jWNZiIRV-pg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjVTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-026",
+    "title": "三枝 わかば",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "R",
+    "side": "w",
+    "say": "ほら、ひまわりちゃん！",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。",
+    "scraper": "VR_W22_026",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-026SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-022"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/If-e5gn9RtrgzPx_AiIugDcuDcJReqbQ1GHarSSXyBU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjYucG5n.png"
+  },
+  {
+    "id": "VR/W22-026SP",
+    "title": "三枝 わかば",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "green",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 このカードはサイドアタックできない。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。",
+    "scraper": "VR_W22_026SP",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-026"
+    ],
+    "relation": [
+      "VR/W22-022"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JMZimtNjXXs0bJ-CvE9hbk94cqHywu3wS5c3bSK9a7Y/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjZTUC5wbmc.png"
+  },
+  {
+    "id": "VR/W22-027",
+    "title": "可愛いもの好き わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "w",
+    "say": "もしかしたら、フェアリー・ストリートですか？ガールズ☆ローリー!?　私、いつも  読んでます！",
+    "effect": "【永】 このカードの正面のキャラのソウルを＋1。",
+    "scraper": "VR_W22_027",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y5A9diR3l9lFtd1yTKM3s-b46RqTleTV6ajVbLAZP8Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjcucG5n.png"
+  },
+  {
+    "id": "VR/W22-028",
+    "title": "わかばとドッキング！ あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "U",
+    "side": "w",
+    "say": "わかばちゃん、行こう！",
+    "effect": "【自】 絆／「免許皆伝 わかば」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「免許皆伝 わかば」を1枚選び、手札に戻す）\n【起】［(2) あなたの舞台の「免許皆伝 わかば」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「ビビッドグリーン」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_028",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-023",
+      "VR/W22-023S",
+      "VR/W22-025",
+      "VR/W22-025S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BwLSZoqWZZJV-rZpCRYgxv8OZ3Ge209XYUT2xTwgroo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjgucG5n.png"
+  },
+  {
+    "id": "VR/W22-029",
+    "title": "体育の時間 わかば",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 6000,
+    "rare": "U",
+    "side": "w",
+    "say": "お疲れ様、ひまわりちゃん！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「楽しい勝負」があるなら、あなたは自分の《鍵》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VR_W22_029",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-040"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AJAsjBYaFXc5CTE_wPRBJB7ORYMjtngnu8ay5Ot9MHQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMjkucG5n.png"
+  },
+  {
+    "id": "VR/W22-030",
+    "title": "水着のわかば",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "天元理心流の名にかけて、皆は私が守る！",
+    "effect": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VR_W22_030",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/n5Wa5yJbxanRmVp3YJmajZhHbKQ40JpeWmk1eXy-kiw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzAucG5n.png"
+  },
+  {
+    "id": "VR/W22-031",
+    "title": "文武両道 わかば",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "green",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "U",
+    "side": "w",
+    "say": "誰が相手であろうとも私は絶対に負けません！",
+    "effect": "【永】 他のあなたの《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_031",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y_NZu4rywl-vXd4Z4XJLwD46YLDNzhlPGP8rAfR1dnY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzEucG5n.png"
+  },
+  {
+    "id": "VR/W22-032",
+    "title": "私服のわかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "黒騎さんがどうかしたの？",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《鍵》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+    "scraper": "VR_W22_032",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/reAjc3J8IC4vf3HQ37YPLUuvWsuDA0-mUNx6VLkS3Is/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzIucG5n.png"
+  },
+  {
+    "id": "VR/W22-033",
+    "title": "天城 みずは",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "ここが軍だったら間違いなく営倉入りよ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "VR_W22_033",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "軍隊",
+      "先生"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/L5G49tmA5mAiSTOdlyx79vyCRDbpFuk24B0ap7AyoYE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzMucG5n.png"
+  },
+  {
+    "id": "VR/W22-034",
+    "title": "パレットスーツ装着！ わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "危ない！",
+    "effect": "-",
+    "scraper": "VR_W22_034",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Oxno2J3fsmHZhUpe0jmkoElEiFTvId9Ianl5LVhgN60/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzQucG5n.png"
+  },
+  {
+    "id": "VR/W22-035",
+    "title": "ひまわりの付き人 わかば",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "え？　そ、それは、その……まあいいじゃない",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+    "scraper": "VR_W22_035",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-CaHuxgQpQsuWlNkM9ABdFD8BkUeguPKD4Bz6qYdxuM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzUucG5n.png"
+  },
+  {
+    "id": "VR/W22-036",
+    "title": "真の強さ わかば",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "-",
+    "scraper": "VR_W22_036",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JxDufQPS7spny3WRhckgpAkzpB781-MPhoLR-D8ovFg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzYucG5n.png"
+  },
+  {
+    "id": "VR/W22-037",
+    "title": "ひまわりのボディーガード",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "――！",
+    "effect": "あなたは自分のクロック置場の《鍵》のキャラを1枚選び、手札に戻す。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをクロック置場に置く。",
+    "scraper": "VR_W22_037",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fMqUCauB9IOuUbQ9VWN_3rSuWxFIiXrortFD7hNMuLI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzcucG5n.png"
+  },
+  {
+    "id": "VR/W22-038",
+    "title": "天元理心流特訓術",
+    "type": "イベント",
+    "level": 1,
+    "cost": 1,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "はいこれ、次はあおいちゃんがやるのよ",
+    "effect": "あなたは自分の手札の「天元理心流特訓術」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの《鍵》のキャラすべてに、パワーを＋1000。",
+    "scraper": "VR_W22_038",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G0Q3LJzMipWNMYPxlkWGBM9XDiYZO_QxqTeVdxsf-qs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzgucG5n.png"
+  },
+  {
+    "id": "VR/W22-039",
+    "title": "ビビッドブレード",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "エンジン臨界、200パーセント！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/treasure.gif\">：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+    "scraper": "VR_W22_039",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "treasure"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-025",
+      "VR/W22-025S"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/eRSV9WwQNoYLB8vMYRIjQ-AuZoJ-6NPdUu05TCFiFZo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wMzkucG5n.png"
+  },
+  {
+    "id": "VR/W22-040",
+    "title": "楽しい勝負",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "この勝負がどんな結果に終わっても、また私と戦ってくれる？",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "VR_W22_040",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-029"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Sd2rtzwvE7iQOQ-kPj6LtNbI6NSHunRcPp4_R4aHilo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDAucG5n.png"
+  },
+  {
+    "id": "VR/W22-041",
+    "title": "明るくまっすぐ あかね",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RR",
+    "side": "w",
+    "say": "私、一色あかねって言うの！　あなたは？",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(1)］ あなたのクライマックス置場に「世界を救う力」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《鍵》のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "VR_W22_041",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-075"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AydOYi6vYGaK0MxeVpPK6GpqjCtqSA1MxFUjJJM7SOk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDEucG5n.png"
+  },
+  {
+    "id": "VR/W22-042",
+    "title": "一色 あかね",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "w",
+    "say": "えへへっ！",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_042",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-042SP"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/q9N6uGd9PdFQnAhHsEVZFHc-VWZvDY9KlZHBFchFKFM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDIucG5n.png"
+  },
+  {
+    "id": "VR/W22-042SP",
+    "title": "一色 あかね",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_042SP",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-042"
+    ],
+    "relation": [],
+    "price": {
+      "number": 7980,
+      "string": "7980円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/FZWD-F-MwPdoxijT5_XbZGWlUVLtVUZoBVYI2HTTKyQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDJTUC5wbmc.png"
+  },
+  {
+    "id": "VR/W22-043",
+    "title": "そっけない応答 れい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "R",
+    "side": "w",
+    "say": "……なんのこと？",
+    "effect": "【自】［手札の「羽型のあざ」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《謎》のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "VR_W22_043",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-043R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-074",
+      "VR/W22-053"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TBUVxbwmOsGzO_OQCWmFyKNguDc-2FQHNlSdOkNFSGI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDMucG5n.png"
+  },
+  {
+    "id": "VR/W22-043R",
+    "title": "そっけない応答 れい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】［手札の「羽型のあざ」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《謎》のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "VR_W22_043R",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-043"
+    ],
+    "relation": [
+      "VR/W22-074",
+      "VR/W22-053"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/_XUxgRaaxuONat3WAXi5x_rKn3h6bLoBmcKXagfSHB8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDNSLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-044",
+    "title": "マヨラー あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "R",
+    "side": "w",
+    "say": "じゃあれいちゃんのハンバーグも、マヨスペシャルに……って、あれ？",
+    "effect": "【永】 他のあなたの《鍵》のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "VR_W22_044",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZRIJOzpnqGYKIPmYo7Doqop2VN8ILCsCenTqhJVmbMg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDQucG5n.png"
+  },
+  {
+    "id": "VR/W22-045",
+    "title": "天真爛漫 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "R",
+    "side": "w",
+    "say": "えへへ。れいちゃんって呼んでいい？",
+    "effect": "【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_045",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-045S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N5Ew8CPvF-NbbjdUt-ggELZ60s12KmFkjVoPuZ6HLJE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDUucG5n.png"
+  },
+  {
+    "id": "VR/W22-045S",
+    "title": "天真爛漫 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_045S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-045"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/gwUaU1vcNKqY8RdZ6SLfdwv2jWgyucrBOMnKRV6Pd28/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDVTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-046",
+    "title": "オペレーション！ ビビッドレッド",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "R",
+    "side": "w",
+    "say": "――これが、友情の力だ！！",
+    "effect": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《鍵》のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+    "scraper": "VR_W22_046",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pPsinqAPFIM2Ma7wn6rvKSMoXbF5vIMYgmLHEwF6ViE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDYucG5n.png"
+  },
+  {
+    "id": "VR/W22-047",
+    "title": "いつでもポジティブ あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "私にできることだったらなんでもするよ！",
+    "effect": "【自】［(1) このカードを控え室に置く］ 他のあなたの《鍵》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "VR_W22_047",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-047R"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-055"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ybqn4hQXGpFHen858N1ryNoG3TAn4awTXW7IpiA-T7U/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDcucG5n.png"
+  },
+  {
+    "id": "VR/W22-047R",
+    "title": "いつでもポジティブ あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】［(1) このカードを控え室に置く］ 他のあなたの《鍵》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。",
+    "scraper": "VR_W22_047R",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-047"
+    ],
+    "relation": [
+      "VR/W22-055"
+    ],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1DWZJuJMrWTms9r6DxogDtCa5fY0Fd7gAwT-d3jJAoY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDdSLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-048",
+    "title": "テント形態  あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "w",
+    "say": "はわわわっ!?",
+    "effect": "【自】 記憶 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の《鍵》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+    "scraper": "VR_W22_048",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/A7GqVKXZddmw-ENIeVLqHeTbs60tKvIBpAq3vidxYuM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDgucG5n.png"
+  },
+  {
+    "id": "VR/W22-049",
+    "title": "滅ぼす者 れい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "R",
+    "side": "w",
+    "say": "私の使命は、示現エンジンを破壊すること……",
+    "effect": "【自】［(1)］ あなたのクライマックス置場に「れいの使命」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。",
+    "scraper": "VR_W22_049",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-076"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fEWr748oq-VRRgkgNH9n7z1oVripjggUqc6EMXIoiLs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNDkucG5n.png"
+  },
+  {
+    "id": "VR/W22-050",
+    "title": "ビビッドレッド",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "R",
+    "side": "w",
+    "say": "ビビッドレッド、オペレーション！！",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「あかねとドッキング！ れい」の【起】の効果で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(1)］ あなたのクライマックス置場に「ビビッドパンチ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "VR_W22_050",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-050S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-055",
+      "VR/W22-077"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/G4jXqnZHkn2DEeFTxDlgMOnd0l5J69Q7wHDrZoSimq8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTAucG5n.png"
+  },
+  {
+    "id": "VR/W22-050S",
+    "title": "ビビッドレッド",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「あかねとドッキング！ れい」の【起】の効果で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(1)］ あなたのクライマックス置場に「ビビッドパンチ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+    "scraper": "VR_W22_050S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-050"
+    ],
+    "relation": [
+      "VR/W22-055",
+      "VR/W22-077"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/WGwwNhOR0bkPqWSrMyfm_jv4GdL9ZrcMQ-Jqaqsp_f0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTBTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-051",
+    "title": "みんなの中心 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "みんなとだったら、世界だって救えるよ！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「ネイキッドラング」があるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《鍵》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "VR_W22_051",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-078",
+      "VR/W22-T08"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xwNCuAHQEF513yJuVT0eUPDIN8lz4gy9H_GgyXcFr-8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTEucG5n.png"
+  },
+  {
+    "id": "VR/W22-052",
+    "title": "独りぼっちのれい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "これ以上、私に優しくしないで",
+    "effect": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
+    "scraper": "VR_W22_052",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/6bpsBOxaieF8fy61earBzp0X-a0nJyIvWlvYBH_Rm5o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTIucG5n.png"
+  },
+  {
+    "id": "VR/W22-053",
+    "title": "『彼ら』の使者 カラス",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "あなたがグズグズしていたからですよ",
+    "effect": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2000。\n【自】 このカードがアタックした時、あなたは自分の「そっけない応答 れい」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+    "scraper": "VR_W22_053",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "謎",
+      "動物"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-043",
+      "VR/W22-043R"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qEiuARSS7mLVLS1gi2fnTLX4Rxgb3QnREQdBUN2nYcU/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTMucG5n.png"
+  },
+  {
+    "id": "VR/W22-054",
+    "title": "水着のれい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "ここは……？",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+    "scraper": "VR_W22_054",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/lcodQYDXM5SM9JU9ANRRsbp_IM6qtuvwpwlzk7CupGE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTQucG5n.png"
+  },
+  {
+    "id": "VR/W22-055",
+    "title": "あかねとドッキング！ れい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】 絆／「いつでもポジティブ あかね」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いつでもポジティブ あかね」を1枚選び、手札に戻す）\n【起】［(2) あなたの舞台の「いつでもポジティブ あかね」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「ビビッドレッド」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_055",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-047",
+      "VR/W22-047R",
+      "VR/W22-050",
+      "VR/W22-050S"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/iqGKgzORiUhtP-RQLM4xDZehLJPGurpTnfiDLNL13OE/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTUucG5n.png"
+  },
+  {
+    "id": "VR/W22-056",
+    "title": "まっすぐな瞳 あかね",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "w",
+    "say": "れいちゃんは？　私をどう思った？",
+    "effect": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋2000。",
+    "scraper": "VR_W22_056",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pLZE5TYGKlzlcjutHf0VPzfKpXFQP2FaLfVdvi-AXBw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTYucG5n.png"
+  },
+  {
+    "id": "VR/W22-057",
+    "title": "すれ違う心 れい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "U",
+    "side": "w",
+    "say": "……私は一人でいい",
+    "effect": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「黒騎 れい」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_057",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-059",
+      "VR/W22-059SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/OWN15apuR4Y_0cBFxX0z8HoltzuhVvYTrztEy_T6KxI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTcucG5n.png"
+  },
+  {
+    "id": "VR/W22-058",
+    "title": "謎の存在 アローン",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "U",
+    "side": "w",
+    "say": "健次郎「羽化しよった……！！」",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+    "scraper": "VR_W22_058",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "アローン",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-074"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PdPhHayYVaSKKs7Tk0ZSLYpHlzFjhPJ2NVP6iYmhyog/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTgucG5n.png"
+  },
+  {
+    "id": "VR/W22-059",
+    "title": "黒騎 れい",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "U",
+    "side": "w",
+    "say": "……なに？",
+    "effect": "【永】 他のあなたの、《鍵》か《アローン》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_059",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-059SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-057"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/kmw6kWbKPD4xvhwf53Ly1GBQOYzBmGT0VqUhqgYeR5c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTkucG5n.png"
+  },
+  {
+    "id": "VR/W22-059SP",
+    "title": "黒騎 れい",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9500,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 他のあなたの、《鍵》か《アローン》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_059SP",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-059"
+    ],
+    "relation": [
+      "VR/W22-057"
+    ],
+    "price": {
+      "number": 7980,
+      "string": "7980円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/a4H6wf5Svss4djLNde7Dq18D5OEsqnOR-timhyfox0E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNTlTUC5wbmc.png"
+  },
+  {
+    "id": "VR/W22-060",
+    "title": "しっかりもの もも",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "C",
+    "side": "w",
+    "say": "私、ちょっと買い物してくるね",
+    "effect": "【自】［手札の《鍵》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ドッキング」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "VR_W22_060",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "家事",
+      "ランドセル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/JuPi1msZFjb1n32wO50cuUfFIgl-c1paAeHSkk5EbHs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjAucG5n.png"
+  },
+  {
+    "id": "VR/W22-061",
+    "title": "体育の時間 れい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "ホームラン",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+    "scraper": "VR_W22_061",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/pBQVPXz7l3pWjcDxX9FnBNfFF9MZzXQAYqsYHzkhaX4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjEucG5n.png"
+  },
+  {
+    "id": "VR/W22-062",
+    "title": "一色 ましろ",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "C",
+    "side": "w",
+    "say": "よ～し、おいで！",
+    "effect": "【自】 絆／「すれ違う心 あかね」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「すれ違う心 あかね」を1枚選び、手札に戻す）",
+    "scraper": "VR_W22_062",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-069",
+      "VR/W22-T05"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nIYpngC2VVs-yDZ3Vlu53_g3VY3w03eLAvj2IQa5nqs/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjIucG5n.png"
+  },
+  {
+    "id": "VR/W22-063",
+    "title": "与えられた力 れい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "C",
+    "side": "w",
+    "say": "……取り返してみせる……",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+    "scraper": "VR_W22_063",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KK9W9fopBiLKqby6EmgwFjcZuN7xFNWF6HtjPXpSx-0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjMucG5n.png"
+  },
+  {
+    "id": "VR/W22-064",
+    "title": "偉大な科学者 健次郎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "手柄でアローンは倒せんぞ",
+    "effect": "【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "VR_W22_064",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "人形",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zCfqH_DgTY6Wa6ckMaucv_CDZliVVcCRM_z2JwxtqkQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjQucG5n.png"
+  },
+  {
+    "id": "VR/W22-065",
+    "title": "新聞配達 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "ぶんぶんぶぶ～ん、ぶんぶぶ～ん、新聞はいたつぶんぶぶ～ん",
+    "effect": "-",
+    "scraper": "VR_W22_065",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4M5C_jw22orX-Kb8UuyYv-9ZBy21RLm2LWIIfb7RIF8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjUucG5n.png"
+  },
+  {
+    "id": "VR/W22-066",
+    "title": "仲良し姉妹 あかね＆もも",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "-",
+    "effect": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「ビビッドもも、オペレーション！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《鍵》のキャラを1枚選び、そのターン中、パワーをＸ。Ｘはこのカードのパワーに等しい。",
+    "scraper": "VR_W22_066",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "家事"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-079"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/1b6PGNs1NiwOik1cfTaCLFYHRy7Rdfo__hNSCTOK5uc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjYucG5n.png"
+  },
+  {
+    "id": "VR/W22-067",
+    "title": "人類に訪れた災厄 アローン",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "健次郎「『アローン』め……。やはり来おったか！！」",
+    "effect": "【起】［手札の《謎》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。",
+    "scraper": "VR_W22_067",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "アローン",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Srh1424MF3kTplw3Bk4tkQAkf2P2A_Vki-EUOGBGyhk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjcucG5n.png"
+  },
+  {
+    "id": "VR/W22-068",
+    "title": "謎の少女 れい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "C",
+    "side": "w",
+    "say": "……なんなのよ、いきなり……",
+    "effect": "-",
+    "scraper": "VR_W22_068",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ucBaF9Qj3gOn3GesLatk66Tw_BVUMGXYjNgkFsIjxHY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjgucG5n.png"
+  },
+  {
+    "id": "VR/W22-069",
+    "title": "すれ違う心 あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "C",
+    "side": "w",
+    "say": "……れいちゃん？",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VR_W22_069",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-062"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nK2urmhYMf-Nd2FVImA2MQS1jNUHyaXuzRYgxpneKeA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNjkucG5n.png"
+  },
+  {
+    "id": "VR/W22-070",
+    "title": "平行世界の少女 れい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "C",
+    "side": "w",
+    "say": "……取り返してみせる……",
+    "effect": "【永】 あなたのストックが4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「さよならは言わない」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+    "scraper": "VR_W22_070",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-080"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Bgon4HEUnVfmisyd3xTBIROuKNZIu6JHCAj8ykgrWaI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzAucG5n.png"
+  },
+  {
+    "id": "VR/W22-071",
+    "title": "私であるための証 れい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "返して！　――返してよ！！",
+    "effect": "-",
+    "scraper": "VR_W22_071",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/TnrIbGKzlFRJZbvns3aPgiDDXqiRoJ79glhvH792c_4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzEucG5n.png"
+  },
+  {
+    "id": "VR/W22-072",
+    "title": "パレットスーツ装着！ あかね",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "C",
+    "side": "w",
+    "say": "大丈夫。私に任せて！",
+    "effect": "-",
+    "scraper": "VR_W22_072",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/aw5A0ZJbLpjITzkhPZoYOESkeorvjzOl2HfT4uGolf0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzIucG5n.png"
+  },
+  {
+    "id": "VR/W22-073",
+    "title": "つながる心",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "-",
+    "effect": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室の《鍵》のキャラを2枚まで選び、手札に戻す。",
+    "scraper": "VR_W22_073",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-2cruoTapNXEiFY38hGy1yU1t68fEjjHU3eeE7NZR8o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzMucG5n.png"
+  },
+  {
+    "id": "VR/W22-074",
+    "title": "羽型のあざ",
+    "type": "イベント",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "あと……六本……",
+    "effect": "あなたは自分の控え室の「謎の存在 アローン」を1枚選び、舞台の好きな枠に置く。このカードを思い出にする。\n【永】 このカードと同じカード名のカードは、デッキに10枚まで入れることができる。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの「謎の存在 アローン」すべてに、パワーを＋1000。",
+    "scraper": "VR_W22_074",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-058",
+      "VR/W22-043",
+      "VR/W22-043R"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zPXNKUBYjyht-L4suuz-MnA3Z7cbt1hvoQFjbu4DRss/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzQucG5n.png"
+  },
+  {
+    "id": "VR/W22-075",
+    "title": "世界を救う力",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "れいちゃぁぁ――ん！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "VR_W22_075",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-041"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cErPw7b2jZBEj7g5AOpp-ytdkODonJNHXVonOFAD8so/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzUucG5n.png"
+  },
+  {
+    "id": "VR/W22-076",
+    "title": "れいの使命",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "……――っ",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+    "scraper": "VR_W22_076",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-049"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/oM-1zXGreLwSzYNAmrv4w3UnQHdRWDXupf9lmnfu_7s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzYucG5n.png"
+  },
+  {
+    "id": "VR/W22-077",
+    "title": "ビビッドパンチ",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "ファイナルオペレーション！！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_077",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-050",
+      "VR/W22-050S"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Am8s9rrPa8hJiZtwx1f8MO54GPjANtidGDn1sZt6tJ0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzcucG5n.png"
+  },
+  {
+    "id": "VR/W22-078",
+    "title": "ネイキッドラング",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "えぇぃ――っ！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_078",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-051"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rLXbAHq3SgXAkuCPeopFtIeNsLQiEVFmP3zS4nwLDSg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzgucG5n.png"
+  },
+  {
+    "id": "VR/W22-079",
+    "title": "ビビッドもも、オペレーション！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "あかね「ビビッドもも、オペレーション！きぃぃぃぃ～～ん！」",
+    "effect": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+    "scraper": "VR_W22_079",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-066"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/935TrcjhFDRYbr2RM8NWJvM16_XgLANQ4_647lWXVRI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wNzkucG5n.png"
+  },
+  {
+    "id": "VR/W22-080",
+    "title": "さよならは言わない",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "あかね……",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/salvage.gif\">：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+    "scraper": "VR_W22_080",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "salvage"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-070"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/qu6SAIvAFx5CKvc6r13XXypua51C_jdYKWaGo4V7RqI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODAucG5n.png"
+  },
+  {
+    "id": "VR/W22-081",
+    "title": "ビビッドブルー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "RR",
+    "side": "w",
+    "say": "ビビッドブルー、オペレーション！",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。』",
+    "scraper": "VR_W22_081",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-081S"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-085"
+    ],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zJxzEqt-Y-i14jNHR9wM69KqPXXr9WyFZxRBTHS1LnY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODEucG5n.png"
+  },
+  {
+    "id": "VR/W22-081S",
+    "title": "ビビッドブルー",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。』",
+    "scraper": "VR_W22_081S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-081"
+    ],
+    "relation": [
+      "VR/W22-085"
+    ],
+    "price": {
+      "number": 320,
+      "string": "320円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/B1NpFpIgw5v3PbpZxZrdxz_x3SDp81jTQpEOZcUBshg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODFTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-082",
+    "title": "二葉 あおい",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "RR",
+    "side": "w",
+    "say": "ドッキング……？",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「ネイキッドインパクト」があるなら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1500。",
+    "scraper": "VR_W22_082",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [
+      "VR/W22-082SP"
+    ],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-099",
+      "VR/W22-T15",
+      "VR/W22-091"
+    ],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/-coHFMgrjtBXpqGT-cjxc-hdIUfo3VmumJ1ucQNvvE0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODIucG5n.png"
+  },
+  {
+    "id": "VR/W22-082SP",
+    "title": "二葉 あおい",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "SP",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「ネイキッドインパクト」があるなら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1500。",
+    "scraper": "VR_W22_082SP",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-082"
+    ],
+    "relation": [
+      "VR/W22-099",
+      "VR/W22-T15",
+      "VR/W22-091"
+    ],
+    "price": {
+      "number": 4980,
+      "string": "4980円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/g2EodiFShuBftIOaD8zYdMhJh91MEhrCVCybUMqZzc8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODJTUC5wbmc.png"
+  },
+  {
+    "id": "VR/W22-083",
+    "title": "おしとやかな少女 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "R",
+    "side": "w",
+    "say": "ちょっとだけわかった気がするの。そのビビ…って感じ",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは1枚引く。",
+    "scraper": "VR_W22_083",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-083S"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/jqhrm8tHrbTlXNSMRdcpJ9em25eyfGSgQpT9sKNT2ZQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODMucG5n.png"
+  },
+  {
+    "id": "VR/W22-083S",
+    "title": "おしとやかな少女 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 500,
+    "rare": "SR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは1枚引く。",
+    "scraper": "VR_W22_083S",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-083"
+    ],
+    "relation": [],
+    "price": {
+      "number": 180,
+      "string": "180円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/BFYfJr6WR9mc2DFgHag-WnsheSiASTqkj6LqpLclZLI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODNTLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-084",
+    "title": "水着のあおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "R",
+    "side": "w",
+    "say": "あぁ……怖かった……",
+    "effect": "【永】 応援 このカードの前のあなたの《鍵》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+    "scraper": "VR_W22_084",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/AU6ruySzrWfrrEfcFOmda5bUlrXfzvj3sRFA1xBGtgM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODQucG5n.png"
+  },
+  {
+    "id": "VR/W22-085",
+    "title": "あおいとドッキング！ あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "R",
+    "side": "w",
+    "say": "あははっ、知ってるよそんなこと！",
+    "effect": "【自】 絆／「真実の告白 あおい」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「真実の告白 あおい」を1枚選び、手札に戻す）\n【起】［(2) あなたの舞台の「真実の告白 あおい」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「ビビッドブルー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_085",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-081",
+      "VR/W22-081S",
+      "VR/W22-088",
+      "VR/W22-T09"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/N-YK4mCzbCkblN5_3ME5Uir0bMHOKGHpoVUlFnTkBKg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODUucG5n.png"
+  },
+  {
+    "id": "VR/W22-086",
+    "title": "オペレーション！ ビビッドブルー",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "R",
+    "side": "w",
+    "say": "ビビッドインパクト、セーフティ解除！",
+    "effect": "【自】 このカードがアタックした時、クライマックス置場に「オペレーションキー出現！」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+    "scraper": "VR_W22_086",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-100",
+      "VR/W22-T14"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/zRGqegJlMHtQBzyLlDCqneNJK6JB28wDBjpZj4Qie9Q/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODYucG5n.png"
+  },
+  {
+    "id": "VR/W22-087",
+    "title": "朝の特訓 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 1500,
+    "rare": "U",
+    "side": "w",
+    "say": "――え？　はっ、はい！",
+    "effect": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+    "scraper": "VR_W22_087",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Yftq3O-wxkukhSv1XVNwgK16HJgxFTTxRef0fq_PUyw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODcucG5n.png"
+  },
+  {
+    "id": "VR/W22-088",
+    "title": "真実の告白 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "U",
+    "side": "w",
+    "say": "私……ほんとは、トマト大嫌いだったの！！",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたの《鍵》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_088",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-085"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/tJodX7aeTR7Gl6wbfO-ElEvB_Vqgd88TNXkTw6x6D8M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODgucG5n.png"
+  },
+  {
+    "id": "VR/W22-089",
+    "title": "屋上でお弁当 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "U",
+    "side": "w",
+    "say": "それとね、その勉強会って、もう一人誘っていいかな？",
+    "effect": "【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。",
+    "scraper": "VR_W22_089",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ofGKa-7u0VfWxJKbtAyFRRUvWzIAPeVQpDEf0tfJHr4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wODkucG5n.png"
+  },
+  {
+    "id": "VR/W22-090",
+    "title": "すっかり元気 あおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "U",
+    "side": "w",
+    "say": "今度は私が、みんなを守る！",
+    "effect": "【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。",
+    "scraper": "VR_W22_090",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [
+      "VR/W22-090R"
+    ],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hmlSGtDaGTzMbmRTvmsReSXDUXCtu4hgRDksacqAVkg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTAucG5n.png"
+  },
+  {
+    "id": "VR/W22-090R",
+    "title": "すっかり元気 あおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "RRR",
+    "side": "w",
+    "say": "SECRET",
+    "effect": "【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。",
+    "scraper": "VR_W22_090R",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [
+      "VR/W22-090"
+    ],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:21.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/k9mtU-Aq903V_pneQA72d2foDh5k-oA49DwB2dl9EjA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTBSLnBuZw.png"
+  },
+  {
+    "id": "VR/W22-091",
+    "title": "テクスチャー・オン！ あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 8000,
+    "rare": "U",
+    "side": "w",
+    "say": "イグニッション！　テクスチャー・オン！",
+    "effect": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「二葉 あおい」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_091",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-082",
+      "VR/W22-082SP"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Y25u4dSUUmxLUcBIQhRkU-1T2nD6tNWDHU7SUfr_5NQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTEucG5n.png"
+  },
+  {
+    "id": "VR/W22-092",
+    "title": "紫条 悠里",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "C",
+    "side": "w",
+    "say": "……やはりあなたですね？　一色先生",
+    "effect": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+    "scraper": "VR_W22_092",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "科学",
+      "メガネ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nTQGZFZIAaqFT9ulREf6iyIQpacQVyhAr84S2TvYhnk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTIucG5n.png"
+  },
+  {
+    "id": "VR/W22-093",
+    "title": "私服のあおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "C",
+    "side": "w",
+    "say": "黒騎さん……？",
+    "effect": "-",
+    "scraper": "VR_W22_093",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/KZ60kvUwQEOOtAZcp6_POUqibwSTtMHw1bY_RZval6o/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTMucG5n.png"
+  },
+  {
+    "id": "VR/W22-094",
+    "title": "おやつの時間 あおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "C",
+    "side": "w",
+    "say": "あり……がとう……",
+    "effect": "【永】 他のあなたの《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_094",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ecPpBfCaGiphkEnWQg6MUiMlJRJ66kPqGG8BL3P1LIo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTQucG5n.png"
+  },
+  {
+    "id": "VR/W22-095",
+    "title": "初めての戦い あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "C",
+    "side": "w",
+    "say": "これが私の武器……！",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VR_W22_095",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZpXDiDhIKvZIduQ6F2wxBKB35o5KvZnD_GQMGPpWesc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTUucG5n.png"
+  },
+  {
+    "id": "VR/W22-096",
+    "title": "パレットスーツ装着！ あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "C",
+    "side": "w",
+    "say": "あれは！",
+    "effect": "-",
+    "scraper": "VR_W22_096",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZliakpyH5kW0ikUOji00fACIPLk-dHvomhQtMIEn-l0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTYucG5n.png"
+  },
+  {
+    "id": "VR/W22-097",
+    "title": "オペレーション・コクーンブレイク",
+    "type": "イベント",
+    "level": 2,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "U",
+    "side": "w",
+    "say": "まさに三位一体になる必要があるわねでも大丈夫。きっとやれる。……私達なら……うん！",
+    "effect": "あなたの青のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分の手札を1枚選び、控え室に置く。\nあなたの黄のキャラがいるなら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）\nあなたの緑のキャラがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+    "scraper": "VR_W22_097",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fuxIslB786z3zu_5vMehGh20CXVhR4cMCBoVkMsWxZ8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTcucG5n.png"
+  },
+  {
+    "id": "VR/W22-098",
+    "title": "意外と力もち",
+    "type": "イベント",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "C",
+    "side": "w",
+    "say": "待てぇ、こっちだ！",
+    "effect": "【カウンター】 あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋2500。あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを＋5。",
+    "scraper": "VR_W22_098",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/m8UrT9IONpd75SrDRTuaYmyFN3_0zrJMPxfwsP6htDY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTgucG5n.png"
+  },
+  {
+    "id": "VR/W22-099",
+    "title": "ネイキッドインパクト",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CR",
+    "side": "w",
+    "say": "はぁぁぁぁ――ッ！！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "VR_W22_099",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-082",
+      "VR/W22-082SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Oh2aOGTFViVDM8M-amBsaa3i9z4kUquIxZOGkpB9a8c/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8wOTkucG5n.png"
+  },
+  {
+    "id": "VR/W22-100",
+    "title": "オペレーションキー出現！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "CC",
+    "side": "w",
+    "say": "鍵…………!?",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_100",
+    "productName": "ビビッドレッド・オペレーション",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-086"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ZgmUCXhQGLOVUfKqUjK4cF3yu8dfu8Z2OSTQvWANdM4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDAucG5n.png"
+  },
+  {
+    "id": "VR/W22-101",
+    "title": "おやつの時間 あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "w",
+    "say": "ごめんね、えへへ",
+    "effect": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《鍵》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_101",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/y-c4b-BuUcWZytJ8wlre_3GBMfZgilncGvjsUgopI0w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDEucG5n.png"
+  },
+  {
+    "id": "VR/W22-102",
+    "title": "登校中のもも",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "w",
+    "say": "も～！新聞配達が休みになると、途端に寝坊するんだから！",
+    "effect": "【永】 他のあなたのカード名に「あかね」を含むキャラがいるなら、このカードのパワーを＋1500。",
+    "scraper": "VR_W22_102",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "家事",
+      "ランドセル"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/7hLSWHJ5wDLSXFFLf2huirOv3_KNH2ArNESjzgIFk7A/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDIucG5n.png"
+  },
+  {
+    "id": "VR/W22-103",
+    "title": "初めてのドッキング あかね",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 7500,
+    "rare": "TD",
+    "side": "w",
+    "say": "なんか、ビビってきたの！",
+    "effect": "【起】［(2) あなたの舞台の「守るための力 あおい」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一つになった二人 ビビッドブルー」を1枚選び、このカードがいた枠に置く。",
+    "scraper": "VR_W22_103",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-104",
+      "VR/W22-105"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2xvKcbN_aOtOhUFFUpFaYzfKf8XeXKnxfDcvai-sBWM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDMucG5n.png"
+  },
+  {
+    "id": "VR/W22-104",
+    "title": "一つになった二人 ビビッドブルー",
+    "type": "キャラ",
+    "level": 3,
+    "cost": 2,
+    "color": "blue",
+    "soul": 2,
+    "attack": 10000,
+    "rare": "TD",
+    "side": "w",
+    "say": "……私たち、一つになってる！",
+    "effect": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「初めてのドッキング あかね」の【起】の効果で舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《鍵》のキャラの枚数に等しい。",
+    "scraper": "VR_W22_104",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-103"
+    ],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/VjOaba7RRS70CwzrNfou9g-x32BgnOPpc3XQXMDi34s/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDQucG5n.png"
+  },
+  {
+    "id": "VR/W22-105",
+    "title": "守るための力 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "w",
+    "say": "これなら……私にもできる！守ってもらってばかりだった私が……！",
+    "effect": "【永】 他のあなたの《鍵》のキャラすべてに、パワーを＋500。",
+    "scraper": "VR_W22_105",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-103"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rPXRVA6TU6lKpEQgx9Ju3DPPGUGXS6xKBF2A6SZhKMk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDUucG5n.png"
+  },
+  {
+    "id": "VR/W22-106",
+    "title": "新大島中学2年生 ひまわり",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "yellow",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "PR",
+    "side": "w",
+    "say": "……野菜キライ……",
+    "effect": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_106",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/T-ic-srLT1VCOjxvd2d-r5XSaL_Ei2RH9V-uYShrMg0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDYucG5n.png"
+  },
+  {
+    "id": "VR/W22-107",
+    "title": "新大島中学2年生 わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 1000,
+    "rare": "PR",
+    "side": "w",
+    "say": "私の名は三枝わかば。天元理心流宗家の跡取りよ",
+    "effect": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
+    "scraper": "VR_W22_107",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/sImpCGqeuoGDQ0_g21edn08wSlRIUrp13V5lKCIqPOo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDcucG5n.png"
+  },
+  {
+    "id": "VR/W22-108",
+    "title": "新大島中学2年生 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "どしたの？",
+    "effect": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_108",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/PN5dg0Cm2ZRJeDCKT8kr4uW-PDTFqETDfzGrjxxi4yw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDgucG5n.png"
+  },
+  {
+    "id": "VR/W22-109",
+    "title": "新大島中学2年生 れい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "……何の用？",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VR_W22_109",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/09_cmkTL66aJR64xRpRt8mmhzFYwHJ9sol0smHhya5w/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMDkucG5n.png"
+  },
+  {
+    "id": "VR/W22-110",
+    "title": "新大島中学2年生 あおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3500,
+    "rare": "PR",
+    "side": "w",
+    "say": "ふふっ。おじいさんも可愛いですよ♪",
+    "effect": "【永】 あなたのレベル置場のカード1枚につき、このカードのパワーを＋1500。",
+    "scraper": "VR_W22_110",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/onsB_IKmRIicfFgG7c_iB-ZwIqjLRjYuj0592mlecI4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl8xMTAucG5n.png"
+  },
+  {
+    "id": "VR/W22-P01",
+    "title": "大島の元気娘 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "PR",
+    "side": "w",
+    "say": "この島やみんなが、大好きです！",
+    "effect": "-",
+    "scraper": "VR_W22_P01",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "バイク"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/0lva2CC_rjKcyazBspnQ7eQw59ZlPSoVTgj08em5QB4/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDEucG5n.png"
+  },
+  {
+    "id": "VR/W22-P02",
+    "title": "大好きな友達 あかね＆あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "凄いよあおいちゃん！",
+    "effect": "【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_P02",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/vA0a5hoLNrLvapkHDTa6MQdrSrlX43SwBFz2zDQpf_E/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDIucG5n.png"
+  },
+  {
+    "id": "VR/W22-P03",
+    "title": "ビビッときた二人 あかね&あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 8000,
+    "rare": "PR",
+    "side": "w",
+    "say": "きっと、きっとあおいちゃんとは、ず～～っとず～～っと仲良しでいられる",
+    "effect": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのレベルを＋1し、パワーを＋1500。",
+    "scraper": "VR_W22_P03",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wbeC4Uo4SiSm9fyJZbE4QQhKcE807JXe6z-NtwEsftA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDMucG5n.png"
+  },
+  {
+    "id": "VR/W22-P04",
+    "title": "幼い頃のあかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "PR",
+    "side": "w",
+    "say": "おか～さ～ん",
+    "effect": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+    "scraper": "VR_W22_P04",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "マヨネーズ",
+      "ランドセル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 220,
+      "string": "220円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/rs33FM6NOgBNQqijYzzOA7PwG_FPfst8vQw_WGtb2tM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDQucG5n.png"
+  },
+  {
+    "id": "VR/W22-P05",
+    "title": "真夏の海辺 ひまわり",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "yellow",
+    "soul": 2,
+    "attack": 8500,
+    "rare": "PR",
+    "side": "w",
+    "say": "喉乾いたな～",
+    "effect": "【永】他のあなたの、《工場》か《盾》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_P05",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "工場"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 120,
+      "string": "120円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/hfQhFoA2CGNn6YNhjeTdNWGyWnyECwf8By-skq_qeGk/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDUucG5n.png"
+  },
+  {
+    "id": "VR/W22-P06",
+    "title": "ビビッときた二人 あかね＆わかば",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "green",
+    "soul": 1,
+    "attack": 500,
+    "rare": "PR",
+    "side": "w",
+    "say": "あかね「楽しいね、わかばちゃん！」",
+    "effect": "【自】 記憶 思い出置場にこのカードがあるなら、あなたか相手のクロックが、自分のカードの効果で控え室に置かれた時、そのプレイヤーは自分のストックの上から2枚を、控え室に置いてよい。そうしないなら、そのプレイヤーは自分の山札の上から1枚を、クロック置場に置く。\n【自】［(1) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、他のあなたの《鍵》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+    "scraper": "VR_W22_P06",
+    "productName": "PRカード【Wサイド】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "スポーツ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 500,
+      "string": "500円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/9danLk40Tjp5biRDlD9bmsbl5NokcTk54SUJHQMrvAw/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9QMDYucG5n.png"
+  },
+  {
+    "id": "VR/W22-T01",
+    "title": "しっかりもの もも",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 500,
+    "rare": "TD",
+    "side": "w",
+    "say": "あっついから気をつけてね",
+    "effect": "【自】［手札の《鍵》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ドッキング」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+    "scraper": "VR_W22_T01",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "家事",
+      "ランドセル"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Fxv4z89Y-tdh2VzKi853lUJ6HCHGO_x2eEqHHFIKDsg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDEucG5n.png"
+  },
+  {
+    "id": "VR/W22-T02",
+    "title": "偉大な科学者 健次郎",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "よくきけ二人とも！ドッキングじゃ！",
+    "effect": "【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+    "scraper": "VR_W22_T02",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "人形",
+      "科学"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/fik3PXnuOKIR-i8HscABEdaAhDQ9jo553aCh8MC9rLA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDIucG5n.png"
+  },
+  {
+    "id": "VR/W22-T03",
+    "title": "新聞配達 あかね",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "w",
+    "say": "多分それは、夢のような未来",
+    "effect": "-",
+    "scraper": "VR_W22_T03",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/wFr8PvMxH08nOrXdeyezPblhKVOzSHwBqE_Fs7qfejM/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDMucG5n.png"
+  },
+  {
+    "id": "VR/W22-T04",
+    "title": "謎の少女 れい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "red",
+    "soul": 1,
+    "attack": 5500,
+    "rare": "TD",
+    "side": "w",
+    "say": "…………",
+    "effect": "-",
+    "scraper": "VR_W22_T04",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "謎"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/cAHJQORwUxsrz8b9ZrSPjJS230Gfl_qPO2We7VOUDCI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDQucG5n.png"
+  },
+  {
+    "id": "VR/W22-T05",
+    "title": "すれ違う心 あかね",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 1,
+    "color": "red",
+    "soul": 1,
+    "attack": 6500,
+    "rare": "TD",
+    "side": "w",
+    "say": "……れいちゃん？",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+    "scraper": "VR_W22_T05",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "マヨネーズ"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-062"
+    ],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nWZG2y99xwno_ewigb0X1_CKgUknJ3ojoJ0uLCbbs_M/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDUucG5n.png"
+  },
+  {
+    "id": "VR/W22-T06",
+    "title": "パレットスーツ装着！ あかね",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 2,
+    "color": "red",
+    "soul": 2,
+    "attack": 9000,
+    "rare": "TD",
+    "side": "w",
+    "say": "あおいちゃん、すごい…",
+    "effect": "-",
+    "scraper": "VR_W22_T06",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/Yzrtg2N9QDrj-ksDaehBAbLY83DBoPzJFWDspbDXOpg/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDYucG5n.png"
+  },
+  {
+    "id": "VR/W22-T07",
+    "title": "つながる心",
+    "type": "イベント",
+    "level": 1,
+    "cost": 2,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "あかね「なんだろ……」あおい「何か……流れ込んでくる……」",
+    "effect": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室の《鍵》のキャラを2枚まで選び、手札に戻す。",
+    "scraper": "VR_W22_T07",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/C03HHjs6y_MQfT3yGsnfPNof5FXq95h18bAf3lMXAUo/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDcucG5n.png"
+  },
+  {
+    "id": "VR/W22-T08",
+    "title": "ネイキッドラング",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "red",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "そぉーれっ！",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_T08",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-051"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/4HJbw0nIdTnqhs7BcBhKDcjhtjCvoMRw4Llsza41vkA/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDgucG5n.png"
+  },
+  {
+    "id": "VR/W22-T09",
+    "title": "真実の告白 あおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2000,
+    "rare": "TD",
+    "side": "w",
+    "say": "私……ほんとは、トマト大嫌いだったの！！",
+    "effect": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたの《鍵》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_T09",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-085"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/ENzDpn_TH_ZH_ACz43E9jCJ0Cbr3ZWtEtPjTcwhcuHQ/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMDkucG5n.png"
+  },
+  {
+    "id": "VR/W22-T10",
+    "title": "私服のあおい",
+    "type": "キャラ",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 3000,
+    "rare": "TD",
+    "side": "w",
+    "say": "私一人のために、申し訳ありません。でも、一刻も早く島に帰りたくて……",
+    "effect": "-",
+    "scraper": "VR_W22_T10",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:22.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/xlF8PNLIFFcdx8GsD8heKkBq5XvbpOC9iUnoRc-Sfx0/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTAucG5n.png"
+  },
+  {
+    "id": "VR/W22-T11",
+    "title": "おやつの時間 あおい",
+    "type": "キャラ",
+    "level": 1,
+    "cost": 0,
+    "color": "blue",
+    "soul": 1,
+    "attack": 5000,
+    "rare": "TD",
+    "side": "w",
+    "say": "あり……がとう……",
+    "effect": "【永】 他のあなたの《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+    "scraper": "VR_W22_T11",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "令嬢"
+    ],
+    "trigger": [
+      "none"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/dGT2hor-tDqIiRdQC2QCbCY7ZBgav9JCaOyhM5mOXtY/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTEucG5n.png"
+  },
+  {
+    "id": "VR/W22-T12",
+    "title": "初めての戦い あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 2500,
+    "rare": "TD",
+    "side": "w",
+    "say": "これが私の武器……！",
+    "effect": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+    "scraper": "VR_W22_T12",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/nGqTlVnGMIG3OlSuPYpnX2K0YkG8QK_yxUPHmqrEmo8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTIucG5n.png"
+  },
+  {
+    "id": "VR/W22-T13",
+    "title": "パレットスーツ装着！ あおい",
+    "type": "キャラ",
+    "level": 2,
+    "cost": 1,
+    "color": "blue",
+    "soul": 1,
+    "attack": 8500,
+    "rare": "TD",
+    "side": "w",
+    "say": "出来た……。わたしも変身できたよ！見て！あかねちゃん！",
+    "effect": "-",
+    "scraper": "VR_W22_T13",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "鍵",
+      "武器"
+    ],
+    "trigger": [
+      "soul"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [],
+    "price": {
+      "number": 30,
+      "string": "30円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/QLvz2RdlIki655iu1tx2xPV72-FCzLj49Hg3L9n-huc/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTMucG5n.png"
+  },
+  {
+    "id": "VR/W22-T14",
+    "title": "オペレーションキー出現！",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "鍵…………!?",
+    "effect": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+    "scraper": "VR_W22_T14",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "soul2"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-086"
+    ],
+    "price": {
+      "number": 50,
+      "string": "50円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/2lQYSKoANWEI5apQ0a899MzGvhKJAz7L3jNHQJGFfA8/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTQucG5n.png"
+  },
+  {
+    "id": "VR/W22-T15",
+    "title": "ネイキッドインパクト",
+    "type": "クライマックス",
+    "level": 0,
+    "cost": 0,
+    "color": "blue",
+    "soul": 0,
+    "attack": 0,
+    "rare": "TD",
+    "side": "w",
+    "say": "え――ぃっ！",
+    "effect": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（<img src=\"/wordpress/wp-content/images/cardlist/_partimages/draw.gif\">：このカードがトリガーした時、あなたは1枚引いてよい）",
+    "scraper": "VR_W22_T15",
+    "productName": "2013年度トライアルデッキ【W】",
+    "seriesCode": "VR",
+    "feature": [
+      "-"
+    ],
+    "trigger": [
+      "draw"
+    ],
+    "highVer": [],
+    "lowVer": [],
+    "relation": [
+      "VR/W22-082",
+      "VR/W22-082SP"
+    ],
+    "price": {
+      "number": 80,
+      "string": "80円",
+      "date": "2024-11-28T05:39:23.000Z"
+    },
+    "i18n": {
+      "zh": {
+        "title": "",
+        "feature": [],
+        "productName": "",
+        "say": "",
+        "effect": "",
+        "author": ""
+      }
+    },
+    "cover": "https://jasonxddd.me:7001/imgproxy/XpFhtSh1A_q9NUeZ94ULXbX3yELFeh6mE1d3UInb2iI/rt:fill/w:0/h:0/g:no/el:1/f:png/bG9jYWw6Ly8vL1ZSX1cyMl9UMTUucG5n.png"
+  }
+]
