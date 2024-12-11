@@ -22,6 +22,7 @@ const updateName = require('./src/routes/update-name');
 const userDecks = require('./src/routes/userDecks');
 const userPosts = require('./src/routes/userPosts');
 const commentsRoute = require('./src/routes/comments-with-verifytoken');
+const article = require('./src/routes/article')
 
 app.use(cors());
 
@@ -46,6 +47,7 @@ app.use('/api', base64);
 app.use('/api', search);
 app.use('/api', dailyCard);
 app.use('/api', commentsRoute);
+app.use('/api',article);
 
 
 app.listen(port, () => {

@@ -3,7 +3,7 @@ const router = express.Router();
 const { v4: uuidv4 } = require("uuid");
 const { PrismaClient } = require("@prisma/client");
 const jwt = require("jsonwebtoken");
-const verifyToken = require("../middlewares/verityToken");
+const verifyToken = require("../middlewares/verifyToken");
 
 // 連接資料庫
 const prisma = new PrismaClient();
