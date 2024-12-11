@@ -30,10 +30,10 @@ router.post('/login', async (req, res) => {
         const token = jwt.sign(payLoad, secretKey, { expiresIn: '1h' });
     
         res.status(200).json({ token });
-      } catch (error) {
+    } catch (error) {
         console.log(error);
         res.status(500).json({ msg: "伺服器錯誤" });
-  }
+}
 });
 
 const authenticateToken = (req, res, next) => {
