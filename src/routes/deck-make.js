@@ -3,25 +3,35 @@ const router = express.Router();
 const { v4: uuidv4 } = require("uuid");
 const { PrismaClient } = require("@prisma/client");
 const jwt = require("jsonwebtoken");
+const verifyToken = require("../middlewares/verityToken");
 
 // 連接資料庫
 const prisma = new PrismaClient();
 
 // 創建牌組
-router.post("/add-deck", async (req, res) => {
+router.post("/add-deck", verifyToken, async (req, res) => {
   try {
-    const { userToken, deckData } = req.body;
+    const { deckData } = req.body;
+    const { userId } = req.user;
     
-    const userData = jwt.decode(userToken);
+    // const userData = jwt.decode(userToken);
     const deckId = await checkDeckId();
     // console.log(userData.user_id + "|" + deckId + "|" + userData.email + "|" + deckData.deckName + "|" + deckData.deck + "|" + deckData.deckCover + "|" + deckData.deckDescription);
-    console.log(deckData.deckCover.length);
+    // console.log(deckData);
+    const user = await prisma.users.findUnique({
+      where: {
+        id: parseInt(userId),
+      },
+      select: {
+        email: true,
+      },
+    });
     
     const addDeckData = await prisma.deck_list.create({
       data: {
-        user_id: parseInt(userData.user_id),
+        user_id: parseInt(userId),
         deck_id: deckId,
-        user_email: userData.email,
+        user_email: user.email,
         deck_name: deckData.deckName,
         deck: deckData.deck,
         deck_cover: deckData.deckCover,
