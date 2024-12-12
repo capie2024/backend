@@ -38,7 +38,14 @@ router.post('/login', async (req, res) => {
     }
 
     const result = await login(email, password)
-    res.json({ success: true, ...result })
+    console.log(result.token);
+    
+    res.json({
+      "status": "Success",
+      "data": {
+        "token": result.token
+      }
+    })
   } catch (error) {
     res.status(401).json({
       success: false,
@@ -63,9 +70,10 @@ router.get(
     try {
       const result = await googleLogin(req.user)
       const token = result.token
+      // console.log(token)
     //   res.json({ success: true, ...result })
       // 重定向到前端，並在 URL 中傳遞 token
-      res.redirect(`http://localhost:5173/auth-success?token=${token}`);
+      res.redirect(`http://localhost:5173/auth-success?token=${token}`)
     } catch (error) {
       res.status(400).json({
         success: false,
