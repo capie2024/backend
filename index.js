@@ -23,6 +23,7 @@ const userDecks = require('./src/routes/userDecks');
 const userPosts = require('./src/routes/userPosts');
 const commentsRoute = require('./src/routes/comments-with-verifytoken');
 const article = require('./src/routes/article')
+const cardOrder = require('./src/routes/card-order');
 
 app.use(cors());
 
@@ -49,6 +50,7 @@ app.use('/api', dailyCard);
 app.use('/api', commentsRoute);
 app.use('/api',article);
 
+app.use('/api', cardOrder);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
