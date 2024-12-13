@@ -22,15 +22,14 @@ router.get("/cardPDF", async (req, res) => {
     if(!deckData || !deckData.deck ){
       return res.status(404).json({ error: "未找到有效的 Deck 資料" });
     }
-    // 將 deck 字串解析為 JavaScript 陣列
-    const deckArray = JSON.parse(deckData.deck);
+    
 
-    // 確保 deckArray 是陣列並且包含 cover 資料
-    if (!Array.isArray(deckArray)) {
+    // 確保 deckData.deck 是陣列並且包含 cover 資料
+    if (!Array.isArray(deckData.deck)) {
     return res.status(400).json({ error: "'deck' 必須是一個陣列" });
   }
     // 從 deck 欄位中提取所有卡片的 cover
-    const covers = deckArray
+    const covers = deckData.deck
     .map(card => card.cover)
     .filter(cover => cover);
 
