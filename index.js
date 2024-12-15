@@ -25,6 +25,7 @@ const commentsRoute = require('./src/routes/comments-with-verifytoken');
 const article = require('./src/routes/article')
 const cardOrder = require('./src/routes/card-order');
 const deckPage = require('./src/routes/deck-page');
+const randomCard = require('./src/routes/randomCard');
 
 app.use(cors());
 
@@ -51,6 +52,8 @@ app.use('/api', commentsRoute);
 app.use('/api',article);
 app.use('/api', deckPage);
 app.use('/api', cardOrder);
+app.use(randomCard);
+
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
