@@ -22,6 +22,9 @@ router.get('/currentUser', verifyToken, async (req, res) => {
             return res.status(404).json({ error: 'User not found' });
         }
 
+        const defaultPicture = 'https://bottleneko.app/icon.png';
+        user.picture = user.picture || defaultPicture;
+
         res.status(200).json(user);
     } catch (error) {
         console.error('Error fetching current user:', error);
