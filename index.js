@@ -24,12 +24,12 @@ const userPosts = require('./src/routes/userPosts');
 const commentsRoute = require('./src/routes/comments-with-verifytoken');
 const article = require('./src/routes/article')
 const cardOrder = require('./src/routes/card-order');
+const deckPage = require('./src/routes/deck-page');
 
 app.use(cors());
 
 // middleware
 app.use(express.json());
-
 app.use('/api', login);
 app.use('/auth', authRouter);
 app.use(require('./src/routes/google-auth'));
@@ -49,7 +49,7 @@ app.use('/api', search);
 app.use('/api', dailyCard);
 app.use('/api', commentsRoute);
 app.use('/api',article);
-
+app.use('/api', deckPage);
 app.use('/api', cardOrder);
 
 app.listen(port, () => {
