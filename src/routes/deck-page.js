@@ -22,6 +22,7 @@ router.get('/deck-page/:deck_id', async (req, res) => {
         users: {
           select: {
             username: true, // 查詢對應的用戶名
+            picture:true, //用戶頭像
           },
         },
       },
