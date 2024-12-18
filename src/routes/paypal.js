@@ -11,44 +11,42 @@ dotenv.config();
 router.post("/create-paypal-order", async (req, res) => {
   //   const { userId } = req.user;
   const order = await createOrder();
-  console.log(order);
+  // console.log(order);
 
-  res.json({ id: order });
+  res.json({ order: order });
 });
 
-router.post("/get-paypal-order", async (req, res) => {
-  const accessToken = await getAccessToken();
-  const { orderID } = req.body;
-  
-const orderResponse = await fetch(`https://api-m.sandbox.paypal.com/v2/checkout/orders/${orderID}`, {
-    method: "GET",
-    headers: {
-      "Authorization": `Bearer ${accessToken}`,
-    },
-  });
-  
-  const orderData = await orderResponse.json();
-  console.log(orderData);
-
-    if(orderData.status !== "COMPLETED") {
-        return res.status(400).json({ message: "付款失敗" });
-    }else if(orderData.status === "COMPLETED") {
-        
+router.post("/save-paypal-order", verifyToken, async (req, res) => {
+  const { userId } = req.user;
+  const { order } = req.body;
+  const response = await prisma.order_list.create({
+    data: {
+      user_id: parseInt(userId),
+      order_id: order.id 
     }
-});
+  })
+  
+  console.log(response);
+  res.status(200).json({ response })
+})
 
 router.get("/check-hero-member", verifyToken, async (req, res) => {
   try {
     const userId = req.user.userId;
-    const isHeroMember = await prisma.users.findUnique({
-        where: { id: userId },
-        select: { is_hero_member: true },
-    
+    const isHeroMember = await prisma.order_list.findUnique({
+        where: { user_id: userId }
     })
 
-
+    console.log(isHeroMember);
+    
+    if(isHeroMember == userId){
+      res.status(200).json({ order: isHeroMember})
+    }else{
+      res.status(200).send("沒有付費會員紀錄")
+    }
   }catch (error){
-
+    console.log(error);
+    
   }
 })
 
@@ -80,7 +78,7 @@ async function createOrder() {
     }
   ).then((response) => response.json());
 
-  return data.id;
+  return data;
 }
 
 
