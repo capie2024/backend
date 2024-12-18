@@ -13,6 +13,7 @@ router.get('/deck-page/:deck_id', async (req, res) => {
         deck_id: deck_id, // 使用 deck_id 來查詢對應的資料
       },
       select: {
+        id: true,
         deck_id: true,
         deck_name: true,
         deck: true,

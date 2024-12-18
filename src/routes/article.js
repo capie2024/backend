@@ -86,8 +86,54 @@ router.post('/articles', verifyToken, multer, async (req, res) => {
         post_code: articleId,
         title,
         content,
-        user_id:userId,
+        user_id: userId,
         post_picture: postPicture,
+      },
+    });
+
+    res.status(201).json({
+      ...article,
+      username: user.username,
+      picture: user.picture,
+    });
+
+  } catch (error) {
+    console.error('Error:', error);  
+    res.status(500).json({ error: '無法儲存文章', message: error.message });
+  }
+});
+
+router.post('/decks', verifyToken, async (req, res) => {
+  try {
+
+    const { title, content, deck_id, post_picture } = req.body;
+    const { userId } = req.user;
+   
+    if (!userId) {
+      return res.status(400).json({ error: '用戶信息無效' });
+    }
+
+
+    const user = await prisma.users.findUnique({
+      where: { id: userId },
+      select: { username: true, picture: true },
+    });
+
+    
+    if (!user) {
+      return res.status(404).json({ error: '找不到該用戶' });
+    }
+
+    const articleId = await checkArticleId();
+
+    const article = await prisma.add_article.create({
+      data: {
+        user_id: userId,
+        deck_id,
+        post_code: articleId,
+        title,
+        content,
+        post_picture,
       },
     });
 
