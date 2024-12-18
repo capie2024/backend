@@ -53,6 +53,27 @@ router.get('/article-id/:post_code', async (req, res) => {
     }
 });
 
+router.get('/comments', async (req, res) => {
+    const { articleId } = req.query;  // 使用 query 方式接收 articleId
+
+    try {
+        // 驗證 articleId 是否存在
+        if (!articleId) {
+            return res.status(400).json({ error: "articleId parameter is required" });
+        }
+
+        const messages = await prisma.comment_test.findMany({
+            where: { article_id: parseInt(articleId, 10) },  // 使用 articleId 作為條件
+            orderBy: { created_at: 'desc' },  // 創建時間降序排列
+            include: { users: true },  // 假設 comments 表關聯 users 表，拉取用戶信息
+        });
+
+        res.json(messages);
+    } catch (error) {
+        console.error("Error fetching comments:", error);
+        return res.status(500).json({ error: error.message });
+    }
+});
 // 新增留言
 router.post('/send-message', verifyToken, async (req, res) => {
     const { newMessage} = req.body;
