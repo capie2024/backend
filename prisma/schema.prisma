@@ -19,6 +19,7 @@ model add_article {
   deck_list    deck_list?     @relation(fields: [deck_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "fk_articles_deck_id")
   users        users?         @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_articles_user_id")
   comment_test comment_test[]
+  notice_test  notice_test[]
 
   @@index([deck_id], map: "fk_articles_deck_id")
   @@index([user_id], map: "fk_articles_user_id_idx")
@@ -26,14 +27,15 @@ model add_article {
 }
 
 model comment_reactions {
-  id           Int          @id @default(autoincrement())
+  id           Int           @id @default(autoincrement())
   comment_id   Int
   user_id      Int
-  liked        Boolean      @default(false)
-  disliked     Boolean      @default(false)
-  created_at   DateTime?    @db.Timestamp(0)
-  comment_test comment_test @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_reactions_comment_id")
-  users        users        @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comment_reactions_user_id")
+  liked        Boolean       @default(false)
+  disliked     Boolean       @default(false)
+  created_at   DateTime?     @db.Timestamp(0)
+  comment_test comment_test  @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_reactions_comment_id")
+  users        users         @relation(fields: [user_id], references: [id], onDelete: Cascade, map: "fk_comment_reactions_user_id")
+  notice_test  notice_test[]
 
   @@index([comment_id], map: "fk_comment_reactions_comment_id")
   @@index([user_id], map: "fk_comment_reactions_user_id")
@@ -49,6 +51,7 @@ model comment_test {
   comment_reactions comment_reactions[]
   users             users               @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_test_user_id")
   add_article       add_article         @relation(fields: [article_id], references: [id], onDelete: Cascade, map: "fk_comment_test_article_id")
+  notice_test       notice_test[]
 
   @@index([user_id], map: "FK_comment_test_user_id")
   @@index([article_id], map: "fk_comment_test_article_id")
@@ -96,6 +99,7 @@ model users {
   comment_reactions comment_reactions[]
   comment_test      comment_test[]
   deck_list         deck_list[]
+  notice_test       notice_test[]
   user_auths        user_auths[]
 }
 
@@ -105,6 +109,25 @@ model users_test {
   email       String  @unique @db.VarChar(100)
   password    String  @db.VarChar(255)
   google_auth Int?    @db.TinyInt
+}
+
+model notice_test {
+  id                Int               @id @default(autoincrement())
+  user_id           Int
+  article_id        Int
+  comment_id        Int
+  type              String?           @db.VarChar(45)
+  is_read           Boolean
+  reaction_id       Int
+  add_article       add_article       @relation(fields: [article_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_article_id")
+  comment_test      comment_test      @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_comment_id")
+  comment_reactions comment_reactions @relation(fields: [reaction_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_reaction_id")
+  users             users             @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_user_id")
+
+  @@index([article_id], map: "fk_notice_article_id")
+  @@index([comment_id], map: "fk_notice_comment_id")
+  @@index([reaction_id], map: "fk_notice_reaction_id")
+  @@index([user_id], map: "fk_notice_user_id")
 }
 
 enum user_auths_auth_type {
