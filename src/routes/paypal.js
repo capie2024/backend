@@ -8,7 +8,8 @@ const router = express.Router();
 const dotenv = require("dotenv");
 dotenv.config();
 
-router.post("/create-paypal-order", async (req, res) => {
+// 建立新訂單
+router.post("/create-paypal-order", verifyToken, async (req, res) => {
   //   const { userId } = req.user;
   const order = await createOrder();
   // console.log(order);
@@ -16,6 +17,8 @@ router.post("/create-paypal-order", async (req, res) => {
   res.json({ order: order });
 });
 
+
+// 將使用者及訂單紀錄寫入資料庫的order_list
 router.post("/save-paypal-order", verifyToken, async (req, res) => {
   const { userId } = req.user;
   const { order } = req.body;
@@ -30,61 +33,65 @@ router.post("/save-paypal-order", verifyToken, async (req, res) => {
   res.status(200).json({ response })
 })
 
+// 確認是否已經有付費會員的訂單紀錄
 router.get("/check-hero-member", verifyToken, async (req, res) => {
   try {
     const userId = req.user.userId;
     const isHeroMember = await prisma.order_list.findUnique({
         where: { user_id: userId }
     })
-
-    console.log(isHeroMember);
     
-    if(isHeroMember == userId){
-      res.status(200).json({ order: isHeroMember})
+    if(isHeroMember){
+      res.status(200).json({ message: "已有付費會員紀錄", isHeroMember: true })
     }else{
-      res.status(200).send("沒有付費會員紀錄")
+      res.status(200).json({ message: "沒有付費會員紀錄", isHeroMember: false })
     }
   }catch (error){
-    console.log(error);
-    
+      res.status(500).json({ error: error.message });
   }
 })
 
 
-// 建立新訂單
+// 建立新訂單的function
 async function createOrder() {
   const accessToken = await getAccessToken();
 
-  const data = await fetch(
-    "https://api-m.sandbox.paypal.com/v2/checkout/orders",
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${accessToken}`,
-      },
-      body: JSON.stringify({
-        purchase_units: [
-          {
-            amount: {
-              currency_code: "USD",
-              value: "12.00",
+  try {
+    const data = await fetch(
+      "https://api-m.sandbox.paypal.com/v2/checkout/orders",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: JSON.stringify({
+          purchase_units: [
+            {
+              amount: {
+                currency_code: "USD",
+                value: "12.00",
+              }
             },
-            reference_id: "XXXXXXXXXX",
-          },
-        ],
-        intent: "CAPTURE",
-      }),
-    }
-  ).then((response) => response.json());
-
-  return data;
+          ],
+          intent: "CAPTURE",
+        }),
+      }
+    ).then((response) => response.json());
+  
+    return data;
+    
+  } catch (error) {
+    return error
+  }
 }
 
 
 async function getAccessToken() {
   const clientId = process.env.PAYPAL_CLIENT_ID;
   const clientSecret = process.env.PAYPAL_CLIENT_SECRET;
+  console.log(clientId, clientSecret);
+  
 
   const credentials = Buffer.from(`${clientId}:${clientSecret}`).toString(
     "base64"
@@ -103,7 +110,7 @@ async function getAccessToken() {
   );
 
   if (!response.ok) {
-    throw new Error("Failed to fetch access token");
+    throw new Error("無法取得access token");
   }
 
   const data = await response.json();

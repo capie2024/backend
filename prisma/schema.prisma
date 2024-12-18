@@ -51,7 +51,6 @@ model comment_test {
   comment_reactions comment_reactions[]
   users             users               @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "FK_comment_test_user_id")
   add_article       add_article         @relation(fields: [article_id], references: [id], onDelete: Cascade, map: "fk_comment_test_article_id")
-  notice_test       notice_test[]
 
   @@index([user_id], map: "FK_comment_test_user_id")
   @@index([article_id], map: "fk_comment_test_article_id")
@@ -116,12 +115,11 @@ model notice_test {
   id                Int                @id @default(autoincrement())
   user_id           Int
   article_id        Int
-  comment_id        Int?
+  comment_id        Int
   type              String?            @db.VarChar(45)
   is_read           Boolean
   reaction_id       Int?
   add_article       add_article        @relation(fields: [article_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_article_id")
-  comment_test      comment_test?      @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_comment_id")
   comment_reactions comment_reactions? @relation(fields: [reaction_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_reaction_id")
   users             users              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_user_id")
 
