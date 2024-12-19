@@ -15,7 +15,8 @@ router.get('/deck/:post_code', async (req, res) => {
                     select: {
                         deck_name: true,
                         deck: true,
-                        deck_cover: true
+                        deck_cover: true,
+                        deck_id: true,
                     }
                 }
             }

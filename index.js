@@ -25,6 +25,7 @@ const article = require('./src/routes/article')
 const cardOrder = require('./src/routes/card-order');
 const deckPage = require('./src/routes/deck-page');
 const randomCard = require('./src/routes/randomCard');
+const paypal = require('./src/routes/paypal');
 const notice = require('./src/routes/notice');
 
 app.use(cors());
@@ -53,6 +54,7 @@ app.use('/api',article);
 app.use('/api', deckPage);
 app.use('/api', cardOrder);
 app.use(randomCard);
+app.use('/api', paypal);
 app.use('/api', notice);
 
 app.listen(port, () => {
