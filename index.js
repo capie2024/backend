@@ -24,7 +24,7 @@ const userPosts = require('./src/routes/userPosts');
 const commentsRoute = require('./src/routes/comments-with-verifytoken');
 const article = require('./src/routes/article')
 const cardOrder = require('./src/routes/card-order');
-// const deckPage = require('./src/routes/deck-page');
+const deckPage = require('./src/routes/deck-page');
 const randomCard = require('./src/routes/randomCard');
 const paypal = require('./src/routes/paypal');
 
@@ -51,7 +51,7 @@ app.use('/api', search);
 app.use('/api', dailyCard);
 app.use('/api', commentsRoute);
 app.use('/api',article);
-// app.use('/api', deckPage);
+app.use('/api', deckPage);
 app.use('/api', cardOrder);
 app.use(randomCard);
 app.use('/api', paypal);
