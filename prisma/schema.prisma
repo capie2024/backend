@@ -100,6 +100,7 @@ model users {
   comment_test      comment_test[]
   deck_list         deck_list[]
   notice_test       notice_test[]
+  order_list        order_list?
   user_auths        user_auths[]
 }
 
@@ -112,22 +113,31 @@ model users_test {
 }
 
 model notice_test {
-  id                Int               @id @default(autoincrement())
+  id                Int                @id @default(autoincrement())
   user_id           Int
   article_id        Int
-  comment_id        Int
-  type              String?           @db.VarChar(45)
+  comment_id        Int?
+  type              String?            @db.VarChar(45)
   is_read           Boolean
-  reaction_id       Int
-  add_article       add_article       @relation(fields: [article_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_article_id")
-  comment_test      comment_test      @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_comment_id")
-  comment_reactions comment_reactions @relation(fields: [reaction_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_reaction_id")
-  users             users             @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_user_id")
+  reaction_id       Int?
+  add_article       add_article        @relation(fields: [article_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_article_id")
+  comment_test      comment_test?      @relation(fields: [comment_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_comment_id")
+  comment_reactions comment_reactions? @relation(fields: [reaction_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_reaction_id")
+  users             users              @relation(fields: [user_id], references: [id], onDelete: Cascade, onUpdate: NoAction, map: "fk_notice_user_id")
 
   @@index([article_id], map: "fk_notice_article_id")
   @@index([comment_id], map: "fk_notice_comment_id")
   @@index([reaction_id], map: "fk_notice_reaction_id")
   @@index([user_id], map: "fk_notice_user_id")
+}
+
+model order_list {
+  id       Int    @id @unique(map: "id_UNIQUE") @default(autoincrement())
+  order_id String @db.VarChar(45)
+  user_id  Int    @unique(map: "user_id_UNIQUE")
+  users    users  @relation(fields: [user_id], references: [id], onUpdate: Restrict, map: "fk_order_user_id")
+
+  @@index([user_id], map: "fk_user_id_idx")
 }
 
 enum user_auths_auth_type {
