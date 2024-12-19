@@ -57,9 +57,11 @@ router.post('/articles', verifyToken, multer, async (req, res) => {
 
     const articleId = await checkArticleId();
 
-    const { title, content } = req.body;
+    const { deck_id, title, content } = req.body;
     const { userId } = req.user;
-   
+
+    const deckId = deck_id ? parseInt(deck_id, 10) : null;
+
     if (!userId) {
       return res.status(400).json({ error: '用戶信息無效' });
     }
@@ -79,10 +81,13 @@ router.post('/articles', verifyToken, multer, async (req, res) => {
     if (req.file) {
       const cloudinaryResponse = await uploadFromBuffer(req);
       postPicture = cloudinaryResponse.secure_url; 
+    } else if (req.body.post_picture) {
+      postPicture = req.body.post_picture;
     }
 
     const article = await prisma.add_article.create({
       data: {
+        deck_id: deckId,
         post_code: articleId,
         title,
         content,
