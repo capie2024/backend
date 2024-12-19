@@ -40,7 +40,7 @@ router.post("/add-deck", verifyToken, async (req, res) => {
     });    
 
     if (addDeckData) {
-      res.status(200).json({ message: "已存入資料庫" });
+      res.status(200).json({ message: "已存入資料庫", data: addDeckData });
     }
   } catch (error) {
     console.log(error);
