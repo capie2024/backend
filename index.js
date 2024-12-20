@@ -15,7 +15,6 @@ const cardPDF = require("./src/routes/card-pdf");
 const base64 = require("./src/routes/Base64")
 const search = require("./src/routes/search-decks-articles");
 const dailyCard = require('./src/routes/daily-card');
-
 const userRouter = require('./src/routes/user-profile');
 const uploadPic = require('./src/routes/upload-picture');
 const updateName = require('./src/routes/update-name');
@@ -27,6 +26,7 @@ const cardOrder = require('./src/routes/card-order');
 const deckPage = require('./src/routes/deck-page');
 const randomCard = require('./src/routes/randomCard');
 const paypal = require('./src/routes/paypal');
+const notice = require('./src/routes/notice');
 
 app.use(cors());
 
@@ -55,6 +55,7 @@ app.use('/api', deckPage);
 app.use('/api', cardOrder);
 app.use(randomCard);
 app.use('/api', paypal);
+app.use('/api', notice);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
