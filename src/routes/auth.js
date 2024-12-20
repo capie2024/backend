@@ -38,7 +38,6 @@ router.post('/login', async (req, res) => {
     }
 
     const result = await login(email, password)
-    console.log(result.token);
     
     res.json({
       "status": "Success",
@@ -65,13 +64,12 @@ router.get(
 // Google 登入 callback
 router.get(
   '/google/callback',
-  passport.authenticate('google', { failureRedirect: '/login', session: false }), // 登入失敗導向 /login
+  passport.authenticate('google', { failureRedirect: 'http://localhost:5173/login', session: false }), // 登入失敗導向 /login
   async (req, res) => {
     try {
       const result = await googleLogin(req.user)
       const token = result.token
-      // console.log(token)
-    //   res.json({ success: true, ...result })
+
       // 重定向到前端，並在 URL 中傳遞 token
       res.redirect(`http://localhost:5173/auth-success?token=${token}`)
     } catch (error) {
