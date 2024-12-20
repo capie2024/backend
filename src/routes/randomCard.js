@@ -51,7 +51,6 @@ router.get('/cards/random', (_req, res) => {
     }
     // 確保最多回傳 50 個連結
     const limitedCovers = covers.slice(0, maxCovers);
-    console.log('Covers:', limitedCovers);
     res.status(200).json({ covers: limitedCovers });
     
 });

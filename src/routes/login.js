@@ -20,7 +20,6 @@ router.post('/login', async (req, res) => {
         if(!user || !(await bcrypt.compare(password, user.password))) {
             return res.status(401).json({ message: '信箱或密碼錯誤' })
         }
-        console.log(user);
         
         const payLoad = {
           email: user.email,
@@ -31,7 +30,6 @@ router.post('/login', async (req, res) => {
     
         res.status(200).json({ token });
     } catch (error) {
-        console.log(error);
         res.status(500).json({ msg: "伺服器錯誤" });
 }
 });

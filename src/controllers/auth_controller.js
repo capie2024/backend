@@ -71,7 +71,6 @@ const login = async (email, password) => {
 
 // Google 登入
 const googleLogin = async (profile) => {
-  console.log(profile)
   try {
     let auth = await prisma.user_auths.findFirst({
       where: {
