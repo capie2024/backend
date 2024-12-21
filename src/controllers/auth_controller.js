@@ -4,16 +4,22 @@ const { hashPassword, comparePassword, generateToken } = require('../utils/auth_
 const prisma = new PrismaClient()
 
 // 註冊
-const register = async (email, username, password) => {
+const register = async (email, password) => {
+
+  // 檢查 email 是否重複
+  const checkUser = await prisma.users.findUnique({
+    where: { email },
+  });
+  if (checkUser) {
+    return { error: '此 Email 已被註冊' };
+  }
+
   const hashedPassword = await hashPassword(password)
 
   try {
     const result = await prisma.$transaction(async (tx) => {
       const user = await tx.users.create({
-        data: {
-          email,
-          username
-        }
+        data: { email }
       })
 
       await tx.user_auths.create({
