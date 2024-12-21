@@ -6,16 +6,13 @@ const passport = require('passport')
 // 註冊
 router.post('/register', async (req, res) => {
   try {
-    const { email, username, password } = req.body
+    const { email, password } = req.body
+    const result = await register(email, password)
 
-    if (!email || !username || !password) {
-      return res.status(400).json({
-        success: false,
-        message: '記得填資料'
-      })
+    if (result.error) {
+      return res.status(409).json(result.error);
     }
-
-    const result = await register(email, username, password)
+    
     res.json({ success: true, ...result })
   } catch (err) {
     res.status(400).json({
