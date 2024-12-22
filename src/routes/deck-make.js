@@ -14,10 +14,7 @@ router.post("/add-deck", verifyToken, async (req, res) => {
     const { deckData } = req.body;
     const { userId } = req.user;
     
-    // const userData = jwt.decode(userToken);
     const deckId = await checkDeckId();
-    // console.log(userData.user_id + "|" + deckId + "|" + userData.email + "|" + deckData.deckName + "|" + deckData.deck + "|" + deckData.deckCover + "|" + deckData.deckDescription);
-    // console.log(deckData);
     const user = await prisma.users.findUnique({
       where: {
         id: parseInt(userId),
@@ -44,7 +41,6 @@ router.post("/add-deck", verifyToken, async (req, res) => {
     }
   } catch (error) {
     console.log(error);
-    
     res.status(500).json({ message: "伺服器錯誤" });
   }
 });

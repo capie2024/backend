@@ -10,10 +10,7 @@ dotenv.config();
 
 // 建立新訂單
 router.post("/create-paypal-order", verifyToken, async (req, res) => {
-  //   const { userId } = req.user;
   const order = await createOrder();
-  // console.log(order);
-
   res.json({ order: order });
 });
 
@@ -29,7 +26,6 @@ router.post("/save-paypal-order", verifyToken, async (req, res) => {
     }
   })
   
-  console.log(response);
   res.status(200).json({ response })
 })
 
@@ -90,8 +86,6 @@ async function createOrder() {
 async function getAccessToken() {
   const clientId = process.env.PAYPAL_CLIENT_ID;
   const clientSecret = process.env.PAYPAL_CLIENT_SECRET;
-  console.log(clientId, clientSecret);
-  
 
   const credentials = Buffer.from(`${clientId}:${clientSecret}`).toString(
     "base64"
