@@ -4,62 +4,60 @@ const { PrismaClient } = require("@prisma/client");
 const router = express.Router();
 const prisma = new PrismaClient();
 
-// API：獲取 Deck 清單
+// API：根據 input 查詢對應的 deck 資料並返回 cover 圖片和 deck_name
 router.get("/cardPDF", async (req, res) => {
-  const { deckId, postCode } = req.query;
+  const { input } = req.query;
 
-  // 檢查是否提供了 deckId 或 postCode
-  if (!deckId && !postCode) {
-    return res.status(400).json({ error: "請提供 Deck ID 或 Post Code" });
+  // 檢查是否提供了有效的輸入參數
+  if (!input || typeof input !== "string" || input.trim() === "") {
+    return res.status(400).json({ error: "請提供有效的輸入參數" });
   }
 
   try {
-    let deckData;
+    let deckListData;
 
-    if (deckId) {
-      // 若提供 deckId，查詢 deck_list 資料
-      deckData = await prisma.deck_list.findUnique({
-        where: { deck_id: deckId },
-        select: { deck: true, deck_name: true },
-      });
-    } else if (postCode) {
-      // 檢查 postCode 是否正確格式
-      if (typeof postCode !== "string" || postCode.trim() === "") {
-        return res.status(400).json({ error: "Post Code 格式不正確" });
-      }
-      // 若提供 postCode，查詢 add_article 資料，並取得對應的 deck_id
-      const articleData = await prisma.add_article.findUnique({
-        where: { post_code: postCode },
-        select: { deck_id: true },
+    // 第一種情況：如果 input 是 post_code，先查詢 add_article 表格，根據 post_code 查找對應的 deck_id
+    const articleData = await prisma.add_article.findUnique({
+      where: { post_code: input },  // 根據 post_code 查詢
+      select: { deck_id: true },    // 只選擇 deck_id 欄位
+    });
+
+    // 如果是 post_code，且找到對應的 deck_id
+    if (articleData && articleData.deck_id) {
+      // 查詢 deck_list 表格，根據 deck_id 查找對應的資料
+      deckListData = await prisma.deck_list.findUnique({
+        where: { id: articleData.deck_id },  // 使用 add_article 查到的 deck_id 查找 deck_list
+        select: { deck_id: true, deck_name: true, deck: true },  // 選擇 deck_id、deck_name 和 deck 欄位
       });
 
-      if (!articleData || !articleData.deck_id) {
+      if (!deckListData) {
         return res.status(404).json({ error: "未找到對應的 Deck 資料" });
       }
 
-      // 查詢對應 deck_id 的 deck_list 資料
-      deckData = await prisma.deck_list.findUnique({
-        where: { deck_id: articleData.deck_id },
-        select: { deck: true, deck_name: true },
-      });
+      // 提取 deck 裡面所有的 cover
+      const covers = deckListData.deck.map(card => card.cover).filter(cover => cover);
+
+      // 回傳 deck 資料、deck_name 和 cover 圖片
+      return res.json({ deck_id: deckListData.deck_id, deck_name: deckListData.deck_name, covers: covers });
     }
 
-    if (!deckData || !deckData.deck) {
-      return res.status(404).json({ error: "未找到有效的 Deck 資料" });
+    // 第二種情況：如果 input 是 deck_id，直接查詢 deck_list 表格
+    deckListData = await prisma.deck_list.findUnique({
+      where: { deck_id: input },  // 根據 deck_id 查詢
+      select: { deck_id: true, deck_name: true, deck: true },  // 選擇 deck_id、deck_name 和 deck 欄位
+    });
+
+    // 如果找到對應的 deck 資料
+    if (deckListData) {
+      // 提取 deck 裡面所有的 cover
+      const covers = deckListData.deck.map(card => card.cover).filter(cover => cover);
+
+      // 回傳 deck 資料、deck_name 和 cover 圖片
+      return res.json({ deck_id: deckListData.deck_id, deck_name: deckListData.deck_name, covers: covers });
+    } else {
+      return res.status(404).json({ error: "未找到對應的 Deck 資料" });
     }
 
-    // 確保 deckData.deck 是陣列並且包含 cover 資料
-    if (!Array.isArray(deckData.deck)) {
-      return res.status(400).json({ error: "'deck' 必須是一個陣列" });
-    }
-
-    // 從 deck 欄位中提取所有卡片的 cover
-    const covers = deckData.deck
-      .map(card => card.cover)
-      .filter(cover => cover);
-
-    // 返回所有 cover 圖片的 URL
-    res.json({ covers, deck_name: deckData.deck_name });
   } catch (error) {
     console.error("後端錯誤:", error);
     res.status(500).json({ error: "伺服器錯誤" });
@@ -67,4 +65,3 @@ router.get("/cardPDF", async (req, res) => {
 });
 
 module.exports = router;
-
