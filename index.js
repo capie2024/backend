@@ -20,6 +20,7 @@ const uploadPic = require('./src/routes/upload-picture');
 const updateName = require('./src/routes/update-name');
 const userDecks = require('./src/routes/userDecks');
 const userPosts = require('./src/routes/userPosts');
+const googleAuth = require('./src/routes/google-auth')
 const commentsRoute = require('./src/routes/comments-with-verifytoken');
 const article = require('./src/routes/article')
 const cardOrder = require('./src/routes/card-order');
@@ -27,6 +28,7 @@ const deckPage = require('./src/routes/deck-page');
 const randomCard = require('./src/routes/randomCard');
 const paypal = require('./src/routes/paypal');
 const notice = require('./src/routes/notice');
+const qa = require('./src/routes/qa');
 
 app.use(cors());
 
@@ -41,7 +43,7 @@ app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(updateName);
 app.use(userDecks);
 app.use(userPosts);
-app.use(require('./src/routes/google-auth'));
+app.use(googleAuth);
 app.use('/api', router);
 app.use('/api', deckMake);
 app.use('/api', cardSeries);
@@ -56,6 +58,7 @@ app.use('/api', cardOrder);
 app.use(randomCard);
 app.use('/api', paypal);
 app.use('/api', notice);
+app.use(qa);
 
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
