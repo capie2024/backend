@@ -35,7 +35,6 @@ router.get('/deck-page/:deck_id', async (req, res) => {
       res.status(404).json({ error: '找不到對應的資料' }); // 若沒有找到資料，返回 404
     }
   } catch (error) {
-    console.error('資料庫查詢失敗:', error);
     res.status(500).json({ error: '伺服器錯誤' });
   } finally {
     await prisma.$disconnect();

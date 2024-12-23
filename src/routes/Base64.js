@@ -15,7 +15,6 @@ router.get("/font", (req, res) => {
     // 直接返回純粹的 Base64 字符串
     res.type("text/plain").send(base64msyh);
   } catch (error) {
-    console.error("讀取字型資料失敗:", error.message);
     res.status(500).json({ error: "無法獲取字型資料" });
   }
 });

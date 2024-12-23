@@ -36,7 +36,6 @@ router.get("/cardPDF", async (req, res) => {
   // 返回所有 cover 圖片的 URL
     res.json({ covers ,deck_name: deckData.deck_name });
   } catch(error) {
-    console.error("後端錯誤:",error)
     res.status(500).json({ error: "伺服器錯誤" });
   }
 })

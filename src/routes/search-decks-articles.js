@@ -40,7 +40,6 @@ router.get('/search', async (req, res) => {
       return res.status(400).json({ error: "請提供 牌組ID 或 文章ID！" });
     }
   } catch (error) {
-    console.error('伺服器錯誤:', error);
     res.status(500).json({ error: "伺服器錯誤，請稍後再試！" });
   }
 });
