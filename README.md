@@ -83,7 +83,7 @@ PAYPAL_CLIENT_SECRET=
 - 旻睿 :https://github.com/minjuilu
 - 佳樺 :https://github.com/wuuhua
 - 宗倫 :https://github.com/allen84324
-- 代賢 :https://github.com/Wandaihsien
+- 代賢 :https://github.com/Wandaihsien 
 - 宜臻 :https://github.com/Enya-Wu
 - 景淵 :https://github.com/Kenny1238
 - 昱丞 :https://github.com/YuCheng07
