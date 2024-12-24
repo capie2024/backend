@@ -7,12 +7,12 @@ require('dotenv').config()
 
 const GOOGLE_CLIENT = process.env.GOOGLE_CLIENT
 const GOOGLE_CLIENT_SECRET = process.env.GOOGLE_CLIENT_SECRET
-
+const API_URL = process.env.API_URL
 passport.use(
     new GoogleStrategy({
         clientID: GOOGLE_CLIENT,
         clientSecret: GOOGLE_CLIENT_SECRET,
-        callbackURL: "http://localhost:3000/auth/google/callback"
+        callbackURL: `${API_URL}/auth/google/callback`
     },
     function(accessToken, refreshToken, profile, cb) {
         // User.findOrCreate({ googleId: profile.id }, function (err, user) {

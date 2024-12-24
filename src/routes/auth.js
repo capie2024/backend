@@ -2,7 +2,7 @@ const express = require('express')
 const router = express.Router()
 const { register, login, googleLogin } = require('../controllers/auth_controller')
 const passport = require('passport')
-
+const BASE_URL = process.env.BASE_URL
 // 註冊
 router.post('/register', async (req, res) => {
   try {
@@ -61,14 +61,14 @@ router.get(
 // Google 登入 callback
 router.get(
   '/google/callback',
-  passport.authenticate('google', { failureRedirect: 'http://localhost:5173/login', session: false }), // 登入失敗導向 /login
+  passport.authenticate('google', { failureRedirect: `${BASE_URL}/login`, session: false }), // 登入失敗導向 /login
   async (req, res) => {
     try {
       const result = await googleLogin(req.user)
       const token = result.token
 
       // 重定向到前端，並在 URL 中傳遞 token
-      res.redirect(`http://localhost:5173/auth-success?token=${token}`)
+      res.redirect(`${BASE_URL}/auth-success?token=${token}`)
     } catch (error) {
       res.status(400).json({
         success: false,
