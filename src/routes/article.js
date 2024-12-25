@@ -201,4 +201,32 @@ router.get('/articles/:post_code', async (req, res) => {
   }
 });
 
+router.delete('/articles/:post_code' , verifyToken, async(req,res) => {
+  const { userId } = req.user;
+  const { post_code } = req.params;
+
+  try {
+    if (!userId) {
+      return res.status(400).json({ error: '用戶信息無效' });
+    }
+    
+    const existingPost = await prisma.add_article.findUnique({
+      where : { post_code }
+    })
+
+    if (!existingPost) {
+      return res.status(404).json({ error: "文章找不到" });
+    }
+
+    const deletedPost = await prisma.add_article.delete({
+        where: { post_code },
+    })        
+    res.json({ success: true, message: "文章刪除成功", deletedPost });
+  } catch (error) {
+    console.error("刪除文章失敗", error.message);
+    res.status(500).json({ error: "無法刪除文章" });
+  }
+
+})
+
 module.exports = router
