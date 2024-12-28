@@ -53,37 +53,38 @@ const checkArticleId = async () => {
 
 
 router.post('/articles', verifyToken, multer, async (req, res) => {
-  try {
 
-    const articleId = await checkArticleId();
+  const articleId = await checkArticleId();
 
-    const { deck_id, title, content } = req.body;
-    const { userId } = req.user;
+  const { deck_id, title, content } = req.body;
+  const { userId } = req.user;
 
-    const deckId = deck_id ? parseInt(deck_id, 10) : null;
+  const deckId = deck_id ? parseInt(deck_id, 10) : null;
 
-    if (!userId) {
-      return res.status(400).json({ error: '用戶信息無效' });
-    }
+  if (!userId) {
+    return res.status(400).json({ error: '用戶信息無效' });
+  }
 
-    const user = await prisma.users.findUnique({
-      where: { id: userId },
-      select: { username: true, picture: true },
-    });
+  const user = await prisma.users.findUnique({
+    where: { id: userId },
+    select: { username: true, picture: true },
+  });
+
+  
+  if (!user) {
+    return res.status(404).json({ error: '找不到該用戶' });
+  }
 
     
-    if (!user) {
-      return res.status(404).json({ error: '找不到該用戶' });
-    }
+  let postPicture = null;
+  if (req.file) {
+    const cloudinaryResponse = await uploadFromBuffer(req);
+    postPicture = cloudinaryResponse.secure_url; 
+  } else if (req.body.post_picture) {
+    postPicture = req.body.post_picture;
+  }
 
-      
-    let postPicture = null;
-    if (req.file) {
-      const cloudinaryResponse = await uploadFromBuffer(req);
-      postPicture = cloudinaryResponse.secure_url; 
-    } else if (req.body.post_picture) {
-      postPicture = req.body.post_picture;
-    }
+  try {
 
     const article = await prisma.add_article.create({
       data: {
@@ -109,28 +110,28 @@ router.post('/articles', verifyToken, multer, async (req, res) => {
 });
 
 router.post('/decks', verifyToken, async (req, res) => {
+
+  const { title, content, deck_id, post_picture } = req.body;
+  const { userId } = req.user;
+  
+  if (!userId) {
+    return res.status(400).json({ error: '用戶信息無效' });
+  }
+
+
+  const user = await prisma.users.findUnique({
+    where: { id: userId },
+    select: { username: true, picture: true },
+  });
+
+  
+  if (!user) {
+    return res.status(404).json({ error: '找不到該用戶' });
+  }
+
+  const articleId = await checkArticleId();
+
   try {
-
-    const { title, content, deck_id, post_picture } = req.body;
-    const { userId } = req.user;
-   
-    if (!userId) {
-      return res.status(400).json({ error: '用戶信息無效' });
-    }
-
-
-    const user = await prisma.users.findUnique({
-      where: { id: userId },
-      select: { username: true, picture: true },
-    });
-
-    
-    if (!user) {
-      return res.status(404).json({ error: '找不到該用戶' });
-    }
-
-    const articleId = await checkArticleId();
-
     const article = await prisma.add_article.create({
       data: {
         user_id: userId,
@@ -156,10 +157,10 @@ router.post('/decks', verifyToken, async (req, res) => {
 
 
 router.get('/articles', async (req, res) => {
-  try {
+
     const articles = await prisma.add_article.findMany({
       include: {
-        users: { // 關聯查詢 users 表格
+        users: { 
           select: {
             username: true,
             picture: true
@@ -169,18 +170,16 @@ router.get('/articles', async (req, res) => {
     });
 
     res.status(200).json(articles);
-  } catch (error) {
-    res.status(500).json({ error: '無法獲取文章資料', message: error.message });
-  }
+
 });
 
 router.get('/articles/:post_code', async (req, res) => {
-  try {
-    const { post_code } = req.params;  
-
   
+  const { post_code } = req.params;  
+
+  try {
     const article = await prisma.add_article.findUnique({
-      where: { post_code: post_code },
+      where: { post_code },
       include: {
         users: { 
           select: {
@@ -202,31 +201,34 @@ router.get('/articles/:post_code', async (req, res) => {
 });
 
 router.delete('/articles/:post_code' , verifyToken, async(req,res) => {
-  const { userId } = req.user;
+
   const { post_code } = req.params;
 
-  try {
-    if (!userId) {
-      return res.status(400).json({ error: '用戶信息無效' });
-    }
-    
-    const existingPost = await prisma.add_article.findUnique({
-      where : { post_code }
-    })
-
-    if (!existingPost) {
-      return res.status(404).json({ error: "文章找不到" });
-    }
-
-    const deletedPost = await prisma.add_article.delete({
-        where: { post_code },
-    })        
-    res.json({ success: true, message: "文章刪除成功", deletedPost });
-  } catch (error) {
-    console.error("刪除文章失敗", error.message);
-    res.status(500).json({ error: "無法刪除文章" });
-  }
+  const deletedPost = await prisma.add_article.delete({
+      where: { post_code },
+  })        
+  res.json({ success: true, message: "文章刪除成功", deletedPost });
 
 })
+
+router.get('/my', verifyToken, async (req, res) => {
+  try {
+    const { userId } = req.user;
+    const articles = await prisma.add_article.findMany({
+      where: { user_id: userId },
+      include: {
+        users: { 
+          select: {
+            username: true,
+            picture: true
+          }
+        }
+      }
+    });
+    res.status(200).json(articles);
+  } catch (error) {
+    res.status(500).json({ message: '獲取文章失敗' });
+  }
+});
 
 module.exports = router
