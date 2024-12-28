@@ -4,7 +4,7 @@
 
 ## 取得專案
 
-git clone https://github.com/bottleneko2-0/server
+https://github.com/capie2024/backend
 
 ## 移動到專案內
 
@@ -80,7 +80,7 @@ PAYPAL_CLIENT_SECRET=
  可以透過以下方式與我們聯絡
  
 ### 團隊成員
-- 旻睿 :https://github.com/minjuilu
+- 旻叡 :https://github.com/minjuilu
 - 佳樺 :https://github.com/wuuhua
 - 宗倫 :https://github.com/allen84324
 - 代賢 :https://github.com/Wandaihsien 
