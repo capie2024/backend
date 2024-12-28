@@ -4,7 +4,7 @@
 
 ## 取得專案
 
-https://github.com/capie2024/backend
+git clone https://github.com/capie2024/backend
 
 ## 移動到專案內
 
