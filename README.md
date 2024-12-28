@@ -9,7 +9,7 @@ git clone https://github.com/capie2024/backend
 ## 移動到專案內
 
 ```以下將會引導你如何安裝此專案到你的電腦上。
-cd server
+cd backend
 ```
 
 ## 安裝套件
