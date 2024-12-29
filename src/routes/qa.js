@@ -1,11 +1,9 @@
 const express = require('express')
 const router = express.Router()
 
-router.get('/qa', async (req, res) => {
+router.get('/qa', async (_req, res) => {
     try {
-        await fetch('https://bottleneko.app/api/qa', {
-            method: 'GET'
-        })
+        await fetch('https://bottleneko.app/api/qa')
         .then(res => {
             return res.json()
         })
