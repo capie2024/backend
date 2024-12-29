@@ -14,7 +14,7 @@ const shuffleArray = (array) => {
 
 router.get('/cards/random', (_req, res) => {
     // 計算 API_ID 資料夾中有多少檔案
-    const fileCount = fs.readdirSync('./src/API_ID').length;
+    const fileCount = fs.readdirSync('./src/API_ID').length
 
     const apiIdDir = path.join(__dirname, '../API_ID')
     // 列出 API_ID 所有檔案名稱
