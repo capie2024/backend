@@ -2,14 +2,11 @@ const express = require('express');
 const router = express.Router();
 const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
-const jwt = require('jsonwebtoken');
 const verifyToken  = require('../middlewares/verifyToken');
 
-// 獲取當前用戶資料
 router.get('/currentUser', verifyToken, async (req, res) => {
-    try {
         const { userId } = req.user;
-        // 查詢用戶資料
+
         const user = await prisma.users.findUnique({
             where: { id: parseInt(userId)},
             select: {
@@ -17,55 +14,66 @@ router.get('/currentUser', verifyToken, async (req, res) => {
                 picture: true,
             }
         });
-
         if (!user) {
             return res.status(404).json({ error: 'User not found' });
         }
 
-        const defaultPicture = 'https://bottleneko.app/icon.png';
-        user.picture = user.picture || defaultPicture;
-
         res.status(200).json(user);
-    } catch (error) {
-        console.error('Error fetching current user:', error);
-        res.status(500).json({ error: 'Server error' });
-    }
 });
 
-// 根據post_code查詢article_id
 router.get('/article-id/:post_code', async (req, res) => {
     const { post_code } = req.params;
 
-    try {
-        // 根據 post_code 查詢對應的 article_id
-        const article = await prisma.add_article.findUnique({
-            where: { post_code: post_code },  // 根據 post_code 查詢
+    const article = await prisma.add_article.findUnique({
+        where: { post_code },
+        select: { 
+            id: true,
+            user_id: true,  
+            title: true,
+            content: true,
+            created_at: true,
+            post_picture: true,
+            user_id: true, 
+        },
+    });
+
+    if (article) {
+        const user = await prisma.users.findUnique({
+            where: { id: article.user_id },
+            select: { picture: true }, 
         });
 
-        if (article) {
-            res.json({ article_id: article.id });  // 返回對應的 article_id
+        if (user) {
+            res.json({ 
+                article_id: article.id, 
+                user_id: article.user_id,
+                title: article.title,
+                content: article.content,
+                created_at: article.created_at,
+                post_picture: article.post_picture,
+                user_picture: user.picture, 
+            });
         } else {
-            return res.status(404).json({ message: 'Article not found' });
+            return res.status(404).json({ message: 'User not found' });
         }
-    } catch (error) {
-        console.error('Error fetching article_id from post_code:', error);
-        return res.status(500).json({ error: error.message });
+    } else {
+        return res.status(404).json({ message: 'Article not found' });
     }
 });
 
 router.get('/comments', async (req, res) => {
-    const { articleId } = req.query;  // 使用 query 方式接收 articleId
+    const { articleId } = req.query;  
+    console.log(articleId);
 
     try {
-        // 驗證 articleId 是否存在
         if (!articleId) {
             return res.status(400).json({ error: "articleId parameter is required" });
         }
 
         const messages = await prisma.comment_test.findMany({
-            where: { article_id: parseInt(articleId, 10) },  // 使用 articleId 作為條件
-            orderBy: { created_at: 'desc' },  // 創建時間降序排列
-            include: { users: true },  // 假設 comments 表關聯 users 表，拉取用戶信息
+            where: { article_id: parseInt(articleId, 10) },  
+            orderBy: { created_at: 'desc' },  
+            include: { users: true },  
         });
 
         res.json(messages);
@@ -74,24 +82,24 @@ router.get('/comments', async (req, res) => {
         return res.status(500).json({ error: error.message });
     }
 });
-// 新增留言
+
 router.post('/send-message', verifyToken, async (req, res) => {
-    const { newMessage} = req.body;
-    const {userId} = req.user;
+    const { messageData } = req.body; // 改為 messageData
+    const { userId } = req.user;
 
     try {
         const comment = await prisma.comment_test.create({
-        data: {
-            user_id: parseInt(userId),
-            message: newMessage.message,
-            like_count: newMessage.like_count,
-            created_at: new Date().toISOString(),
-            article_id: newMessage.article_id,
-        },
-        include: {
-            users: { select: { username: true, picture: true } },
-            add_article: { select: { post_code: true } },
-        }
+            data: {
+                user_id: parseInt(userId),
+                message: messageData.message, // 使用 messageData
+                like_count: messageData.like_count, // 使用 messageData
+                created_at: new Date().toISOString(),
+                article_id: messageData.article_id, // 使用 messageData
+            },
+            include: {
+                users: { select: { username: true, picture: true } },
+                add_article: { select: { post_code: true } },
+            }
         });
         res.status(201).json(comment);
     } catch (error) {
@@ -100,11 +108,9 @@ router.post('/send-message', verifyToken, async (req, res) => {
     }
 });
 
-// 編輯留言
-router.put('/comments/:id', verifyToken, async (req, res) => {
+router.put('/comments/:id', async (req, res) => {
     const { id } = req.params;
     const { message } = req.body;
-    const userData = req.user;
     
     try {
         const updatedComment = await prisma.comment_test.update({
@@ -119,10 +125,8 @@ router.put('/comments/:id', verifyToken, async (req, res) => {
     }
 })
 
-// 刪除留言
-router.delete('/comments/:id', verifyToken, async (req, res) => {
+router.delete('/comments/:id', async (req, res) => {
     const { id } = req.params
-    const userData = req.user
 
     try {
         const existingComment = await prisma.comment_test.findUnique({
@@ -141,7 +145,6 @@ router.delete('/comments/:id', verifyToken, async (req, res) => {
     }
 });
 
-// 留言按讚
 router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => {
     try{
         const { commentId } = req.params;
@@ -156,45 +159,41 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
         });
 
         if (reaction) {
-            const isLiked = !reaction.liked; // 切換讚的狀態
-            const likeAdjustment = isLiked ? 1 : -1; // 根據新狀態調整 Like 數
+            const isLiked = !reaction.liked; 
+            const likeAdjustment = isLiked ? 1 : -1; 
             await prisma.comment_reactions.update({
                 where: { id: reaction.id },
                 data: {
                     liked: isLiked,
-                    disliked: false, // 按讚時必須清除 Hate 狀態
+                    disliked: false,
                 },
             });
 
-            // 更新讚數
             await prisma.comment_test.update({
                 where: { id: Number(commentId) },
                 data: { like_count: { increment: likeAdjustment } },
             });
 
-            // 查詢最新數據
             const updatedComment = await prisma.comment_test.findUnique({
                 where: { id: Number(commentId) },
             });
 
             return res.status(200).json({
                 isLiked,
-                isHated: false, // 按讚後必須清除 Hate 狀態
+                isHated: false, 
                 likeCount: updatedComment.like_count,
             });
         } else {
-            // 尚無 reaction，新增一條記錄
             await prisma.comment_reactions.create({
                 data: {
                     comment_id: Number(commentId),
                     user_id: Number(userId),
                     liked: true,
-                    disliked: false, // 初始狀態為讚，無 Hate
+                    disliked: false, 
                     created_at: new Date(),
                 },
             });
 
-            // 更新讚數
             await prisma.comment_test.update({
                 where: { id: Number(commentId) },
                 data: { like_count: { increment: 1 } },
@@ -284,7 +283,6 @@ router.get('/comments', async (req, res) => {
             add_article: { select: { post_code: true } },
         },
     });
-    console.log('Comments:', comments);
     res.json(comments);
     } catch (error) {
         console.error('Error:', error);
