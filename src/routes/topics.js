@@ -5,9 +5,7 @@ const fetch = require('node-fetch') // 確保已安裝 node-fetch
 // 定義路由來獲取產品資料
 router.get('/topics', async (req, res) => {
 	try {
-		const response = await fetch('https://bottleneko.app/api/topics', {
-			method: 'GET',
-		})
+		const response = await fetch('https://bottleneko.app/api/topics')
 
 		if (!response.ok) {
 			throw new Error(`外部 API 回應失敗，狀態碼：${response.status}`)
