@@ -165,7 +165,13 @@ router.get('/articles', async (req, res) => {
             username: true,
             picture: true
           }
+        },
+        deck_list: {
+          select: {
+            deck: true,
+          }
         }
+        
       }
     });
 
