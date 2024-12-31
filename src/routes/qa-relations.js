@@ -31,10 +31,11 @@ router.get('/cards', (req, res) => {
 		}
 
 		res.json({
-			id: foundCard.id,
-			title: foundCard.title,
-			cover: foundCard.cover,
-			i18n: foundCard.i18n,
+			// id: foundCard.id,
+			// title: foundCard.title,
+			// cover: foundCard.cover,
+			// i18n: foundCard.i18n,
+			data: foundCard,
 		})
 	} catch (err) {
 		console.error('處理請求時發生錯誤:', err)
