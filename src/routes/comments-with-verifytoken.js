@@ -62,8 +62,8 @@ router.get('/article-id/:post_code', async (req, res) => {
 });
 
 router.get('/comments', async (req, res) => {
-    const { articleId } = req.query;  
-    console.log(articleId);
+    const { articleId } = req.query;
+    const userId = req.user?.userId; // 可選鏈接，未登入時 userId 為 undefined
 
     try {
         if (!articleId) {
@@ -71,12 +71,36 @@ router.get('/comments', async (req, res) => {
         }
 
         const messages = await prisma.comment_test.findMany({
-            where: { article_id: parseInt(articleId, 10) },  
-            orderBy: { created_at: 'desc' },  
-            include: { users: true },  
+            where: { article_id: parseInt(articleId, 10) },
+            orderBy: { created_at: 'desc' },
+            include: {
+                users: true, // 用於返回留言者的資料
+                comment_reactions: userId
+                    ? { // 如果用戶登入，聯結該用戶的 reactions
+                        where: { user_id: userId },
+                        select: {
+                            liked: true,
+                            disliked: true,
+                        },
+                    }
+                    : false, // 未登入時不聯結
+            },
         });
 
-        res.json(messages);
+        // 格式化返回數據
+        const formattedMessages = messages.map(message => ({
+            id: message.id,
+            user_id: message.user_id,
+            article_id: message.article_id,
+            message: message.message,
+            like_count: message.like_count, // 始終返回 like_count
+            created_at: message.created_at,
+            users: message.users,
+            isLiked: userId ? message.comment_reactions[0]?.liked || false : null, // 登入才返回狀態
+            isHated: userId ? message.comment_reactions[0]?.disliked || false : null, // 登入才返回狀態
+        }));
+
+        res.json(formattedMessages);
     } catch (error) {
         console.error("Error fetching comments:", error);
         return res.status(500).json({ error: error.message });
@@ -84,17 +108,18 @@ router.get('/comments', async (req, res) => {
 });
 
 router.post('/send-message', verifyToken, async (req, res) => {
-    const { messageData } = req.body; // 改為 messageData
+    const { messageData } = req.body; 
     const { userId } = req.user;
 
     try {
         const comment = await prisma.comment_test.create({
             data: {
+                comment_id: messageData.id,
                 user_id: parseInt(userId),
-                message: messageData.message, // 使用 messageData
-                like_count: messageData.like_count, // 使用 messageData
+                message: messageData.message, 
+                like_count: messageData.like_count, 
                 created_at: new Date().toISOString(),
-                article_id: messageData.article_id, // 使用 messageData
+                article_id: messageData.article_id, 
             },
             include: {
                 users: { select: { username: true, picture: true } },
@@ -150,7 +175,6 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
         const { commentId } = req.params;
         const { userId } = req.user;
 
-        // 查詢是否已有 reaction
         let reaction = await prisma.comment_reactions.findFirst({
             where: {
                 comment_id: Number(commentId),
@@ -205,7 +229,7 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
 
             return res.status(200).json({
                 isLiked: true,
-                isHated: false, // 新增時，Hate 狀態為 false
+                isHated: false, 
                 likeCount: updatedComment.like_count,
             });
         }
@@ -215,13 +239,11 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
     }
 });
 
-// 留言按倒讚
 router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
     try{
         const { commentId } = req.params;
         const { userId } = req.user;
     
-        // 查詢是否已有 reaction
         let reaction = await prisma.comment_reactions.findFirst({
             where: {
                 comment_id: Number(commentId),
@@ -236,24 +258,27 @@ router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
                 where: { id: reaction.id },
                 data: {
                     disliked: isHated,
-                    liked: false, // 清除 Like 狀態
+                    liked: false, 
                 },
             });
     
             if (reaction.liked) {
-                // 如果之前有按讚，取消讚數
                 await prisma.comment_test.update({
                     where: { id: Number(commentId) },
                     data: { like_count: { decrement: 1 } },
                 });
             }
     
+            const updatedComment = await prisma.comment_test.findUnique({
+                where: { id: Number(commentId) },
+            });
+
             return res.status(200).json({
                 isHated,
-                isLiked: false, // Hate 時必須強制取消 Like
-            });
+                isLiked: reaction.liked, 
+                likeCount: updatedComment.like_count, 
+            });        
         } else {
-            // 尚無 reaction，新增一條記錄
             await prisma.comment_reactions.create({
                 data: {
                     comment_id: Number(commentId),
@@ -270,6 +295,36 @@ router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
         }
     } catch (error) {
         console.error("Error toggling hate:", error);
+        return res.status(500).json({ message: "伺服器錯誤" });
+    }
+});
+
+router.get("/comments/:commentId/reactions", verifyToken, async (req, res) => {
+    try {
+        const { commentId } = req.params;
+        const { userId } = req.user; 
+
+        const reaction = await prisma.comment_reactions.findFirst({
+            where: {
+                comment_id: Number(commentId),
+                user_id: Number(userId),
+            },
+        });
+
+        const comment = await prisma.comment_test.findUnique({
+            where: { id: Number(commentId) },
+        });
+
+        const responseData = {
+            commentId: commentId,
+            isLiked: reaction ? reaction.liked : false,
+            isHated: reaction ? reaction.disliked : false,
+            likeCount: comment ? comment.like_count : 0,
+        };
+
+        return res.status(200).json(responseData);
+    } catch (error) {
+        console.error('Error fetching comment reactions:', error);
         return res.status(500).json({ message: "伺服器錯誤" });
     }
 });
