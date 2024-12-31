@@ -7,7 +7,6 @@ const path = require('path')
 const dotenv = require('dotenv')
 dotenv.config()
 
-const login = require('./src/routes/login')
 const authRouter = require('./src/routes/auth')
 const deckMake = require('./src/routes/deck-make')
 const cardSeries = require('./src/routes/card-series')
@@ -35,7 +34,6 @@ app.use(cors())
 
 // middleware
 app.use(express.json())
-app.use('/api', login)
 app.use('/auth', authRouter)
 app.use(require('./src/routes/google-auth'))
 app.use(userRouter)
