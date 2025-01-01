@@ -69,21 +69,21 @@ router.get('/comments', async (req, res) => {
             return res.status(400).json({ error: "articleId parameter is required" });
         }
 
-        const messages = await prisma.comment_test.findMany({
+        const messages = await prisma.comment.findMany({
             where: { article_id: parseInt(articleId, 10) },
             orderBy: { created_at: 'desc' },
             include: {
                 users: true,
-                comment_reactions: true,
+                reaction: true,
             },
         });
 
         const formattedMessages = messages.map(message => {
-            const latestReaction = message.comment_reactions.sort((a, b) => {
+            const latestReaction = message.reaction.sort((a, b) => {
                 return new Date(b.created_at) - new Date(a.created_at); 
             })[0]; 
 
-            console.log("Message Comment Reactions:", message.comment_reactions);
+            console.log("Message Comment Reactions:", message.reaction);
             console.log("Latest Reaction:", latestReaction);
 
             return {
@@ -113,7 +113,7 @@ router.post('/send-message', verifyToken, async (req, res) => {
     const { userId } = req.user;
 
     try {
-        const comment = await prisma.comment_test.create({
+        const comment = await prisma.comment.create({
             data: {
                 comment_id: messageData.id,
                 user_id: parseInt(userId),
@@ -139,7 +139,7 @@ router.put('/comments/:id', async (req, res) => {
     const { message } = req.body;
     
     try {
-        const updatedComment = await prisma.comment_test.update({
+        const updatedComment = await prisma.comment.update({
         where: { id: parseInt(id) },
         data: { 
             message,
@@ -155,16 +155,22 @@ router.delete('/comments/:id', async (req, res) => {
     const { id } = req.params
 
     try {
-        const existingComment = await prisma.comment_test.findUnique({
+        const existingComment = await prisma.comment.findUnique({
             where: { id: parseInt(id) },
         })        
         if (!existingComment) {
             return res.status(404).json({ error: "Comment not found." });
         }
-        const deletedComment = await prisma.comment_test.delete({
+        const deletedComment = await prisma.comment.delete({
             where: { id: parseInt(id) },
-        })        
-        res.json({ success: true, message: "Comment deleted successfully.", deletedComment });
+        })
+        
+        await prisma.notice.deleteMany({
+            where: { comment_id: parseInt(id) }, 
+        });
+
+        res.json({ success: true, message: "Comment and related notices deleted successfully.", deletedComment });
+
     } catch (error) {
         console.error("刪除失敗", error.message);
         res.status(500).json({ error: "Failed to delete the comment." });
@@ -176,8 +182,7 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
     const { userId } = req.user;
 
     try {
-        // 檢查是否存在 reaction
-        let reaction = await prisma.comment_reactions.findFirst({
+        let reaction = await prisma.reaction.findFirst({
             where: {
                 comment_id: Number(commentId),
                 user_id: Number(userId),
@@ -191,11 +196,11 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
             isLiked = !reaction.liked;
             likeAdjustment = isLiked ? 1 : -1;
 
-            await prisma.comment_reactions.update({
+            await prisma.reaction.update({
                 where: { id: reaction.id },
                 data: {
                     liked: isLiked,
-                    disliked: false, // 確保取消 hate
+                    disliked: false, 
                 },
             });
         } else {
@@ -203,7 +208,7 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
             isLiked = true;
             likeAdjustment = 1;
 
-            await prisma.comment_reactions.create({
+            await prisma.reaction.create({
                 data: {
                     comment_id: Number(commentId),
                     user_id: Number(userId),
@@ -214,8 +219,7 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
             });
         }
 
-        // 更新 like_count
-        const updatedComment = await prisma.comment_test.update({
+        const updatedComment = await prisma.comment.update({
             where: { id: Number(commentId) },
             data: { like_count: { increment: likeAdjustment } },
         });
@@ -237,7 +241,7 @@ router.post("/comments/:commentId/toggleHate", verifyToken, async (req, res) => 
 
     try {
         // 檢查是否存在 reaction
-        let reaction = await prisma.comment_reactions.findFirst({
+        let reaction = await prisma.reaction.findFirst({
             where: {
                 comment_id: Number(commentId),
                 user_id: Number(userId),
@@ -254,7 +258,7 @@ router.post("/comments/:commentId/toggleHate", verifyToken, async (req, res) => 
                 likeAdjustment = -1; // 如果取消 like
             }
 
-            await prisma.comment_reactions.update({
+            await prisma.reaction.update({
                 where: { id: reaction.id },
                 data: {
                     disliked: isHated,
@@ -265,7 +269,7 @@ router.post("/comments/:commentId/toggleHate", verifyToken, async (req, res) => 
             // 創建新的 reaction
             isHated = true;
 
-            await prisma.comment_reactions.create({
+            await prisma.reaction.create({
                 data: {
                     comment_id: Number(commentId),
                     user_id: Number(userId),
@@ -277,7 +281,7 @@ router.post("/comments/:commentId/toggleHate", verifyToken, async (req, res) => 
         }
 
         // 更新 like_count
-        const updatedComment = await prisma.comment_test.update({
+        const updatedComment = await prisma.comment.update({
             where: { id: Number(commentId) },
             data: { like_count: { increment: likeAdjustment } },
         });
