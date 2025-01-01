@@ -63,7 +63,6 @@ router.get('/article-id/:post_code', async (req, res) => {
 
 router.get('/comments', async (req, res) => {
     const { articleId } = req.query;
-    const userId = req.user?.userId; // 可選鏈接，未登入時 userId 為 undefined
 
     try {
         if (!articleId) {
@@ -74,33 +73,35 @@ router.get('/comments', async (req, res) => {
             where: { article_id: parseInt(articleId, 10) },
             orderBy: { created_at: 'desc' },
             include: {
-                users: true, // 用於返回留言者的資料
-                comment_reactions: userId
-                    ? { // 如果用戶登入，聯結該用戶的 reactions
-                        where: { user_id: userId },
-                        select: {
-                            liked: true,
-                            disliked: true,
-                        },
-                    }
-                    : false, // 未登入時不聯結
+                users: true,
+                comment_reactions: true,
             },
         });
 
-        // 格式化返回數據
-        const formattedMessages = messages.map(message => ({
-            id: message.id,
-            user_id: message.user_id,
-            article_id: message.article_id,
-            message: message.message,
-            like_count: message.like_count, // 始終返回 like_count
-            created_at: message.created_at,
-            users: message.users,
-            isLiked: userId ? message.comment_reactions[0]?.liked || false : null, // 登入才返回狀態
-            isHated: userId ? message.comment_reactions[0]?.disliked || false : null, // 登入才返回狀態
-        }));
+        const formattedMessages = messages.map(message => {
+            const latestReaction = message.comment_reactions.sort((a, b) => {
+                return new Date(b.created_at) - new Date(a.created_at); 
+            })[0]; 
 
+            console.log("Message Comment Reactions:", message.comment_reactions);
+            console.log("Latest Reaction:", latestReaction);
+
+            return {
+                id: message.id,
+                user_id: message.user_id,
+                article_id: message.article_id,
+                message: message.message,
+                like_count: message.like_count,
+                created_at: message.created_at,
+                users: message.users,
+                isLiked: latestReaction ? latestReaction.liked : false, 
+                isHated: latestReaction ? latestReaction.disliked : false, 
+            };
+        });
+
+        console.log("Formatted Messages:", formattedMessages);
         res.json(formattedMessages);
+
     } catch (error) {
         console.error("Error fetching comments:", error);
         return res.status(500).json({ error: error.message });
@@ -171,10 +172,11 @@ router.delete('/comments/:id', async (req, res) => {
 });
 
 router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => {
-    try{
-        const { commentId } = req.params;
-        const { userId } = req.user;
+    const { commentId } = req.params;
+    const { userId } = req.user;
 
+    try {
+        // 檢查是否存在 reaction
         let reaction = await prisma.comment_reactions.findFirst({
             where: {
                 comment_id: Number(commentId),
@@ -182,103 +184,87 @@ router.post("/comments/:commentId/toggleLike", verifyToken, async (req, res) => 
             },
         });
 
+        let isLiked, likeAdjustment;
+
         if (reaction) {
-            const isLiked = !reaction.liked; 
-            const likeAdjustment = isLiked ? 1 : -1; 
+            // 更新已存在的 reaction
+            isLiked = !reaction.liked;
+            likeAdjustment = isLiked ? 1 : -1;
+
             await prisma.comment_reactions.update({
                 where: { id: reaction.id },
                 data: {
                     liked: isLiked,
-                    disliked: false,
+                    disliked: false, // 確保取消 hate
                 },
             });
-
-            await prisma.comment_test.update({
-                where: { id: Number(commentId) },
-                data: { like_count: { increment: likeAdjustment } },
-            });
-
-            const updatedComment = await prisma.comment_test.findUnique({
-                where: { id: Number(commentId) },
-            });
-
-            return res.status(200).json({
-                isLiked,
-                isHated: false, 
-                likeCount: updatedComment.like_count,
-            });
         } else {
+            // 創建新的 reaction
+            isLiked = true;
+            likeAdjustment = 1;
+
             await prisma.comment_reactions.create({
                 data: {
                     comment_id: Number(commentId),
                     user_id: Number(userId),
                     liked: true,
-                    disliked: false, 
+                    disliked: false,
                     created_at: new Date(),
                 },
             });
-
-            await prisma.comment_test.update({
-                where: { id: Number(commentId) },
-                data: { like_count: { increment: 1 } },
-            });
-
-            const updatedComment = await prisma.comment_test.findUnique({
-                where: { id: Number(commentId) },
-            });
-
-            return res.status(200).json({
-                isLiked: true,
-                isHated: false, 
-                likeCount: updatedComment.like_count,
-            });
         }
+
+        // 更新 like_count
+        const updatedComment = await prisma.comment_test.update({
+            where: { id: Number(commentId) },
+            data: { like_count: { increment: likeAdjustment } },
+        });
+
+        return res.status(200).json({
+            isLiked,
+            isHated: false,
+            likeCount: updatedComment.like_count,
+        });
     } catch (error) {
-        console.error("Error toggling like:", error);
+        console.error("切換 Like 時發生錯誤:", error);
         return res.status(500).json({ message: "伺服器錯誤" });
     }
 });
 
-router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
-    try{
-        const { commentId } = req.params;
-        const { userId } = req.user;
-    
+router.post("/comments/:commentId/toggleHate", verifyToken, async (req, res) => {
+    const { commentId } = req.params;
+    const { userId } = req.user;
+
+    try {
+        // 檢查是否存在 reaction
         let reaction = await prisma.comment_reactions.findFirst({
             where: {
                 comment_id: Number(commentId),
                 user_id: Number(userId),
             },
         });
-    
+
+        let isHated, likeAdjustment = 0;
+
         if (reaction) {
-            const isHated = !reaction.disliked;
-    
+            // 更新已存在的 reaction
+            isHated = !reaction.disliked;
+
+            if (reaction.liked && isHated) {
+                likeAdjustment = -1; // 如果取消 like
+            }
+
             await prisma.comment_reactions.update({
                 where: { id: reaction.id },
                 data: {
                     disliked: isHated,
-                    liked: false, 
+                    liked: reaction.liked && !isHated ? reaction.liked : false, // 如果 hate，取消 like
                 },
             });
-    
-            if (reaction.liked) {
-                await prisma.comment_test.update({
-                    where: { id: Number(commentId) },
-                    data: { like_count: { decrement: 1 } },
-                });
-            }
-    
-            const updatedComment = await prisma.comment_test.findUnique({
-                where: { id: Number(commentId) },
-            });
-
-            return res.status(200).json({
-                isHated,
-                isLiked: reaction.liked, 
-                likeCount: updatedComment.like_count, 
-            });        
         } else {
+            // 創建新的 reaction
+            isHated = true;
+
             await prisma.comment_reactions.create({
                 data: {
                     comment_id: Number(commentId),
@@ -288,61 +274,23 @@ router.post("/comments/:commentId/toggleHate", verifyToken,async (req, res) => {
                     created_at: new Date(),
                 },
             });
-    
-            return res.status(200).json({
-                isHated: true,
-            });
         }
-    } catch (error) {
-        console.error("Error toggling hate:", error);
-        return res.status(500).json({ message: "伺服器錯誤" });
-    }
-});
 
-router.get("/comments/:commentId/reactions", verifyToken, async (req, res) => {
-    try {
-        const { commentId } = req.params;
-        const { userId } = req.user; 
-
-        const reaction = await prisma.comment_reactions.findFirst({
-            where: {
-                comment_id: Number(commentId),
-                user_id: Number(userId),
-            },
-        });
-
-        const comment = await prisma.comment_test.findUnique({
+        // 更新 like_count
+        const updatedComment = await prisma.comment_test.update({
             where: { id: Number(commentId) },
+            data: { like_count: { increment: likeAdjustment } },
         });
 
-        const responseData = {
-            commentId: commentId,
-            isLiked: reaction ? reaction.liked : false,
-            isHated: reaction ? reaction.disliked : false,
-            likeCount: comment ? comment.like_count : 0,
-        };
-
-        return res.status(200).json(responseData);
+        return res.status(200).json({
+            isLiked: likeAdjustment === -1 ? false : reaction?.liked || false,
+            isHated,
+            likeCount: updatedComment.like_count,
+        });
     } catch (error) {
-        console.error('Error fetching comment reactions:', error);
+        console.error("切換 Hate 時發生錯誤:", error);
         return res.status(500).json({ message: "伺服器錯誤" });
     }
 });
-        
-//查詢所有留言
-router.get('/comments', async (req, res) => {
-    try {
-        const comments = await prisma.comment_test.findMany({
-        include: {
-            users: { select: { username: true, picture: true } },
-            add_article: { select: { post_code: true } },
-        },
-    });
-    res.json(comments);
-    } catch (error) {
-        console.error('Error:', error);
-        res.status(500).json({ error: error.message });
-    }
-});
-
+            
 module.exports = router;
