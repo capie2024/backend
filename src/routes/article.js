@@ -171,13 +171,12 @@ router.get('/articles/:post_code', async (req, res) => {
 		const article = await prisma.article.findUnique({
 			where: { post_code },
 			include: {
-				users: {
-					select: {
-						username: true,
-						picture: true,
-					},
-				},
-			},
+        deck_list: { 
+          select: {
+            deck_name: true
+          }
+        }
+      },
 		})
 
 		if (!article) {
@@ -197,6 +196,25 @@ router.delete('/articles/:post_code', verifyToken, async (req, res) => {
 		where: { post_code },
 	})
 	res.json({ success: true, message: '文章刪除成功', deletedPost })
+})
+
+router.put('/articles/:post_code', verifyToken, async (req, res) => {
+  const { post_code } = req.params;
+  const { title, content } = req.body;
+  
+  try {
+    const updatedPost = await prisma.article.update({
+      where: { post_code },
+      data: {
+        title: title ,
+        content: content ,
+      },
+    
+    });
+    res.json(updatedPost);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
 })
 
 router.get('/my', verifyToken, async (req, res) => {
