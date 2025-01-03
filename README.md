@@ -4,7 +4,10 @@
 
 ## 取得專案
 
+```
 git clone https://github.com/capie2024/backend
+```
+
 
 ## 移動到專案內
 
@@ -25,7 +28,7 @@ npm run dev
 ```
 ### 環境變數設定
 
-請在終端機輸入 `cp .env.example`來複製 .env.example 檔案，並依據 `.env` 內容調整相關欄位。
+請複製 `.env.example`的內容到`.env`檔案，並依據 `.env` 內容調整相關欄位。
 
 ### 開啟專案
 
@@ -59,22 +62,11 @@ PAYPAL_CLIENT_SECRET=
 ## 專案技術
 
 - prisma/client 5.22.0
-- bcrypt 5.1.1
-- cloudinary 2.5.1
-- cors 2.8.5
-- dotenv 16.4.5
 - express 4.21.1
-- google-auth-library 9.15.0
-- jsonwebtoken 9.0.2
-- multer 1.4.5-lts.1
 - mysql 2.18.1
 - nodemon 3.1.7
-- passport 0.7.0
-- passport-google-oauth20 2.0.0
 - prisma 5.22.0
-- streamifier 0.1.1
-- uuid 11.0.3
-- zod 3.23.8
+
 
 ## 聯絡作者
  可以透過以下方式與我們聯絡
