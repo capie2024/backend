@@ -33,14 +33,16 @@ router.get('/article-id/:post_code', async (req, res) => {
 			content: true,
 			created_at: true,
 			post_picture: true,
-			user_id: true,
 		},
 	})
 
 	if (article) {
 		const user = await prisma.users.findUnique({
 			where: { id: article.user_id },
-			select: { picture: true },
+			select: {
+				username: true,
+				picture: true
+			} 
 		})
 
 		if (user) {
@@ -52,6 +54,7 @@ router.get('/article-id/:post_code', async (req, res) => {
 				created_at: article.created_at,
 				post_picture: article.post_picture,
 				user_picture: user.picture,
+				user_name: user.username,
 			})
 		} else {
 			return res.status(404).json({ message: 'User not found' })
